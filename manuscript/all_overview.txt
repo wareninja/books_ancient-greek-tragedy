@@ -1,29 +1,28 @@
   
 {frontmatter}
   
+I> **Ancient Greek Tragedy**  
+I>   
 I>   
 I> **AESCHYLUS**  
 I> *Oresteia (Agamemnon, Choephoroi, Eumenides), Prometheus Bound, Seven Against Thebes, Suppliant Women, Persians*  
-I> *Based on the publicly available translations by [Ian Johnston](http://records.viu.ca/~Johnstoi/) and [George Theodoridis](https://bacchicstage.wordpress.com/aeschylus-2/)*  
-
 I>   
 I> **SOPHOCLES**  
 I> *Oedipus the King, Oedipus at Colonus, Antigone, Ajax, Philoctetes, Trachiniae*  
 I>   
-I> *Based on the [publicly available](http://records.viu.ca/~Johnstoi/) translation by Ian Johnston (Vancouver Island University)*  
-
-I>   
 I> **EURIPIDES**  
 I> *19 Plays! Bacchae, Electra, Medea, Orestes, Herakles, Iphigenia,...*  
-I> *Based on the publicly available translations by [Ian Johnston](http://records.viu.ca/~Johnstoi/) and [George Theodoridis](https://bacchicstage.wordpress.com/euripides/)*  
-
+I>   
+I>   
+I> *Based on the publicly available translations by [Ian Johnston](http://records.viu.ca/~Johnstoi/) and [George Theodoridis](https://bacchicstage.wordpress.com)*  
+I>   
 I>    
 I> This ebook edition has been produced by voluntary contributions.  
 I> *Crafting for Sharing [@inSapientia](http://diz.link/sapientia-at-twitter)*  
 I>    
  
  
-# About AESCHYLUS, SOPHOCLES, EURIPIDES  
+# About  
   
 ## AESCHYLUS  
 Aeschylus (/ˈiːskɨləs/ or /ˈɛskɨləs/; Greek: Αἰσχύλος Aiskhulos; Ancient Greek: [ai̯s.kʰý.los]; c. 525/524 – c. 456/455 BC) was an ancient Greek tragedian. He is also the first whose plays still survive; the others are Sophocles and Euripides. He is often described as the father of tragedy: critics and scholars' knowledge of the genre begins with his work, and understanding of earlier tragedies is largely based on inferences from his surviving plays. According toAristotle, he expanded the number of characters in plays to allow conflict among them whereas characters previously had interacted only with the chorus.  
