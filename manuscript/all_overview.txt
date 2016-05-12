@@ -1,0 +1,115 @@
+  
+{frontmatter}
+  
+I>   
+I> **AESCHYLUS**  
+I> *Oresteia (Agamemnon, Choephoroi, Eumenides), Prometheus Bound, Seven Against Thebes, Suppliant Women, Persians*  
+I> *Based on the publicly available translations by [Ian Johnston](http://records.viu.ca/~Johnstoi/) and [George Theodoridis](https://bacchicstage.wordpress.com/aeschylus-2/)*  
+
+I>   
+I> **SOPHOCLES**  
+I> *Oedipus the King, Oedipus at Colonus, Antigone, Ajax, Philoctetes, Trachiniae*  
+I>   
+I> *Based on the [publicly available](http://records.viu.ca/~Johnstoi/) translation by Ian Johnston (Vancouver Island University)*  
+
+I>   
+I> **EURIPIDES**  
+I> *19 Plays! Bacchae, Electra, Medea, Orestes, Herakles, Iphigenia,...*  
+I> *Based on the publicly available translations by [Ian Johnston](http://records.viu.ca/~Johnstoi/) and [George Theodoridis](https://bacchicstage.wordpress.com/euripides/)*  
+
+I>    
+I> This ebook edition has been produced by voluntary contributions.  
+I> *Crafting for Sharing [@inSapientia](http://diz.link/sapientia-at-twitter)*  
+I>    
+ 
+ 
+# About AESCHYLUS  
+  
+Aeschylus (/ˈiːskɨləs/ or /ˈɛskɨləs/; Greek: Αἰσχύλος Aiskhulos; Ancient Greek: [ai̯s.kʰý.los]; c. 525/524 – c. 456/455 BC) was an ancient Greek tragedian. He is also the first whose plays still survive; the others are Sophocles and Euripides. He is often described as the father of tragedy: critics and scholars' knowledge of the genre begins with his work, and understanding of earlier tragedies is largely based on inferences from his surviving plays. According toAristotle, he expanded the number of characters in plays to allow conflict among them whereas characters previously had interacted only with the chorus.  
+  
+*...more at [wikipedia](https://en.wikipedia.org/wiki/Aeschylus)*  
+  
+  
+
+
+# Aeschylus - Overview  
+  
+ [The Legend of the Trojan War](#aeschylus_intro-trojan-war)  
+  
+ [Introductory Lecture on the Oresteia, Agamemnon](#aeschylus_intro-agamemnon)  
+  
+ [A Note on the Mythological Background to 'the House of Atreus'](#aeschylus_intro-house-of-atreus)  
+  
+ [Oresteia - Agamemnon](#aeschylus_book-1-1)  
+  
+ [Oresteia - Choephoroi](#aeschylus_book-1-2)  
+  
+ [Oresteia - Eumenides](#aeschylus_book-1-3)  
+  
+ [Prometheus Bound](#aeschylus_book-2)  
+  
+[Seven Against Thebes](#aeschylus_book-3)  
+  
+[Suppliant Women](#aeschylus_book-4)  
+  
+[The Persians](#aeschylus_book-5)  
+  
+
+# About SOPHOCLES  
+  
+Sophocles (/ˈsɒfəkliːz/;[1] Greek:Σοφοκλῆς, Sophoklēs, Ancient Greek: [so.pʰo.klɛ̂ːs]; c. 497/6 – winter 406/5 BC) is one of three ancient Greek tragedians whose plays have survived. His first plays were written later than those ofAeschylus, and earlier than or contemporary with those of Euripides. According to the Suda, a 10th-century encyclopedia, Sophocles wrote 123 plays during the course of his life, but only seven have survived in a complete form: Ajax, Antigone, The Women of Trachis, Oedipus the King, Electra, Philoctetes and Oedipus at Colonus.  
+  
+*...more at [wikipedia](https://en.wikipedia.org/wiki/Sophocles)*  
+  
+  
+
+# Sophocles - Overview  
+  
+ [Lecture on OEDIPUS](#sophocles_lecture-oedipus)  
+*Lecture prepared by Ian Johnston*  
+  
+  
+ [Oedipus the King](#sophocles_book-1)  
+*Oedipus the King*  
+  
+  
+ [Oedipus at Colonus](#sophocles_book-2)  
+*Oedipus at Colonus*  
+  
+  
+ [Antigone](#sophocles_book-3)  
+*Antigone*  
+  
+  
+ [Ajax](#sophocles_book-4)  
+*Ajax*  
+  
+  
+ [Philoctetes](#sophocles_book-5)  
+*Philoctetes*  
+  
+  
+ [Women of Trachis](#sophocles_book-6)  
+*Trachiniae*  
+  
+
+# About EURIPIDES  
+  
+**Euripides** (/jʊəˈrɪpɨdiːz/ or /jɔːˈrɪpɨdiːz/; Greek: Εὐριπίδης;Ancient Greek: [eu̯.riː.pí.dɛːs]) (c. 480 – 406 BC) was a tragedian of classical Athens. He is one of the three whose plays have survived, with the other two being Aeschylus and Sophocles.   
+
+Euripides is identified with theatrical innovations that have profoundly influenced drama down to modern times, especially in the representation of traditional, mythical heroes as ordinary people in extraordinary circumstances. This new approach led him to pioneer developments that later writers adapted to comedy, some of which are characteristic of romance. Yet he also became "the most tragic of poets", focusing on the inner lives and motives of his characters in a way previously unknown.  
+  
+He was also unique among the writers of ancient Athens for the sympathy he demonstrated towards all victims of society, including women. His conservative male audiences were frequently shocked by the 'heresies' he put into the mouths of characters, such as these words of his heroine Medea:  
+
+> Sooner would I stand  
+> Three times to face their battles, shield in hand,  
+> Than bear one child!  
+
+His contemporaries associated him with Socrates as a leader of a decadent intellectualism, both of them being frequently lampooned by comic poets such as Aristophanes. Whereas Socrates was eventually put on trial and executed as a corrupting influence, Euripides chose a voluntary exile in old age, dying in Macedonia.  
+  
+*...more at [wikipedia](https://en.wikipedia.org/wiki/Euripides)*  
+  
+
+  
+{mainmatter}
+

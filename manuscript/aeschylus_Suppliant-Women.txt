@@ -1,0 +1,1732 @@
+# Suppliant Women {#aeschylus_book-4}  
+  
+  
+C> *This edition is based on the [publicly available](http://records.viu.ca/~johnstoi/aeschylus/suppliantwomen.htm) translation by Ian Johnston*  
+  
+  
+TRANSLATOR’S NOTE
+
+This translation is based, for the most part, on the Greek text of Herbert Weir Smith (1922, reprint 1930). The line numbers in square brackets below refer to that text; the line numbers without brackets refer to the English translation. Indented partial lines are included with the line above in the reckoning. All endnotes, indicated by an asterisk in the text, have been provided by the translator.  
+
+The Greek text of *The Suppliant Women* is in many places corrupt and obscure (often incomprehensible), and various editors have supplied hundreds of possible variant readings. In much of the play, it is impossible to provide an English text without considerable guesswork. Given the difficulties with the text, a translator of the *Suppliant Women* faces a difficult choice: to try to remain as faithful as possible to the Greek and run the risk of a very awkward, unidiomatic English text or to treat the Greek text more cavalierly in order to make more fluent sense of the translation.  
+
+Any translator of *Suppliant Women* who wishes to stay close to the Greek text must, I think, experience considerable frustration (that, at least, has been my experience). T. A. Buckley, who castigates translators for not remaining faithful to the Greek, seems to catch this mood in a comment he makes on line 210, “The whole passage, as it now stands, in fact, the whole play, is a mass of hopeless absurdity.” Later he repeats the sentiment: “To re-write the author by implication is not the business of the translator. . . . although I am nearly as much in the dark as ever” (p. 229). His translation is a useful example of how an attempt at literal fidelity to the Greek can produce a very awkward and often puzzling English text.  
+
+Since my first priority is to produce a translation in an easily grasped modern idiom, a dramatic script that can be read, recited, or performed without a very awkward English getting in the way, I have taken a number of liberties with the Greek, although generally I have tried to steer a middle path between the two options and to remain faithful to the original Greek, as much as that is possible to make out. Those who wish to look at a more literal text which calls detailed attention to the problems with the Greek should consult Alan Sommerstein’s translation.    
+
+I have relied a great deal on the work of a number of authors, notably F. A Paley, H. Weir Smyth, Walter Headlam, T. A. Buckley, and Alan Sommerstein.  
+  
+...  
+  
+
+**BACKGROUND NOTE**  
+
+Aeschylus (c.525 BC to c.456 BC) was one of the three great Greek tragic dramatists whose works have survived. Of his many plays, seven still remain. Aeschylus may have fought against the Persians at Marathon (490 BC), and he did so again at Salamis (480 BC). According to tradition, he died from being hit with a tortoise dropped by an eagle. After his death, the Athenians, as a mark of respect, permitted his works to be restaged in their annual competitions.  
+
+The Suppliant Women (also called The Suppliants or The Suppliant Maidens) was part of a series of four plays (the other three have been lost). The plays were based on the famous story of the daughters of Danaus, who sailed from Egypt seeking refuge in Greece. It is not clear when the play was first performed. Tradition held that it was a very early play, perhaps Aeschylus’ first, but recent evidence has contradicted that widely held view.  
+
+Io, a young Greek girl persecuted by Zeus’ wife, Hera, had, many years before the play begins, been changed into a cow and forced to flee from Greece to Egypt, where she had given birth to a child by Zeus and established a family line. Generations later, the fifty daughters of Danaus, her descendants, were to be married to the sons of Aegyptus, brother of Danaus and king of Egypt. The daughters, unwilling to go through with the marriages, fled with their father to Argos, the land from which Io had originally left. Their would-be husbands, angry at this conduct, sailed in pursuit of them. The play opens with the arrival of the daughters in Greece.  
+  
+...  
+  
+  
+
+**DRAMATIS PERSONAE**  
+
+DANAUS: a descendant of Io.  
+PELASGUS: king of Argos.  
+HERALD: an Egyptian
+CHORUS: daughters of Danaus. [^note-401]  
+HANDMAIDENS: servants of the Chorus
+ATTENDANTS  
+
+*[The scene is a rocky shore in Argos, with a stone altar and some large statues of the gods on the stage to mark a patch of higher sacred ground. Enter DANAUS and the members of theCHORUS, who are dressed in foreign (i.e., non-Greek) clothes and carrying the branches of suppliants.]*
+
+CHORUS
+ I pray that Zeus who cares for suppliants
+ will look with kindness on our company,  
+ whose ship has travelled here across the sea
+ from the fine-grained sandy estuary
+ of river Nile. We fled that sacred land,  
+ whose pastures border Syria, and come
+ as fugitives, not exiled by decree
+ of public banishment for shedding blood,  
+ but acting on our own, because we wished
+ to flee a marriage we could not accept, a hateful and sacrilegious match                                               
+ with Aegyptus’ sons. [^note-402] For Danaus,                                                     
+ our father, who is our counsellor
+ and leads our group, debated what to do                                                     
+ and of our painful options chose the best—  
+ to rush away as quickly as we could,  
+ sailing across the ocean seas to Argos.  
+ We can claim with pride our family line
+ comes from this land, for it sprang up
+ from the hand and breath of Zeus, who touched that cow tormented by a gadfly’s sting. 
+ To what land could we come which offered us                                
+ more welcome kindness when our hands hold out
+ these branches wrapped with wool, which indicate
+ that we are here as suppliants. O this city,  
+ this land and its clear streams, O gods above,  
+ and you beneath the earth, stern punishers,  
+ who guard the tombs, and third of all, you too,  
+ O Zeus the Saviour, who defends the homes
+ of righteous men, with this land’s spirit of care receive our female suppliant band, 
+ and before that swarming horde of men,  
+ those insolent sons born toAegyptus,                                               
+ set foot upon this marshy shore, force them
+ and their swift-moving ship back out to sea,  
+ and there let them run into violent storms,  
+ with lightning, thunder, rain-drenched hurricanes
+ and perish in the wild and stormy waves,  
+ before they ever carry us away, 
+ their cousins, against our will, and climb into our beds, an act which Right forbids.  
+
+ And now we call the Zeus-born calf,                                                  
+ our champion from across the sea, offspring
+ of our ancestor, the flower-grazing cow 
+ caressed by Zeus’ breath, who in due time
+ gave birth to Epaphus, whose very name
+ derives from his own birth. [^note-403]  
+
+ I call on him by name,  
+ here in his mother’s ancient pasturelands.                                       
+ Remembering the torment she once faced,  
+ I will set out for those who live here now trustworthy evidence, and they will see
+ some unexpected proofs, and at the end
+ men will believe the truth of what I say.  
+
+ Should someone living here and close to us
+ be skilled in understanding songs of birds,  
+ then when he hears our melancholy chant,  
+ it will seem to him our singing voice,                                                
+ belongs to Metis, Tereus’ poor wife,  
+ the hawk-chased nightingale. [^note-404]  
+
+ Forced out
+ from her green leafy haunts, she cries in grief for her familiar woods and sings the tale
+ of her child’s fate, who died at her own hand,  
+ the victim of a merciless mother’s rage.  
+
+ In the same way, too, I chant my grief,  
+ invoking these Ionian strains.  
+ I tear these tender cheeks of mine                                                     
+ burned by Nile sun and rend my heart
+ which has not yet known tears.  
+ I gather flowers of grief, filled with fear
+ that no friends will appear to stand by us as fugitives from that mist-covered land. [^note-405]  
+
+ But you gods of our race, O listen to me!  
+ Look for what is righteous in this case!  
+ If you deny young men unjust desires
+ and if you truly loathe their wanton lust,                                          
+ you will uphold the lawful rights of marriage. 
+ Even for fugitives worn down by war
+ there are safe altars sacred to the gods.  
+
+ I pray whatever comes from Zeus                                              
+ will truly turn out favourably for us. What Zeus desires is hard to ascertain,  
+ although it clearly blazes everywhere,  
+ even in the dark, accompanied by Fate,  
+ so riddling and obscure to mortal men.                                            
+
+ His will is resolute, and when it falls
+ it is not on its back—for once Zeus nods
+ the deed is then fulfilled. [^note-406] But Zeus’ mind
+ stretches on dark and tangled pathways,  
+ which no one sees or understands.  
+
+ Men with hopes                                        
+ as high as lofty citadels he hurls to their destruction, and yet he works
+ without the use of forceful arms,  
+ for every act gods undertake                                                               
+ is effortless. Seated at ease,  
+ not stirring from his sacred throne,  
+ he somehow manages to bring about
+ whatever he desires.  
+
+ So let him see
+ the arrogance of human beings,  
+ as in that family it grows again.  
+ Thoughts of marriage made it thrive in stubborn hearts and wild intentions.  
+ Driven by a spur they cannot check                                                   
+ and disappointed in their hopes,  
+ they set their minds on madness. 
+
+ I wail aloud my suffering, my pain,  
+ and mixed in with my tears I speak
+ these clear and heavy tones—  
+ Alas! Alas!—so like a funeral song!  
+ And as I sing, I mourn for my own self,  
+ while I am still alive.  
+
+ O this land, these hills of Apia, I call to you,  
+ for you well understand my words,  
+ the speech of those from foreign lands.  
+ Again and again I seize my veil,                                                         
+ this linen veil from Sidon,  
+ and tear it into shreds.  
+
+ Offerings promised to the gods
+ are plentiful when things go well, 
+ once death has gone away. 
+ Alas! Alas! This suffering so hard to understand! 
+ O these surging waves of pain
+ where are they carrying me?  
+
+ O this land,  
+ these hills of Apia, I call to you,  
+ for you well understand my words,  
+ the speech of those from foreign lands.  
+ Again and again I seize my veil,                                                         
+ this linen veil from Sidon,  
+ and tear it into shreds.  
+
+ Our oars and wooden rope-bound ship, our refuge from the sea, followed the winds
+ on a storm-free trip, with no cause to complain.  
+ But now I pray that Father Zeus,  
+ whose eye sees everything, may grant
+ in time an end that is auspicious,                                                       
+ so that our sacred mother’s famous race
+ escape men’s beds, unwedded and still free.  
+
+ And may that holy daughter of Zeus 
+ secure within the sacred walls
+ be willing to gaze down on me, so willing to receive her! May she, 
+ enraged that we are being pursued,  
+ come down with all her strength to save us,  
+ a virgin goddess helping virgin girls,                                                 
+ so that our sacred mother’s famous race
+ escape men’s beds, unwedded and still free. [^note-407]  
+
+ If not, our dark and sunburnt race  
+ will move with suppliant’s branches on to Zeus,  
+ lord of earth, who welcomes all the dead.  
+ For if Olympian gods deny our prayers, we will seek death and die by rope.                                                   
+
+ O Zeus! That vengeful anger from the gods,  
+ the wrath of those pursuing Io!  
+ I know of Hera’s passionate moods, 
+ the sky-conquering rage of Zeus’ queen.  
+ From such harsh winds fierce storms arise.  
+
+ And Zeus will then confront the charge
+ of acting in a unjust way, if he dishonours
+ the heifer’s child, who many years ago                                              
+ he sired himself and now averts his gaze away from us when we implore his aid.  
+ O from his place high in the sky,  
+ may he hear us when we call!  
+
+ O Zeus! 
+ That venomous anger from the gods,  
+ their wrath of those pursuing Io!  
+ I know of Hera’s passionate moods, 
+ the sky-conquering rage of Zeus’ queen.  
+ From such harsh winds fierce storms arise.  
+
+DANAUS
+ Children, you must take care. You came here
+ with a wise and loyal old man to lead that ship at sea—your father. Now on land,  
+ I have been thinking of what lies in store.  
+ So mark the words I say, and write them down—  
+ preserve them on the tablets of your mind.                                      
+ I see dust, an army’s voiceless herald,  
+ and whirling axles in their socket hubs 
+ do not move silently. I see armed men
+ shield-bearing troops, each brandishing a spear,  
+ with curving chariots and horses. Perhaps
+ the ones who rule this land have heard reports and are now marching here to look at us.  
+ But whether the one who leads this force
+ is not a threat to us or is spurred on
+ by cruel rage—whatever he may be—  
+ the wisest course, my daughters, is to sit
+ around this rock, a sacred monument 
+ to the assembled gods. For an altar                                                   
+ is a shield, impenetrable and more secure
+ than any city wall. So you should move there
+ with due reverence, as quickly as you can. In your left hands hold up those suppliant boughs
+ wrapped with white wool, those righteous symbols
+ which bring so much delight to merciful Zeus.  
+ In your response to what these strangers ask,  
+ invite compassion for your painful needs
+ in speech appropriate for foreigners.  
+ Explain to them why you have run away,  
+ and mention that there was no blood involved.  
+ But most of all, no trace of arrogance.  
+ Let your face and eyes remain respectful, calm, and modest. Do not look too eager                                         
+ to speak up or too reluctant. These traits
+ the people here will think extremely rude.  
+ Remember, too, to be subservient.  
+ You are a foreigner, a fugitive,  
+ and need their help. Those who have no power 
+ should not use words which seem too insolent.  
+
+CHORUS
+ Father, you have given us good advice,  
+ and we are prudent. We will take due care
+ to keep your wise instructions in our hearts. May Zeus, our ancestor, gaze down on us!  
+
+DANAUS
+ Yes, may he look on us with gracious eyes.  
+
+CHORUS
+ I would now like to sit beside you.  
+
+DANAUS
+ Then waste no time, and move where you propose.  
+
+[The CHORUS moves over to DANAUS, who is standing beside the altar and the statues of the gods on the stage]  
+
+CHORUS
+ O Zeus, have pity on us in our distress                                             
+ or we will be destroyed.  
+
+DANAUS
+ If Zeus is willing 
+ then all will turn out well.  
+
+CHORUS
+[Look over here—  
+ there is a symbol drawn, some form of bird.] [^note-408]  
+
+DANAUS
+ It is the bird of Zeus—invoke his name.  
+
+CHORUS
+ We call to the rays of the sun, our saviour.                             
+DANAUS
+ And to Apollo, too, a sacred god,  
+ who was exiled from heaven. [^note-409]  
+
+CHORUS
+ He understands our fate
+ and will have sympathy for mortal beings.  
+
+DANAUS
+ May he indeed show sympathy to us
+ and eagerly stand by to help our cause.  
+
+CHORUS
+ What other deities should I invoke?  
+
+DANAUS
+ I see a trident, symbol of Poseidon. [^note-410]  
+
+CHORUS
+ He brought us safely here—and now on land
+ may he receive us kindly.  
+
+DANAUS
+ And this one here,  
+ another god—Hermes the Messenger,      
+ as pictured by the Greeks.  
+
+CHORUS
+ I pray that now 
+ his messages announce good news to us
+ and keep us free.  
+
+DANAUS
+ Honour these ruling powers
+ at their communal shrine. Seat yourselves here,  
+ on this sacred ground, like a flock of doves
+ terrified of hawks, who are also birds,  
+ their kindred, but enemies of theirs,  
+ who pollute their race. If one bird feeds
+ on other birds, how is that sacrosanct?  
+ So how could a man who marries someone against her and her father’s will be pure?  
+ A man who acts like that, once he has died,  
+ will not escape a judgment for his crime
+ in Hades, for there, they say, another Zeus                                      
+ delivers final judgment on the dead 
+ for wicked things they did. Be careful,  
+ and speak to them the way I have advised,  
+ so in this confrontation you prevail.  
+
+[PELASGUS, king of Argos, enters with armed attendants]  
+
+PELASGUS
+ From what place do you group of women come?  
+ This clothing is not Greek—the robes you wear are thickly woven and luxurious,  
+ a foreign style. Who am I speaking to?  
+ Your garments are not those of Argive girls
+ and do not come from any part of Greece.  
+ I am amazed that you are brave enough 
+ to dare approach this place without a herald
+ or a guide or someone to protect you.                                              
+ I see those branches lying there beside you,  
+ the usual emblem of a suppliant
+ to those divinities who gather here. But that is all a native Greek could know.  
+ In many other matters I could make
+ a reasonable guess, but you are here,  
+ and you can tell me what I wish to learn.  
+
+CHORUS
+ What you have said about what we are wearing 
+ is not inaccurate. But I need to know
+ how I should frame the words I speak to you.  
+ Are you a private citizen, a herald,  
+ or the one who rules this land?  
+
+PELASGUS
+ I assure you 
+ you may speak to me in full confidence and answer what I ask. I am Pelasgus,                                                
+ the son of Palaechthon, who was born from earth.  
+ I rule this land. The people here are named
+ after their lord and called Pelasgians.  
+ They are the ones who work this fertile ground. 
+ Through every region where pure Strymon flows
+ I rule the regions on the western side.  
+ My realm includes lands by the Perrhaebi,  
+ and regions lying beyond Mount Pidnus
+ up to the lands of the Paeonians, and Dodona’s mountain range. The ocean sea
+ defines my boundaries. Within these limits
+ I rule as king. This region here is Apia,                                              
+ named for an ancient healer long ago.  
+ For Apis, Apollo’s son, a prophet 
+ and a healer from far away Naupactos,  
+ cleansed this land of man-destroying monsters,  
+ a dreadful colony of hostile snakes,  
+ which Earth produced, responding to her rage
+ at ancient bloody deeds which had defiled her. With consummate art, Apis found a cure
+ and freed the land of Argos of this plague.  
+ From that time on, as a reward for this,                                            
+ the Argives think of Apis in their prayers. 
+ And now that I have told you about Argos,  
+ describe your lineage, and tell me more,  
+ although our citizens take no delight
+ in speeches which continue far too long.  
+
+CHORUS
+ Our story is a short and simple one.  
+ We can boast we are a race from Argos, descended from a cow blest with a child.  
+ My words will give full evidence of this.  
+
+PELASGUS
+ As I listen to your words, you strangers,  
+ I find your story quite beyond belief. 
+ How can your family come from Argos?  
+ For in appearance you are far more like
+ the women in Libya and not at all                                                      
+ like women in this land. The river Nile
+ might have produced a racial group like yours.  
+ Your features look just like those images of females cast by Cyprian craftsmen, 
+ or like those nomad women I hear about
+ who ride on saddled camels, just like horses.  
+ Their homeland borders Ethiopia. 
+ If you were armed with bows, I would have guessed
+ you surely must be Amazons, women
+ who feed on meat and live apart from men.  
+ But tell me more so I can understand                                                
+ how you can trace your family line to Argos.  
+
+CHORUS
+ Is there a story here that Io once served as priestess in Hera’s shrine at Argos?  
+
+PELASGUS
+ Indeed there is. The story is well known.  
+
+CHORUS
+ And does that story ever talk about
+ how Zeus made love to someone mortal?  
+
+PELASGUS
+ It does, but Hera knew of that affair.  
+
+CHORUS
+ How did those two resolve their regal quarrel?  
+
+PELASGUS
+ Argive Hera turned the girl into a cow.  
+
+CHORUS
+ And when that girl became a cow with horns,                                 
+ did Zeus approach her?                                                              
+
+PELASGUS
+ They say he did, 
+ but first he changed into a lusty bull.                                       
+CHORUS
+ How did that mighty wife of Zeus respond?  
+
+PELASGUS
+ She chose an all-seeing guard to watch the cow.  
+
+CHORUS
+ Who was that watchful sentinel you mention?  
+
+PELASGUS
+ His name was Argus, a son of Earth— 
+ Hermes killed him.  
+
+CHORUS
+ What else did Hera do
+ to that ill-fated cow?  
+
+PELASGUS
+ She sent a fly
+ which keeps the cattle moving with its sting.  
+
+CHORUS
+ Those living by the Nile call it a gadfly.  
+
+PELASGUS
+ It drove her out of Argos—far away.  
+
+CHORUS
+ Your story matches mine in every detail.      
+ Then she moved to Canobus and Memphis. 
+ And there, once Zeus caressed her with his hand, 
+ he produced a child.  
+
+PELASGUS
+ Who claims to be
+ the calf that Zeus created with that cow?  
+
+CHORUS
+ He was called Epaphus, a fitting name, 
+    “born from Zeus’ touch.”
+
+PELASGUS
+                                            [And what offspring
+ did Epaphus produce?] [^note-411]  
+
+CHORUS
+ Libya—who reaped the fruit
+ from the most extensive region of the earth.  
+
+PELASGUS
+ And, in your account, who else was born from her?  
+
+CHORUS
+ Belus, my father’s father. He had two sons. [^note-412]  
+
+PELASGUS
+ Now tell me your wise father’s name.  
+
+CHORUS
+ Danaus.  
+ He has a brother, who has fifty sons.  
+
+PELASGUS
+ Do not withhold from me his brother’s name.  
+
+CHORUS
+ Aegyptus. And now you understand how far
+ my ancestry goes back, I pray you act
+ to save a group with links to Argos.  
+
+PELASGUS
+ It seems to me you share some ancient bonds
+ with Argos. But what was it that took place
+ to make you leave your father’s home like this?  
+ What has gone wrong?  
+
+CHORUS
+ Lord Pelasgus, men’s evil fortunes come in many different shades, for nowhere
+ do you see their troubles winged with feathers 
+ which are identical. Who would have said                                        
+ a sudden flight would bring us back to Argos,  
+ a kindred race from long ago, fleeing 
+ a hateful marriage bed.  
+
+PELASGUS
+ Why have you come here
+ as suppliants to these assembled gods 
+ holding those boughs fresh cut and wrapped with wool?  
+
+CHORUS
+ To avoid Aegyptus’ sons—we have no wish
+ to be their slaves.  
+
+PELASGUS
+ Because you hate them? Or are you claiming they are being unjust?  
+
+CHORUS
+ Who would buy a master for herself 
+ from her own relatives?  
+
+PELASGUS
+ That is a way
+ men make their wealth and power grow.  
+
+CHORUS
+ And make it easy, should anything go wrong,  
+ to get rid of their wives. [^note-413]  
+
+PELASGUS
+What should I do for you  
+ to observe due piety and reverence?  
+
+CHORUS
+ When Aegyptus’ sons demand to have us back,  
+ do not comply.  
+
+PELASGUS
+ A difficult request—  
+ you are asking me to run the risk of war.                                
+CHORUS
+ But Justice keeps her allies safe from harm.  
+
+PELASGUS
+ Yes—if she has taken part in the affair 
+ right from the start.  
+
+CHORUS
+ Honour the ship of state
+ when it is wreathed in suppliant branches.  
+
+PELASGUS
+ Just looking at the shadows of this shrine
+ makes me tremble. The anger of great Zeus,  
+ the god of suppliants, is hard to bear.  
+
+CHORUS
+ O child of Palaechthon, Pelasgian lord,  
+ hear me with compassion in your heart.  
+ See me, a suppliant fugitive, running    
+ like a heifer hunted down by wolves
+ along steep mountain slopes, lowing
+ to the herdsman to show him her distress
+ and trusting that his strength will save her.  
+
+PELASGUS
+ I see your company of suppliants
+ appealing to the gods assembled here
+ and shaded by these fresh cut boughs.  
+ This issue of your being the city’s guest— 
+ may that not prove to be disastrous,  
+ and may no causes we did not foresee bring unexpected strife into our state. 
+ The city has no wish for that.  
+
+CHORUS
+ May Themis, 
+ goddess who protects all suppliants, 
+ a daughter of apportioning Zeus, look down                                   
+ and see our flight brings you no harm. 
+ And you with your mature experience
+ should understand from younger hearts
+ if you show reverence to a suppliant
+    [and piously give offerings to the gods,  
+ then you will never lack the gods’ goodwill]. [^note-414]  
+
+PELASGUS
+ But here you are not seated by the hearth
+ inside my home. For if our city, 
+ as a community, suffers from a stain, 
+ then we must work, as a community,  
+ to find the cure. And so, until I talk
+ to all the citizens about these things,  
+ I cannot make you any promises
+ or offer help.  
+
+CHORUS
+ But you are the city.                                   
+ You are the people. Since you are king
+ with no one in authority above you, your will alone, all by itself, controls
+ your county’s hearth and shrine, and from your throne
+ you are the one who rules on everything. 
+ Be careful you do not pollute the state!  
+
+PELASGUS
+ May such pollution fall upon my foes!  
+ I cannot help you without risking war,  
+ but it would be unwise to spurn your prayers.  
+ I am confused, and fear now grips my heart,  
+ to act or not to act and then accept                                                   
+ whatever outcome fortune may present.                                 
+CHORUS
+ Think of the lofty god who watches us
+ from high above, the one who guards 
+ all suffering mortals in their pain 
+ who cry to those close by and yet
+ do not obtain from them the justice
+ they deserve by customary right. 
+ The wrath of Zeus, god of suppliants,  
+ lies in wait—and wailing cries of grief
+ from those who suffer punishment
+ will not persuade him to relent.                                               
+PELASGUS
+ But if the laws of your own state declare
+ Aegyptus’ sons are rightfully your lords 
+ once they proclaim they are your next of kin, 
+ then who would wish to speak against their claim?  
+ You must defend yourself with your own laws,                               
+ the statutes in the land from which you came,  
+ to show they have no right to govern you.  
+
+CHORUS
+ O may I never find myself subjected
+ to the authority of men! Instead,  
+ I would rather choose to run away and chart my journey by the stars
+ to escape a marriage I detest. 
+ Take Justice as your ally and decide
+ according to what gods consider right.  
+
+PELASGUS
+ This decision is not easy—and you
+ must not require me to render judgment.  
+ I have already said I will not do that,  
+ although I am the king, before I talk
+ to my own people, in case, at some point,                               
+ should this matter prove more troublesome,    
+ the citizens declare, “You showed respect
+ to strangers and undermined our city.”
+
+CHORUS
+ Impartial Zeus, who shares the blood
+ of either side in this dispute, 
+ looks down, dispensing justice fairly—  
+ to evil men due punishments
+ to the righteous their reward.  
+ With issues weighed so evenly
+ why turn away from acting justly?  
+
+PELASGUS       
+ But here we need profound and sure advice, like a diver plunging deep into the sea,  
+ with his eyes clear, not muddled or confused, 
+ so this affair will turn out well for us                                                
+ and, more than anything, not harm our state,  
+ so you will not become a prize of war,  
+ and we will not surrender you from here,  
+ the seat and holy sanctuary of the gods,  
+ and bring down to this land to live among us
+ the grievous spirit of destructive vengeance, 
+ who, even in Hades, does not free the dead. Surely you do not think we have no need
+ for counsel to deliver us from that?  
+
+CHORUS
+ Reflect on this, and then in piety 
+ and righteousness become our patron.                                             
+ Do not betray a fugitive cast out
+ from far away by godless banishment.  
+
+ O you who hold all power in this land, 
+ do not look on as I am led away,  
+ abducted from this shrine of many gods.  
+ Think the wanton violence of men, and guard against the anger of the gods.  
+
+ Do not compel yourself to see
+ all justice flouted, as your suppliants
+ are taken from these sacred images                                                  
+ and then, just like a horse, dragged off,  
+ seized by the bands around our heads
+ and our finely woven clothes.  
+
+ Know this—whatever you decide,  
+ your children and your house remain
+ to pay the penalty in full. So bear in mind the power of Zeus                                            
+ which works for justice.  
+
+PELASGUS
+ I have considered that.  
+ Things have now reached the stage where I am forced
+ to fight a major war with one group or the other,  
+ a choice determined by necessity, nailed down                               
+ as firmly as a ship’s hull in a winch. [^note-415]  
+ There is no way to solve this without grief.  
+ If things are stolen from a family home,  
+ then Zeus, protector of our property, 
+ may graciously restore what has been lost. A tongue may shoot out inappropriate words,  
+ rousing a heart to anger and distress,  
+ and soothing words can ease that painful speech.  
+ But so that we do not spill family blood
+ we surely need to offer sacrifice                                                         
+ and slaughter many beasts to many gods,  
+ to save ourselves from grief. I had no wish
+ to enter this dispute. I would prefer
+ to have no sense of troubles yet to come
+ than to foresee them clearly. May all go well and prove my judgment false.  
+
+CHORUS
+ Hear now 
+ the last of all these reverend appeals
+ to your compassion.  
+
+PELASGUS
+ I am listening. 
+ Speak up. Your words will not slip past me.  
+
+CHORUS
+ I have a twisted band around my chest
+ and belts to hold my clothes . . .  
+
+PELASGUS
+ Yes. Things like that
+ are most appropriate for female dress.  
+
+CHORUS
+ Well then, with these, I have, as you can see, 
+ an excellent way . . . .  
+
+PELASGUS
+ What do you mean? 
+ What are you trying to say? Tell me.     
+
+CHORUS
+ If you do not make solemn promises
+ to our group here . . .  
+
+PELASGUS
+ How will these bits of clothing
+ be any help to you?  
+
+CHORUS
+. . . these statues here
+ will be adorned with strange new votive plaques.  
+
+PELASGUS
+ You talk in riddles. Speak more directly.  
+
+CHORUS
+ We will not wait, but hang ourselves right here,  
+ on these images of the gods.  
+
+PELASGUS
+ I hear your words—  
+ O how they lash my heart!  
+
+CHORUS
+ Now you understand—  
+ for I have made you see more clearly.  
+
+PELASGUS
+ This issue is so hard to wrestle with, no matter where one looks—like a torrent,  
+ a flood of ruin, bearing down on me,  
+ a bottomless sea of sheer disaster                                                     
+ no one can navigate. I am embarked,  
+ and there is no safe refuge from the storm.  
+ If I do not discharge my obligations
+ to you as suppliants, you say you will commit
+ an act that brings pollution to our state                                  
+ too dreadful to describe. But if I stand 
+ before the city walls and move to fight Aegyptus’ sons, your kinsmen, how can that
+ not have a bitter cost? In a women’s cause
+ men’s blood will stain the ground However,  
+ the force of Zeus, who guards all suppliants,  
+ makes me respect his wrath, since fear of that
+ among all men deserves the highest awe.  
+
+[Pelasgus moves to address Danaus]  
+
+ So you, the aged father of these girls,                                                
+ quickly collect some branches in your arms
+ and set them down on other altars 
+ to this land’s gods, so that all citizens can see a sign that you are suppliants
+ and no one utters words against me,  
+ for people are too fond of finding fault
+ with those who rule. It could well be the case
+ that those who see them will be moved by pity,  
+ despise that band of insolent young men,  
+ and treat your case with more benevolence,  
+ since everyone feels sympathy for those
+ whose cause is weaker.  
+
+DANAUS
+ It means a lot to us                               
+ to have found someone who feels compassion, a patron for our cause. But you should send
+ some of this country’s men with us as escorts
+ and as guides, so we may find the holy shrines
+ before the temples of the country’s gods,  
+ the homes of those protectors of the state,  
+ and proceed in safety through the city.  
+ Our bodies do not look the same as yours—  
+ a race raised by the Nile is different
+ from one which lives beside the Inachus.  
+ Take care that boldness does not bring on fear, for men have killed a friend through ignorance.  
+
+PELASGUS
+ You men, go with this stranger—what he says                                
+ makes excellent sense. Take him to the shrines
+ inside the city and the sacred altars.  
+ Do not converse at any length with those
+ you meet along the way, while you conduct
+ this man who sailed here seeking refuge
+ at our sanctuaries of the gods.  
+
+[DANAUS and the ATTENDANTS leave]  
+
+CHORUS
+ You told him what to do, and he is gone,  
+ as you instructed. But what am I to do? What reassurance can you offer me?  
+
+PELASGUS
+ Set your suppliant boughs down here,  
+ the signs of your distress.  
+
+CHORUS
+ I will place them here,  
+ just as you ordered.  
+
+PELASGUS
+ Now, move down over there,  
+ around that level space.  
+
+CHORUS
+ How will that place
+ keep me protected? It is not sacred ground.  
+
+PELASGUS
+ We will not let those flying birds of prey                                         
+ swoop down and seize you.  
+
+CHORUS
+ But what if they are worse
+ than hateful snakes and hostile to us?  
+
+PELASGUS
+ The words I spoke
+ were meant to lift your spirits. Your reply should be more favourable.  
+
+CHORUS
+ But our hearts
+ are terrified. It should be no surprise
+ that we are very troubled.  
+
+PELASGUS
+ Excessive fear
+ is always uncontrolled.  
+
+CHORUS
+ Then reassure us—  
+ with words and actions ease our troubled hearts.  
+
+PELASGUS
+ Your father will not leave you here for long.  
+ I am going to summon the citizens,  
+ so I may put them in a friendly mood.  
+ I will instruct your father what to say.  
+ You should stay here to offer up your prayers     
+ to Argive gods to grant what you desire.  
+ I will go back and see what I can do.  
+ May my words prove persuasive and fortune
+ bring these events to a successful close.  
+
+[Exit PELASGUS and his ATTENDANTS]  
+
+CHORUS
+ O blessed Zeus, lord of lords,  
+ holiest of the holy, and of all
+ the perfect powers the great perfection,  
+ O listen to our plea! Protect your race
+ from these men’s arrogant lust,  
+ which you abominate, and hurl the madness on their black-benched ship
+ into the purple sea.                                                                              
+
+ Gaze down on us,  
+ and look with favour on our female cause.  
+ Recall the ancient story of our race,  
+ that pleasing tale from long ago,  
+ about our ancestor, the woman
+ you loved. Remember all of it,  
+ you whose soft caresses fondled Io.  
+ We claim our race descends from Zeus,  
+ and a native settler from this land.                                           
+ I have returned to ancient tracks
+ where Argus spied on mother Io,  
+ as in that fertile meadowland                                                             
+ she grazed among the flowers. 
+ Here that gadfly’s painful sting
+ drove her insane. She ran away,  
+ wandering through many tribes of men,  
+ and then, as Fate decreed, sliced through
+ the surging waters of the strait,  
+ fixing the boundary of the distant shore. [^note-416]  
+
+ She hurried on through Asian lands,  
+ through Phrygian meadows full of sheep,  
+ and past Teuthras where the Mysians live,  
+ the valley lands of Lydia, across the hills                                         
+ that mark Cilician and Pamphylian lands,  
+ racing through ever-flowing river streams,  
+ through deep and fertile soil, and past
+ the wheat-rich land of Aphrodite. [^note-417]  
+
+ Forced by her flying herdsman’s sting,  
+ she reached the nourishing groves of Zeus, that snow-fed meadow lashed by Typho’s rage,  
+ where waters of the Nile flow past
+ untouched by all disease, driven mad
+ by suffering she did not deserve,  
+ and frantic from that painful goad,  
+ a frenzied girl possessed by Hera! [^note-418]  
+
+ The men then living in that land,  
+ turned pale with fear and trembled at the sight,  
+ a strange half-human monstrous thing,  
+ a beast with such a dreadful shape, part woman and part cow!                                                                    
+ Amazement seized them as they looked.  
+ Who was it, then, who in the end
+ brought peace to wandering Io’s pain,  
+ the torment of that stinging fly?  
+
+ That was the work of Zeus, who rules
+ through endless time. With the power
+ of his own soothing hand and sacred breath
+ he brought her suffering to an end,  
+ as her tears fell to end her shame. And then, according to a true report,  
+ she took in Zeus’ seed, conceived a child,                                         
+ and bore a blameless son . . .  
+
+. . . who through long ages has been blessed.  
+ And after that throughout the land
+ the cry rang out—“This race, in fact,  
+ is sprung from life-producing Zeus.”
+ For who but Zeus could put an end
+ to that disease which Hera planned?  
+ If you proclaim that this is Zeus’ work and our race springs from Epaphus,  
+ then you will state the truth.  
+
+ To which of the gods could we appeal                                              
+ more reasonably for his just deeds?  
+ He is our father and our king.  
+ With his own hand he made us grow,  
+ the mighty parent of our race,  
+ whose wisdom spans the ages.  
+ From Zeus, who arranges everything,  
+ come winds that make things prosper.                                    
+ He does not rush to carry out
+ some other god’s commands,  
+ nor is he ruled by someone greater.  
+ No power above keeps him in awe.  
+ And once he speaks, the work is done—  
+ the counsels carried in his heart
+ he instantly brings into being.  
+
+[Enter Danaus]  
+
+DANAUS
+ Lift your hearts, my children. The people here                                 
+ have acted well—with full authority
+ they have passed a public vote.  
+
+CHORUS
+ Greetings to you father, a messenger with very welcome news.  
+ Tell us the outcome of the people’s vote.  
+ What did the majority of hands decide?  
+
+DANAUS
+ The Argives did not seem to hesitate—  
+ they made my ancient heart feel young again.  
+ The air was thick with arms as all of them
+ in full assembly voted in this law,  
+ by raising their right hands: we are free
+ to settle in this land. We will not be seized
+ by anyone and carried off as hostages. We are protected from what men may do.                                        
+ No one—no resident or foreigner—  
+ can act against us. If any man tries force,  
+ then those who own some land and do not help
+ will be disgraced and by a public vote
+ will suffer banishment. Those were the words
+ delivered by the Pelasgian king
+ on our behalf—and he persuaded them
+ by claiming that in years to come the wrath
+ of Zeus, god of suppliants, would never let the city thrive. He declared the curse
+ would be a double one, for we are strangers
+ and also from this land. It would appear
+ before the city and prepare a feast                                                     
+ of evils they could not resist. At these words
+ the Argive people did not even wait
+ to hear the herald speak, but raised their hands
+ to say what should be done. Once they heard
+ the way the speaker turned his argument,  
+ the Pelasgian people were convinced and voted for what he had just resolved.  
+ But it was Zeus who brought us this result.  
+
+CHORUS
+ Come, chant a prayer that blessings fall
+ upon the Argives for their blessed work.  
+ May Zeus, the god of strangers, hear
+ these tributes from a stranger’s lips
+ and make them truly reach their goal,  
+ so all of them are perfectly fulfilled.  
+
+[As the Chorus steps forward to chant this long prayer, Danaus moves to the highest point in the back of the stage to look out over the sea]  
+
+ And now, you Zeus-born gods,                                                          
+ hear us as we pour forth prayers of blessings for our Argive kin. 
+ May fire from Ares, god of war,  
+ who with incessant battle cries
+ cuts down men in foreign fields,  
+ never lay waste this Pelasgian land,  
+ for people here took pity on us 
+ and voted to support our cause,  
+ respecting our unhappy flock                                                                 
+ as suppliants of Zeus.  
+
+ They did not scorn our female plight and cast their votes to favour men.  
+ For they revered that watchful one,  
+ the agent of divine revenge,  
+ a god no one can stand against.  
+ What house would have that messenger 
+ perch on the roof, which it defiles 
+ and where its grievous weight                                                            
+ sits hard upon the home. 
+ These men revere blood relatives,  
+ petitioners to sacred Zeus, and thus with altars left unstained
+ they win the favour of the gods.  
+
+ And therefore from our shadowed lips
+ may prayers of gratitude fly up
+ to honour them. [^note-419] May no plague
+ ever strike this town and leave it
+ empty of its men, nor any strife                                                         
+ stain this country’s soil with blood
+ from its own slaughtered citizens. 
+ May no one gather up the flower of Argive youth, and may that god 
+ who sleeps in Aphrodite’s bed, 
+ man-killing Ares, not slice away
+ men in their finest bloom.  
+
+ May altars blaze with offerings,  
+ gifts to the elders gathered there,  
+ so their city will be wisely ruled,                                                       
+ since these men worship mighty Zeus,  
+ above all else the god of strangers,  
+ who by an ancient law guides Fate. We pray new rulers always rise
+ to serve as guardians for this land.  
+ And may Artemis-Hecate keep watch
+ protecting women giving birth. [^note-420]  
+
+ Let no man-killing slaughter come
+ to turn the city against itself,                                                             
+ by arming Ares, father of tears.  
+ He is no friend of dance or lyre
+ and stirs up cries for civil strife.  
+ May joyless flocks of foul disease stay far from citizens’ heads,  
+ and may Apollo always show
+ to all the young his gracious favour.  
+
+ May Zeus bring earth to yield its crops
+ and bear its fruit in every season.                                                      
+ And in their fields may grazing herds
+ produce new calves in great abundance.  
+ May good things from the gods be theirs,  
+ and may musicians at their altars sing
+ auspicious songs, and from pure lips let hymns of praise accompany the lyre.  
+
+ May all those here who rule the state
+ firmly protect the people’s rights,  
+ with prudent counsel for the public good.                                         
+ To strangers may they grant the right,  
+ before they arm themselves for war,  
+ of honest arbitration with no pain.  
+
+ And may they always worship gods
+ who guard this land, by holding high
+ their native country’s laurel boughs and offering bulls for sacrifice,  
+ just as their fathers used to do,  
+ for honouring parents is a law,  
+ the third of those engraved by Justice,  
+ whose honour reigns on high.  
+
+[Danaus speaks from his vantage point, looking out to sea]  
+
+DANAUS
+ Dear daughters, I commend these prudent prayers.                       
+ You must not fear to hear your father’s words,  
+ his troubling, unexpected news. From here,  
+ my lookout on this shrine for suppliants,  
+ I see their ship. For it is clearly marked. I could not fail to see it—those sails,  
+ that leather hide along the side, that prow
+ with eyes in front that watch its onward track,  
+ obeying the guiding rudder in the stern,  
+ too skilfully for those who are her foes.  
+ The sailors on the ship are clear to see,  
+ the white clothes make their blackened limbs stand out.             
+ And I can see the other ships, as well,  
+ and those assisting them. The ship in front,  
+ with her sails furled and rowers keeping time, is now approaching land. You must stay calm
+ and face this matter. Keep yourselves controlled.  
+ Do not forget these gods. I will return
+ when I can find our friends and other men
+ to plead our cause. Perhaps a herald will come,  
+ or some ambassador, eager to seize you
+ as stolen property and drag you off.  
+ But they will not succeed. So have no fear.  
+ But still, if we are slow in bringing help,                                          
+ it would be better if you kept in mind, at every moment, the help these gods provide.  
+ Take heart. In due time, on the destined day,  
+ the mortal man who disrespects the gods
+ will meet his punishment.  
+
+CHORUS
+ I am afraid, father,  
+ those ships are sailing in on such swift wings! 
+ Before much time has passed they will be here!  
+ I truly am so terribly afraid 
+ that our long flight will be no help to us.  
+ O father, this fear is killing me!  
+
+DANAUS
+ Since the Argives voted so decisively, be brave, my children. They will fight for you.                                 
+ Of that I am certain.  
+
+CHORUS
+ Aegyptus’ vile sons,  
+ lascivious men, are greedy for a war.  
+ You know that, too. In dark-eyed timbered ships
+ they sailed here with a huge black host of men.  
+ That rage of theirs has now caught up with us.  
+
+DANAUS
+ Here they will find a force of men whose arms
+ are lean and strong, toughened by midday suns.  
+
+CHORUS 
+ Do not leave us alone here, father,  
+ I beg you. A woman left by herself is nothing. She has no spirit for war. 
+ These men have wicked minds and evil hearts.                               
+ Their schemes are devious—like ravens,  
+ they have no reverence for sacred altars.  
+
+DANAUS
+ My children, if the gods, as well as you,  
+ despise these men, then that is good for us.  
+
+CHORUS
+ Father, they are not afraid of tridents
+ or objects sacred to the gods—these things
+ will not stop them from laying hands on us.  
+ They are arrogant men, full of impious rage, like shameless dogs, with no thought of the gods.  
+
+DANAUS
+ But, as the saying goes, wolves can conquer dogs                           
+ and papyrus fruit is not a match for wheat. [^note-421]  
+
+CHORUS
+ They have the temperament of savage beasts,  
+ profane and rash. We must protect ourselves,  
+ and quickly.  
+
+DANAUS
+ When setting out or anchoring
+ a naval force moves slowly. For cables
+ to tie up the ship must be hauled onshore,  
+ and shepherds of the ships do not feel safe
+ as soon as anchors are securely fixed, especially when they reach a coast 
+ which offers them no harbour, at sunset 
+ with night moving in. In prudent pilots                                            
+ the night time tends to breed anxiety.  
+ Besides, they cannot properly arrange
+ to disembark their troops before the ship
+ is confident it is quite safely moored.  
+ Although you are afraid, remember this:
+ do not ignore the gods. [I will be back]  
+ once I have found assistance. The city will not complain about the messenger.  
+ He may be old, but still his heart and tongue
+ are in their youthful prime.  
+
+[Exit Danaus, on his way to the city]  
+
+CHORUS
+ O land of hills, for which I feel
+ such righteous veneration, 
+ what will become of us? And where
+ in Apian land do we now flee,  
+ if there is anywhere a place,  
+ a deep dark pit, where we can hide?  
+ I wish I could become black smoke, move up beside the clouds of Zeus,                                                   
+ and spreading upward without wings  
+ completely vanish, like the dust
+ that no one sees, and perish!  
+
+ I can no longer flee this evil.  
+ My trembling heart is turning black.  
+ What my father saw has shaken me,  
+ and I am overwhelmed with fear.  
+ I would prefer to meet my doom
+ in a knotted noose than see a loathsome man come near my flesh!                                              
+ Before that happens, let me die!  
+ Let Hades be my lord and master!  
+
+ O for a seat somewhere up high
+ in the upper air, where watery clouds
+ turn into snow or else a barren crag,  
+ a steep and lonely towering peak
+ where no goats roam and vultures fly,  
+ invisible from below, a place 
+ to watch my plunge into the depths, before I am compelled to marry
+ and my heart breaks in two.  
+
+ From now on I would not refuse                                                        
+ to serve as prey for carrion dogs
+ or as a feast for native birds.  
+ For death delivers us from ills
+ that love to feed our sorrow. 
+ Let my death come, O let it come,  
+ before the wedding bed.  
+ What way of flight can I still find to save me from this marriage?  
+
+ So with a voice that reaches heaven
+ cry to the gods our songs of prayer.  
+ O father Zeus, look down on us,  
+ fulfill somehow what we desire,                                                        
+ so we may find relief and peace.  
+ May your just eyes find no delight 
+ in violent acts, and may you guard
+ your suppliants, almighty Zeus,  
+ protector of this land.  
+
+ Aegyptus’ sons, whose arrogance is hard to bear,  
+ are coming after me, a fugitive,  
+ with cries of lust, in their desire                                                        
+ to capture me by force. You hold
+ the balance beam that governs all,  
+ and for we mortal human beings,  
+ without you nothing is fulfilled. [^note-422]  
+
+ [Enter an Egyptian HERALD, with an armed escort.]  
+
+CHORUS [^note-423]  
+ Aaaiiiii! Aaaiii! Here on the land
+ my ravisher approaches from the sea. 
+ May you die before you seize me! I cry out in my grief and pain!  
+ I see what they are going to do,                                                          
+ to take me off by force. Aaaiii!  
+ Move off—run to our sanctuary
+ there on the shrine. The savage insolence
+ on sea and land we cannot bear.  
+ O lord of earth, protect us!  
+
+[The members of the Chorus move up onto the higher parts of the shrine and cling to the statues of the gods]  
+
+HERALD
+ Come down from there—and hurry!  
+ Move off swiftly to the ships,  
+ as fast as feet can get you there. If not, we’ll rip out all your hair,  
+ or stab you with our spears,  
+ or slice off heads in streams of blood!                                               
+ Damn you, get down from there!  
+ Start moving to the ship! And hurry!  
+
+CHORUS
+ Would you had died in your bolted ship
+ while sailing here on the great salt sea,  
+ you and your masters’ arrogant pride!  
+
+HERALD
+ I order you to stop these cries. Come on!                                          
+ Leave this sanctuary! Move to the ship! One with no city or honour here
+ gets no respect from me.  
+
+CHORUS
+ O never again may you behold
+ the stream that feeds our oxen,  
+ the river Nile, which nourishes
+ by its increase life-giving blood
+ for mortal men. I am native here,  
+ old man, and from an ancient line.                                                     
+
+HERALD
+ I’m ordering you to move to the ship.  
+ Willing or not, get yourselves on board! If I lay violent hands on you
+ to force you there, you’ll suffer.  
+
+CHORUS                                                                                                                         
+ Alas! Alas!  
+ May you all perish helplessly,  
+ driven off course on the raging sea
+ by eastern winds onto shoals of sand,                                                                                                                                                                                                             
+ wrecked at Sarpedon’s burial mound! [^note-424]  
+
+HERALD
+ Keep up these shrieks of yours, these cries,  
+ and keep on summoning the gods.  
+ You will not escape an Egyptian ship,  
+ not even if you scream and wail and chant more bitterly than this.  
+
+CHORUS
+ May mighty Nile,  
+ who nurtures you, dissolve away                                                       
+ your insolent pride and kill you.  
+
+HERALD
+ I’m ordering you to our curving ship,  
+ as quickly as you can—no stalling.  
+ We’re not afraid to force you down
+ and haul you off by the hair.  
+
+CHORUS
+ Aaaiii, father! These sacred images—  
+ they are not helping me! Step by step
+ the spider creeps to drag me out to sea, a dark black dream, a nightmare!  
+ Alas! Alas! O mother Earth,                                                                
+ O mother Earth, turn aside
+ these fearful words he shouts.  
+ O son of Earth! O father Zeus!  
+
+HERALD
+ I’m not afraid of these Argive gods.  
+ They had no part in raising me
+ and will not help in my old age.  
+
+CHORUS
+ The two-footed serpent in his rage
+ is closing in on me—like a snake he grabs and bites my foot.  
+ Alas! Alas! O mother Earth, 
+ O mother Earth, turn aside
+ these fearful words he shouts.                                                            
+ O son of Earth! O father Zeus!  
+
+HERALD
+ If you refuse to move to the ship,  
+ That dress you’re wearing won’t be spared—  
+ we’ll rip it into shreds.  
+
+CHORUS
+ We are lost!  
+ O king, the evil pain we must endure!  
+
+HERALD
+ It seems
+ I’ll have to drag you away by your hair, since you are so slow to do what I say.  
+
+CHORUS
+ You chiefs and leaders of the city, 
+ these men are taking me by force!  
+
+HERALD
+ You’ll soon be seeing many leading men,  
+ Aegyptus’ sons, and you won’t need to ask
+ who is in control. So lift your spirits.                                                
+
+[Enter king Pelasgus with an armed escort]  
+
+PELASGUS
+ You there, what are you doing? What insolence
+ has led you here to disrespect this land
+ of Pelasgian men? Perhaps you think
+ you’ve reached a state made up of women? For a barbarian confronting Greeks
+ you are far too arrogant. Your mind
+ has not been thinking as it ought to do,  
+ and you have made a number of mistakes.  
+
+HERALD
+ Where in this affair have I been wrong
+ and gone against my rights?  
+
+PELASGUS
+ First of all,                      
+ you are a foreigner but have no sense
+ of how to act as one.  
+
+HERALD
+ How is that true?  
+ I am taking what I lost and now have found.  
+
+PELASGUS
+ To what patron in this land did you appeal?                          
+HERALD
+ To the mightiest patron of them all—                                              
+ to the Searcher god, to Hermes.  
+
+PELASGUS
+ You talk of gods,  
+ and yet you disrespect these deities.  
+
+HERALD
+ I worship those around the river Nile.  
+
+PELASGUS
+ So, as I understand, these gods of ours
+ are nothing to you?  
+
+HERALD
+ Unless some person here
+ seizes these girls and takes them from me,  
+ I’m leading them away.  
+
+PELASGUS
+ If you touch them,  
+ you’ll soon have reason to regret you did.  
+
+HERALD
+ I hear your words—they’re not hospitable.                             
+PELASGUS
+ I don’t show hospitality to those
+ who rob the gods.  
+
+HERALD
+ I will go now and tell
+ Aegyptus’ sons about what’s happened here.  
+
+PELASGUS
+ To my mind that is no concern at all.  
+
+HERALD
+ However, so I may know what’s going on                                         
+ and speak more clearly—for a herald’s task
+ requires a detailed, accurate report—  
+ what do I say about the man who stole
+ these women away from their own cousins?  
+ War god Ares does not use witnesses to judge a case like this or take silver
+ to settle a dispute. Before all that,  
+ many will fall and twitch away their lives.  
+
+PELASGUS
+ Why should I tell you my name? In due time,  
+ you and your people will all learn of it.  
+ As for these women, you may lead them off,                                   
+ if you convince them in a righteous argument
+ and they all willingly agree to go.  
+ This issue has been dealt with in a vote
+ of all the people in the city here— it was unanimous: never to give
+ this band of women up to any force.  
+ A bolt through this decree keeps it nailed down.  
+ It is immoveable. Though not inscribed
+ on tablets or sealed up in folds of books,  
+ from the tongues of people free to speak
+ you’ll hear it clearly. Now go! Out of my sight
+ as quickly as you can!  
+
+HERALD
+ It looks as if                                        
+ we are about to launch a brand new war.  
+ May strength and victory be with the men!                            
+PELASGUS
+ You’ll find the people of this land are men—  
+ their drinks are never brewed from barley! [^note-425]  
+
+ [The HERALD exits, going back to the Egyptian ships. PELASGUS turns to the women of the CHORUS]  
+
+ Now, all you women, take courage. Move off
+ with your handmaidens here, who are your friends,  
+ inside our city’s massive walls, fenced in
+ with a ring of well-built towers. [^note-426] For lodging
+ there are many homes owned by the people.  
+ I, too, have a house, built at no small expense,  
+ where you may stay with many others
+ in nicely furnished rooms. However,   
+ if you would rather live in your own home,  
+ apart from others, that, too, is possible.  
+ Feel free to choose the place you like the best,  
+ the one you find the most agreeable.  
+ I and all the people in the city
+ who cast their votes are your protectors. 
+ Why wait for those with more authority?  
+
+CHORUS
+ O noble king of the Pelasgians,  
+ you are so gracious to us. In return
+ may you enjoy your fill of blessings! Be kind enough to send our father here,  
+ brave Danaus. He is our counsellor,  
+ and we are guided by his prudent words.                                         
+ For, above all others, it is up to him
+ to advise us on the houses where we live
+ and places which will prove hospitable.  
+ For everyone is quite prepared to blame
+ a foreigner.  
+
+[Exit PELASGUS]  
+
+ May all things turn out well!  
+ May we retain our reputation here
+ and incite no angry words from citizens. And now, dear handmaidens, arrange yourselves
+ as Danaus has assigned you to attend
+ on each of us, as servants in our dowry. [^note-427]  
+
+ [The HANDMAIDENS move to stand among the members of theCHORUS. Enter DANAUS, with an armed group of Argive soldiers]  
+
+DANAUS
+ My children, we must offer prayers of thanks                                  
+ to Argive people—make sacrifice 
+ and pour libations out to them, as if
+ to Olympian gods. They have saved us!  
+ They did not hesitate. For once they heard
+ me talk about the conduct of those men,  
+ your cousins, towards their family, they were indignant and provided me
+ this band of spearmen as a retinue,  
+ so I might have an honourable rank
+ and not be killed quite unexpectedly,  
+ struck by some fatal spear in secret,  
+ and place a lasting curse upon this land.  
+ Those who obtain great favours ought to show
+ deep gratitude, from the bottom of their hearts,  
+ and hold such men in even greater honour.                                     
+ Among the many other words of wisdom from your father etched into your minds,  
+ write down this one, too: a band of strangers
+ proves itself in time. All men are prepared
+ to say bad things about a foreigner.  
+ They somehow find disgusting insults easy.  
+ So I advise you—do not dishonour me.  
+ For at your age men are attracted to you,  
+ and guarding tender fruit is always hard.  
+ Animals and men, of course, destroy it,  
+ and beasts that fly or walk upon the earth.    
+ Cypris proclaims the fruit is ripe and ready,  
+ and every man that passes by, overwhelmed
+ with passionate desire, shoots from his eye
+ a magic arrow at young virgin girls,  
+ so young and lovely. [^note-428] We must not suffer
+ the very things from which we ran away
+ with so much effort, when our ship ploughed
+ across that spacious sea, or shame ourselves
+ and please my enemies. As for our housing,  
+ we have the choice of two: Pelasgus’ home    
+ or what the city offers. Both these options
+ come without a cost—a generous gift.  
+ Just take care. Obey your father’s words,  
+ and honour modesty more than your life.  
+
+CHORUS
+ In other things may the Olympian gods
+ be favourable. As for my ripe young age,  
+ dear father, you can rest assured.  
+ Unless the gods are planning something new,  
+ I will not swerve aside and leave the path 
+ my heart has set in what it felt before.                                    
+ Go now, and let us celebrate
+ the sacred gods who guard the city
+ and those who live along the stream
+ of ancient Erasinus. And you there,  
+ you handmaidens, join in our song. [^note-429]  
+ And let us pour forth chants of praise
+ for this place where Pelasgians live,  
+ no longer honouring with our hymns
+ the flowing mouths of river Nile.  
+
+    [^note-430] Sing to the rivers here that pour their tranquil waters through the land,  
+ enrich its soil with fertile streams,  
+ and make things grow in great profusion,  
+ May holy Artemis look down                                                             
+ and have compassion for our band.  
+ And may we never be compelled
+ by Cytherea’s force into a marriage.  
+ Let that prize go to those whom I detest! [^note-431]  
+
+CHORUS OF HANDMAIDENS
+ But in this gracious hymn we chant,  
+ we mean no disrespect for Kypris, whose power ranks alongside Hera
+ and very close to Zeus. She is revered,  
+ the goddess full of devious wiles,  
+ for all her sacred works. With her,  
+ in their dear mother’s company,  
+ Desire stands with sweet Persuasion,  
+ a deity who will not be denied.                                                          
+ Harmonia has received as well
+ a share of goddess Aphrodite
+ and the whispering ways of Love.                                             
+ I fear what lies ahead for fugitives—  
+ winds of evil, pain, and bloody wars.  
+ How did they travel here so easily
+ with that swift ship in their pursuit?  
+ Whatever Fate decrees will come to pass.  
+ The great and infinite mind of Zeus
+ cannot be overcome. This marriage                                                   
+ may well be destined to take place
+ the way it has for many women before.  
+
+CHORUS
+ O great Zeus, 
+ save us from marriage to Aegyptus’ sons!                               
+HANDMAIDENS
+ That might, in fact, be best.  
+
+CHORUS
+ You seek to charm someone
+ whose heart cannot be swayed.  
+
+HANDMAIDENS
+ What lies in store you do not know.  
+
+CHORUS
+ How could I see into the mind of Zeus?  
+ No one can penetrate that deep abyss.  
+
+HANDMAIDENS
+ You need to moderate your prayers.  
+
+CHORUS
+ What moderation would you have me learn?                                   
+
+HANDMAIDENS
+ Do not ask for too much from the gods.  
+
+CHORUS
+ May lord Zeus save me from a marriage
+ with a wretched man whom I detest, just as he used his healing hand
+ to bring back Io and with gentle force
+ released her from her pain.  
+
+ And may he make the women strong.  
+ I will accept a mix of good and bad
+ for that is better than mere trouble.                                                    
+ So now let justice judge our cause
+ and with my prayers deliver me
+ through saving efforts of the gods.  
+
+[They all leave in the direction of the city]  
+
+ 
+...  
+
+EPILOGUE  
+
+Suppliant Women is the first or second work in a sequence of four plays. The others have been lost except for fragments. However, the general outline of the traditional story is well known. In the ensuing battle between the Argives and the sons of Aegyptus, king Pelasgus is killed, and Danaus becomes king of Argos. The daughters are compelled to go through with the marriages, and, acting on their father’s instructions, they kill their husbands on the wedding night—all except Hypermnestra, who refuses to kill her husband, Lynceus. After the death of Danaus, who is killed by Lynceus, Hypermnestra and Lynceus become the new king and queen of Argos. It is not clear exactly how Aeschylus brings the story to a close.  
+
+ 
+...  
+
+
+[^note-401]: All speeches by members of the Chorus are indicated in the text by the word CHORUS, although in a production of the play these will be divided up, with some spoken by a Chorus Leader, some by individual members of the Chorus, and some by various group of choral members, as a director will determine. 
+
+[^note-402]: Branches wound with white wool were the traditional sign of a suppliant. A suppliant was a person, usually a foreigner in distress, making a formal appeal, in the name of the gods, for protection or refuge (similar, in some ways, to modern refugees appealing for asylum). 
+
+[^note-403]: Aegyptus and Danaus were brothers, so that the young women were being asked to marry their first cousins. There is, however, continuing uncertainty about whether the Chorus’ main objection is to marriage per se or whether they are objecting to marriage to these particular men (or both). 
+
+[^note-404]: Epaphus means touch. 
+
+[^note-405]: Metis was an alternative name for Procne, wife of king Tereus of Thrace. Tereus raped Procne’s sister, Philomela, and then mutilated her. In revenge the two sisters killed Tereus’ childItys and served the flesh to him at a meal. The three of them were all changed into birds. Metis, transformed into a nightingale, was always singing laments for her lost child. 
+
+[^note-406]: The “mist covered land” in Egypt, so named for the appearance of its coastline to ships. 
+
+[^note-407]: The metaphor is taken from wrestling. To fall on one’s back is to lose a round to one’s opponent. 
+
+[^note-408]: The virgin daughter of Zeus mentioned is Artemis, daughter of Zeus and Leto. 
+
+[^note-409]: There is apparently a line missing here. The words in square brackets have been provided to maintain the logic of the conversation (on the basis of a suggestion by Paley). 
+
+[^note-410]: Apollo quarrelled with Zeus over the death of his son, Aesculapius, and killed the Cyclops who made Zeus’ thunderbolts. As a result, he was exiled from heaven for a number of years and was forced to labour for hire on earth. 
+
+[^note-411]: Poseidon, brother of Zeus, was god of the sea. 
+
+[^note-412]: The words in square brackets are based on a conjecture by Bothe to supply a missing line (Paley). 
+
+[^note-413]: There may be some lines missing here. Traditionally, Libya’s first child was Agenor, and Agenor produced Belus. 
+
+[^note-414]: Families can grow powerful by intermarriage because such unions preserve the resources of the couple within the same family group. Discarding a wife is presumably easier in these marriages because there is no rival family to deal with. 
+
+[^note-415]: The words in brackets are an adaptation of a suggestion by Paley for a gap in the text. 
+
+[^note-416]: The two groups are the gods, who require shelter for the suppliants, and the sons of Aegyptus, who are demanding the return of their female cousins. Paley notes that the shipbuilding metaphor seems to refer to a machine which keeps the planks tightly in place as they are being nailed down. 
+
+[^note-417]: Io, driven out of Argos by the stinging gadfly, eventually crossed into Asia Minor at the western end of the Euxine Sea (Black Sea). Her crossing, so the story goes, is the origin of name Bosphorus (meaning the crossing of the cow), traditionally the boundary between Europe and Asia. 
+
+[^note-418]: These geographical details trace Io’s journey from north to south through Asia Minor and across to Aphrodite’s land, Cyprus, on her way to Egypt. 
+
+[^note-419]: Typho (or Typhon or Typhoeus) was a monstrous son of Earth who fought against Zeus. Zeus defeated Typho and imprisoned him underground (traditionally under Mount Etna). The monster creates storms and earthquakes when he struggles to get free. 
+
+[^note-420]: Their lips are “shadowed” either because they are holding their suppliant branches in front of their faces or because they are wearing veils. 
+
+[^note-421]: Artemis and Hecate, two different goddesses, were commonly identified as a single goddess. 
+
+[^note-422]: The contrast of food stresses the difference between the Argives and the Egyptians: papyrus was a common source of food in Egypt and wheat in Greece. 
+
+[^note-423]: Zeus his commonly pictured as holding up his scales and weighing alternative outcomes in a particular event. The result determines what will happen. 
+
+[^note-424]: The text of this exchange between the Chorus and the Egyptian herald (to line 908 in the Greek) is very corrupt, and much of the English text is mere conjecture. 
+
+[^note-425]: Sarpedon is a warrior leader in Homer’s Iliad, a major ally of the Trojans. When he is killed his body is, with divine aid, taken to his home in Asia Minor for burial. 
+
+[^note-426]: Paley notes that the Egyptians drank a variety of beer. Pelasgus is presumably implying that real men, like the Argives, drink wine. 
+
+[^note-427]: The Greek text does not use the word “handmaidens,” but rather “group of friends,” which could refer to the Argive escort. There is some doubt about whether the Handmaidens are part of the play or not. 
+
+[^note-428]: As Sommerstein points out (p. 417), this is the only specific mention of the Handmaidens in the text of the play. He suggests that they may have been added in a later production. 
+
+[^note-429]: Cypris is another name for Aphrodite, goddess of love. 
+
+[^note-430]: It is not clear who is being addressed here (the word for “handmaidens” is not in the Greek text), whether the invitation to join in is directed at other members of the chorus or at the handmaidens or at someone else. Since in the exchanges which follow one of the groups is seeking to calm down the other and to advise it not to be so passionately afraid, the dramatically logical choice would seem to be the Handmaidens. It would be rather odd to divide the Chorus against itself, with half the members having a very different feelings from the other half. Some modern editors have assigned the lines of this “alternate” Chorus to the group of Argive soldiers who accompany Pelasgus. That option takes care of a number of staging problems which occur with the Handmaidens. 
+
+[^note-431]: Cytherea is a common alternative name for Aphrodite. 
+  
+

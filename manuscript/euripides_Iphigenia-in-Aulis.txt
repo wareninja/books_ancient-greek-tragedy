@@ -1,0 +1,2124 @@
+# Iphigenia in Aulis {#euripides_book-iphigenia-in-aulis}  
+  
+C> *This edition is based on the [publicly available](https://bacchicstage.wordpress.com/euripides/iphigeneia-in-aulis/) translation by George Theodoridis*  
+  
+...  
+     
+![The Sacrifice of Iphigenia - François Perrier](images/the-sacrifice-of-iphigenia_by-francois-perrier.jpg)  
+  
+
+**DRAMATIS PERSONAE**  
+**AGAMEMNON** *(King of Argos)*  
+**OLD MAN** *(Servant to Agamemnon)*  
+**MENELAOS** *(Agamemnon’s brother, King of Sparta)*  
+**KLYTAIMESTRA** *(Agamemnon’s wife)*  
+**IPHIGENIA** *(Daughter of Agamemnon and Klytaimestra)*  
+**ACHILLES** *(Chief of the Myrmidons, an army)*  
+**FIRST MESSENGER**  
+**SECOND MESSENGER**  
+**FIRST CHORUS** *(Of women from Chalkis)*  
+**SECOND CHORUS** *(Men and women of Argos, attendants to Klytaimestra and Iphigeneia)*  
+**THE BABY ORESTES** *(Silent)*  
+**GUARDS** *(Silent)*  
+**VARIOUS OTHER ATTENDANTS** *(Silent)*  
+
+...  
+
+*At the camp of the Greek army.*  
+*We are in front of Agamemnon’s lavish tent which has two entrances, one of which is the larger and used only by Agamemnon and his family. His servants use the other.*  
+*In front of the tent is a small table at which sits Agamemnon. There is a small oil lamp on the table as well as various writing implements.*  
+*He is writing a letter, an exercise which, it seems, is excruciatingly difficult for him.  He writes a few words, then scratches them out and begins again. At one point he is satisfied with what he’s written, seals it with his ring but then, a moment later, he scratches away the seal and re-reads the letter. Later, he becomes so angry that he picks up the wooden frame upon which the scroll rests and throws it violently to the ground. His head falls heavily into his hands and he begins sobbing. Finally, he picks up the scroll, gets up and moves away from the table. He walks slowly about the stage, anxiously searching the starry sky.*  
+
+*Dawn is about to break. The sun should rise slowly until full daylight is reached just before line 164.*  
+
+   
+
+  
+
+**Agamemnon:** *Shouts towards the tent.*  
+Hey, old man!  
+*No answer. Louder.*  
+Old man, come out here! Out here, in front of the tent!  
+
+**Old Man:** *From within the tent.*  
+I’m coming, my lord… I’m coming! What’s in your mind, this time, my lord Agamemnon?  
+
+*Pause. Old man is being too slow for Agamemnon*  
+
+**Agamemnon:**  
+Come on, hurry up!  
+
+**Old Man:** *From within*  
+I am hurrying, my lord, I’m hurrying!  
+
+*Enter the old man from Agamemnon’s tent.*  
+
+**Old Man:**  
+Ah, old age! It has burdened me with lack of sleep and with overactive eyes, my lord!  
+
+**Agamemnon:** *Pointing at the sky*  
+Come, look up there!  Tell me, what star would that be, that one, gliding across the sky… up there?  
+
+**Old Man:**  
+That?  That’s Sirius, my lord. It’s going past those seven stars, the Pleiades, my lord… straight through the very centre of the heavens.  
+
+**Agamemnon:** *Nods, then looks around him. Pensively, anxiously.*  
+Not a sound to be heard anywhere, old man!  
+Not from any birds, not from the sea and not from any of the winds that rule over the waters between us and Epirus… Total silence!  
+
+**Old Man:**  
+So, my lord, why on earth are you wandering about out here, then? The whole city of Aulis is quiet and the guard on the walls has yet to change. Come, my lord, let’s go back inside!  
+
+**Agamemnon:**  
+I envy you, old man!  I envy the man with the quiet life, the safe life. I envy the man who knows no fame; and I don’t envy the man whose life is heavy with the trappings of office.  
+
+  
+**Old Man:**  
+But, surely, my lord, surely it is there, in the trappings of office and power, that we find pleasure!  
+
+**Agamemnon:**  
+Pleasure!  Pleasure, my old friend, is a dubious thing, an unstable thing; and as for all the trappings of office, all the power that goes with it, sure they might look sweet from the distance but once you get them, they become unbearable pains!  
+There are times when the gods shun you, reject you, thwart your every effort and there are times, too, when the whining and the moaning of your men crush you!  
+
+  
+**Old Man:**  
+I… I don’t approve of words like these coming out of the mouths of leaders.  
+Your father, my lord, Atreas, didn’t bring you into this world so that you may taste only its pleasures, my lord. No, he gave you life so that you may understand pain, as well as pleasure.  
+You, too, my lord are a mortal and, whether you like it or not, this is how the gods want it: mortals must taste the good along with the bad.  
+But I see a letter in your hand, my lord. I saw you trying to write it by the light of that lamp there.  You write down some words, then you scratch them out and write other words in their place. Then you seal the letter. Then you scratch away the seal and then you throw its pine frame onto the ground and then you begin to cry profusely!  
+This is the  behaviour of a man in the grips of despair, my lord and it leaves no doubt in the mind of anyone who sees you, my lord, that you… that you’ve gone mad, my lord!  
+  
+What has brought on all this anxiety?  Come, tell me, share your story with me.  You will be doing so to a man who’s loyal and faithful to you.  Your old father-in-law, Tyndareus, gave me to your wife, Klytaimestra, as part of her dowry, to be her loyal servant.  
+
+**Agamemnon:**  
+My old friend, Thestius’ daughter, Leda, had three daughters: Phoebe, Klytaimestra (my wife) and Helen. This last one, Helen, had received the most famous, the greatest sons of the whole of Hellas as her suitors… ferocious threats of murder were uttered by those who had missed out on her.  Tyndareus, her father was in a dreadful dilemma: should he allow her daughter to marry or not? What would be the best action for him to take?  
+Finally, my old friend, he came upon the answer.  
+  
+The suitors should all swear a solemn oath, by giving their right hand and by making sacred sacrifices, that each and every one of them would defend the man who won Helen’s hand in marriage, no matter who that would be and to come to his aid in case someone stole her from their home and thus deprived that man of his legal conjugal bed. And, they should also swear that they would attack and destroy the land of the wrongdoer by the force of arms, whether his land is Greek or foreign.  
+Once the wise old Tyndareus had convinced them all to take these oaths, he allowed his daughter to choose the suitor she liked and Helen allowed herself to be guided by the sweet, lusty sighs of Aphrodite in her heart.  
+  
+Well, Helen, unfortunately, old man, chose Menelaos!  
+After that, Paris, the man who, according to the legend, judged the three goddesses, Hera, Aphrodite and Athena, for their beauty, arrived at Sparta.  
+He came all the way from Troy, dressed in all his colourful garb, and, typical of the barbarians’ love for splendour, his whole body was sparkling with gold jewels!  
+Helen fell in love with him and he fell in love with Helen.  The opportunity was made for him to elope with her, since Menelaos was absent at the time. Paris took it and carried her off back to his own home, in Ida, a place where the cows graze in luxurious pastures.  
+Well, old man, Menelaos was outraged by this!  In his frenzy, he rushed about the whole of Greece, calling upon everyone to remember Tyndareus’ solemn oath and to help him, since he was the wronged husband.  
+  
+And that’s why the whole of Greece rose up in arms with great fervour. They picked up their spears, strapped on their armour, and rushed over here, in Aulis, with ships, troops, and a huge number of horses and chariots.  
+I, being Menelaos’ brother and for his own good, was chosen by them to be their leader… How I wish this honour were given to someone else, my old friend!  
+So, we have all gathered here and here we are still, tied down by the weather!  
+After a while, Calchas, our prophet, came up to us and suggested –much to our dismay- that we should sacrifice my own daughter, Iphigenia, to the goddess Artemis, whose shrine is in these parts!  
+  
+He announced that if we did make that offering to the goddess, we would be able to sail away and we would succeed in sacking the Phrygian capital, Troy; otherwise we would fail.  
+This got me so angry that the very next moment I ordered Talthybius to use his powerful voice and call the army to disband.  I was not going to slaughter my own daughter, old man! That I could never do!  But my brother, using all sorts of arguments, finally persuaded me to commit this dreadful deed!  
+I… wrote a letter to my wife, Klytaimestra.  
+  
+I told her to bring our daughter here so that she may marry Achilles. It was a lie.  
+In it I spoke of Achilles’ high rank, his bravery, his honour… and told her that the man refused to sail with us unless one of our daughters became his wife and went to live at his house, in Phthia. And it was with this lie, about the girl’s mock-marriage, that I tried to persuade my wife to bring her here.  The only other Greeks who know about this are Calchas, Odysseus and Menelaos.  
+Well, old man, I’ve reconsidered all those dreadful decisions I’ve made back then and wrote another letter in which I am correcting them.  This is the letter which you saw me writing in the dark, opening it and shutting it, labouring over it.  
+  
+Here, take it now and carry it over to Argos.  Now, I’ll tell you everything I’ve written in this folded scroll because you are a true and loyal servant to my house and to my wife.  
+
+**Old Man:**  
+Yes, tell me so that what I say to your wife agrees with what you’ve written in there.  
+
+  
+**Agamemnon:**  
+The words I have written here, old man, are these:  
+
+> “Leda’s daughter, Klytaimestra, I’m sending you a second letter to replace the first. Do not send our daughter here, in Aulis, the place whose harbours are well protected from the harsh seas and which juts out towards Colchis. We shall make the wedding celebrations another time.”  
+
+  
+**Old Man:**  
+But how will Achilles take this?  Will he not get furious with you and with your wife if you deprive him of his bride?  This is very dangerous indeed, my lord!  
+Please tell me what to say to your wife.  
+
+**Agamemnon:**  
+Achilles is acting in name only and not in deed. He knows nothing of my scheme, nothing of the marriage and nothing of my supposed wish to give my daughter to him, to have him take her into his arms and into his marital bed.  
+
+**Old Man:**  
+You have dared to do a most frightening thing, my lord, Agamemnon! You have declared the girl to be the bride of a goddess’ son, yet you bring her here to be a sacrificial offering for the benefit of the Greeks!  
+
+**Agamemnon:**  
+I was out of my wits, old man! Out of my senses!  
+But go! Go, now! Run!  Forget your old age and run!  
+
+  
+**Old Man:**  
+Yes, my King! I shall run!  
+
+**Agamemnon:**  
+And don’t waste any time hanging about some watering hole in the woods… and don’t fall victim to the magic of sleep!  
+
+**Old Man:**  
+How can you say such a thing, my lord?  
+
+**Agamemnon:**  
+And… when you come across some fork in the road, check it carefully. See that there are no wheel marks on the road. They might be from the wagon that is bringing the girl here, to the Greek ships.  
+
+**Old Man:**  
+I’ll do that, my lord.  
+
+  
+**Agamemnon:**  
+And… if she has already left the safety of her home and if you chance to meet her retinue on the road, send them back again… take the reins from their hands and hasten the horses towards the shrines of the Cyclopes.  
+
+**Old Man:**  
+And, my lord, if I say all these things you’ve just told me, will your daughter and your wife believe me?  
+
+**Agamemnon:**  
+Make sure you don’t break the seal of the scroll!  
+Now go!  Look!  Dawn’s light is already being taken over by the fire of the Sun’s brilliant chariot! Go! Accomplish your tasks, old man!  
+*Exit Old Man.*  
+No man is blessed or happy for ever. No one was ever born to a life free of misery.  
+
+*Exit Agamemnon into his tent.*  
+*Pause. Daylight.*  
+*Enter First Chorus of women*  
+
+  
+**First Chorus:**  
+We have left behind our land, Chalkis, a land washed by the salty waters of glorious Arethousa and we’ve travelled through the narrow straights of Euripus to come here, to Aulis, to this sandy peninsula.  
+
+**First Chorus:**  
+We have come to watch the army of the divine Greeks and their thousand ships.  
+
+**First Chorus:**  
+Our husbands told us they are all gathered here, under the helm of Agamemnon and his fair haired brother, Menelaos, noblemen both, preparing to launch an expedition against Troy.  
+
+  
+**First Chorus:**  
+They’re off to bring back Helen, Menelaos’ wife, whom Paris, the Trojan cowherd, abducted from her home in Sparta, a city built by the reed-covered banks of the river, Eurotas.  
+
+**First Chorus:**  
+Helen was given as a gift to Paris, by Aphrodite, one day when, near the cool springs, she won the beauty contest from her rivals, Hera and Palas Athena.  
+
+**First Chorus:**  
+I sped through Artemis’ woods, a place rich with sacrifices, my youthful shyness blushing my cheeks, anxious to see the army’s might, the tents of the Greeks and their countless horses.  
+
+  
+**First Chorus:**  
+And there I saw the two Ajaxes sitting together: Oeleus’ son and the son of Telemon, the crown of Salamis and Protisilaos and Palamides, whose father is Poseidon’s son. They were sitting together on stools, joyfully immersed in a game of draughts, a game full of complex moves.  
+
+**First Chorus:**  
+Diomedes, too, was there amusing himself, throwing a discus.  Next to him was Myriones, son of Ares, a marvel to all men and Odysseus, Laertes’ son, who came from the hills of his island, Ithaca. Next to him was Nireas, first among the Greeks in beauty.  
+
+**First Chorus:**  
+And fast-footed Achilles, too, whose feet fly faster than the wind. He is the son of the goddess Thetis, and his tutor was Cheiron, the most honourable of all the centaurs.  
+
+  
+**First Chorus:**  
+We saw him, racing in full armour upon the shells of the shore, in a contest against a chariot pulled by a team of four horses, a contest out of which he came victorious.  Eumelus, Pheres’ grandson was the driver of the chariot who, with a goad in his hand, he urged on and shouted at his beautiful steeds whose reins were a work of wondrous design, wrought in lustrous gold.  
+
+  
+**First Chorus:**  
+The two horses in the centre, those that took the weight of the yoke, were dappled with spots of white; the two on the outside carried the traces and they had to negotiate the turns on the track. Those two had hair the colour of fire and were spotted from below the ankles of their great hooves.  There, alongside of them, ran Achilles, Peleas’ son, in his full armour. He kept pace with the rail and with the wheels of the chariot.  
+
+  
+**First Chorus:**  
+I came to take a look at the great number of ships, a sight most pleasant and most able to satisfy my girlish eyes. What a sweet joy!  
+
+**First Chorus:**  
+The right wing of this naval force was taken up by the fifty swift ships of the war-loving Myrmidons from Phthia.  At the tip of their sterns stood the golden statues of Nereids, the emblem of Achilles’ army.  
+
+  
+**First Chorus:**  
+Moored next to them was an equal number of Argive ships, headed by two chiefs, Euryalus, the son of Mecisteus, who was raised by his grandfather, Talaus and Sthenelus, Capaneus’ son.  Next to these were the Athenian ships -sixty of them, and these were captained by Theseus’ son.  
+
+  
+**First Chorus:**  
+Their emblem was the goddess, Palas Athena, standing on a chariot pulled by winged horses, an emblem that pleased and encouraged the sailors.  
+I also saw the Boetian fleet, fifty in number, led by Leitus, a mortal, born of the Earth. These ships, too, were adorned with emblems at their high sterns, this time of Cadmus, holding a golden serpent in his hands.  
+
+  
+**First Chorus:**  
+Ships from Phocis and Locris were also there in similar numbers and their captain was Oileus whose city is the famous Thronium.  
+
+**First Chorus:**  
+Atreas’ son, Menelaos, brought with him from Mycenae, the city built by the Cyclopes, one hundred ships and all the sailors to man them. With him also was his close friend, Adrastus, their commander, ready to exact vengeance for Hellas’ sake, against the woman who fled her husband’s halls so as to marry a barbarian.  
+
+  
+**First Chorus:**  
+And I saw Gerenian Nestor who came from Pylos. On the stern of his ships was an emblem portraying the river Alpheus, his neighbour, who, on that emblem was given four feet and made to look like a bull.  
+The Aenians brought twelve ships, captained by their king, Gouneus; and beside them were moored the lords of Elis whom everyone called Epeians.  
+
+  
+**First Chorus:**  
+Their captain was Eurytus.  
+The fleet of the war-loving Taphians, with its foaming oars, was commanded by their king, Phyleus’ son, Meges who had left the Echinae, islands that are far too unwelcoming for sailors.  
+
+  
+**First Chorus:**  
+The left flank of the Greek armada ended with the twelve trim and fast ships, led by Ajax whose birthplace is Salamis.  
+
+**First Chorus:**  
+This is the naval force I saw with my own eyes and about which I had heard earlier.  
+If any barbarian dared to bring his ships against these he’d never see his home again.  
+So this is the armada I saw here and about which I had heard back home earlier.  
+
+*Enter Menelaos and the Old Man. Menelaos is carrying a staff and has nearly finished reading Agamemnon’s letter which he has torn from the Old Man’s hands.*  
+*The Old Man is angry and tries to take the letter back from him.*  
+
+  
+**Old Man:**  
+Menelaos!  Oh, this is a terrible thing you’re doing!  How dare you!  
+*Menelaos ignores him.*  
+No, you shouldn’t do that!  Don’t…  
+
+**Menelaos:**  
+Leave!  Go away old man! You’re overdoing your loyalty to your master!  
+
+**Old Man:**  
+Your very reprimand shows the extent of my virtue!  
+
+**Menelaos:**  
+Act according to your position, or you’ll be very sorry, old man!  
+
+**Old Man:**  
+You should not have opened this letter!  
+
+**Menelaos:**  
+And you should not be bringing so much trouble to the Greeks!  
+
+**Old Man:** *Tries to take the letter from Menelaos.*  
+Argue with others about that. Now let go of my letter!  
+
+  
+**Menelaos:**  
+No, I will not!  
+
+**Old Man:**  
+Nor will I!  
+
+**Menelaos:**  
+If you don’t let go of it I shall crack your skull open with this staff!  
+
+**Old Man:**  
+Dying for my master will be a glorious thing.  
+
+**Menelaos:**  
+Let go! *He gains control of the scroll.* For a slave you have just too much to say!  
+
+**Old Man:** *Shouts into Agamemnon’s tent.*  
+Agamemnon!  Master! Come out! We’ve been robbed! My lord!  
+*Enter Agamemnon from his tent.*  
+This man has forcefully and unjustly ripped your letter from my hands, my lord!  
+
+**Agamemnon:**  
+What?  What is all this loud brawling in front of my tent?  
+
+**Menelaos:**  
+Listen to me, Agamemnon! I have a greater right to speak than he does!  
+
+**Agamemnon:**  
+Menelaos!  Why are you arguing with this man?  Why all this violence?  
+
+  
+**Menelaos:**  
+First, look at me in the eye and then I’ll tell you!  
+
+**Agamemnon:**  
+Look at you? Why? Do you think that I, son of Atreas the fearless, will be afraid to raise my eyes and look at you in the eye?  
+
+**Menelaos:**  
+See this? See this letter, this… contemptible letter with the contemptible message inside it?  
+
+**Agamemnon:**  
+Yes, I see it and, before you start you’d better hand it back to me!  
+
+**Menelaos:**  
+No!  Not before I tell all the Greeks what it says!  
+
+**Agamemnon:**  
+So you broke its seal and read its contents?  These are things you should know nothing about!  
+
+**Menelaos:**  
+Yes, you may well suffer now because I did break your seal and yes, I do know the secret trickery you were concocting!  
+
+**Agamemnon:**  
+By the gods! Aren’t you ashamed of yourself? Where did you catch him?  
+
+**Menelaos:**  
+I was waiting to see if your daughter would leave Argos to come to the army camp.  
+
+**Agamemnon:**  
+What?  Who gave you the right to spy upon my affairs? What a disgraceful behaviour!  
+
+  
+**Menelaos:**  
+Who gave me the right? My curiosity. Do you think I’m some slave of yours?  
+
+**Agamemnon:**  
+This is scandalous! Am I not allowed to manage the affairs of my own home, in my own way, now?  
+
+**Menelaos:**  
+No, you’re not! Because the workings of your mind always have been, are now and always will be, deceitful.  
+
+**Agamemnon:**  
+An eloquent covering of a shameful act! Eloquence, brother, begets hatred!  
+
+**Menelaos:**  
+Yes, but an unstable mind is an evil thing, something which befuddles the minds of one’s friends.  
+Let me tell you of your faults, Agamemnon! And I’ll list them all, if you don’t start getting angry or begin to deny them. Believe me, I won’t be exaggerating.  
+You know very well how humble you were during the days you wanted to be the leader of the Trojan expedition. Well, you pretended you didn’t want the job but you did.  
+  
+During those days you shook the hand of everyone you came across and, whether they wanted it or not, your doors were always wide open and ready to receive everyone. You’d greet anyone and everyone, hoping with this behaviour to gain their approval and thus become their leader.  Then, the moment you became one, all this nice behaviour changed and you had turned your back on all your friends. You locked yourself up indoors and became totally unapproachable to everyone.  
+A good man, my brother, must not change his manner just because his life is going well. It is, in fact, at that time when his friends should be able to rely on him because it is at that time, the time when things are going well with him, that he can help them the most.  
+Now, that was the first of my complaints against your character.  
+  
+Then, you arrived here, in Aulis, with the whole of the Greek army and immediately you lost every virtue you had.  You became a nobody. The gods deserted you and they wouldn’t give you a favourable wind for our sails. You were totally bewildered by the change of your luck! And so, the Greeks ordered you to let them board their ships and go back home and to stop wasting their efforts here.  
+Well!  The looks your face took up at that suggestion!  The thought that you would no longer lead our thousand ships against Priam, that you would no longer conquer his city with our soldiers – all that filled you with utter distress and dismay!  
+“What shall I do now?” you asked me. “Tell me what plan I should adopt!  Who can help me here?”  You were terrified of losing face and authority!  
+Calchas gave you the answer and you jumped with joy when he told you that the Greeks would be able to sail for Troy only after you had sacrificed your daughter to Artemis. You were only too glad to take up that offer!  Too glad to commit the girl to the goddess.  
+  
+Then, without anyone forcing you, totally of your accord –and don’t claim it wasn’t- you had sent a letter to your wife to bring Iphigenia here, in the pretence that she’d be marrying Achilles. Indicating the sky Look up there!  This is the very same sky that heard your words then and the words you chose to write afterwards, reversing your message to your wife, telling her this time, in words to the effect that “I’ll no longer be my daughter’s murderer!”
+Isn’t it so?  Of course it is!  
+You, Agamemnon, are doing what countless others have also done in public life: While they’re in power they put up enormous efforts to keep it but then, when the public makes a stupid decision –sometimes understandably so because the leader is too weak to lead the State- these public figures fall all in a heap and they disgrace themselves!  
+  
+My own heart aches more for poor Hellas than for you because Hellas was about to achieve something great against the barbarians when you and your daughter stopped her; and now these insignificant barbarians will be allowed to go free!  Free to mock her!  
+The true leader of a city and of an army is not merely brave but intelligent. Intelligence, brother, can turn any man into a head of State.  
+
+**First Chorus:**  
+What an awful thing it is for brothers whose views differ to come to insults!  
+
+  
+**Agamemnon:**  
+And now it’s my turn to criticise you but, no, I won’t do so in some arrogant, contemptuous way, with my eyes looking down on you but I shall do so in a conciliatory, brotherly way.  
+A sensible man usually speaks to others with respect.  
+So, tell me, my brother: What is all this violent fury? What’s with this flushed face of yours? Who’s done you wrong and what is it that you want?  Is it a good wife you’re after? Don’t look at me for that, I can’t give you one!  You already had one and you couldn’t control her. It’s not my fault she left you for another man, so why should I pay for your mistakes?  
+You talk about my ambition.  No, it’s not my ambition that’s bothering you, my brother! Rather, it’s the fact that you need a good woman… one to fill your arms with – and, in order to get her, you’ve lost your wits and your manners!  
+These are wicked pleasures for a wicked man!  
+  
+And then am I mad if I had changed my mind about something which I later realised I was wrong? No, it’s not me who’s gone mad, brother but you.  You’re the one, after all, who, even though the gods have helped you rid yourself of a bad wife, there you are, still intent on getting her back!  
+Dying for a marriage about which her lunatic suitors swore Tyndareus’ oaths.  
+Give thanks to the goddess Hope! Be thankful to her because it is she who was looking after you and brought about all this for you, because, the truth is,  neither you nor all of your power had anything to do with it.  
+So now, go on, take them all, take all these lunatics, all these soldiers and lead them on to the expedition.  They’d love to go precisely because they are mad.  
+The gods are no fools and they know when oaths are falsely pledged or forced upon people.  
+And, no, I will not murder my children and certainly won’t do it so that you can wrongfully enjoy some sort of vengeance exacted from a disgraceful wife, while I waste away in tears day and night because I had committed such a godless crime against them, against my own flesh and blood.  
+My words were brief, blunt and clear. If you’re wise you’ll heed them; if not then, have no fear, I know how to settle my own affairs well.  
+
+  
+**First Chorus:**  
+Different words now but better. It’s good that the children will be spared.  
+
+**Menelaos:**  
+Gods!  Have I no friends then?  
+
+**Agamemnon:**  
+Of course you do – so long as you don’t try to ruin them!  
+
+**Menelaos:**  
+How else, then, can you, Agamemnon, prove that we are brothers? How can you prove that you and I have the same father?  
+
+**Agamemnon:**  
+We are brothers when we are doing what is reasonable, not when we do what is madness.  
+
+**Menelaos:**  
+Brothers must share each other’s pain.  
+
+**Agamemnon:**  
+Call on me when you want me to do something reasonable, not when you want to ruin me.  
+
+**Menelaos:**  
+And what about Greece?  Do you not want to fight for her?  
+
+  
+**Agamemnon:**  
+I would, but some god has made both you and Greece insane!  
+
+**Menelaos:**  
+Enjoy the glory of your sceptre then! You have betrayed your own brother! I shall look elsewhere for friends and help…  
+
+*Enter Messenger excited with joy.*  
+
+**Messenger:**  
+Agamemnon, leader of all the Greeks! I have brought with me your daughter, Iphigeneia and her mother -your wife- Klytaimestra, as well as your young son, Orestes. They should bring you great joy after such a long absence from your home.  
+  
+But, alas, the road was long, my lord and so the women are now having a rest by the refreshing waters of a spring. We also let the horses loose to drink and to graze at a meadow nearby. I’ve rushed here before them so that you can be ready to receive them.  The news spread quickly and so the whole army already knows that your daughter has arrived. They’ve all rushed over there to see her. The whole world loves to talk about the famous and to see them in their flesh.  
+  
+The soldiers talk and they ask questions. “What’s going on?” some of them ask.  And others, “is there going to be a wedding?” Yet others again, “did the king call his daughter here because he’s missed her?” Then there were others who said, “the girl will be presented to the goddess Artemis, protector of Aulis, before the wedding.  I wonder who her groom is.”
+Come, then, Lord Agamemnon, make a start on the celebrations. Gather the baskets for the sacrifices, place wreaths on your head.  You, too, Menelaos, get everything ready for this joyous occasion and let’s hear the flutes sing and the dancers pound the earth with their feet.  This is a happy day for Iphigeneia!  
+
+  
+**Agamemnon:**  
+Thank you, friend. Now go inside, my good man and everything will happen according to the will of Fate.  
+*Exit Messenger into Agamemnon’s tent.*  
+Horrible Fate, what a dreadful yoke you’ve locked me into!  
+Where shall I begin?  What can I possibly say now? Your wit is truly far greater than mine.  
+Ah, but the common folk have it easy. They cry when they wish and speak their mind freely, something which a leader cannot do: it’s undignified, it’s an insult to the splendour of his position and his whole life is controlled by it.  
+  
+Leaders are but slaves to the common folk.  
+Here, then, I have suffered the greatest misfortune yet I am ashamed to cry just as I am also ashamed to hold back my tears.  
+What shall I say to my wife, then? With what face shall I receive hers? Her unexpected arrival has added to my ruin. New troubles are now added upon those I’m already suffering. Yet it is right that she should come with her sweet daughter to give her away as a bride…  
+Ah! And that’s when she’ll discover my treachery!  
+  
+Poor, sweet young girl!  
+But why “girl?” Why do I not call her a “woman?”   Will she not be made Hades’ bride soon?  
+Oh, my girl!  How I pity you! How I cry for you!  
+She will be begging me, my sweet young girl!  
+“Daddy, do you want to kill me?  Well, then, may you and your friends also enjoy a marriage such as mine!” She will say to me!  
+My baby boy, Orestes, will also be there and he, too, will cry. His baby sounds will make no sense but they’ll be full of meaning.  
+Paris! You are the cause of it! You, Paris, you son of Priam!  What ruin, what catastrophe you’ve brought upon me by running off with Helen!  
+
+**First Chorus:**  
+I, too, feel pity for you – if it is at all proper for a foreigner to feel pity for the plight of kings.  
+
+  
+**Menelaos:**  
+Brother, give me your right arm!  
+
+*Agamemnon does so.*  
+
+**Agamemnon:**  
+Here, Menelaos. You win, I cry.  
+
+**Menelaos:**  
+I swear, Agamemnon, by our father, Atreas and by our grandfather Pelops that I will tell you the truth plainly and clearly, just as I feel it in my heart and as I know it in my mind.  
+Tears of pity came into my eyes just now, when I saw your own tears roll from yours. I’ve changed my mind, brother. I no longer want to be your enemy.  
+  
+I’ll now stand by you and so I advise you not to kill your daughter or put my own interests before yours. It is unjust that you should be mourning while I’m living a life full of joy. It is unjust that your children should die while mine still enjoy the sunlight.  After all, what is it exactly that I want?  Is it marriage? Surely I could find another wife elsewhere!  Gods forbid that I should choose to lose a brother to win a Helen!  Should I exchange the good for bad?  
+I acted like a stupid child before but now I thought more deeply about what it’s really like to kill your own children.  
+  
+And then I also realised that we’re brothers and my heart went out for the poor girl who would be sacrificed for the sake of my own marriage.  
+What does your Iphigeneia have to do with my Helen?  
+Come, disband the army and leave Aulis my brother and stop your tears and mine! If the oracle has given me some say into your daughter’s fate then I pass that say over to you. I’ll have none of it!  
+  
+I’ve changed, you’ll say! Gone are the harsh words, suddenly!  
+That’s true, I’ve changed and I’ve changed because I love you, brother. I’ve changed because of my love for my mother’s son.  It’s a natural thing for men with decent hearts to do the decent thing.  
+
+**First Chorus:**  
+Honourable words, Menelaos!  
+
+**First Chorus:**  
+Words worthy of Tantalus, Zeus’ son.  
+
+**First Chorus:**  
+Words that will not shame your ancestors.  
+
+**Agamemnon:**  
+I praise you, Menelaos for these unexpected words, proper words, words truly worthy of you.  Brothers fight because of lust and because of greed in their inheritance.  
+  
+I hate such relationships; they bring bitter pain to all. But, my brother, we can do nothing now but go on with the bloody murder of my darling daughter.  
+
+**Menelaos:**  
+Why is that? Who on earth could force you to murder your own child?  
+
+**Agamemnon:**  
+The entire Greek army, Menelaos!  All of them, here in Aulis.  
+
+**Menelaos:**  
+No, they can do nothing if you secretly send her back to Argos.  
+
+**Agamemnon:**  
+Sure, that I can certainly do secretly but there’s something else, brother; something I cannot hide…  
+
+**Menelaos:**  
+And what would that be? Don’t be so afraid of the masses!  
+
+**Agamemnon:**  
+Calchas will reveal his oracles to the men.  
+
+**Menelaos:**  
+Not if he dies first. That will be very easy to accomplish.  
+
+  
+**Agamemnon:**  
+Curse Calchas and his whole horde of glory-loving prophets!  
+
+**Menelaos:**  
+Useless when you need them and a curse when you don’t.  
+
+**Agamemnon:**  
+A thought just occurred to me, a thought which might frighten you, Menelaos!  
+
+**Menelaos:**  
+Tell it and I’ll see.  
+
+**Agamemnon:**  
+Sisyphus’ son, Odysseus, knows our whole story.  
+
+**Menelaos:**  
+Odysseus will give us no trouble.  
+
+**Agamemnon:**  
+Odysseus has a shifty mind and he’s a rabble-rouser.  
+
+**Menelaos:**  
+True. He, too, loves glory. A dreadful sickness!  
+
+**Agamemnon:**  
+Can you not see him standing in the midst of all the Greeks, telling them all about Calchas’ prophesies and all about how I’ve promised to sacrifice my daughter to Artemis but then went back on my word?  
+  
+He’ll have the whole army eating out of his hand and then make them kill us and sacrifice the girl anyway! And if I tried to run off to Argos, the whole lot of them will come over and destroy the place, raze the whole city to the ground, Cyclopean walls and all! That’s what I’m afraid of! See what troubles the gods have thrown at me, the poor wretch?  
+Be careful of one thing, Menelaos: Be careful when you’re walking among the men not to let Klytaimestra find out anything about the sacrifice; at least not until after I’ve sent my daughter to Hades. This way, I hope, my pain will be lessened a little.  
+*Turning to the chorus*  
+And you, foreign ladies, say nothing about this.  
+
+*Exit Agamemnon and Menelaos*  
+
+  
+**First Chorus:**  
+Joy will come to those who share their marriage bed with the calm of Aphrodite’s love and not with the frenzy of Eros’ stinging arrows!  
+
+**First Chorus:**  
+This god, this god with the golden hair, lifts his bow and shoots two arrows of passion, one to bring us life’s greatest joy, the other to send us into a whirlwind of confusion.  
+
+  
+**First Chorus:**  
+Oh, Lady, goddess of love, Aphrodite!  
+Make sure this golden hair god stays far away from my bed chamber! I want my love for others to be moderate and my desires to be pure. I ask only for a modest share of Aphrodite’s love; let it be not excessive!  
+
+**First Chorus:**  
+Mortals vary in body as well as in mind but true virtue, which comes from a good upbringing and a good education, always stands out.  
+
+  
+**First Chorus:**  
+It is wise to be modest because modesty gives you the rare gift of circumspection, the ability to judge what is right, what is your duty; an ability that will give you respect and will remain with you for ever.  
+
+**First Chorus:**  
+And it is a great thing to follow the footprints of virtue like a hunter follows the footprints of his prey.  
+
+  
+**First Chorus:**  
+Women protect it well by avoiding immoderate love and men by bringing civil order in their city, thus making it great.  
+
+**First Chorus:**  
+There you were, Paris: a man brought up to be a cowherd, looking after the grazing, white cows of Ida with their heavy udders, playing Asian tunes in your reedy pipes, airs much like those Trojan songs from Mount Olympus when, suddenly, you had to judge between three goddesses; and it was this judging that has sent you to Helen’s ivory palace in Hellas.  
+
+  
+**First Chorus:**  
+Once there, a maddened gaze of love from each of you had sent you both into Eros’ confusion and sent Greece to Troy with strife-searching ships and spears.  
+
+*Happy noises of incoming royal procession, including horses and chariot are heard within, Stage Left.*  
+*Enter Second Chorus of men and women, Attendants of Klytaimestra*  
+
+  
+**Second Chorus:** *Indicating behind the curtains (Stage Left)*  
+Great is the joy of the great!  
+
+**Second Chorus:**  
+Look there: our Lord’s daughter, Iphigeneia, our princess; and there, his wife and Tyndareus’ daughter, our Lady, Klytaimestra!  
+
+**Second Chorus:**  
+They are the offspring of a great and most fortunate family.  
+To the lowly and weak mortals, the fortunate always appear like gods.  
+
+**First Chorus:**  
+Come, children of Chalkis, let us go and give the Argive Queen our gentle and firm hand to help her step down safely from her carriage and let us look welcoming towards Agamemnon’s glorious daughter lest she be afraid of having arrived here at this place and at this time; and let us also make sure that the Argive women feel no distress or concern for being strangers in a strange place.  
+
+*Exit Stage Left.*  
+
+**Klytaimestra:** *(Within)*  
+I take your kind welcome and gracious words as signs of a good omen. I have brought this bride here with strong hopes for a wonderful marriage.  
+  
+Come, folks come and take down from the carriage the wedding gifts I’ve brought and carefully carry them into the tent.  
+Come, darling Iphigeneia, come down from the carriage now. Step gently down, onto the earth. Women, help her. Give her your arms and bring her down safely.  
+And help me, too. Please lend me your arms, so that I may get down from the seat of this carriage modestly.  
+Some of you stand by at the front of the horses to quieten them.  
+  
+Horses can panic if there’s no one to soothe them.  
+*Enter from Stage Left Klytaimestra and Iphigeneia, accompanied by an entourage of men and women, some of whom are carrying gifts into Agamemnon’s tent.*  
+*A nanny is holding the baby Orestes in her arms.*  
+Here, friends, take this baby to his father, Agamemnon. It’s young Orestes, a baby still.Looking over the baby. Are you still sleeping my baby? Has the carriage lulled you to sleep? Ah, yes!  Soon you’ll wake up a happy young man, my son.  Happy to be at your sister’s wedding. I can see you there now: a nobleman becoming a brother-in-law to a nobleman, to the divine Achilles, the son of Thetis the Nereid.  
+*Turning to Iphigeneia*  
+Come, my darling daughter, come, Iphigeneia, come and stand near me. Let our friends here see how happy you make me.  
+*As Iphigeneia approaches her, Agamemnon enters.*  
+  
+Ah, here’s your father, go to him, darling!  
+
+**Iphigeneia:**  
+Yes, mother, please let me run to him before you do. Please don’t be offended now!  Let me hug him tightly against my breast before you do!  
+
+*Iphigeneia rushes and embraces Agamemnon.*  
+
+**Klytaimestra:**  
+My dear Lord, Agamemnon! Here we are, eagerly obedient to your wish!  
+
+**Iphigeneia:**  
+Father! Give me a big hug! It’s been such a long time! I’ve missed you so much. Please don’t get angry with me…  
+
+**Klytaimestra:**  
+Yes, quite right, too!  Of all of my children, you, Iphigeneia, have always loved your father the most!  
+
+  
+**Iphigeneia:**  
+How wonderful it is to see you again, daddy!  
+
+**Agamemnon:** *Awkwardly*  
+And I’m very pleased to see you, too!  I’ve also missed you!  
+You speak for both of us, darling.  
+
+**Iphigeneia:**  
+Oh, I’m so happy you’ve brought me here to see you.  
+
+**Agamemnon:**  
+Are you, darling? I… I’m not so sure.  
+
+**Iphigeneia:**  
+What’s wrong, daddy?  You say you’re happy to see me but your face looks worried!  
+
+**Agamemnon:**  
+A king, darling, a General is always worried.  
+
+**Iphigeneia:**  
+Make your worries go away, daddy. From now on, think only of me.  
+
+**Agamemnon:**  
+Yes, my darling. I shall think of nothing else but you from now on.  
+
+**Iphigeneia:**  
+Well then, get rid of this ugly frown from the face that I love so much!  
+
+**Agamemnon:**  
+There! Oh, what a joy it is to see you, Iphigeneia!  
+
+  
+**Iphigeneia:**  
+But… but look at you, father! Full of joy and yet tears flow from your eyes…  
+
+**Agamemnon:**  
+Yes, dear… because our separation will be a long one.  
+
+**Iphigeneia:**  
+Separation? I don’t understand, father.  Whatever do you mean?  Why – where do they say the Phrygians live, father?  
+
+**Agamemnon:**  
+Where, darling? They live at a place, darling, where I wish Paris, Priam’s son, never lived!  
+
+**Iphigeneia:**  
+You’re going off on a long journey daddy and you’re living me behind!  
+
+**Agamemnon:**  
+My thoughts exactly, my darling. For such a young girl you are so intelligent!  
+I feel so sad…  
+
+**Iphigeneia:**  
+Then I shall be stupid and make you laugh!  
+
+**Agamemnon:** *He laughs*  
+Thank you, my sweet daughter! *Sadly, softly so that she won’t hear him.* How could I ever speak the truth now?  
+
+**Iphigeneia:**  
+Don’t leave home, daddy. Stay here with us, with all your children!  
+
+**Agamemnon:**  
+I wish I could, my child! If only I could!  
+This makes me so sad!  
+
+**Iphigeneia:**  
+Damn all these spears of Menelaos! All these troubles he has caused!  
+
+**Agamemnon:**  
+Damn them, indeed… as I am damned, Iphigeneia, I and many others!  
+
+  
+**Iphigeneia:**  
+
+You’ve been so long here in the harbours of Aulis!  
+
+**Agamemnon:**  
+And still something is holding back the expedition.  
+
+**Iphigeneia:**  
+If only it were possible to take me with you, father.  
+
+**Agamemnon:**  
+You, too, Iphigeneia, you also have a journey to make.  
+You’ll go to a place where you’ll forget about your father.  
+
+**Iphigeneia:**  
+Will I go on my own or with mother?  
+
+**Agamemnon:**  
+Alone, darling. No mother, no father.  
+
+  
+**Iphigeneia:**  
+Are you sending me to live with another family, daddy?  
+
+**Agamemnon:**  
+Little girls should not be bothered with such things. Enough!  
+
+**Iphigeneia:**  
+You’ll come right back after you’re done with Troy, won’t you?  
+
+**Agamemnon:**  
+Yes but first I must make a sacrifice here, in Aulis.  
+
+**Iphigeneia:**  
+Of course. We must do what we must do, to please the gods.  
+
+**Agamemnon:**  
+You’ll be able to see the sacrifice. You’ll be standing right there at the altar.  
+
+**Iphigeneia:**  
+Shall we set up choruses around it, daddy?  
+
+**Agamemnon:**  
+You are much happier than me for knowing less than I do.  
+Come, go into my tent now. It’s not proper for young girls to be in the public eye for too long.  
+*Iphigeneia begins towards the tent but is stopped by her father.*  
+Hold on! First, come, give your father a kiss. Give me your hand, my dear child.  
+You will be away from me for a very long time.  
+*He embraces and then steps back to look at her sadly.*  
+  
+Oh, your poor cheeks, your poor beautiful, golden hair, your youthful breasts! What an awful burden Helen and Troy have become for us!  
+Ah!  I can talk no more. The more I hold you in my arms the more the tears rush to my eyes. Go!  Go inside now!  
+Iphigeneia obeys.  
+And you, dear wife, daughter of Leda, I ask forgiveness from you, too, for all my tears. Tears that come about from making our daughter a bride to Achilles.  
+Weddings are blessed things but still very tough on the hearts of the bride’s parents.  
+It is a bitter thing for a father to take, a father who has worked hard but who must send his daughters away –away to another household.  
+
+  
+**Klytaimestra:**  
+I am not so insensitive, Agamemnon.  
+I, too feel the same pain so I won’t be angry with you. I shall be accompanying our girl with the wedding song.  
+Have no fear, the pain will soften with custom and with the passage of time.  
+Husband, I know the prospective groom’s name but I know little about his family or his country.  
+
+**Agamemnon:**  
+Asopus, the river god, had a daughter, Aegina…  
+
+**Klytaimestra:**  
+…who was married to whom? A god or a mortal?  
+
+**Agamemnon:**  
+Zeus. He married her and they had a son, Aeacus who became King of the island Oenone.  
+
+  
+**Klytaimestra:**  
+Who then was the heir to the House of Aeacus?  
+
+**Agamemnon:**  
+The heir was Peleas.  He married Thetis, Nereus’ daughter.  
+
+**Klytaimestra:**  
+With Zeus’ will or against it? With blessings or with force?  
+
+**Agamemnon:**  
+Zeus himself gave her to him. He was her lord.  
+
+**Klytaimestra:**  
+And were they married in the sea?  
+
+**Agamemnon:**  
+No, the wedding was held in the sacred valleys of Pelion, where Cheiron lives.  
+
+**Klytaimestra:**  
+That’s where they say the centaurs live.  
+
+**Agamemnon:**  
+Yes. That’s where all the gods held the wedding feast.  
+
+**Klytaimestra:**  
+So, who raised the young Achilles, Thetis or his father?  
+
+**Agamemnon:**  
+Neither. Cheiron, the centaur did, so that the child might be brought up not knowing the behaviour of evil men.  
+
+  
+**Klytaimestra:**  
+Ah! Chiron, the wise teacher, was entrusted by a wiser parent!  
+
+**Agamemnon:**  
+Yes, so you see what sort of a man your future son-in-law is!  
+
+**Klytaimestra:**  
+Sounds ideal to me.  Where in Greece does he live?  
+
+**Agamemnon:**  
+He lives in Phthia, by the river Apidanus.  
+
+**Klytaimestra:**  
+And is that where he’ll take our daughter?  
+
+**Agamemnon:**  
+That will be his decision. She’ll be his wife.  
+
+**Klytaimestra:**  
+May they be happy there! When is the wedding?  
+
+**Agamemnon:**  
+It will take place at the most propitious time: When the moon completes its cycle again.  
+
+**Klytaimestra:**  
+Have you made the pre-natal offerings to the goddess yet?  
+
+**Agamemnon:**  
+Very soon.  We’re working on it right now.  
+
+  
+**Klytaimestra:**  
+What about the wedding feast after the ceremony?  
+
+**Agamemnon:**  
+It will take place after I make the sacrifice.  
+
+**Klytaimestra:**  
+And the feast for us women?  Where are we going to set it up?  
+
+**Agamemnon:**  
+Here, at the harbour, near our beautiful Greek ships.  
+
+**Klytaimestra:** *displeased*  
+The girl deserves better… still, may the gods be with us!  
+
+**Agamemnon:** *suddenly angry*  
+Wife, do as I say! Listen to me!  
+
+**Klytaimestra:**  
+… What’s wrong? I always have!  
+
+**Agamemnon:** *Looking around him*  
+And I shall… here where the groom is, I shall…  
+
+**Klytaimestra:**  
+You? What, you’ll be performing a mother’s duties now?  
+
+**Agamemnon:**  
+… I, with all the Greeks as witnesses shall give Iphigeneia away…  
+
+**Klytaimestra:**  
+Really?  And where will I be at the time?  
+
+  
+**Agamemnon:**  
+You?  You’ll be back in Argos, taking care of our other daughters.  
+
+**Klytaimestra:**  
+And leave my darling behind?  But… who’ll carry the bridal torch?  
+
+**Agamemnon:**  
+I’ll carry bridal torch.  
+
+**Klytaimestra:**  
+That’s not what the laws of the custom say. You shouldn’t go against them!  
+
+**Agamemnon:**  
+And you shouldn’t be hanging around here, among all the soldiers!  
+
+**Klytaimestra:**  
+What I should be doing –as a mother- is to be the one who gives Iphigeneia, my daughter, away to her groom. It is what a mother must do!  
+
+**Agamemnon:**  
+What you must do is not leave your other daughters alone, back at the house.  
+
+**Klytaimestra:**  
+Our other daughters are looked after well and they are safe in their quarters.  
+
+**Agamemnon:**  
+Listen to me!  
+
+  
+**Klytaimestra:**  
+Never!  
+By the goddess Hera, protector of Argos and of marriage, I shall not do so!  
+No, you look after everything outside the household and I shall take care of things within it! Our daughter’s marriage is my concern!  
+
+*Klytaimestra turns away angrily and enters the tent.*  
+
+**Agamemnon:**  
+I have failed miserably! I have tried desperately to send Klytaimestra away from here but I’ve failed. I’ve tried all manner of subtle tricks to get my closest friends to agree with me and there, too, I’ve failed.  
+Failed utterly at every turn…  
+I shall go to the priest. Calchas will find out for me what it is the goddess will be satisfied with… though, I know, it will be something which will bring me misery and a great deal of hard suffering for the rest of Greece…  
+Ah, Menelaos!  A wise man must keep in his house a good and faithful woman, or else he should never marry!  
+
+*Exit Agamemnon. Only the two choruses are now present. They fuse into one.*  
+
+  
+**Chorus:**  
+And so the Greek ships will sail. Stuffed full with men and spears. They will reach the silvery eddies of the Simois river that runs through Apollo’s stronghold, the rocky plains of Troy.  
+
+**Chorus:**  
+They tell me that Cassandra, Apollo’s priestess is there. Cassandra who shakes loose her golden hair beneath the green garland of laurel whenever the god grips her with his prophetic gasp.  
+
+  
+**Chorus:**  
+There, upon the city’s towers and round about its high walls, the Trojan folk will stand when the warriors with their bronze shields bring their ships closer, over the river’s waters, after their long journey over the ocean.  
+
+**Chorus:**  
+There they will arrive with their war-whetted spears and shields to wrest Helen from Priam’s city and bring her back to Greece. Helen, the sister of the Heaven-dwelling twins, the Dioscuri.  
+
+  
+**Chorus:**  
+And they will surround the city Pergamum, all about its stone towers with murderous war-men who’ll smash the heads of the Trojans, cut through their necks and tear their city down to its foundations.  
+
+**Chorus:**  
+And the weeping and wailing of Priam’s daughters and of his wife will be bitter and piercing.  And Helen, Zeus’ daughter, will shed bitter tears, too, for betraying her husband.  
+
+  
+**Chorus:**  
+Oh, I hope I’ll never see the day, nor should my children nor my grand children, should see the day when I suffer the torture that the golden Lydian women will suffer, the wives of those Trojan men, who will be suffering when, years later, working at their looms they’d be talking of this!  
+
+  
+**Chorus:**  
+Do you hear them, Helen? Listen! Listen to their words:  
+
+> “Who will it be, I wonder, who will bring tears to my eyes, drag me by my beautiful hair and pluck me from my ruined land?”  
+
+Do you hear them, Helen?  That’s what they’ll be saying; and all this because of you, Helen! Yes, you, daughter of the long-necked swan!  
+
+**Chorus:**  
+That is, if what they say about you being Leda’s daughter is true.  
+They say that Zeus had transformed himself into a bird and then slept with your mother.  Is this true or is it yet another one of these tales conjured up by the poets and then spread idly about the world through the ages?  
+  
+
+*Enter Achilles, angry.*  
+
+  
+**Achilles:** *to the chorus*  
+Where is the leader of the Greek army? I know he’s around here somewhere. One of his servants go and tell him that Achilles, Peleas’ son is here, waiting for him, at the entrance of his tent!  
+*A member of the chorus rushes into the tent.*  
+Are we not all wasting our time here, by the banks of Epirus? All of us? Married and single alike? The single men have left their houses empty and uncared for and the married ones have left their wives and children behind. They’re all just sitting idly around by the shore. What a lusty fervour the whole of Greece has stirred up for this expedition!  Aided and abetted by the gods!  The whole thing is a game played by the heavens!  
+  
+Let me tell you why I am angry. Other men may have different views but let me give you my own. I have left Pharsalia and Peleas, my father, to come here. I have my army, the famous Myrmidons, wasting their time hanging about the quiet waters of Epirus, getting angrier and more impatient by the minute. Anger and impatience which I must control.  
+They yell at me!  
+“Achilles,” they say. “Why are we wasting our time around here? How much more time do we need to waste on this expedition to Troy?  Be a leader! If you really want to do something against Troy then do it, or else just take us all back home. Stop waiting for those indecisive sons of Atreas to tell you what to do…”  
+
+*He is interrupted by Klytaimestra’s entrance.*  
+
+**Klytaimestra:**  
+Achilles, son of the Nereid!  I just heard your voice from inside and came out to greet you.  
+
+  
+**Achilles:**  
+By the goddess Modesty! Who is this exquisite looking woman I see here?  
+
+**Klytaimestra:**  
+I’m not surprised you don’t recognise me. We’ve never met before.  I’m very pleased that you, too, honour the goddess Modesty, Achilles!  
+
+**Achilles:**  
+But who are you, madam? And how is it that you, a woman, is here, where the whole army of the Greek men and their shields is gathered?  
+
+**Klytaimestra:**  
+I am Klytaimestra, Leda’s daughter and Agamemnon’s wife.  
+
+**Achilles:**  
+A brief but adequate answer!  
+Still, it’s not proper for me to be talking with a woman.  
+
+*Begins to walk away.*  
+
+  
+**Klytaimestra:** *She stretches her right hand*  
+Achilles, stay! Why are you leaving? Come, give me your right hand and let’s make this the beginning of a blessed marriage!  
+
+**Achilles:**  
+What do you mean, madam? Give you my right hand? It would be shameful if Agamemnon saw me touching what’s not rightfully mine!  
+
+**Klytaimestra:**  
+But it is rightfully yours, Achilles! Son of the Nereid, you are marrying my daughter…  
+
+**Achilles:**  
+What? What marriage are you talking about, madam? I… I am shocked, my lady!  Words escape me!  
+
+*Directing his question to the chorus.* Are these amazing words the words of a delirious woman?  
+
+  
+**Klytaimestra:** *Chuckles*  
+Ha, ha, ha! It’s a common thing for a man to be shy when he meets his relatives for the first time and they’re talking about marriage!  
+
+**Achilles:**  
+My lady, I have never proposed to your daughter… Atreas’ sons have never talked to me about a marriage!  
+
+**Klytaimestra:**  
+But… Achilles, think again!  You find my words strange but I find yours equally odd!  
+
+**Achilles:**  
+This is preposterous!  
+Let’s think through this together, my lady. Perhaps we’re both being deceived.  
+
+**Klytaimestra:**  
+Could this be right?  
+What a disaster!  What a dreadful shame!  
+It seems I’m eagerly preparing for an imaginary wedding! What a terrible shame!  
+
+**Achilles:**  
+Ah! Someone must be playing games with both of us for some reason! Forget it, madam! Think nothing of it!  
+
+  
+**Klytaimestra:** *She turns from him.*  
+Leave now, Achilles. Leave! Good bye. I feel too humiliated to face you after the lies I’ve uttered, after the dreadful way I’ve been treated!  
+
+**Achilles:**  
+Me, too! I also feel ashamed… I… turns towards the tent. I am going to go and speak with your husband…  
+
+*The Old Man fearfully pokes his head through the flaps of the tent. He is barely visible.*  
+
+**Old Man:**  
+Psssst! Achilles! Stay! You, grandchild of Aeacus… you, too Leda’s daughter, stay!  
+
+**Achilles:**  
+Who’s that? Who’s calling through that half-opened door? He sounds frightened.  
+
+**Old Man:**  
+A slave. Fate gave me nothing to be proud of.  
+
+**Achilles:**  
+Slave to whom? Not mine, that’s for sure.  Agamemnon and I have separate properties.  
+
+  
+**Old Man:**  
+That woman’s there. I was given as a gift to her father, Tyndareus.  
+
+**Achilles:** *Turns back*  
+All right, you’ve stopped me… I’m waiting. Tell me what it is you want, now.  
+
+**Old Man:** *anxiously looking all around him*  
+Are you two alone out there?  
+
+**Achilles:**  
+Yes. Rest assured, we are alone. Now come out of Agamemnon’s tent.  
+
+*The Old Man exits the tent*  
+
+**Old Man:**  
+Dear Fortune, help my brain to save those I love.  
+
+**Achilles:**  
+Weighty words, old man!  They’re bound to serve someone well, sometime.  
+
+*Old Man anxiously takes Klytaimestra’s hand and kisses it.*  
+
+**Klytaimestra:**  
+Come, come, old man! Don’t waste time kissing my hand. Tell us what’s wrong!  
+
+**Old Man:**  
+My lady, you know who I am and just how loyal I’ve been to you and your children.  
+
+**Klytaimestra:**  
+I know well that you are an old servant of my house.  
+
+**Old Man:**  
+And you know, too that I was part of your dowry when you married King Agamemnon.  
+
+  
+**Klytaimestra:**  
+Yes. You had come with me to Argos and stayed with me as my servant.  
+
+**Old Man:**  
+Yes, my lady and so, I am more loyal to you than I am to your husband.  
+
+**Klytaimestra:**  
+Well? Tell me what is this secret that’s worrying you so much.  
+
+**Old Man:** *Apprehensive*  
+My lady… your daughter… her father… he is about to kill her!  
+
+**Klytaimestra:**  
+What?  What did you say?  No!  This surely is nothing more than drivel spat out of the mouth of a mad old man!  
+
+**Old Man:**  
+No, madam! With his own sword, madam… he will make bloody the young girl’s white neck… bloody it with her own blood!  
+
+**Klytaimestra:**  
+Ahhh! What shocking news of disaster is this? Has my husband gone insane?  
+
+**Old Man:**  
+In all other things, no, my lady. He’s gone mad only so far as your daughter and you are concerned.  
+
+**Klytaimestra:**  
+But why?  What demon has taken possession of his mind?  
+
+**Old Man:**  
+The priest, my lady. Calchas. He said that it must be done if the expedition is ever to make it to…  
+
+  
+**Klytaimestra:**  
+Expedition? Where is the army going? Oh! Poor, poor child!  Poor, poor girl!  
+She’s about to be slaughtered by the hand of her own father!  
+
+**Old Man:**  
+The army is heading to Troy, my lady. To Dardanos’ house, in Troy, to bring back Menelaos’ wife, Helen.  
+
+**Klytaimestra:**  
+So, my sweet darling must face this horrible fate because of the need to bring Helen back?  
+
+**Old Man:**  
+Yes, my lady. Now you know the whole thing. Agamemnon, her father will sacrifice her to the goddess Artemis.  
+
+**Klytaimestra:**  
+But what about the marriage? What was the point of bringing us up here for a marriage that…  
+
+**Old Man:**  
+He tricked you about the marriage with Achilles, my lady, so that you’d be willing to come here.  
+
+**Klytaimestra:**  
+O, my darling daughter! You’ve come to your death –you and me also!  
+
+**Old Man:**  
+Both of you have pitiable fates, my lady! Agamemnon dares to commit a most dreadful deed!  
+
+Klytaimestra *In tears*  
+Oh! What destruction! What horror!  I… cannot stop crying!  
+
+**Old Man:**  
+Yes, dear lady!  Cry!  It is a horrible thing for one to lose a child!  
+
+  
+**Klytaimestra:**  
+But… tell me, good servant, where did you hear all this?  
+
+**Old Man:**  
+He had sent me off to bring you a letter, madam… about the first message…  
+
+**Klytaimestra:**  
+What was the second message? To stop me from coming here or to urge me to do so?  
+
+**Old Man:**  
+To stop you… By then he had come back to his senses.  
+
+**Klytaimestra:**  
+But why didn’t you deliver that message to me, if it was in your hand?  
+
+**Old Man:**  
+Because Menelaos took it away from me, my lady.  He, madam, he’s the cause of all your torment, madam.  
+
+**Klytaimestra:**  
+Achilles, do you hear this?  
+
+**Achilles:**  
+I do, my lady and I can see it’s a horrible thing for you to endure. And I also hear what they’ve done to me!  
+
+**Klytaimestra:**  
+They’ve tricked my daughter to her death by promising her to you in marriage.  
+
+**Achilles:**  
+Yes, madam and I too, am furious at your husband. This is something I won’t tolerate.  
+
+  
+**Klytaimestra:** *Falls down and clasps Achilles’ knees.*  
+Oh, Achilles! I clasp your knees without shame!  
+You’re the son of a god and I am a mere mortal! I’m not too proud to do so. There is nothing that I would not do for my darling Iphigeneia.  
+Come, son of a goddess! Protect us in our terrible misfortune. Help my girl. She was falsely called your future wife. I had put a wedding wreath on her head and brought her here to be your wife. But, no, instead of that, I have brought her to her slaughter!  
+They will speak badly of you if you do not help her.  
+They will say that even though you weren’t wedded to her, you were still the poor virgin’s promised husband. You were still the man she loved.  
+I’m on my knees, begging you, Achilles!  
+*She runs her hand over his chin, over his right hand*  
+By your chin, Achilles, by your right hand and by your mother, stand by us!  Help us!  
+  
+It was your name, Achilles that has brought us to this misfortune, so protect it now. Protect your name. I have no one else to turn to, no other friend, no other altar to pray upon. Only your knees.  
+You know the dread that Agamemnon has brought upon us. You can see it!  
+It’s an unbearable, harsh dread. And you can see how I, a woman, have come here to the camp of soldiers, tough men, brave and ready for war and violence.  
+*She places his right hand over her head.*  
+Come, son of the goddess, lend us a hand, help us, or else we are doomed!  
+
+**Chorus:**  
+Awesome is the power of giving birth! It makes the mother love her child most deeply and she will defend it with her life.  
+
+  
+**Achilles:**  
+I know, I have a bloated pride, madam but I can assure you, I feel the pain of misfortune and the joy of success with a wise temper, a moderate temper; because I also know that those with a moderate temper lead a wiser life.  
+It’s true, my lady that there are times when it is more pleasant to avoid excessive wisdom and there are times when wisdom is helpful but I, madam, I was raised in the house of Chiron, a centaur who respected the simple ways, the honest ways.  
+  
+If the sons of Atreas practice honesty then I shall obey them but if they don’t, rest assured, madam that I’ll defy them.  
+I am here, madam, as I will be in Troy also, to defend – with my shield and with my spear – my honour as a man and to do my best to glorify the god of war, Ares.  
+You have been wronged, madam. Most treacherously wronged by your closest friends. Let my pity be a protective blanket over you; it is the pity of a young man but it is a sincere pity, nevertheless and one brought about by the fact that I have been the one named as your daughter’s husband. Believe me, madam: Agamemnon will not slaughter her! I will never permit your husband to perform such treacherous deeds!  
+  
+It is my name that he will be using as his sword to slaughter Iphigeneia and this awful man will disgrace my body if I let your daughter, who was about to marry me and who has suffered this insufferable fete die because of me.  
+To let this man succeed in this deed, to let him use my name as his bloody sword, would be to make me the worst of all the Greeks – a worthless man, one more cowardly than Menelaos, as if I were not the son of Peleas but that of some evil demon. By my grand-father, my mother’s father, Nereus, who was nurtured by the ocean waves!  
+  
+Agamemnon shall never lay a finger on your daughter –not even to touch her robes!  Or else, we might as well call Mount Sipylus, the Asian city where his barbarous ancestors came from a “great city” and wipe out of our mind the name of Phthia!  
+When our esteemed prophet, Calchas, conducts his next sacrifice, when he will mingle his barley and his holy water upon the altar, he will pay bitterly for it!  
+A prophet? Ha! What is a prophet? A teller of truth one time and a teller of lies one thousand times… if he’s lucky! And then, if his prophesies are found to be false, he vanishes!  
+  
+*Turning to the chorus*  
+I’m not talking like this because I’m missing out on this wedding. No, there are hundreds of women who want my wedding bed! I’m angry because King Agamemnon has insulted me so gravely.  He has used my name without my permission! He has used it to lure and snare his daughter and to convince Klytaimestra to bring her here, to me, to be presented as my wife!  
+In fact, had he asked me for my permission to use my name for this, I would have given it. I would have given it if the Greeks couldn’t get to Troy without my doing so.  
+I would have given it to serve the greater good of our soldiers. I would have given it for the sake of my fellow soldiers. But now? Now that Agamemnon has insulted me, dishonoured me so badly, I feel like a… like a nobody.  
+It seems that the generals do as they please with me. Whether they treat me well or appallingly makes no difference to them.  
+*He turns back to Klytaimestra*  
+  
+Madam, let this sword of mine bear witness to what I’m about to say!  
+This sword will have blood on it even before I leave for Troy! The barbarian blood of the sons of Atreas, of your husband, madam and that of his brother, if either of them snatches your daughter from my hands!  
+So, calm yourself now, Klytaimestra. I know, I’m behaving as if I were some god towards you though I’m a mere mortal.  
+
+**Chorus:**  
+Your words are worthy of you, Achilles and of your mother who is a splendid goddess.  
+
+**Klytaimestra:**  
+Dear Achilles! How could I possibly express my gratitude to you in a modest way? I want neither to overwhelm you by its excess nor insult you by its timidity. Those worthy of praise find it a hateful thing when they are praised too profusely.  
+  
+I am too ashamed to tell you this pitiful story of mine.  I know too well that this awful plight is mine and mine alone – you have nothing to do with it…  
+But I will talk: the strong ought to help the weak where they can, even if they have little to do with their plight. Help us, Achilles! Help us because our plight needs your help.  
+When I first thought you were going to be my son-in-law, I had high hopes –vain hopes as it turned out but hopes nevertheless. Help us for that reason and help us, too, because if my daughter is killed on the altar that would be a bad omen for your future marital prospects, an omen you should try and avoid.  
+  
+You began and ended your speech with fine sentiments.  
+My daughter’s life hangs on your will. She will be saved if you will it.  Would you like her to plead at your knees? Because, even though it would be improper for a little girl to plead at a man’s knees, she will put aside her sense of modesty and do it, if you wish.  
+But let me try and persuade you and let her stay inside the tent.  Let her keep her dignity intact. Those with dignity are respected, those without are shamed, though defending one’s dignity is not always possible.  
+
+**Achilles:**  
+No, my lady, don’t call your daughter out to see me. Let’s not have the common tongues wag against us.  
+  
+Soldiers who have been gathered together, away from the chores of their homes and are idle have malice and gossip ready at their tongue.  
+No, it will not be necessary. Pleas or no pleas the result will be the same with me because I have only one thing in mind, now: to save you both from this disaster! And this, my lady, this is no lie, believe me!  If I’m lying to you, madam, then let death come upon me.  
+I shall save your daughter!  
+
+**Klytaimestra:**  
+May joy be with you for ever, Achilles. May it be with you always, for helping the unfortunate!  
+
+**Achilles:**  
+Then listen to me carefully, madam so that we’ll achieve our aim.  
+
+  
+**Klytaimestra:**  
+What would you like me to do? I’ll obey your every command.  
+
+**Achilles:**  
+First, let us try and bring her father back to his senses.  
+
+**Klytaimestra:**  
+He’s an evil man, my husband. A coward. He is afraid of his own soldiers.  
+
+**Achilles:**  
+Words, logic, can fight off fear.  
+
+**Klytaimestra:**  
+A cold hope, that one, Achilles. But tell me what I must do.  
+
+**Achilles:**  
+First, plead with him. Tell him not to kill his daughter. If you cannot persuade him then come back to me. If your pleas work and they save the girl’s life, then my intervention will not be necessary.  
+  
+That way, not only will I not lose a friend but the army will also not be angry with me when it sees that I’ve used my brains rather than my brawn.  
+If this works out well, then the result will be good for you and your family without my getting mixed up in the affair.  
+
+**Klytaimestra:**  
+Good idea. I shall do as you say.  
+Still, if I fail? Where will I find you? Where shall I go to find your hand, to ask you to help me in my hour of despair?  
+
+**Achilles:**  
+I’ll be watching out for you. Checking out the situation carefully.  What you mustn’t do is run around wildly about the camp among the soldiers. Be careful not to disgrace your ancestors’ house.  
+The name of Tyndareus stands high among the Greeks and one shouldn’t demean it.  
+
+  
+**Klytaimestra:**  
+No, I won’t. I shall obey your directions. If the gods are just, then they should reward just men like you. Otherwise why should we bother being just?  
+
+*Exit Achilles. Klytaimestra goes into the tent.*  
+
+**Chorus:**  
+What a delightful wedding song was sung while the Lybian flute played on the day that Thetis and Peleas married!  
+
+**Chorus:**  
+How the dance-loving lyre and the enchanting notes of the reedy flute brought the fair haired Muses up from their home, the Pierian Springs, to the top of Mount Pelios!  
+
+  
+**Chorus:**  
+With what joy the Muses pounded the earth with their gold-sandaled feet as they climbed the mountain side to get to the wedding!  
+
+**Chorus:**  
+Joyous notes were sung to the glory of Peleas, son of Aeacus and Thetis, there, upon Mount Pelion, the woody realm of the Centaurs.  
+
+**Chorus:**  
+And there it was that Dardanos poured the heavenly nectar into the deep golden cups of the gods.  
+
+  
+**Chorus:**  
+He is the Trojan Ganymede, the loving delight of Zeus’ bed!  
+And there, along the white sands below, Nereus’ fifty daughters whirled and weaved their dance circles and made splendid the wedding of the Nereid.  
+
+**Chorus:**  
+And to the feast of the gods and to Bacchus’ wine-mixing bowl came, too, with spears of fir and with wreaths of green leaves, the troupe of horse-mounted centaurs.  
+
+  
+**Chorus:**  
+And their call to the Nereid was loud and clear:  
+“Chiron,” they cried out, “Chiron who knows well the meaning of Apollo’s words, foretells that you’ll give Thessaly a son, a boy who’ll be its brightest light. He’ll be the man who’ll take his army of spear-loving Myrmidons and turn Priam’s city into rubble.  
+
+  
+**Chorus:**  
+A man whose body will be clothed in golden armour, fashioned by Hephaistos himself and given as a gift to him by his divine mother.”
+
+**Chorus:**  
+And so, the blessed couple were wed by the gods: The nobly born oldest daughter of Nereas and Peleas.  
+
+*Iphigeneia’s scream of grief is suddenly heard from within the tent. The Chorus turns in the direction of the scream and responds!*  
+
+  
+**Chorus:**  
+Ah! But as for you, daughter of Agamemnon!  
+
+**Chorus:**  
+Even though you were not raised among the sounds of the shepherd’s flute, even though you were raised, instead, by your mother’s side, raised to be adorned one day as a bride to one of Iachus’ descendants, you, my young girl, will be dragged down like a spotted deer, or like a young heifer is dragged down from some rocky mountain’s cave, dragged down there to the goddess’ altar.  
+
+**Chorus:**  
+Then the Greeks shall tie a garland around your fair hair and stain your human throat with your own blood.  
+
+  
+**Chorus:**  
+Where has the strength of your face gone? Where has the strength of the face of Modesty or of Virtue gone?  
+
+**Chorus:**  
+Alas! Now the strength rests with Irreverence and Virtue is now scorned by the mortals.  
+
+**Chorus:**  
+Gods’ laws are ruled by lawlessness and mortals don’t unite to stand against the wrath of Heaven.  
+
+*Enter Klytaimestra. She looks around the stage anxiously for a minute.*  
+
+**Klytaimestra:**  
+I’ve come out here looking for my husband. He’s gone out a while ago and Iphigeneia, in the meantime, has heard how her father is planning to kill her.  
+  
+She is in there, crying and falling from one abyss of misery into another.  
+*Suddenly she sees Agamemnon approaching.*  
+Ah, there he is! He’s coming this way now.  We will soon reveal Agamemnon’s sacrilegious schemes against his very own children!  
+
+*Enter Agamemnon*  
+
+**Agamemnon:**  
+Thank goodness you’re out here, Leda’s daughter. I need to tell you things that our daughter should not hear. Things that should best be kept away from a bride’s ear.  
+
+**Klytaimestra:**  
+What is it? What is it that I need to hear alone, out here?  
+
+  
+**Agamemnon:**  
+Look, the sacrificial ceremony is ready. The lustral water, the barley, everything is ready for the holy flame. The young heifers that will be sacrificed and that will deliver their abundant dark blood to the goddess Artemis are ready.  
+Now call her out here so she can follow me to the altar.  
+
+**Klytaimestra:**  
+These are lovely words, Agamemnon… but what of your deeds? What should I call them? What should I call your deeds to make them also sound lovely?  
+*Turns towards the tent*  
+Iphigeneia! Come out here, darling!  
+You already know your father’s intentions, poor love.  Come out here and bring your little brother, Orestes with you. Cover the baby with one of your cloaks.  
+*Enter Iphigeneia holding the baby in her arms. It’s covered with a cloak. Iphigeneia is crying.*  
+Obedient child. Here she is but I’ll do the talking for both of us.  
+
+*Agamemnon approaches Iphigeneia and tries to console her.*  
+
+  
+**Agamemnon:**  
+My child, why are you crying? Lift your head up for me, darling, smile for me.  
+No, don’t bury your face inside your cloak!  
+
+**Klytaimestra:**  
+Oh, Gods! How should I start?  What pain should I mention first –or second, or last?  Every one of them is just as unbearable!  
+
+**Agamemnon:**  
+What’s wrong with you two?  
+You’re both in such a state of distress and confusion!  
+
+**Klytaimestra:**  
+Answer me honestly, my husband!  
+
+  
+**Agamemnon:**  
+No need to tell me to answer you honestly. Ask me, what is it?  
+
+**Klytaimestra:**  
+Is it your wish to kill our child?  
+
+**Agamemnon:** *loud outrage*  
+What? What a dreadful thing to say!  What a dreadful thought to have in your mind!  
+
+**Klytaimestra:**  
+Stop your shouting. Just answer my question!  
+
+**Agamemnon:**  
+Then make it a reasonable one!  
+
+**Klytaimestra:**  
+My question is nothing but reasonable. Now make your answer reasonable also!  
+
+**Agamemnon:**  
+Holy Fate and Fortune! Holy Spirit of mine!  
+
+**Klytaimestra:**  
+Yes! Your Fate and mine – and hers, too! A black Fate for all three of us!  
+Agamemnon!  
+You? Why, what have they done to you?  
+
+**Klytaimestra:**  
+You have the impudence to ask me that? You ask me what they’ve done to me? Ah, but this impudence of yours will miss its mark!  
+
+  
+**Agamemnon:** *He covers his face with his hands in shame and groans.*  
+Ah!  I’m lost!  Someone has exposed my plans!  
+
+**Klytaimestra:**  
+Yes!  
+I know everything!  I know about your plans.  I know what you want to do to me… Go on! You groan but you say nothing. That in itself is your admission…  
+Don’t bother making a long speech about it, husband! There is no need!  
+
+**Agamemnon:**  
+Yes, I shall say nothing in my defence. How could I? I’d only be speaking lies and I’d be adding disgrace to my miserable Fate!  
+
+**Klytaimestra:**  
+Listen then and listen to me well!  I shall speak clearly for you.  No fancy, confusing words for you. The plain truth.  
+  
+Hear my first attack on you: You’ve married me by brutal force and by murder. You’ve murdered Tantalus, my first husband and with even more brutal violence, you’ve torn my baby from my breast and dashed it hard against the ground!  
+So angry were my twin brothers, the Dioscuri, that they came charging down from Zeus’ side on their glistening horses to fight you but you went begging to my old father, Tyndareus and he, not only saved you but made me your wife!  
+I accepted my fortune and you’ll admit that I have always been a good wife to you. Faithful, devoted, temperate in nuptial duties, a good keeper of your house.  
+  
+I was a very good house keeper for you.  You felt a great deal of joy when you came in that house, and when you went out of it you felt a wealthy man.  
+Such good wives are rare, Agamemnon! As for the other sort, the bad ones, they are everywhere!  
+Look there! I bore you this son… a son and three daughters and now you tear one of them from my hands so violently! You’re drowning me in misery.  
+Tell me, Agamemnon: Tell me what will you say to someone who asks you why you’ve killed your daughter? Tell me the reason you will give… no let me speak on your behalf, because I know what you will say.  You will say that you’ve killed our daughter so that Menelaos, your brother, can get back his Helen!  
+What a wonderful excuse!  What a price to pay for the sake of saving a slut! Your own baby! You will kill the one who’s loved by all so as to save the one who’s hated by all!  
+  
+Tell me Agamemnon! After you have gone… gone away on your expedition and you have left me here, alone in the house -and alone for a long time, our darling daughter’s chair empty… her bedroom empty -what sort of heart do you think will be beating in my breast?  
+  
+I would be there, alone, Agamemnon, wailing, crying bitter tears, yelling, “Darling Iphigeneia! Your own father has slaughtered you with his own hand!  He alone did it, he, alone, with his very own hand! He and no one else!”
+What sort of a welcome do you think you’ll receive on you return? What do you think I and the rest of your family will feel towards you?  
+We –your children and I- will give you the return that an evil man deserves. By the gods, Agamemnon! Don’t force me to become evil! Don’t become an evil man!  
+*Despondently*  
+I see. So you will sacrifice your daughter!  
+Well then, tell me: what will your prayer, your plea to the gods be? What will you ask the gods to grant you as your knife cuts through your daughter’s throat? A safe return?  No!  
+Should you not be expecting a poisonous welcome since you’re departing like a snake?  
+And, do I not also have the right to make my own prayer to the gods about you? Don’t suppose for one minute that I’ll be asking them to treat you well. We would be treating gods as fools if we thought that they would act kindly towards murderers.  
+  
+And tell me another thing, Agamemnon: when you return home, when you come back to Argos, will you have the gall to put your arms around any of your children? What a shocking thing that would be!  Which one will it be? Which of your children will dare even look at you? Which one will not wonder if it will be the next one you take to the slaughter?  
+Have you thought of any of this, or do you just go wandering about the army camp proudly waving about the sceptre of a General? Is being a General the only thing in your head?  
+Think about your daughter for once, Agamemnon and make a fair proposal to your army: Ask them all if they really want to go to Troy and if they do, well then, let them draw lots that will include their own children also! Let them all see which one should be sacrificed. Why should you be the only one to offer our child as a victim to the altar?  
+  
+Or else let Menelaos kill Hermione, his own daughter. All this is his own doing. His wife’s doing, so, let him kill his wife’s daughter. Why should I, a faithful wife, endure the misery of having my daughter killed while she, a slut, gets to rejoice by having her daughter kept safely at home, in Sparta?  
+If I’m right, do the sensible thing and don’t kill out darling.  
+
+**Chorus:**  
+Listen to her, Agamemnon! Save your child! No one in the world can deny that the act of saving a child is a blessed act.  
+
+*Iphigeneia hands baby Orestes to her mother*  
+
+  
+**Iphigeneia:**  
+If only I could sing like Orpheus, father!  
+Orpheus, who could charm even the heartless rocks into following him!  
+If I could use such a voice and have everyone charmed, have them convinced to agree with me and follow me, then I would use that voice.  
+But I have no such skill. The only voice I have, father, my only skill, is in my tears and, here, father, I’m giving them to you! I’m giving you my tears!  
+I’m giving you all I have!  
+*She leans before him and embraces his knees*  
+Here, father, here is the body of a suppliant! Here is the body that your wife has given birth to. I wrap its limbs around your knees and beg you: Please father, do not cut off my life short. Let me enjoy the sweet light of day and do not force me to enter the world beneath the earth.  
+  
+I’m your first one, father!  
+The first one to call you father, the first one you called daughter. Me, father! I was the first to play on your knees, the first one of your children to enjoy your love and the first one to give you a child’s love.  
+Remember, father? You used to ask me, “I wonder, my darling, will I get to see you married one day, married and settled happily in your husband’s home, your life ever blossoming, making me proud of you?” And I’d touch your chin, my father, hang from your beard, father, like I’m doing now and say, “and what about you, father, will I get to see you, father, an old man, visiting me at my house, ready for me to repay you for your hard work in raising me?”
+  
+No, you don’t remember these words, father. I do but you don’t! You’ve forgotten them and so, now, you want to kill me.  
+Please, father! Please, in the name of Pelops and of Atreas, who is your father, I beg you! Please don’t do it!  
+And I beg you also for my mother’s sake, the woman who laboured to bring me to life, the woman who is being tortured even now. I beg you, father!  
+What does my life have to do with the marriage of Paris and Helen father? Why has their marriage brought about my death, father?  
+*Agamemnon turns away.*  
+*She continues despondently.*  
+Come, then, father, turn to me and give me a final kiss. A kiss to remember you by in the underworld, since my words have not convinced you.  
+*Agamemnon does not move.*  
+*She goes over to her mother and takes baby Orestes in her arms. She swings him, sadly, gently back and forth and leans over him as she speaks to him*  
+What a weak little helper you are, my tiny brother! Won’t you cry with me, Orestes?  Come on, won’t you beg your father not to kill your big sister? Come on, Orestes, even babies know when there’s trouble around!  
+Ha!  See, father? Orestes is begging you, too! Begging you by his silence.  
+Do you not care about me any more? Spare my young life, father. Spare me!  Here! Look here, father! Here are the two of us, one’s a baby, the other a grown up girl, a brother and a sister, both your children, begging you, by your beard, pleading with you…  
+*She turns and looks sadly around her, then up at the sun.*  
+  
+That!  Up there is my final argument.  
+That light, this light all around us, will cut all other arguments to pieces.  
+This light is the sweetest thing that can fill the eyes!  
+The world beneath the earth is a world of nothing. Only fools would pray to go down there.  
+I’d rather live a life full of misery than die a hero’s death!  
+
+**Chorus:** *Shouts angrily*  
+Helen!  
+
+**Chorus:**  
+All this is your doing, Helen!  
+
+**Chorus:**  
+You, evil Helen! You are the cause of this miserable conflict between the sons of Atreas and their children!  
+
+**Agamemnon:**  
+I know well about pity –I know well who deserves it and who does not and I -I love my children!  
+No, I have not lost my senses.  
+This is a dreadful thing for me to do but it is just as dreadful not to do it.  
+Whether I do it or I don’t, the consequences for me will be the same.  
+  
+You both know the size of the army gathered here. You saw the endless ships. The whole place glitters with the bronze armour of the warriors.  The whole of Greece is gathered here and they all want one thing: to go to the famous city of Troy and tear down her towers.  
+*Turns towards Iphigeneia*  
+*Pleading*  
+But they can’t, my darling daughter. Not unless I obey the priest’s demand, not unless I sacrifice you.  
+Some madness has overtaken their hearts and they want to sail immediately over to Troy –to the land of those barbarians and to put an end to this raping and stealing of our women, to tearing them away from their marital beds.  
+*To Klytaimestra*  
+It is a madness I cannot control. If I try to stop them they will kill us all. They will sail over to our home, to Argos and kill our children and the two of us as well!  
+*Back to Iphigeneia*  
+I cannot defy the goddess’ demands, my darling.  
+  
+It’s not Menelaos who’s in control here, Iphigeneia. I don’t have to do anything he says and I didn’t.  
+The one in control here is Hellas. The whole of Greece.  
+It is for Hellas that I am forced to sacrifice you. Whether I want to do so or not, I must obey Hellas. I am forced to do it! It is Hellas I must obey, darling, not Menelaos.  
+Both of us, darling! Both you and I, whether we want to or not, must help Hellas stand free –Hellas’ men cannot have their wives stolen from their beds.  
+
+*Agamemnon turns and exits.*  
+
+**Klytaimestra:**  
+Ah, my darling!  
+Oh, dear ladies!  
+Oh, my sweet daughter! How can I endure your death?  
+Your father has gone, my darling and abandoned you to Hades!  
+
+*She takes the baby Orestes from Iphigeneia’s  hands.*  
+
+  
+**Iphigeneia:**  
+The same song, mother, the same words tell both our fates, dear mother and I… I’ve lost the day’s sweet light, the sweet light of the sun’s rays!  
+It was upon the forests of Trojan Ida, its woods covered thickly by the shroud of snow where King Priam once abandoned his child boy, Paris. The King feared the prophet’s words that the boy would grow up to destroy him –him and his city and so he tore the baby away from its mother’s arms and cast him on the mountainside, hoping that he would die.  
+  
+That child was Paris. Everyone called “Idean” because of the Trojan city Idean.  
+How I wish this herdsman, this boy who was brought up to care for cows, had never lived! How I wish he never lived near the gurgling white waters of those springs, the springs where nymphs gathered. How I wish he never lived at that meadow where all the flowers bloomed: roses and hyacinths, all those flowers that the goddesses plucked.  
+  
+It was there, at that meadow that Pallas Athena and Aphrodite, whose heart was full of cunning, came with Hera and Hermes, Zeus’ messenger.  
+One goddess, Aphrodite, was proud of her insatiable love.  
+Another, Pallas, was proud of her war spear and the third, Hera, proud of the fact that she shared her bed with Lord Zeus. She was the Queen of the gods.  
+It was there,  at that meadow, that these three women came before Paris to put an end to their dire contest about which of them was the most beautiful.  
+Dire to me because it brought about my death.  
+*Speaking to the chorus*  
+Dear women of Argos, this death, my death, this sacrifice to Artemis, will speed the Greeks to Troy and bring honour to the Greeks.  
+*Back to her mother*  
+Mummy!  
+Mummy!  
+My father, my own father has left me! He has abandoned me to deal with this dreadful calamity all on my own!  
+What a hateful, bitter sight is Helen! Abominable creature! Godless!  
+And I? I will be led to a godless slaughter by a godless father!  
+  
+If only this town, if only Aulis, had refused to let all these Troy-destined ships enter her harbour! Them and their pine sterns and their shiny bronze prows!  
+And if only Zeus had not breathed his contrary wind upon Euripus, this wind that stopped this expedition from leaving for Troy!  This breath that quieted the breezes in the Greek sails!  
+He sends all sorts of winds to sailors: winds to make them happy to lift their sails and plunge into the sea, winds to make them sad because they must furl their sails; and winds that make other sailors crazy because they’re forced to move too slowly.  
+  
+How harsh is the life of mortals!  
+How full of torment is life for us ephemeral creatures!  
+Our Fate dictates misery for us all!  
+How much suffering, how much pain has Helen, Tyndareus’ daughter, brought upon us, upon the children of Danaus!  
+
+**Chorus:**  
+What an awful, pitiful fate you must endure, child! I wish you could avert it somehow.  
+
+*For a moment a great deal of shouting by men is heard behind the curtains.*  
+*All the women are frightened and turn towards it. Iphigeneia hugs her mother.*  
+
+**Iphigeneia:** *Looking into the distance behind curtains.*  
+Mother, I see a group of men coming towards us!  
+
+**Klytaimestra:** *Peers into the distance anxiously for a moment but is finally relieved.*  
+Ah! That’s Achilles, my darling. The goddess’ son. He is the very reason you are here!  
+
+  
+**Iphigeneia:**  
+Servants, quickly, open the doors of the tent so that I may hide!  
+
+**Klytaimestra:**  
+Oh, no, child!  Why run away?  
+
+**Iphigeneia:**  
+Mother, I’m too ashamed to face Achilles.  
+
+**Klytaimestra:**  
+But why, child?  
+
+**Iphigeneia:**  
+I am ashamed because my marriage has turned out to be such a dismal failure.  
+
+**Klytaimestra:**  
+Darling, no! The circumstances are too dire now for modesty and for polite coyness! Stay here.  This might turn out to be a blessing for us –  
+
+*She hands Orestes to her*  
+*Enter Achilles with fellow soldiers in full armour.*  
+
+**Achilles:**  
+Dear, unfortunate Klytaimestra…  
+
+**Klytaimestra:**  
+“Unfortunate,” Achilles, yes, that is true!  
+
+**Achilles:**  
+The whole army is calling out for…  
+
+**Klytaimestra:**  
+What, Achilles? What does the army want?  Tell me!  
+
+**Achilles:**  
+The whole army wants her –your daughter-  killed!  
+
+**Klytaimestra:**  
+The whole army? Does no one speak against it?  
+
+**Achilles:**  
+I did but they’re shouting at me, too!  They want me to…  
+
+**Klytaimestra:**  
+You? What do they want to do with you?  
+
+**Achilles:**  
+They want to stone me to death, Klytaimestra!  
+
+  
+**Klytaimestra:**  
+Why? Because you’re trying to save my girl?  
+
+**Achilles:**  
+That’s right.  
+
+**Klytaimestra:**  
+But who on earth would dare touch you, Achilles?  
+
+**Achilles:**  
+Who? The whole Greek army, Klytaimestra, that’s who!  
+
+**Klytaimestra:**  
+The whole of the Greek army? What about your own soldiers, Achilles, what about your Myrmidons? Did they not side with you?  
+
+**Achilles:**  
+They were the worst of them all! They hate me the most!  
+
+**Klytaimestra:** *Turning to Iphigeneia*  
+Then that’s the end, my sweetheart! We are doomed now!  
+
+**Achilles:**  
+They jeered at me! Called me slave to a wedding bed!  
+
+**Klytaimestra:**  
+Did they? And how did you respond to that?  
+
+**Achilles:**  
+I told them that if that’s what they thought, then they should not kill my intended wife.  
+
+**Klytaimestra:**  
+Of course!  
+
+**Achilles:**  
+Her father had promised her to me!  
+
+**Klytaimestra:**  
+And kept his promise by bringing her here, to you, all the way from Argos!  
+
+**Achilles:**  
+But all that shouting!  
+I just couldn’t get through to them! I was beaten by all the noise.  
+
+**Klytaimestra:**  
+That’s what a mob is like! Awful!  
+
+**Achilles:**  
+Still, I’ll help you anyway.  
+
+**Klytaimestra:**  
+You, alone? You’ll fight them all?  
+
+**Achilles:**  
+Alone? Can you not see these men in full armour?  
+
+**Klytaimestra:**  
+May the gods give your heart strength!  
+
+  
+**Achilles:**  
+I hope so!  
+
+**Klytaimestra:**  
+So, my darling will not be put to the sword?  
+
+**Achilles:**  
+Not if I’ll have anything to say about it!  
+
+**Klytaimestra:**  
+Will anyone come to take her away?  
+
+**Achilles:**  
+Yes, many and they’ll be lead by Odysseus!  
+
+**Klytaimestra:**  
+Odysseus? You mean, the son of Sisyphus?  
+
+**Achilles:**  
+Yes, that’s the one!  
+
+**Klytaimestra:**  
+Was he picked by the army to do this or is this his own private doing?  
+
+**Achilles:**  
+He was elected, all right, but he didn’t say “no”!  
+
+**Klytaimestra:**  
+Elected to commit a murder! How dreadful!  
+
+**Achilles:**  
+But, don’t worry, I’ll certainly make it hard for him!  
+
+**Klytaimestra:**  
+Will he try and come here and drag my darling away, just like that, against her will?  
+
+**Achilles:**  
+Yes. He’ll grab her by her blond hair, if he has to and…  
+
+**Klytaimestra:**  
+So what should I do?  
+
+**Achilles:**  
+You must grab her and not let go of her.  
+
+**Klytaimestra:**  
+I’ll certainly try that –if that’s the last thing I do!  
+
+**Achilles:**  
+Yes, it might be just that. The very last thing you do.  
+
+**Iphigeneia:**  
+Mummy please listen!  
+I can see that you’re angry at your husband but I think you’re wrong about that.  
+There is no point. We can’t go on fighting against Necessity!  
+  
+*Indicating Achilles*  
+Our friend here should certainly be thanked for his efforts but we should be careful not to put his life in jeopardy against the army with no advance in our predicament.  
+Let me tell you my thoughts, mother.  
+It’s obvious that there’s no escaping my death; so now, I want to die nobly. I don’t want anyone to think despicable things about me.  
+Let me die in clear, unblemished glory.  
+*Klytaimestra shakes her head.*  
+No, listen to me, mummy!  
+*She hands Orestes to her.*  
+Listen, mummy and see if I’m not right.  
+All the eyes of Greece are upon me.  
+Her strength depends upon me.  
+Her expedition to Troy and its destruction depends upon me.  
+  
+The future of our Greek women rests upon my actions. The barbarians will no longer abduct them and carry them off from our wealthy shores, once Helen’s abduction by Paris has been avenged.  
+My death will bring about all this liberation and my good name will live into eternity.  
+People will talk about how I’ve saved Greece.  
+And then… there’s also this: what right do I have to love my life so much?  
+You haven’t given birth to me simply for your own sake! No, you’ve brought me to life so that the whole of Greece may rejoice!  
+How can I insult all those countless brave warriors and their shields, all those myriads of men, clasping hard at the oars –men with courage enough to attack our enemy and die for our country, to clear her name?  
+How can I insult them all -insult their efforts, by trying to save myself –I, one, single life?  
+Would that be just?  
+  
+What would my excuse be, mother?  
+And then there’s yet this:  
+We are asking this good friend of ours here to fight with the whole Greek army and be killed –for what? For a mere woman? No, mother!  
+No, I’d rather see the death of a thousand women than that of a single man!  
+A goddess, mother, the goddess Artemis has called for my body.  
+How could I, a mortal, go against that?  I could not. I shall give it to her for the sake of Greece.  
+Come! All of you! Prepare my sacrifice. Soldiers, go and tear down Troy!  
+Let that act be what I’ll be remembered by. Let that stand for me in place of the children and the marriage I could have had.  
+Let that be my fame!  
+  
+Let the Greeks win, mother, not the barbarians.  
+We are a free people, whereas they are slaves.  
+
+**Chorus:**  
+You’re a brave girl, Iphigeneia. What an awful Fate the gods have delivered to you!  
+
+**Achilles:**  
+Yes, it would have been some god’s blessing had I married you, daughter of Agamemnon!  
+Greece is lucky to have you as one of her daughters –I envy her and I envy you because you are lucky to have Greece as your mother.  
+Your words are good, worthy of our country. You have chosen logic and good intentions to that of continuing a war against Fate and against Necessity.  
+You are indeed a brave, noble person, Iphigeneia and for that reason I want you to be my wife.  
+  
+I want to marry you, to take you to my home and to protect you. I swear by my mother, the goddess Thetis, that I shall fight the Greeks to save you!  
+Think again, Iphigeneia! Death is a dreadful thing!  
+
+**Iphigeneia:**  
+I’m not afraid to say this in front of everyone: Helen, Tyndareus’ daughter, has caused wars and the endless spilling of blood because of her body. Let hers be the last one to do so!  
+My friend, neither kill nor be killed because of me. Let me, instead, save Greece, if I can.  
+
+  
+**Achilles:**  
+No, Iphigeneia! You are, indeed, a noble soul and you leave me speechless and unable to argue against your views. The decision is yours and it is a brave one, I admit that.  
+But listen to me, Iphigeneia. You might still change your mind. Once you see the knife approaching your neck you might well call for my help.  
+I shall be there, very near the altar.  
+My armed comrades will be there with me to save your life, to stop your execution. I won’t let anyone take your life even though it would be against your wish.  
+
+*Exit Achilles. Klytaimestra bursts into tears.*  
+
+**Iphigeneia:**  
+Mother, you’re crying!  
+But why?  
+Come, say something!  
+
+**Klytaimestra:**  
+Yes… I am crying!  
+There is a great reason to cry…  
+My misery is too great…  
+
+**Iphigeneia:**  
+Come, now, mother, don’t make me lose heart! Shhhh… listen to me!  
+
+**Klytaimestra:**  
+All right…  
+Speak.  
+I…  
+Speak and I will listen!  
+
+**Iphigeneia:** *She runs her fingers gently through her mother’s hair.*  
+Promise me, mummy! Promise me that you won’t cut even a strand of your hair in mourning… nor wear black!  
+
+**Klytaimestra:**  
+What? Can I not mourn my daughter’s loss?  
+
+  
+**Iphigeneia:**  
+But there is no loss, mummy!  
+My life, mummy, my life has been saved! And you, you will carry the honour of my deed wherever you go!  
+
+**Klytaimestra:**  
+But you’re saying that I can not mourn your death, my darling! How…  
+
+**Iphigeneia:**  
+No, mother. I want no one to lose tears over my grave. There will be no grave. No tomb, no tombstone!  
+
+**Klytaimestra:**  
+How can there be a death and not a grave? It is our custom to bury sacrificial offerings.  
+
+**Iphigeneia:**  
+Artemis’ altar will be my grave. The altar of Zeus’ daughter.  
+
+**Klytaimestra:**  
+All right!  
+You’ve persuaded me with wise words. I shall do as you say.  
+
+**Iphigeneia:**  
+I am a fortunate girl, mother. I shall serve Greece!  
+
+**Klytaimestra:**  
+What shall I tell your little sisters?  
+
+**Iphigeneia:**  
+Don’t let them wear black either!  
+
+**Klytaimestra:**  
+A sweet word of love from you?  
+
+**Iphigeneia:**  
+Wish them joy for me… and take good care of my little brother, Orestes for me. Bring him up to be a man.  
+
+  
+**Klytaimestra:** *Hands her the baby.*  
+Here, take him into your arms for the last time. Look at him for the last time.  
+
+**Iphigeneia:** *Cuddles Orestes tightly.*  
+Darling, darling little brother! You’ve done all you could to help your big sister, haven’t you?  
+
+**Klytaimestra:**  
+What shall I do for you in Argos?  
+
+**Iphigeneia:**  
+Do not hate daddy – my daddy, your husband.  
+
+**Klytaimestra:**  
+No, what he’s done to you will cost him a great deal of trouble!  
+
+**Iphigeneia:**  
+Mother, he will sacrifice me for the sake of our country, for Hellas, against his will.  
+
+**Klytaimestra:**  
+And he will achieve this by trickery. Vile trickery, unworthy of his father, Atreas!  
+
+**Iphigeneia:** *Hands Orestes back to her mother. Rolls her hand gently through her own hair. Thoughtfully.*  
+My hair! Mother, who’ll come with me when they’ll come and drag me by my hair?  
+
+**Klytaimestra:**  
+I’ll come with you. I’ll…  
+
+**Iphigeneia:**  
+…No, mother! No, that’s not a good idea…  
+
+**Klytaimestra:**  
+I’ll hold you tight, by your clothes…  
+
+  
+**Iphigeneia:**  
+No, mother. Listen to me!  That would be bad for both of us.  
+*She goes to the door of the tent and opens it so that the servant may hear her.*  
+No, mother, let one of daddy’s servants accompany me to Artemis’ woods, the place where I shall be sacrificed.  
+*A female servant enters from the tent.*  
+
+**Klytaimestra:**  
+Darling!  You’re going?  
+
+**Iphigeneia:**  
+Yes, mother. Going forever!  
+
+**Klytaimestra:**  
+And you will abandon your mother like this?  
+
+**Iphigeneia:**  
+Yes, mother. I must go. Unjustly but I must!  
+
+**Klytaimestra:** *Grabs her by her arm*  
+No!  No!  Stop! Don’t go! Don’t leave me!  
+
+**Iphigeneia:**  
+Stop! Mother, no! I will not have you crying!  
+*She leads her mother into the tent and returns to centre stage*  
+*To the chorus:*  
+You, girls! Raise a hymn now to the goddess Artemis, Zeus’ daughter, for the sad honour she has asked me to endure and let the women of Argos, the daughters of Danaus, hold a silence of reverence.  
+  
+Let someone go and prepare the sacrificial basket and may the blessed fire burn high with the purifying barley.  
+And may my father work well his right hand upon me at the altar!  
+My sacrifice will bring about a victory for the Greeks and secure their safety.  
+Now, come, take me away to the altar! I, the destroyer of Priam’s city and its people!  
+A garland for my head… a garland for my hair… some holy water from the sacred basins!  
+*Some members of the chorus rush about her, placing garlands on her hair and sprinkling water upon her head.*  
+Dance, girls, dance around Artemis’ altar!  
+Dance around the temple of the blessed goddess!  If I must then I shall wash away her oracle with my blood, with my sacrifice upon her altar.  
+  
+No, holy mother!  
+No, I will not shed any tears now. It is improper for tears to be shed during holy rites.  
+Come, friends, sing with me in praise of the goddess whose temple faces Chalkis, the place where the spears of war are waiting for me in anger!  
+There, in the narrow harbour of Aulis.  
+My country! My Pelasgia! My Mycenae! My home! My mother!  
+
+  
+**Chorus:**  
+That is the city of Perseus, you’re calling to! A city built by the Cyclopes!  
+
+**Iphigeneia:**  
+Pelasgia!  You’ve raised me to be the shining light of Greece.  
+I do not fear my death!  
+
+**Chorus:**  
+No, your name will never die!  
+
+**Iphigeneia:**  
+Glorious day!  
+Glorious sun! Zeus’ own light!  
+I’m leaving for another world! From now on I will live there in that other world.  
+Goodbye, sweet light!  
+
+*Exit Iphigeneia*  
+
+**Chorus:**  
+And there goes the girl!  
+
+**Chorus:**  
+There goes the destroyer of Troy and her people!  
+
+**Chorus:**  
+There goes the girl with garlands on her hair and holy water upon her head!  
+
+**Chorus:**  
+There goes the girl who’ll soon stain the altar of the murderous goddess with the gushing blood of her beautiful throat!  
+
+**Chorus:**  
+Go, young girl! The sparkling water of your ancestral streams is waiting for you!  
+
+**Chorus:**  
+Go, young girl! Your father’s holy water is waiting for you!  
+
+**Chorus:**  
+Go, young girl! The Greek warriors are waiting for you, anxious to start off for Troy!  
+
+**Chorus:**  
+Friends, let us sing our prayer to Artemis! Let us pray for a good fortune!  
+
+**Chorus:**  
+O, dear goddess!  Blessed Artemis!  
+
+**Chorus:**  
+Enjoy now the sacrifice of blood and then help the Greek army launch its expedition to the land of the Phrygians, Troy the treacherous!  
+
+**Chorus:**  
+Let Agamemnon’s spear see victory!  
+
+**Chorus:**  
+Let Agamemnon place a crown upon the head of Greece and let him be crowned in turn!  
+
+**Chorus:**  
+Let Agamemnon’s name live for ever in glory!  
+
+*Enter Second Messenger running excitedly.*  
+*He goes to the tent and shouts through its door.*  
+
+  
+Second **Messenger:**  
+Klytaimestra!  Klytaimestra! Daughter of Tyndareus! Come out here immediately! Come and hear my news!  
+
+*Enter Klytaimestra.*  
+**Klytaimestra:**  
+I hear you, I hear you!  Here I am.  
+Your voice has horrified me! I’m shaking with fear.  
+Are you here to add to the mountain of dread I have to endure already?  
+
+**Messenger:**  
+No, my lady! Indeed no! Rather, I have an amazing story to tell you about your daughter. A real miracle!  
+
+**Klytaimestra:**  
+Go ahead then, speak. Don’t waste any time!  
+
+  
+**Messenger:**  
+My dear lady I shall. You’ll soon hear it all. That is, if my brain doesn’t falter and make my tongue trip over its words!  
+We took Iphigeneia to the forest of Zeus’ daughter, Artemis. It’s a meadow full of bright and beautiful flowers.  
+The moment we got there with your daughter all the Greek soldiers gathered around us. Agamemnon saw his child on her way to her slaughter and immediately groaned with horrible pain. He lifted his cloak up and dug his face deep into it, trying to hide the tears that flooded his eyes.  
+  
+Still, the girl came up close to him and said, “Daddy, here I am, ready to do as you say. I offer my body to my country and to the rest of Greece, willingly. Come, take me to the altar of the goddess. Sacrifice me. It is the wish of the Heavens. On my part, I wish you all happiness and may you return to the land of your fathers victorious.  Let no Greek touch my body with his hand. I offer my neck quietly and with no fear for the knife.”
+  
+That’s what she said and every man there was amazed at the bravery and the virtue of the young girl.  
+Then Talthybius stood up amongst them all and told them to be silent. He was the one responsible for that job.  
+Then Calchas, the priest, took out a sharp sword out of its sheath and placed it in a basket made of gold. Then he placed a garland upon the girl’s head and sprinkled holy water on her hair.  
+Then Achilles, Peleas’ son, took the golden basket and the holy water in his hands and ran around the goddess’ altar, chanting:  
+  
+> “Oh, Artemis!  
+> Oh daughter of Zeus!  
+> Oh, killer of wild beasts!  
+> Oh, goddess who lets her brilliant light roll along through the gloomy darkness of the night!  
+> Accept this sacrifice which we, the Greek army and Agamemnon, offer to you!  
+> Accept the pure blood from this girl’s lovely neck!  
+> Accept it and grant us a safe journey!  
+> Accept it and let our spears sack the tall towers of Troy!”  
+
+The whole army and both the sons of Atreas stood there in silence, their eyes downcast.  
+Then the priest took hold of the sword and, after a few words of prayer, began searching the girl’s neck looking for the best place to strike.  
+I… I felt a sharp pain cutting into my heart, my lady and I looked down onto the earth.  
+  
+But then, suddenly a miracle happened, my lady!  
+All of us –we all heard the awful thud of the striking sword but when we looked up, we could not see the girl anywhere! She had vanished, my lady! Gone!  
+Then the priest lets out a huge roar and the whole army roared with him as they saw the most unbelievable sight, a sight that must have been sent by Heaven, a sight that made them question their very eyes.  
+There, my lady, there, upon the ground, lay a large animal, a beautiful stag, letting out its last breaths. Its blood spattered about, saturating the goddess’ altar!  
+  
+You just can’t imagine Calchas’ joy, madam!  
+He spoke and he said,  
+
+> “Chiefs of the Greek army, can you see this offering? Can you see what the goddess has placed upon her altar? Can you see this stag, this animal that walks about in the mountains? The goddess would much rather have this animal offered to her than the girl so that her altar would not be defiled by shedding the blood of a human. She has accepted this offering gladly and has granted us a safe journey for our expedition against Troy.  And so, soldiers, take heart and head for your ships because today we must leave behind the deep harbours of Aulis and cross our way through the vast Aegean sea!”  
+
+  
+And when the animal was thoroughly burned in the flames of the god of fire, Hephaistus, and when the holy rites were completed, Calchas prayed for our safe return.  
+Then Agamemnon came to me and ordered me to come here and tell you what Fate the gods have granted to your daughter. It is a glory that will never wither in the minds of the Greeks.  
+Let me make it absolutely clear, my lady: I was there and I saw it with my own eyes! The girl is with the gods! She has flown away to the Heavens!  
+Be sad no more!  
+Be angry with your husband no more!  
+The gods do strange things, madam, things that baffle us mortals but they save those they love.  
+Your daughter, my lady, has today seen both death and life!  
+
+*Exit Second Messenger*  
+
+  
+**Chorus:**  
+What joyful news that messenger has brought you, my lady!  
+
+**Chorus:**  
+He said your daughter is still alive, my lady!  
+
+**Chorus:**  
+…and living with the gods!  
+
+**Klytaimestra:**  
+Darling Iphigeneia!  
+Sweet daughter! Which of the gods has stolen you?  
+How should I address you from now on?  
+And how can I be certain that this isn’t just an idle little story to cheer me up, to ease my dreadful grief for you?  
+
+**Chorus:** *Indicating within*  
+Ah! Here comes the king himself, my lady. Here comes Agamemnon!  
+
+**Chorus:**  
+He’ll be able to confirm the messenger’s words.  
+
+*Enter Agamemnon, excited.*  
+
+**Agamemnon:**  
+Wife, we should consider ourselves very much blessed. Our daughter now lives among the gods. Now, you must take with you our newborn son from here and go back home.  The Greek army is getting ready to sail.  
+Good bye, then!  
+It will be a long time before I return from Troy, a long time before I greet you again.  
+May all things turn out well for you!  
+
+**Chorus:**  
+Agamemnon, son of Atreas, begin now your journey to Troy and may it be a happy one!  
+
+**Chorus:**  
+Come back to us once you’ve taken from that city her fairest spoils!  
+  
+  
+
+*Exit all*  
+

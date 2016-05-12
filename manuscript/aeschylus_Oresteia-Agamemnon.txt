@@ -1,0 +1,2437 @@
+# Oresteia - Agamemnon {#aeschylus_book-1-1}  
+  
+C> *This edition is based on the [publicly available](http://records.viu.ca/~johnstoi/aeschylus/aeschylus_agamemnon.htm) translation by Ian Johnston*  
+  
+  
+**Dramatis Personae**  
+
+**WATCHMAN**: servant of Agamemnon and Clytaemnestra.  
+**CHORUS**: old men, citizens of Argos.  
+**CLYTAEMNESTRA**: wife of Agamemnon, daughter of Leda, sister of Helen.  
+**HERALD: soldier serving with Agamemnon.  
+**AGAMEMNON**: king of Argos, leader of the Greek expedition to Troy.  
+**MESSENGER**: a servant in the palace.  
+**CASSANDRA**: daughter of Priam, King of Troy, a prisoner given to Agamemnon, a priestess of Apollo.  
+**AEGISTHUS**: son of Thyestes, cousin of Agamemnon, Clytaemnestra’s lover.  
+**SOLDIERS** and **SERVANTS** attending on Agamemnon and on Clytaemnestra and Aegisthus.  
+
+  
+
+The brothers Agamemnon and Menelaus, sons of Atreus, are both kings of Argos and leaders of the expedition against Troy, launched ten years before the action of the play begins. Agamemnon is the senior of the two. The allied forces under Agamemnon are called the Argives, the Achaeans, or the Danaans, as in Homer’s Iliad—not Greeks. Priam’s city is called Troy or Ilion interchangeably.  
+  
+
+*[The scene is in Argos immediately in front of the steps leading up to the main doors of the royal palace. In front of the palace there are statues of gods. At the start of the play, the Watchman is prone on the roof of the palace resting his head on his arms. It is just before dawn.]*  
+  
+  
+WATCHMAN  
+I pray the gods will give me some relief
+and end this weary job. One long full year
+I’ve been lying here, on this rooftop,  
+the palace of the sons of Atreus,  
+resting on my arms, just like a dog.  
+I’ve come to know the night sky, every star,  
+the powers we see glittering in the sky,  
+bringing winter and summer to us all,  
+as the constellations rise and sink.  
+I’m still looking for that signal flare, the fiery blaze from Troy, announcing
+it’s been taken. These are my instructions                                         
+from the queen. She has a fiery heart,  
+the determined resolution of a man.  
+When I set my damp, restless bed up here,  
+I never dream, for I don’t fall asleep.  
+No. Fear comes instead and stands beside me,  
+so I can’t shut my eyes and get some rest.  
+If I try to sing or hum a tune,  
+something to do instead of trying to sleep, since I’m always awake, I start to weep,  
+as I lament what’s happened to this house,  
+where things are not being governed well,  
+not like they used to be. How I wish
+my watching could end happily tonight,                                            
+with good news brought by fire blazing
+through this darkness.  
+
+[The signal fire the Watchman has been waiting for suddenly appears. The Watchman springs to his feet]  
+
+ Fire gleaming in the night!  
+What a welcome sight! Light of a new day—  
+you’ll bring on many dancing choruses
+right here in Argos, celebrations of this joyful news.  
+
+[Shouting]  
+
+ It’s over! It’s over!  
+I must call out to wake the queen,  
+Clytaemnestra, Agamemnon’s wife,  
+to get her out of bed, so she can raise
+a shout of joy as soon as possible
+inside the palace, welcoming this fire—  
+if indeed the city of Troy’s fallen,  
+as this signal fire seems to indicate.                                                   
+For my part, I’ll start things off by dancing,  
+treating my king’s good fortune as my own. I’ve had a lucky dice roll, triple six,  
+thanks to this fiery signal . . . .  
+
+[His mood suddenly changes to something much more hesitant and reserved]  
+
+But I hope
+the master of this house may come home soon,  
+so I can grasp his welcome hand in mine.  
+As for all the rest, I’m saying nothing.  
+A great ox stands on my tongue. But this house,  
+if it could speak, might tell some stories.  
+I speak to those who know about these things.  
+For those who don’t, there’s nothing I remember.  
+
+[The Watchman goes down into the house. Enter the Chorus of Argive elders, very old men who carry staves to help them stand up. As they speak, servants come out of the palace and light oil lamps in offering to the statues of the gods outside the palace doors]  
+
+CHORUS
+It’s now ten years since Menelaus,  
+Priam’s great adversary,  
+and lord Agamemnon,  
+two mighty sons of Atreus,  
+joined by Zeus in double honours—  
+twin thrones and royal sceptres—  
+left this country with that fleet,  
+a thousand Argive ships,  
+to back their warrior cause with force,  
+hearts screaming in their battle fury,  
+two eagles overwhelmed by grief, crying for their young—wings beating                                                
+like oars, they wheel aloft,  
+high above their home, distressed
+because they’ve lost their work—  
+their fledglings in the nest are gone! [^note-1101]  
+
+Then one of the supreme powers—  
+Apollo, or Pan, or Zeus—  
+hears the shrill wailing cry,  
+hears those screaming birds,  
+who live within his realm, and sends a late-avenging Fury
+to take revenge on the transgressors.  
+In just that way, mighty Zeus,                                                              
+god of hospitality,  
+sends those sons of Atreus
+against Alexander, son of Priam—  
+for that woman’s sake, Helen,  
+the one who’s had so many men,  
+condemning Trojans and Danaans
+to many heartfelt struggles, both alike, knees splintering as the fighting starts. [^note-1102]  
+
+Now things stand as they stand.  
+What’s destined to come will be fulfilled,  
+and no libation, sacrifice, or human tears
+will mitigate the gods’ unbending wrath
+of sacrifice not blessed by fire.  
+
+But as for us, whose old bodies
+confer no honour, who were left behind
+when the army sailed so long ago,we wait here, using up our strength
+to support ourselves with canes,  
+like children, whose power,  
+though growing in their chests,  
+is not yet fit for Ares, god of war.  
+And so it is with old men, too,  
+who, when they reach extreme old age,  
+wither like leaves, and go their way
+three-footed, no better than a child,                                                   
+as they wander like a daydream.                                             
+But you, daughter of Tyndareus,  
+queen Clytaemnestra,  
+what’s going on? What news?  
+What reports have you received
+that lead you to send your servants out
+commanding all this sacrifice?  
+For every god our city worships—  
+all-powerful gods above the earth,  
+and those below, and those in heaven,                                               
+and those in the marketplace— their altars are ablaze with offerings.  
+Fires rise here and there and everywhere,  
+right up to heaven, fed by sacred oils
+brought from the palace—sweet and holy,  
+their purity sustains those flames.  
+Tell us what you can,  
+tell us what’s right for us to hear.  
+Cure our anxious thoughts.  
+For now, at one particular moment,                                                   
+things look grim, but then our hopes,rising from these sacrificial fires,  
+make things seem better, soothing
+corrosive pains that eat my heart.  
+
+I have the power to proclaim
+that prophecy made to our kings,  
+as they were setting on their way,  
+a happy outcome for their expedition.  
+My age inspires in me Persuasion still,  
+the power of song sent from the gods,  
+to sing how two kings of Achaea’s troops, united in a joint command, led off                                                      
+the youth of Greece, armed with avenging spears,  
+marching against Troy, land of Teucer.  
+They got a happy omen—two eagles,  
+kings of birds, appeared before the kings of ships.  
+One bird was black, the other’s tail was white,  
+here, close to the palace, on the right,  
+in a place where everyone could see.  
+The eagles were gorging themselves,  
+devouring a pregnant hare and all its unborn offspring,  
+struggling in their death throes still. 
+
+Sing out the song of sorrow, song of grief,  
+but let the good prevail.  
+
+Then the army’s prophet, Calchas,  
+observing the twin purposes
+in the two warlike sons of Atreus,  
+saw the twin leaders of the army
+in those birds devouring the hare.  
+He then interpreted the omen, saying,                                   
+“In due course this expedition
+will capture Priam’s city, Troy—  
+before its towers a violent Fate
+will annihilate all public goods.                                                          
+But may no anger from the gods
+cast its dark shadow on our troops,  
+our great bit forged to curb Troy’s mouth.  
+For goddess Artemis is full of anger
+at her father’s flying hounds—she pities
+the cowering sacrificial creature in distress, she pities its young, slaughtered
+before she’s brought them into life.  
+Artemis abominates the eagles’ feast.”  
+
+Sing out the song of sorrow, song of grief,  
+but let the good prevail.  
+
+“And lovely Artemis—  
+though you’re gentle with the tender cubs
+of vicious lions and take special joy
+in the suckling young of all wild living beasts,  
+promise things will work out well, as this omen of the eagles indicates,   
+an auspicious sign, but ominous.  
+And I call Apollo, god of healing,  
+to stop Artemis delaying the fleet,  
+by sending hostile winds
+to keep the ships from sailing,                                                             
+in her demand for another sacrifice,  
+one which violates all human law,  
+which no feast celebrates—  
+it shatters families and makes the wife lose all respect and hate her husband.                                 
+For in the home a dreadful anger waits.  
+It does not forget and cannot be appeased.  
+Its treachery controls the house,  
+waiting to avenge a slaughtered child.”  
+
+Calchas prophesied that fatal destiny,  
+read from those birds, as the army marched,  
+speaking by this palace of the kings.  
+
+ And to confirm all this
+sing out the song of sorrow, song of grief, but let the good prevail.  
+
+O Zeus, whoever he may be,                                         
+if this name please him as invocation,  
+then that’s the name I’ll use to call him.  
+As I try to think all these things through,  
+I have no words to shape my thoughts,  
+other than Zeus—if I truly can succeed
+in easing my heart of this heavy grief,  
+this self-defeating weight of sorrow.  
+
+As for Uranus, who was once so great, bursting with arrogance for every fight,  
+people will talk about that god
+as if he’d never even lived.                                                                    
+And his son, Cronos, who came after,  
+has met his match and is no more.  
+But whoever with a willing heart
+cries his triumphal song to Zeus
+will come to understand all things. [^note-1103]  
+
+Zeus, who guided mortals to be wise,  
+has established his fixed law—wisdom comes through suffering.  
+Trouble, with its memories of pain,  
+drips in our hearts as we try to sleep,                                                 
+so men against their will
+learn to practice moderation.  
+Favours come to us from gods
+seated on their solemn thrones—  
+such grace is harsh and violent.  
+
+So then the leader of Achaean ships,  
+the elder brother, Agamemnon, did not blame or fault the prophet,  
+but gave in to fortune’s sudden blows.  
+For Achaea’s army, stranded there,  
+on the shores across from Calchis,                                                      
+was held up by opposing winds at Aulis,  
+where tides ebb and flow.  
+Troops grew weary, as supplies ran low.  
+Winds blew from the Strymon river,  
+keeping ships at anchor, harming men
+with too much leisure. Troops grew hungry. They wandered discontent and restless.  
+The winds corroded ships and cables.  
+The delay seemed endless, on and on, until
+the men, the flower of Argos, began to wilt.  
+Then Calchas proclaimed the cause of this—  
+it was Artemis. And he proposed                                                        
+a further remedy, but something harsh,  
+even worse than the opposing winds,  
+so painful that the sons of Atreus
+struck their canes on the ground and wept. [^note-1104]  
+
+Then Agamemnon, the older king, spoke up:  
+“It’s harsh not to obey this fate—  
+but to go through with it is harsh as well,  
+to kill my child, the glory of my house,  
+to stain a father’s hands before the altar                                            
+with streams of virgin’s blood.  
+Which of my options is not evil?  
+How can I just leave this fleet,  
+and let my fellow warriors down?  
+Their passionate demand for sacrifice to calm the winds lies within their rights—  
+even the sacrifice of virgin blood.  
+So be it. All may be well.”
+
+But when Agamemnon strapped on
+the harsh yoke of necessity,  
+his spirits changed, and his intentions
+became profane, unholy, unsanctified.                                               
+He undertook an act beyond all daring.  
+Troubles come, above all, from delusions
+inciting men to rash designs, to evil. So Agamemnon steeled his heart
+to make his own daughter the sacrifice,  
+an offering for the Achaean fleet,  
+so he could prosecute the war
+waged to avenge that woman Helen.  
+
+In their eagerness for war, those leaders                                            
+paid no attention to the girl,  
+her pleas for help, her cries of “Father!”—  
+any more than to her virgin youth.  
+Her father offered up a prayer, then ordered men to seize her
+and lift her up—she’d fallen forward
+and just lay there in her robes—to raise her,  
+high above the altar, like a goat,  
+urging them to keep their spirits up.  
+They gagged her lovely mouth,  
+with force, just like a horse’s bit,  
+to keep her speechless, to stifle any curse
+which she might cry against her family.  
+
+As she threw her saffron robe onto the ground, she glanced at the men, each of them,                                                
+those carrying out the sacrifice,  
+her eyes imploring pity. She looked
+just like a painting dying to speak.  
+She’d often sung before her father’s table,  
+when, as host, he’d entertained his guests,  
+a virgin using her flawless voice
+to honour her dear father with her love,  
+as he prayed for blessing
+at the third libation.                                                                  
+What happened next I did not see.  
+And I won’t say. What Calchas’ skill
+had prophesied did come to pass.  
+The scales of Justice move to show                                                     
+that wisdom comes through suffering.  
+As for what’s to come—you’ll know that
+when it comes. So let it be.  
+To know would be to grieve ahead of time.  
+It’s clear whatever is to happen
+will happen, like tomorrow’s dawn.                                        
+[Enter Clytaemnestra through the palace doors]  
+
+But I hope whatever follows will be good,  
+according to the wishes of our queen,  
+who governs here, our closest guard,  
+keeping watch all by herself,  
+protecting Peloponnesian lands.  
+
+CHORUS LEADER 
+Queen Clytaemnestra, we’ve come here
+in deference to your royal authority.  
+With our king far away, the man’s throne                                          
+is empty—so it’s appropriate for us
+to pay allegiance to his wife, the queen. I’d really like to hear your news,  
+whether what you’ve heard is good or not.  
+Your sacrificial offerings give us hope.  
+But we won’t object if you stay silent.  
+
+CLYTAEMNESTRA
+It’s a welcome message. As the proverb says,  
+“May Dawn be born from mother Night.”  
+You’ll hear great news, greater than all your hopes—  
+the Argives have captured Priam’s city!  
+
+CHORUS LEADER
+What’s that you say? I misheard your words—  
+what you’ve just said—it defies belief!                                   
+CLYTAEMNESTRA
+I say Troy is now in Achaean hands.  
+Is that clear enough?  
+
+CHORUS LEADER
+ That fills me with joy.  
+So much so I can’t stop crying.                                                             
+
+CLYTAEMNESTRA
+Then your eyes reveal your faithful loyalty.  
+
+CHORUS LEADER
+Is this report reliable? Is there proof?  
+
+CLYTAEMNESTRA
+Of course there is. Unless some god deceives me.  
+
+CHORUS LEADER 
+Has some vision persuaded you of this,  
+something in a dream, perhaps?  
+
+CLYTAEMNESTRA
+ Not at all.  
+As if I’d listen to some dozing brain.  
+
+CHORUS LEADER  
+Perhaps some unfledged rumour raised your hopes?           
+CLYTAEMNESTRA
+Now you’re insulting my intelligence,  
+as if I were a youngster, just a child.  
+
+CHORUS LEADER
+When exactly was the city captured?  
+
+CLYTAEMNESTRA
+I’ll tell you. It was the very night
+that gave birth to this glorious day.  
+
+CHORUS LEADER
+How could a messenger get here so fast?                                           
+
+CLYTAEMNESTRA
+Hephaestos, god of fire, sent his bright blaze
+speeding here from Ida, his messenger,  
+flames racing from one beacon to the next—  
+from Ida to Hermes’ rock in Lemnos. From that island the great flames sped
+to the third fire, on the crest of Athos,  
+sacred to Zeus, and then, arcing high,  
+the beacon light sprang across the sea,  
+exulting in its golden fiery power,  
+rushing on, like another sun, passing
+the message to the look-out towers
+at Macistus. The man there was not sleeping,                                  
+like some fool. Without a moment’s pause,  
+he relayed the message, so the blazing newssped on, leaping across Euripus’ stream,  
+to pass the signal to the next watchmen,  
+at Messapion. Those men, in their turn,  
+torched a pile of dried-out heather, firing
+the message onward. The flaming light
+was not diminished—its strength kept growing.  
+Like a glowing moon, it jumped across
+the plain of Asopus, up to the ridges
+on mount Cithaeron, where it set alight
+the next stage of the relay race of fire.Those watching there did not neglect their work—  
+that light which came to them from far away                                    
+they passed on with an even greater blaze,  
+which dashed across the shores of Gorgopus,  
+to reach mount Aegiplanctus, with orders
+for those there to keep the beacon moving.  
+They lit a fire, a huge flaming pillar,  
+with unchecked force, speeding the message on—  
+its light visible even at the headland
+by the Saronic Gulf. It swooped down, once it reached the crest of Arachnaeus,  
+that look-out near our city—and from there
+jumped down onto the roof of Atreus’ sons,                                      
+flames directly linked to blazing Troy.  
+I organized these messengers of fire,  
+setting them up in sequence, one by one.  
+In that race the first and last both triumph,  
+the ones who sent the message and received it.  
+That’s the evidence I set before you,  
+a message from my husband, dispatched all the way from burning Troy to me.  
+
+CHORUS
+My queen, I’ll offer up to all the gods
+my prayers of thanks, but now I’d like to hear
+the details of your wonderful report.  
+Can you tell me the news once more?  
+
+CLYTAEMNESTRA
+On this very day Achaea’s army                                                           
+has taken Troy. Inside that town, I think,  
+voices cry out in mass confusion.  
+If you place oil and vinegar together,  
+in the same container, you’ll observe they never mix, but separate themselves,  
+like enemies—well, in Troy the shouting
+of conquerors and conquered is like that,  
+matching their very different situations.  
+Trojans fall upon their family corpses,  
+husbands, brothers. The children scream
+over dead old men who gave them life.  
+As captives now, they keep lamenting
+all their slaughtered loved ones. But the Argives,  
+famished after a long night’s roaming,  
+and weary after battle, are set to eat,  
+to gorge themselves on what the town affords.  
+They’re quartered now in captured Trojan homes,  
+sheltered from the night sky’s frost and dew,  
+but not according to official rank,  
+rather as luck determines each man’s lot.  
+They’re happy. They’ll sleep straight through the night,  
+without posting a guard. Now, if these troops
+fully and piously respect Troy’s gods,  
+a captured country’s divinities and shrines, those who’ve conquered may not, in their turn,                                
+be conquered. But let no frenzied greed,  
+no overpowering lust for plunder,  
+fall upon the army from the start,  
+so they ravage what they should leave alone.  
+For to get safely home, the army needs
+to make that long journey back again.  
+But even if the soldiers do reach home
+without offending any god, harsh sorrow
+for the dead may still be watching for them, unless some new disaster intervenes.  
+Well, I’ve let you hear my woman’s words.  
+May good things now prevail for all to see.  
+I take this news as cause for common joy.                                         
+
+CHORUS LEADER
+You speak wisely, like a prudent man.  
+But now I’ve heard that I can trust your news,  
+we must prepare ourselves to thank the gods,  
+who’ve given a blessing worthy of our toil.  
+
+[Clytaemnestra goes back into the palace]  
+
+CHORUS
+O Zeus, my king, and friendly Night,  
+you’ve handed us great glories to keep as our possession.  
+You cast upon the towers of Troy
+your all-encompassing hunting net,  
+and no one, young or old, escaped
+its enslaving fatal mesh                                                                        
+that overpowered them all.  
+
+I worship mighty Zeus,  
+god of hospitality,  
+who made this happen.  
+For a long time now he’s aimed his bow at Paris,  
+making sure his arrow
+would not fall short or fly
+above the stars and miss.  
+
+Men will say it’s a blow from Zeus
+and trace his presence in all this.  
+He acts on what he himself decides.  
+Some people claim that gods                                                               
+don’t really care about those men
+who trample underfoot favours from the pure in heart.  
+Such people are profane.  
+For we now clearly see
+destruction is the penalty
+for those with reckless pride,  
+who breathe a boastful spirit
+greater than is just,  
+because their homes are full,  
+stuffed with riches to excess,  
+beyond what’s best for them. Let men have sufficient wealth
+to match good sense, not so much                                                      
+it piles up their misfortunes.  
+There’s no security in riches
+for the insolent man who kicks aside
+and pushes from his sight
+great altars of righteousness.  
+
+Such a man is overpowered
+by perverse Persuasion,  
+insufferable child of scheming Folly. And there’s no remedy.  
+His evil’s not concealed—  
+it stands out, a lurid glitter,  
+like false bronze when rubbed.                                                            
+All men can judge his darkness,  
+once he’s tested by events.  
+He’s like a child chasing a flying bird.  
+He brands his city with disgrace
+which cannot be removed,  
+for no god hears his prayers. The man who lives this way,  
+doing wrong, the gods destroy.  
+Such a man was Paris. He came
+to the home of the sons of Atreus,                                                      
+and then abused their hospitality,  
+running off with his host’s wife.  
+
+But she left her people
+the smash of shield and spear,  
+a fleet well armed for war.  
+To Troy she carried with her no dowry but destruction.  
+Daring what should not be dared,  
+she glided through Troy’s gates.  
+The prophets in this house cried out, 
+      “Alas, alas for house and home,                                                           
+and for the royal leaders here. [^note-1105]  
+Alas, for the marriage bed,  
+still holding traces of her body,  
+the one who loved her husband.”
+As for him, he sits apart, in pain, silent and dishonoured.  
+
+He does not blame her—  
+no, he aches to be with her,  
+the woman far across the sea.  
+Her image seems to rule the house.  
+Her husband finds no beauty now
+in graceful statues, for to his blank eyes
+all sexual loveliness has gone.  
+
+In his dreams he sees sad images,                                                       
+with memories of earlier joy—a vain relief, for when the man
+thinks he sees such beauty there,  
+all at once it’s gone, slipping
+through his hands, flying away
+along the paths of sleep.  
+
+These are the sorrows in the house,  
+around the hearth, and pain
+much worse than this. For everywhere,  
+throughout the land of Greece,  
+in every home where men set out  
+to gather in that army
+there is insufferable grief.  
+Many disasters pierce the heart.  
+People know the ones who leave,  
+but every house gets back
+weapons and ash, not living men.  
+
+For Ares, god of war, pays gold
+for soldier’s bodies. In spear fights
+he tips the scales, then back from Troy                                              
+he ships a heavy freight of ash,cremated bodies of the dead,  
+sent home for loved ones to lament.  
+He trades funeral dust for men,  
+shiploads of urns filled up with ashes.  
+Back home the people weep,  
+praising one man for his battle skill,  
+another for courageous death.  
+Some complain about that woman,  
+how she’s to blame for all of this—  
+but do so quietly. Nonetheless,  
+this sorrow spreads resentment
+against the leaders of the war,  
+the sons of Atreus. Meanwhile,  
+over there, across the seas in Troy,  
+around the city walls, the hostile ground
+swallows our beautiful young men, 
+now hidden in the earth they conquered.  
+
+The people’s voice, once angered,  
+can create dissent, ratifying a curse
+which now must have its way. And so, in my anxiety, I wait, 
+listening for something murky,  
+something emerging from the gloom.                                                
+For gods aren’t blind to men who kill.  
+In time, black agents of revenge,  
+the Furies, wear down and bring to nothing
+the fortunes of a man who prospers
+in unjust ways. They wear him out,  
+reverse his luck, and bring him at last
+among the dead. There’s no remedy. To boast too much of one’s success
+is dangerous—the high mountain peak
+is struck by Zeus’ lightning bolt.                                                          
+I’d choose wealth no one could envy.  
+May I never be the sort of man
+who puts whole cities to the sword.  
+Let me never see myself enslaved,  
+my life in someone else’s power.  
+
+CHORUS MEMBER ONE
+This welcome fiery message has spread fast;
+it’s gone throughout the town. But is it true?Sent from the gods or false? Who knows?  
+
+CHORUS MEMBER TWO
+What man is such a senseless child
+he lets his heart catch fire at this news,                                             
+and then is shattered by some fresh report?  
+
+CHORUS MEMBER THREE
+That’s just the nature of a woman—  
+to give thanks before the truth appears.  
+
+CHORUS MEMBER FOUR
+Yes, they’re far too trusting.  
+The proper order in a woman’s mind
+is easily upset. Rumours women start
+soon die out, soon come to nothing.                                       
+CHORUS LEADER
+We’ll quickly know about these signal fires,  
+flaming beacons passed from place to place.                                     
+We’ll find out if that really did occur
+or if, just like a dream, this joyful light
+has come in order to deceive our hopes.  
+For I see a herald coming from the shore—  
+an olive bough of triumph shades his face.  
+The dry dust on him, all those muddy clothes,  
+tell me he’ll report the facts. Nor will he
+light some flaming pile of mountain wood to pass a signal on with smoke. No—  
+he’ll shout out to us what he has to say,  
+and we can then rejoice still more, 
+or else . . . but I won’t think of that. Let’s have
+good news to add to what we know already.                                     
+If anyone is praying for something else
+to happen to our city, let him reap
+the harvest of his own misguided heart.  
+
+[Enter Herald]  
+
+HERALD
+Greetings to this Argive soil, my father’s land.  
+On this day, ten years later, I’ve come back. I’ve seen many hopes of mine destroyed,  
+and only one fulfilled—I’ve made it home.  
+I never dreamed I’d die here in Argos, 
+with a burial plot in this land I love.  
+I bless the land, the bright light of this sun—  
+and I give thanks to Zeus, our highest god,  
+and to Apollo, lord of Pytho.  
+May you never fire your arrows at us                                                  
+any more. We had enough of those,  
+my lord, beside Scamander’s banks, when you took your stand against us. But now,  
+Apollo, may you preserve and heal us.  
+And I greet all gods assembled here,  
+including Hermes, whom I honour,  
+the well-loved herald god, worshipped
+as the herald’s patron. And next I pray
+the heroic spirits who sent us off
+will welcome back the remnants of our army,  
+those spared being slaughtered by the spear.  
+O you hall of kings, you roof I cherish, you sacred seats and gods who face the sun,  
+if your shining eyes in days gone by                                                    
+have welcomed our king home, then do so now,  
+after his long absence. He’s coming here,  
+carrying light into this darkness, for you
+and all assembled here—our mighty king,  
+lord Agamemnon. Greet him with full respect.  
+For he’s uprooted Troy—with the pick axe
+of avenging Zeus he’s reduced her soil.  
+The altars of the gods and all their shrines he has obliterated, laying waste
+all that country’s rich fertility. 
+Around Troy’s neck he’s fixed destruction’s yoke.  
+Now he’s coming home, king Agamemnon,  
+the fortunate elder son of Atreus,                                                       
+among all men he merits the most honour.  
+For neither Paris nor his accomplice,  
+the Trojan city, can ever boast again
+their deeds were greater than their suffering.  
+Guilty of rape and theft, he’s lost his loot. He’s utterly destroyed his father’s house,  
+the land, too, which sustained his people.  
+So Priam’s sons have paid the price twice over.  
+
+CHORUS LEADER
+All joyful greetings to you, herald,  
+as you come back from our army.  
+
+HERALD 
+ I, too, rejoice.  
+Now I don’t fear death—it’s as the gods decide.  
+
+CHORUS LEADER
+Did your love of this land cause you distress?                                  
+
+HERALD      
+Yes. That’s why my eyes are filled with tears.  
+
+CHORUS LEADER
+It’s as if you had some pleasing sickness.  
+
+HERALD
+How so? Tell me exactly what you mean.                              
+CHORUS LEADER
+You suffered from love for those who loved you.  
+
+HERALD
+You mean the country and the army
+both missed each other?  
+
+CHORUS LEADER
+ Yes, so much so,  
+often my anxious heart cried out aloud.  
+
+HERALD
+What caused this gnawing trouble in your heart?  
+
+CHORUS LEADER
+Long ago I learned to keep my silence—  
+the best antidote against more trouble.  
+
+HERALD
+Why’s that? Were you afraid of someone,  
+once the kings were gone?  
+
+CHORUS LEADER
+ Indeed I was.  
+In fact, as you have said, there’d be great joy in dying now.  
+
+HERALD 
+ It’s true we have done well.  
+As for what happened long ago, you could say
+some worked out happily, and some was bad.  
+But who except the gods avoids all pain
+throughout his life? If I told what we went through—  
+the hardships, wretched quarters, narrow berths,  
+the harsh conditions—was there anything
+we did not complain about? We had our share
+of trouble every day. And then on shore
+things were even worse. We had to camp right by the enemy wall. It was wet—  
+dew from the sky and marshes soaked us.                                         
+Our clothes rotted. Our hair grew full of lice.  
+And it was freezing. The winters there,  
+beyond endurance, when snows from Ida
+froze birds to death. And then the heat,  
+so hot at noon, the sea, without a ripple,  
+sank to sleep. . . . But why complain about it?  
+Our work is done. It’s over for the dead,  
+who aren’t about to spring to life again. Why should the living call to mind the dead?                                   
+There’s no need to relive those blows of fate.  
+I think it’s time to bid a long farewell
+to our misfortune. For those still living,  
+the soldiers left alive, our luck’s won out.  
+No loss can change that now. We’ve a right,  
+as we cross land and sea, to boast aloud,  
+and cry out to the sun, “Argive forces once,  
+having captured Troy, took their spoils of war
+and nailed them up in gods’ holy shrines,all through Greece, glorious tribute from the past!”
+So whoever hears the story of these things
+must praise our generals—our city, too.                                            
+Full honour and thanks to Zeus who did the work.  
+That’s my full report.  
+
+CHORUS LEADER 
+ What you say is true.  
+I was in the wrong—I won’t deny that.  
+But the old can always learn from younger men,  
+and what you’ve said enriches all of us.  
+
+[Enter Clytaemnestra from the palace]  
+
+But your news will have a special interest
+for Clytaemnestra and her household.                                    
+CLYTAEMNESTRA
+Some time ago I cried out in triumph,  
+rejoicing when that first messenger arrived,  
+the fiery herald in the night, who told me
+Troy was captured and was being destroyed.  
+Some people criticized me then, saying,                                            
+“How come you’re so easily persuaded  
+by signal fires Troy’s being demolished?  
+Isn’t that just like a woman’s heart,  
+to get so jubilant?” Insults like these
+made it appear as if I’d lost my wits. But I continued with my sacrifice,  
+and everywhere throughout the city
+women kept up their joyful shouting,  
+as they traditionally do, echoing 
+their exultation through all holy shrines,  
+tending sweet-smelling spicy flames,  
+as they consumed their victims. So now,  
+why do I need you to go on and on
+about all this? I’ll hear it from the king.  
+But, so I can give my honoured husband          
+the finest welcome home, and with all speed—  
+for what light gives a woman greater pleasure
+than to unbar the gates to her own husband
+as he comes home from battle, once the gods
+have spared his life in war?—tell him this,  
+and give him the message to come home
+as soon as possible. The citizens
+will love to see him, and when he gets back,  
+in this house he’ll find his wife as faithful
+as when he left, a watch dog of the home, loyal to him, hostile to his enemies,  
+and, for the rest, the same in every way.  
+In this long time, I’ve not betrayed our bond—                                
+I’ve known no pleasure with another man,  
+no breath of scandal. About such things
+I understand as much as tempering bronze.  
+I’m proud to state this, for it’s all true—  
+nothing a noble lady should feel shame to say.  
+
+[Clytaemnestra exits back into the palace]  
+
+CHORUS LEADER
+She seems to speak as if she really wants
+to tell you something, but, in fact,to those who can interpret her words well
+she’s only saying what she ought to say.  
+But tell me, herald, can I learn something
+of Menelaus, this country’s well-loved king—  
+did he make it back safe and sound with you?  
+
+HERALD
+I can’t lie with false good news of Menelaus,                                    
+so his friends can enjoy themselves for long.  
+
+CHORUS LEADER
+I wish your news of him was true and good.  
+It’s hard when both of these don’t go together.  
+
+HERALD
+Menelaus disappeared—the army lost sight of him and his ship. That’s the truth.  
+
+CHORUS LEADER
+Did you see him sail off from Ilion,  
+or did some storm attack the entire fleet
+and cut him off from you?  
+
+HERALD
+Like a master archer, you hit the mark—  
+your last question briefly tells the story.  
+
+CHORUS LEADER
+According to the others in the fleet                                                    
+what happened? Is he alive or dead?  
+
+HERALD
+No one knows for certain, except the sun,  
+moving around the earth sustaining life.                               
+CHORUS LEADER
+Tell me how that storm struck the soldiers’ ships.  
+How did the anger of the gods come to an end?  
+
+HERALD
+It’s not right I talk of our misfortunes,  
+and spoil such an auspicious day as this.  
+We ought to keep such matters separate
+in deference to the gods. When a messenger
+arrives distraught, bringing dreadful news
+about some slaughtered army, that’s one wound                             
+inflicted on the city. Beyond that,  
+from many houses many men are driven to their destruction by the double whip
+which Ares, god of war, so loves—  
+disaster with two prongs, a bloody pair.  
+A messenger weighed down with news like this
+should report the Furies’ song of triumph.  
+But when he brings good news of men being saved
+to a city full of joyful celebrations . . .  
+How can I mix the good news and the bad,  
+telling of the storm which hit Achaeans,  
+a storm linked to the anger of the gods? For fire and sea, before now enemies,                                                
+swore a common oath and then proclaimed it
+by destroying Achaea’s helpless forces.  
+At night malevolent seas rose up,  
+as winds from Thrace smashed ships together.  
+Pushed round by the power of that storm,  
+and driven by great bursts of rain, the ships
+scattered, then disappeared, blown apart
+by the evil shepherd’s whirlwind. Later,  
+when the sun’s bright light appeared again, we witnessed the Aegean sea in bloom
+with corpses of Achaean troops and ships.                                        
+As for us, some god saved us in secret
+or interceded for us—our boat survived,  
+its hull intact. That was no human feat.  
+Some divine hand was on our steering oar,  
+some stroke of Fortune wanted our ship saved,  
+not swamped by surf as we rode at anchor
+or smashed upon the rocky coast. And then, 
+once we’d avoided Hades on those seas, we couldn’t believe our luck, as we brooded,  
+in the bright light of day, on all our troubles,  
+this new disaster which destroyed our fleet,                                     
+dispersing it so badly. So on those ships
+if anyone’s still breathing, he’ll now say
+we’re the ones who’ve been destroyed. Why not,  
+when we say much the same of them?  
+But let’s hope things all turn out for the best.  
+As for Menelaus, wait for his return—  
+that should be your first priority. If some ray of sunlight finds him still alive,  
+his vision still intact, thanks to Zeus,  
+whose crafty plans at this point don’t include
+destruction of the entire race, there’s hope
+he’ll soon come home again. Now you’ve heard this,  
+you’ve listened to the truth.                                                                 
+
+[Exit Herald]  
+
+CHORUS 
+Whoever came up with that name,  
+a name so altogether true—  
+was there some power we can’t see
+telling that tongue what to say, the tongue which prophesied our fate—  
+I mean the man who called her Helen,  
+that woman wed for warfare,  
+the object of our strife?  
+For she’s lived up to that name—  
+a hell for ships, a hell for men,  
+a hell for cities, too.  
+From her delicately curtained room                                                   
+she sailed away, transported
+by West Wind, an earth-born giant. A horde of warriors with shields
+went after her, huntsmen
+following the vanished track
+her oars had left, all the way
+to where she’d beached her ship,  
+on leafy shores of Simois.  
+Then came bloody war.  
+
+And so Troy’s destiny’s fulfilled—                                                       
+wrath brings a dreadful wedding day,  
+late retribution for dishonour to hospitality and Zeus,  
+god of guest and host,  
+on those who celebrated with the bride,  
+who, on that day, sang aloud
+the joyful wedding hymns.  
+Now Priam’s city, in old age,                                                                
+has learned a different song.  
+I think I hear loud funeral chants,  
+lamenting as an evil fate
+the marriage Paris brought.The city’s filled with songs of grief.  
+It must endure all sorrows,  
+the brutal slaughter of its sons.  
+
+So a man once raised a lion cub
+in his own home. The beast
+lacked milk but craved its mother’s teat.  
+In early life the cub was gentle.                                                           
+Children loved it, and it brought
+the old men great delight.  
+They gave it many things and clasped it in their arms,  
+as if it were a nursing child.  
+Its fiery eyes fixed on the hands
+that fed it, the creature fawned,  
+a slave to appetite.  
+
+But with time the creature grew
+and its true nature showed—  
+the one its parents gave it.  
+So it paid back those who reared it,  
+preparing a meal in gratitude, an unholy slaughter of the flocks,                                                       
+house awash with blood,  
+while those who lived inside the home
+were powerless against the pain,  
+against the massive carnage.  
+By god’s will they’d brought up
+a priest of doom in their own house.  
+
+I’d say she first arrived in Troy
+a gentle spirit, like a calming breeze,  
+a delicate, expensive ornament—  
+her soft darting eyes a flower
+which stings the heart with love.  
+Then, changing her direction,  
+she took her marriage to its bitter end,  
+destroying all those she lived with.  
+With evil in her train and led by Zeus,  
+god of guest and host, she turned into
+a bride of tears, a Fury.  
+
+Among men there’s a saying,                                                                
+an old one, from times long past: A man’s prosperity, once fully grown,  
+has offspring—it never dies 
+without producing children.  
+From that man’s good fortune
+spring up voracious pains
+for all his race. But on this
+I don’t agree with other men.  
+I stand alone and say
+it’s the unholy act that breeds
+more acts of the same kind.  
+A truly righteous house is blessed,  
+its children always fair and good.  
+
+Old violent aggression 
+loves to generate new troubles
+among evil men—soon or late,  
+when it’s fated to be born,  
+new violence springs forth,  
+a spirit no one can resist or conquer,  
+unholy recklessness,  
+dark ruin on the home,  
+like the destructiveness
+from which it sprang.  
+
+But Righteousness shines out
+from grimy dwellings, honouring
+the man who lives in virtue.  
+She turns her eyes away
+from gold-encrusted mansions
+where men’s hands are black,  
+and moves towards integrity,  
+rejecting power and wealth, which, though praised, are counterfeit.                                              
+Righteousness leads all things
+to well-deserved fulfillment.  
+
+[Enter Agamemnon in a chariot with Cassandra and a large military escort]  
+
+CHORUS LEADER
+Welcome, son of Atreus, my king,  
+Troy’s destroyer. How shall I address you?  
+How honour you without extravagance,  
+without failing to say what’s suitable?  
+For many men value appearances
+more than reality—thus they violate
+what’s right. Everyone’s prepared to sigh  
+over some suffering man, though no sorrow
+really eats their hearts, or they can pretend
+to join another person’s happiness, 
+forcing their faces into smiling masks.  
+But a good man discerns true character—  
+he’s not fooled by eyes feigning loyalty,  
+favouring him with watered-down respect.  
+Back when you were gathering the army
+in Helen’s cause—I won’t deny the fact—                                          
+I saw you in an unflattering light, an unfit mind steering our ship astray,  
+trying through that sacrifice to boost the spirits
+of dying soldiers. But now, with love, 
+with a full heart, I welcome your return.  
+For those who’ve won final success, the joy
+is worth the toil. If you enquire, in time
+you’ll learn about the men who stayed at home,  
+those who with justice stood guard for the city
+and those who failed to carry out what’s right.  
+
+AGAMEMNON 
+First I salute Argos and my native gods,  
+as is right, the ones who worked with me
+for my safe return and for the justice
+I brought down on Priam’s city. The gods
+refused to listen to their urgent pleas,  
+then cast their ballots—there was no dissent—  
+into the urn of blood—to kill their men,  
+to wipe out Ilion. The other urn,  
+the one for clemency, stood there empty—  
+only Hope took up her stand beside it.  
+Even now smoke from the burning city, an auspicious sign, tells of its capture.  
+The storms from its destruction still live on.  
+As fiery embers cool, their dying breaths
+give off ripe smells of wealth. For all this,                                         
+we must give the gods eternal thanks.  
+Around Troy we’ve cast a savage net.  
+For a woman’s sake, the beast from Argos,  
+born from the belly of that wooden horse, 
+in the night, as the Pleiades went down,  
+jumped out with their shields and razed the city. Leaping over walls, the ravenous lion
+gorged itself on blood of royalty.  
+So much for my long prelude to the gods.  
+As for your concerns, I’ve heard your words,  
+and I’ll keep them in mind. I agree with you—  
+we’ll work together. By nature few men
+possess the inborn talent to admire
+a friend’s good fortune without envy.  
+Poisonous malice seeps into the heart,  
+doubling the pain of the infected man, weighing him down with misfortunes of his own,  
+while he groans to see another’s wealth.  
+I understand too well companionship
+no more substantial than pictures in a glass.  
+From my experience, I’d say those men
+who seemed so loyal to me are shadows,  
+no more than images of true companions.                                         
+All except Odysseus—he sailed with me
+much against his will, but once in harness,  
+he was prepared to pull his weight for me. I say this whether he’s alive or dead.  
+For other issues of the city and our gods,  
+we’ll set up a general assembly,  
+all of us discussing things together.  
+We must make sure what’s working well
+remains that way in future. By contrast,  
+where we need some healing medicine,  
+we’ll make a well-intentioned effort
+to root out all infectious evil,  
+burning the sores or slicing them away.  
+
+[Enter Clytaemnestra with attendants carrying the purple carpet]  
+
+Now I’ll go inside my palace, my hearth and home,  
+first, to greet the gods who sent me off
+and today bring me back. May victory,  
+which has been mine, stay with me forever.  
+
+[Agamemnon moves to climb out of the chariot but is held up by Clytaemnestra’s speech]  
+
+CLYTAEMNESTRA
+Citizens, you senior men of Argos here,  
+I’m not ashamed to speak before you all,  
+to state how much I love my husband. With time,  
+men’s fears diminish. So I’ll speak out now.  
+I don’t talk as one who has been taught
+by others, so I’ll just describe my life, my oppressive life, all the many years
+my husband’s been away at Ilion.                                                        
+First, it’s unmitigated trouble 
+for a woman to sit at home alone,  
+far from her man. She has to listen to
+all sorts of painful rumours. Messengers
+arrive, hard on each other’s heels, bearing
+news of some disaster—and everyone
+tells of troubles worse than those before,  
+shouted throughout the house. If my husband had had as many wounds as I heard rumours
+coming to this house, he’d have more holes in him
+than any net. If he’d died as many times
+as rumour killed him, he could claim to be
+a second Geryon, that triple-bodied beast,                                        
+and boast of being covered up with earth
+three times, one death for every separate shape.  
+Because of all these spiteful messages,  
+others have often had to cut me loose,  
+a high-hung noose strung tight around my neck.That’s why our son, Orestes, is not standing here,  
+the most trusted bond linking you and me.  
+He should be, but there’s no cause to worry.  
+He’s being cared for by a friendly ally,                                                
+Strophius of Phocis, who warned me twice—  
+first, of your own danger under Ilion’s walls,  
+second, of people here, how they could rebel,  
+cry out against being governed, then overthrow
+the Council. For it’s natural to men,  
+once someone’s down, to trample on him all the more. That’s how I explain myself.  
+And it’s all true. As for me, my eyes are dry—  
+the welling sources of my tears are parched,  
+no drop remains. Many long nights I wept
+until my eyes were sore, as I kept watching
+for that beacon light I’d set up for you,                                               
+but always it kept disappointing me.  
+The faint whirring of a buzzing fly 
+would often wake me up from dreams of you,  
+dreams where I saw you endure more suffering than the hours in which I slept had time for.  
+But now, after going through all this, my heart
+is free of worry. So I would salute my lord—  
+the watch dog who protects our household, 
+the mainstay which saves our ship of state, 
+the lofty pillar which holds our roof beams high, 
+his father’s truly begotten son, for men at sea
+a land they glimpse beyond their wildest hopes,  
+the fairest dawn after a night of storms,                                            
+a flowing stream to thirsty travellers.What joy it is to escape necessity!  
+In my opinion, these words of greeting 
+are worthy of him. So let there be no envy,  
+since in days past we’ve suffered many ills.  
+And now, my beloved lord, come to me here,  
+climb down from that chariot. But, my king,  
+don’t place upon the common ground the foot
+which stamped out Troy.  
+
+[Clytaemnestra turns to the women attending on her who, on her orders, begin to spread out at Agamemnon’s feet the tapestries they have brought out from the house, making a path from the chariot to the palace doors. The tapestries are all a deep red-purple, the colour of blood]  
+
+You women, don’t just stand there.  
+I’ve told you what to do. Spread out those tapestries,  
+here on the ground, directly in his path. Quickly! Let his path be covered all in red, so Justice                                      
+can lead him back into his home, a place
+he never hoped to see. As for the rest,  
+my unsleeping vigilance will sort it out,  
+with the help of gods, as fate decrees.  
+
+AGAMEMNON
+Daughter of Leda, guardian of my home,  
+your speech was, like my absence, far too long.  
+Praise that’s due to us should come from others.  
+Then it’s worthwhile. All those things you said—  
+don’t puff me up with such female honours, or grovel there before me babbling tributes,  
+like some barbarian. Don’t invite envy                                               
+to cross my path by strewing it with cloth.  
+That’s how we honour gods, not human beings.  
+For a mortal man to place his foot like this
+on rich embroidery is, in my view,  
+not without some risk. So I’m telling you      
+honour me as a man, not as a god.  
+My fame proclaims itself. It does not need
+foot mats made out of such embroideries. Not even to think of doing something bad
+is god’s greatest gift. When a man’s life ends
+in great prosperity, only then can we declare
+that he’s a happy man. Thus, if I act,  
+in every circumstance, as I ought to now,  
+there’s nothing I need fear.                                                                   
+
+CLYTAEMNESTRA
+Don’t say that just to flout what I’ve arranged.  
+
+AGAMEMNON
+You should know I’ll not go back on what I’ve said.  
+
+CLYTAEMNESTRA
+You must fear something, then, to act this way.  
+You’ve made some promise to the gods.                                
+AGAMEMNON
+I’ve said my final word. I fully understand,  
+as well as any man, just what I’m doing.  
+
+CLYTAEMNESTRA
+What do you think Priam would have done,  
+if he’d had your success?  
+
+AGAMEMNON
+That’s clear—  
+he’d have walked across these tapestries.  
+
+CLYTAEMNESTRA
+So then why be ashamed by what men say?  
+
+AGAMEMNON
+But what people say can have great power.  
+
+CLYTAEMNESTRA
+True, but the man whom people do not envy
+is not worth their envy.  
+
+AGAMEMNON
+It’s not like a woman
+to be so keen on competition.  
+
+CLYTAEMNESTRA
+It’s fitting that the happy conqueror 
+should let himself be overcome.  
+
+AGAMEMNON
+And in this contest
+that’s the sort of victory you value?  
+
+CLYTAEMNESTRA
+Why not agree? Be strong and yield to me,  
+of your own consent.  
+
+AGAMEMNON
+ Well, if it’s what you want . . .  
+Quick, someone get these sandals off—  
+they’ve served my feet so well. As I now walk
+on these red tapestries dyed in the sea,  
+may no distant god catch sight of me,  
+and, for envy, strike me down. There’s much shame when my feet squander assets of my house,  
+wasting wealth and costly woven finery.  
+
+[Agamemnon, in bare feet, comes down from the chariot onto the tapestries]  
+
+So much for that. 
+
+[Agamemnon turns to call attention to Cassandra in the chariot]  
+
+ Welcome this foreign girl                                  
+into our house. And do it graciously.  
+For god, who sees us from far away,  
+looks down with favour on a gentle master.  
+No one freely puts on slavery’s yoke,  
+but this girl, the finest flower of all our loot,  
+comes with us as my army’s gift to me.  
+And now, since you’ve talked me into this, I’ll proceed into my palace, treading
+on this crimson pathway as I go.  
+
+[Agamemnon starts to move slowly along the tapestries towards the palace and up the stairs. Cassandra remains in the chariot]  
+
+CLYTAEMNESTRA
+There is the sea. Who will drain it dry?  
+It gives us crimson dye in huge amounts,  
+as valuable as silver, inexhaustible.  
+With that we dye our garments. And of these                                   
+our house has a full store, thanks to the gods.  
+We’re rich. We have no sense of poverty.  
+I’d have vowed to tread on many clothes,  
+to use what we have stored up in our home, if an oracle had ordered such a payment
+to save your life. If the root still lives,  
+the house can blossom into leaf once more,  
+growing high-arching shade, protection
+against the Dog Star’s scorching season.  
+Your return to your father’s hearth and home
+brings us the summer’s heat in winter time.  
+It’s like when Zeus makes wine from bitter grapes,                         
+the house immediately grows cool, once its lord
+strolls through his own halls in complete command.  
+[By this time Agamemnon has reached the palace doors and has just entered the palace]  
+
+O Zeus, Zeus, who accomplishes all things,  
+answer my prayers. Take care to bring about
+all things that reach fulfillment through your will.  
+
+[Exit Clytaemnestra into the palace. The doors close behind her]  
+
+CHORUS
+Why does this sense of dread
+hover so unceasingly
+around my heart
+with such foreboding?  
+My song of prophecy goes on
+unbidden and unpaid.  
+Why can’t some calming confidence  
+sit on my mind and spurn
+my fears as enigmatic dreams?  
+It was so long ago—  
+Time has long since buried
+deep in sand the mooring cables
+cast when the army sailed to Troy.  
+
+My own eyes tell me
+Agamemnon has returned.  
+For that I need no further witness.  
+But still, here, deep in my heart, the spontaneous song
+keeps up its tuneless dirge,                                                                  
+as the avenging Furies chant.  
+It kills my confidence, my hope.  
+Everything inside me
+beats against my chest,  
+surging back and forth
+in tides of grim foreboding—  
+something’s moving to fulfillment.  
+But I pray my premonitions prove false and never come to light.                                                   
+
+For, as we know, boundaries
+of vigorous health break down—  
+disease is always pressing hard
+the common wall between them.  
+So with the fate of men.  
+It holds to a straight course,  
+then, all at once, can crash
+upon a hidden rock of grief.  
+But if, as a precaution, men toss overboard
+some part of their rich cargo,  
+and time their throw just right,                                                           
+the house, though grieving,  
+will not completely founder,  
+nor will its hull be swamped.  
+And Zeus’ bountiful rich gifts
+reaped from the furrows every year
+hold off the plague of famine.  
+
+But once a murdered man’s dark blood has soaked the ground, who then                                                        
+can bring him back through song?  
+Even Aesculapius, whose skill
+could raise men from the dead,  
+was stopped by Zeus’ thunderbolt.  
+Was that not warning to us all?  
+If one fate settled by the gods
+did not prevent another fate
+securing an advantage,  
+my heart would then outrace my tongue— I’d speak out loud and clear, 
+I’d cry out my forebodings.  
+But now it mutters in the dark,                                                           
+uneasy, holding little hope
+for any resolution.  
+And still my spirit smoulders.  
+
+[Enter Clytaemnestra from the palace. She addresses Cassandra, who is still in the chariot]  
+
+CLYTAEMNESTR
+You should go in, too—I mean you up there,  
+Cassandra. Zeus, in his mercy to you,  
+has made you member of our household,  
+one who shares its purification rites. So you can take your place before the altar
+of the god protecting all our wealth,  
+along with other slaves. So come down.  
+Leave the chariot. And leave your pride behind.  
+Men say even Hercules, Alcmene’s son,                                             
+once long ago was sold in slavery
+and had to eat its bitter bread. If Fate
+has brought you to the same condition,  
+be very grateful you serve masters here
+who’ve been rich forever. Certain men, those who’ve reaped a harvest of rich goods
+beyond their dreams, maltreat their slaves.  
+They go too far. But here, with us, you’ll get
+the treatment our traditions say is right.  
+
+CHORUS LEADER [addressing Cassandra]  
+Our queen is talking to you. Her meaning’s clear.  
+Fate has caught you in its nets—you’d best obey,  
+unless such action is beyond your power.  
+
+CLYTAEMNESTRA
+If she’s not like a swallow, with a song                                               
+all her own, something barbarously obscure,  
+I’ll speak so she can understand. She must obey.                  
+CHORUS LEADER [to Cassandra]  
+Go with the queen. Of all your options now
+what she says is best. Do as she says.  
+Step down from your chariot seat.  
+
+CLYTAEMNESTRA
+ Come down now.                                                 
+I don’t have time to waste on this girl here.  
+Inside, by our central hearth, our victims                                          
+are already waiting for the sacrifice,  
+a joyful time beyond our fondest hopes.  
+So if you want to play your part in this, 
+you’d better come at once. If what I say
+means nothing to you, if you can’t understand,  
+at least use your foreign hand to make a sign.                                 
+
+CHORUS LEADER
+An interpreter is what this stranger needs.  
+She’s like some wild thing, freshly trapped.  
+
+CLYTAEMNESTRA
+She’s mad, too busy listening to her troubled heart.  
+She’s just left her newly captured city,  
+then come here, without sufficient time
+to learn to stomach the controlling bit.  
+She will, once her anger’s been dissolved
+in foaming blood. But I’ll waste no more time,  
+dealing with her contempt outside the house.                      
+[Clytaemnestra turns and exits into the palace. The members of the Chorus gather around Cassandra]  
+
+CHORUS LEADER
+I’ll not lose my temper. I pity her.  
+You unhappy creature, why not come down?                                       
+Leave the chariot. Why not accept fate’s yoke
+of your own free will?  
+
+CASSANDRA [searching the sky for a sign of Apollo and screaming]  
+ Aieeeee . . . earth . . . sky . . .  
+Apollo . . . Apollo . . .  
+
+CHORUS MEMBER
+Why cry out your distress in Apollo’s name?  
+He’s not a god who pays attention
+to those who mourn like this.  
+
+CASSANDRA                          
+ Aieeee . . . earth . . . sky . . . Apollo . . . my destroyer . . .  
+
+CHORUS MEMBER
+She cried out again. Such ominous words—  
+and to a god who’s not the one
+to have around at times of grieving.  
+
+CASSANDRA
+Apollo! Apollo! God of the road . . .                                                     
+You’re destroying me. Why leave me here
+beyond all hope a second time?  
+
+CHORUS MEMBER
+It looks as if she’s going to prophesy,  
+to say something of her unhappiness.  
+She may be a slave, but inside her the god’s voice still remains.  
+
+CASSANDRA
+ Apollo!  
+O Apollo! God of the road . . .  
+You’re obliterating me! Where am I now?  
+Where have you led me? What house is this?  
+
+CHORUS MEMBER
+If you don’t know where you are, I’ll tell you—  
+you’re at the house of the sons of Atreus.  
+That’s the truth.  
+
+CASSANDRA
+ No . . . no . . . a house  
+that hates the gods . . . house full of death,  
+kinsmen butchered . . . heads chopped off . . .  
+a human slaughterhouse awash in blood . . .  
+CHORUS MEMBER
+This stranger’s like a keen hound on the scent.  
+She’s on the trail of blood.  
+
+CASSANDRA
+. . . I see evidence I trust—young children  
+screaming as they’re butchered—then their father  
+eating his own infants’ roasted flesh . . .  
+
+CHORUS MEMBER
+We’ve heard about your fame in prophecy.  
+But here in Argos no one wants a prophet.  
+
+CASSANDRA
+O god what’s this she has in mind?                                                     
+What new agony inside the house
+is she preparing? Something monstrous, barbaric, evil . . . beyond all love,  
+all remedy. And help is far away.  
+
+CHORUS MEMBER
+I don’t understand what she’s saying now.  
+What she first said, that I understood—  
+the whole city talks about it.  
+
+CASSANDRA
+O evil woman, you’re going to do it.  
+Your own husband, the man who shares your bed—  
+once you’ve washed him clean . . . there in the bath . . .  
+How shall I describe how all this ends?  
+It’s coming soon. She’s stretching out her hand . . .  
+and now her other hand is reaching for him . . .  
+
+CHORUS MEMBER
+I still don’t understand. What she’s saying
+is just too confused. Her dark prophecies
+leave me bewildered.  
+
+CASSANDRA
+ Look! Look over there!  
+What’s that apparition? Is that death’s net?  
+No, she’s the net, the one who sleeps with him,  
+that woman, murder’s willing agent.  
+Let those Furies insatiably at work
+against this clan rise up and scream for joy—  
+they have another victim fit for stoning.                                
+CHORUS MEMBER
+What Fury do you now invoke to shriek
+throughout this house? What you’ve just said                                  
+makes me afraid.  
+
+CHORUS
+Drop by drop the dark blood flows
+around my heart—like mortal wounds
+when life’s sunset comes,  
+when death is near.  
+
+CASSANDRA
+Look over there! Look now!  
+Keep the great bull from his mate.  
+She’s caught him in her robes— now she gores him with her black horn.  
+A trap! He’s collapsing in the bath!  
+I’m telling you what’s going on—  
+he’s being murdered in there,  
+while bathing—a plot to kill him!  
+
+CHORUS MEMBER
+I can’t boast of any skill with prophecies,                                          
+but these strike me as pointing to disaster.  
+
+CHORUS
+What good ever comes to men
+from prophecies? They talk of evil.  
+All those skilful words encourage men to be afraid of what the prophet chants.  
+
+CASSANDRA
+Alas for me! Alas for my unwelcome fate!  
+I’m crying out for my own suffering—  
+my cup of grief is full, brim full . . .  
+Why have you brought me here,  
+so wretched, if not to die,  
+the second victim? Why else?  
+
+CHORUS MEMBER
+Your mind’s possessed—some god is in control.                              
+And so you wail aloud about your death,  
+just like some shrill nightingale that sings, without a pause, of her heart’s distress,  
+lamenting all her life for her dead son,  
+life rich in sorrow.  
+
+CASSANDRA
+ O to have that—  
+the fate of the singing nightingale!  
+Gods gave her body wings and a sweet life.  
+She does not weep. But murder waits for me—  
+a two-edged sword hacks me to death.  
+
+CHORUS MEMBER
+These vain prophetic cries of woe you chant,                                    
+where do they start? Why introduce
+such horrific fear into your songs?How do you set some limit to the path
+where what you see so ominously leads?  
+
+CASSANDRA
+Alas for that wedding . . . Paris and his bride . . .  
+how it destroyed his loved ones . . . 
+Alas for the Scamander, river of my home!  
+By your banks I was raised so long ago,  
+brought up to all this misery . . . And now it seems
+I must soon chant my prophecies
+by Cocytus and banks of Acheron,                                                       
+twin rivers of the dead.                                                             
+CHORUS MEMBER
+What’s that? The words seem clear enough—  
+any child could understand. Your cruel fate
+strikes at me like a bloody fang. It hurts.  
+My heart breaks to hear you chant your sorrows.  
+
+CASSANDRA
+Alas for my city’s fate—  
+totally destroyed . . . 
+Alas for my father’s sacrifices,  
+all those grazing herds . . .  
+offerings to save our walls!  
+In vain . . . the city was not spared . . .  
+all that misery it’s endured.  
+Now I, on fire too, must go to ground.  
+
+CHORUS MEMBER
+You keep repeating what you said before.  
+Some evil-minded demon, swooping down,  
+has fallen on you, forcing you to sing,  
+to chant your songs of death. 
+Where does this end?  
+That’s what I can’t see.  
+
+CASSANDRA
+Then my prophecy will veil itself no more,  
+like some new bride half-concealed from view. Let it now rise as clear as a fresh wind
+blowing toward the rising sun, a wave                                               
+cresting through the dawn and bringing on
+a tide of woe far greater than my own.  
+I’ll teach you no more in cryptic riddles.  
+And you bear witness—run the trail with me,  
+as I sniff out the track of ancient crimes.  
+Up there on that roof there sits a chorus—  
+it never leaves. They sing in harmony,  
+but the song is harsh, predicting doom. Drinking human blood has made them bold—  
+they dance in celebration through the house.  
+The family’s Furies cannot be dislodged.                                           
+Sitting in the home, they chant their song,  
+the madness that began all this, each in turn
+cursing that man who defiled his brother’s bed.  
+Have I missed the mark? Or like a fine archer
+have I hit the beast? Or am I selling lies,  
+a fortune-teller babbling door to door?  
+Tell me on your oath how well I know these old stories of this family’s crimes.  
+
+CHORUS LEADER
+How could an oath of ours be any help,  
+no matter how sincere, to heal your grief?  
+But I’m amazed that you, born overseas,  
+can say so much about a foreign city,                                                 
+as if you’d lived here.  
+
+CASSANDRA
+ It was Apollo,  
+god of prophecy, who made me what I am.  
+
+CHORUS MEMBER
+Surely the god was not in love with you?  
+
+CASSANDRA
+I used to be ashamed to talk of this . . .  
+
+CHORUS MEMBER
+When we’re doing well, we all have scruples.                        
+CASSANDRA
+Apollo was like a mighty wrestler, 
+panting all over me, in love.  
+
+CHORUS MEMBER
+Did you go through with it—  
+bear him a child?  
+
+CASSANDRA 
+ I promised to,  
+but then I broke my word.  
+
+CHORUS MEMBER
+Did you already have prophetic skill,  
+inspired by the god?  
+
+CASSANDRA
+ At that time
+I used to prophesy to all my countrymen.                                          
+I’d foretell disasters.  
+
+CHORUS MEMBER
+How did you escape Apollo’s anger?                                       
+CASSANDRA
+Since I resisted him, no one believes me.  
+
+CHORUS MEMBER
+But to us, at least, what you prophesy
+seems true enough.  
+
+CASSANDRA
+Aieee . . . the pains I feel.  
+The fearful labour pains of true prophecy
+seize me, confuse me, as they start again,  
+full of foreboding. Look there—see those creatures,  
+young ones, sitting by the house, dark shapes,  
+like something from a dream? They’re like children
+murdered by their loved ones . . . their hands are full,  
+clenching chunks of their own flesh as food,  
+their guts and inner organs . . . it’s all so clear . . . 
+that awful meal their own father tasted.  
+For all that, I say, revenge is on the way,  
+someone’s planning it, a craven lion,  
+a beast wallowing in bed, keeping watch,  
+waiting for my master to get back.  
+Yes, my master—since I must now bear
+the yoke of slavery. That lord of war,  
+who led the fleet and ravaged Ilion,  
+has no idea what that cur is up to,what evil plans the hateful bitch is hatching,  
+as her tongue licks his hands in welcome,  
+ears perked up for joy, like treacherous Ate,                                     
+goddess who destroys. It’s outrageous—  
+the woman kills her man. What shall I call her?  
+What awful monster suits her? A snake?  
+An amphisbaena with a head at either end?  
+Or perhaps a Scylla living in the rocks,  
+preying on sailors, raging mother of hell,  
+who breathes relentless war on loved ones. How that woman, in her audacity, 
+screamed out in triumph, like a battle cry, 
+pretending to enjoy his safe return!  
+Whether you credit what I say or not—  
+that doesn’t really matter. Why should it?  
+ What will come will come. And soon enough,                                   
+as you stand here full of pity, you’ll say
+Cassandra’s prophecies were all too true.  
+
+CHORUS
+I understand about Thyestes’ meal,  
+and tremble thinking how he ate his children’s flesh. Terror grips me as I hear these truths
+without embellishment. As for the rest,  
+hearing that just makes me lose my way.  
+
+CASSANDRA
+I tell you you’ll see Agamemnon dead.  
+
+CHORUS MEMBER
+Poor girl, calm yourself. Tone down those words.  
+
+CASSANDRA
+No—no one can heal what my words prophesy.  
+
+CHORUS
+Not if they’re true. But may the gods forbid!  
+
+CASSANDRA
+While you pray here, others move in to kill.                                     
+
+CHORUS LEADER
+What man is going to commit such crimes?  
+
+CASSANDRA
+What man? You’ve completely missed the point. You’ve failed to understand my prophecies.  
+
+CHORUS LEADER
+ Yes I have—  
+I don’t see who has means to do it.  
+
+CASSANDRA
+Yet I can speak Greek well enough.  
+
+CHORUS LEADER
+So does the oracle at Delphi,  
+but understanding what it says is hard.  
+
+CASSANDRA
+O this fire! His fire comes over me once more!  
+The pain . . . Lycian Apollo . . . burning me . . . 
+That two-footed lioness . . . crouching there
+with a wolf, once the noble lion’s gone . . . 
+She’s going to kill me . . . the agony!  
+Now she prepares her drugs, and in her rage,  
+vows I too will be a part of her revenge,  
+as she whets a sword to kill her king.  
+He brought me here. Now we both die.  
+Her retribution. So why do I bear 
+these ornaments that mock me, this rod,  
+these prophet’s wreaths around my neck?  
+Let me be rid of you before I die . . . .  
+
+[Cassandra breaks her wand and throws off the insignia of her office as a prophet]  
+
+There, an end to you. With you down there,  
+I get revenge. Make some other woman rich.Let her preach destruction instead of me.  
+
+[Cassandra now starts tearing off her clothes]  
+
+Look how Apollo now in person strips me,  
+rips my prophetic robes, the god who watched,                                
+as my friends in their hatred turned on me,  
+mocked me so savagely in these very clothes—  
+they thought they knew what they were doing.  
+But they were wrong. I heard them call me names,  
+“beggar,” “starving wretch”—I endured them all.  
+And now the prophet god is done with me.  
+He’s led his prophet to her place of death. No father’s altar for me here—instead
+a chopping block awaits, slaughtered
+in one hot stroke of bloody sacrifice.  
+But we’ll not die without the gods’ revenge.  
+Another man will come and will avenge us,                                      
+a son who’ll kill his mother, then pay back
+his father’s death, a wanderer in exile,  
+a man this country’s made a stranger.  
+He’ll come back and, like a coping stone,  
+bring the ruin of his family to a close.For gods have made a powerful promise—  
+his father’s stretched out corpse will bring him home.  
+Why then do I lament so piteously?  
+Since I’m the one who first saw how Troy
+would be wiped out the way it was,  
+since I see now how those who took the city
+are being destroyed in judgment from the gods,  
+I’ll go to meet my fate. I’ll dare to die.                                                
+I greet this doorway as the gates of Death.  
+Once the death blow strikes, I pray I’ll have a gentle end—no struggle, as my life blood
+drains away. And then I’ll close my eyes.  
+
+CHORUS LEADER
+You poor woman, so much pain and wisdom.  
+You’ve said so much. But if you see your death—  
+see it so clearly—how can you go on
+so bravely to the altar, like an ox
+destined by gods for sacrifice?  
+
+CASSANDRA
+There’s no way out. My friends, the time has come.  
+
+CHORUS LEADER
+But there’s some benefit in going last.                                               
+
+CASSANDRA
+This is the day. It makes no sense to run.                              
+CHORUS LEADER
+You know, you endure your suffering
+with courage I admire.  
+
+CASSANDRA
+ No one hearing that
+has reason to be glad.  
+
+CHORUS LEADER
+ But to die well
+confers some human dignity.  
+
+CASSANDRA [approaching the door then moving back in horror]  
+I cry for you, my father, your noble children.  
+
+CHORUS LEADER
+What’s wrong? Why turn around in fear?  
+
+CASSANDRA
+This house . . . It’s horrific!  
+
+CHORUS
+Why call out in horror? Is there some vision
+in your mind?  
+
+CASSANDRA
+It’s this house—  
+it stinks of murder, blood slaughter . . .                                 
+CHORUS LEADER
+No, no—that’s the smell of sacrifice,                                                  
+victims at the hearth.  
+
+CASSANDRA
+ That smell . . .  
+it’s like an open grave . . .  
+
+CHORUS
+Do you mean the splendid Syrian incense?  
+It’s all through the house.  
+
+CASSANDRA [turning back to the palace doors]  
+No. But I must go.  
+I’ll lament my death, and Agamemnon’s, too,  
+inside the house. Enough of living!  
+Alas, my friends, I’m not holding back in fear,  
+like some bird trapped in bushes. I want you
+to witness how I went to meet my death,when for me another woman will be killed,  
+a man will die for one who married evil.  
+This is my last request before I die.                                                    
+
+CHORUS LEADER
+I pity you, poor creature, and your death,  
+which you have prophesied.  
+
+CASSANDRA
+ One last time 
+I feel the urge to speak, not sing a dirge
+about my death. I pray to the sun,  
+here in the light of his most recent day,  
+that those who carry out revenge for me
+will make my enemies pay with their blood for butchering a slave, an easy victim.  
+Alas, for human life. When things go well,  
+a shadow overturns it all. When badly,  
+a damp sponge wipes away the picture.  
+Of these two, the second is more pitiful.                                           
+
+[Cassandra exits slowly and deliberately through the palace doors, which close behind her]  
+
+ CHORUS
+To rest unsatisfied amid great wealth
+is in the nature of all human beings.  
+No one can point and order it away
+from princely homes by uttering the words  
+“Dissatisfaction, enter here no more!”  
+Take Agamemnon. The powers in heaven  
+permitted him to capture Priam’s town,  
+to return home honoured by the gods.  
+But now, if he must pay the penalty
+for blood which other men before him shed
+and die in retribution for the dead                                                      
+he killed himself, what mortal human being
+who hears all this can boast he lives
+a life unscarred by fate?  
+
+[A scream comes from inside the palace]  
+
+AGAMEMNON [from inside]  
+Help me!  
+I’m hit . . . a deadly blow . . .  
+
+CHORUS LEADER
+ Silence!Who cried out then? Something about a deadly blow.  
+
+AGAMEMNON [within]  
+Aaagh! I’m hit again . . . a second blow . . .  
+
+CHORUS LEADER
+That’s the king in there. Those cries, I think,  
+tell us what’s going on. Come now, let’s decide
+what’s best to do, our safest course of action.  
+
+[At this point the Chorus breaks up in panic, losing its unity as a group. Individual members speak to each other in great confusion]  
+
+CHORUS MEMBER ONE
+Here’s my advice—summon all the people,  
+call them to bring help up to the palace.  
+
+CHORUS MEMBER TWO
+I say we must attack the house at once,                                             
+catch them at it, swords still wet with blood.  
+
+CHORUS MEMBER THREE
+My view is we should do something like that. I vote we act. There’s no time to delay.  
+
+CHORUS MEMBER FOUR
+It’s all so clear. This is their opening move—  
+a sign they’re going to tyrannize the city.  
+
+CHORUS MEMBER FIVE
+We’re wasting time. They’ve thrown aside
+all sense of hesitation. Their hands won’t rest.  
+
+CHORUS MEMBER SIX
+I don’t know what scheme I could propose.  
+It’s up to those who can carry out the plan
+to tell us what to do.  
+
+CHORUS MEMBER SEVEN
+ That’s my view, too.                                    
+I don’t know how to bring the dead to life
+with nothing but our words.  
+
+CHORUS MEMBER EIGHT
+But just to stay alive, should we bow down before these tyrants,  
+who desecrate the house?  
+
+CHORUS MEMBER NINE
+ No. We can’t do that.  
+Death would be preferable, a gentler fate
+than such a tyranny.  
+
+CHORUS MEMBER TEN
+ But should we assume,  
+just on the basis of those groans we heard,  
+that Agamemnon’s dead?  
+
+CHORUS MEMBER ELEVEN
+Before we act,  
+we must have clearer evidence. To guess like this
+is not really knowing what is true or not.  
+
+CHORUS LEADER
+That’s it then—everyone agrees on this—                                         
+we need to know more clearly how things stand with Agamemnon, son of Atreus.  
+
+[The palace doors open, revealing the bodies of Agamemnon and Cassandra. Clytaemnestra stands over them. She is covered in blood]  
+
+CLYTAEMNESTRA
+Before this moment I said many things
+to suit my purposes. I’m not ashamed      
+to contradict them now. How else could I
+act on my hate for such a hateful man,  
+who feigned his love, how else prepare my nets
+of agony so high no one could jump them?  
+I’ve brooded on this struggle many years,  
+the old blood feud. My moment’s come at last,  
+though long delayed. I stand now where I struck, where I achieved what I set out to do.  
+I did all this. I won’t deny the fact.                                                      
+Round this man I cast my all-embracing net,  
+rich robes of evil, as if catching fish—  
+he had no way out, no eluding fate.  
+I stabbed him twice. He gave out two groans.  
+Then as his limbs went limp, I hit again,  
+a third blow, my prayerful dedication
+to Zeus, underground protector of the dead.  
+He collapsed, snorting his life away, spitting great gobs of blood all over me,                                            
+drenching me in showers of his dark blood.  
+And I rejoiced—just as the fecund earth
+rejoices when the heavens send spring rains,  
+and new-born flower buds burst into bloom.  
+That’s how things stand, old men of Argos.  
+Be joyful, if that’s how you feel. For me,  
+this is my triumph. If it were fitting
+to pour libations on this corpse,  
+I’d pour my curses out—that would be just. He filled the mixing bowls in his own house
+with such destructive misery, and now
+he drinks it to the dregs. He’s home at last.  
+
+CHORUS LEADER
+What you say I find incredible!  
+How can that tongue of yours gloat like this,  
+exulting over your dead husband?                                                       
+
+CLYTAEMNESTRA
+You’re testing me, as if I were some silly woman.  
+But my heart is fearless. Let me tell you 
+what you already know—then you can praise
+or criticize me as you like. I don’t care. This man is Agamemnon, my husband.  
+He’s a corpse, the work of this right hand,  
+a work of justice. That’s how matters stand.  
+
+CHORUS LEADER
+Woman, what earth-grown poison have you eaten,  
+what evil drink drawn from the surging sea,  
+that you’re so mad to risk the public voice,  
+the curses people mutter? You cast him off.  
+You cut him down. So now you’ll be thrown out,                             
+exiled from the city—a hateful thing
+to your own people.  
+
+CLYTAEMNESTRA
+ So now you’d sentence me to banishment,  
+send me from the city a thing accursed?  
+Back then you made no accusation
+against this man lying here. He sacrificed
+his own child, that dear girl I bore in pain,  
+to charm the winds from Thrace—and didn’t care.  
+To him she was a beast for slaughter.  
+He had flocks of them—his farms were full.  
+Shouldn’t you have banished him from Argos
+in punishment for that polluting crime?  
+You’re strict enough when you pass judgment
+on what I’ve done. So let me caution you—  
+I’m prepared to fight you head to head.  
+If you win, well then, you can govern me.  
+But if god lets me prevail, you old men
+will learn, old as you are, to behave yourselves.  
+
+CHORUS LEADER
+You’re too ambitious, far too arrogant.  
+Blood-drenched murder’s made you mad. That’s plain.  
+Your eyes are full of blood. Now stroke for stroke 
+you’ll pay for what you’ve done. You’ve lost your friends, you’ve lost your honour . . .                                                                  
+
+CLYTAEMNESTRA [interrupting]  
+Then hear this, too, the force behind my oath—  
+by that Justice I exacted for my child,  
+by Ate, goddess of destruction,  
+by the Fury to whom I offered up this man,  
+my hopes will never walk these halls in fear,  
+so long as Aegisthus stokes the blazing fires
+in my hearth. And he’s as loyal to me now
+as always, my shield, no man to trifle with.  
+He’ll boost my confidence. Here he lies, the man who abused his wife, seduced
+by every captive girl at Ilion—  
+and here she lies, his concubine, his spear prize,                              
+the faithful prophetess who shared his bed.  
+She also knew the rowing benches
+where sailors sweat. They get what they deserve.  
+He’s dead. She, like a swan, sang her last song,  
+then died. Now she lies there, his sweetheart.  
+She’ll bring new thrills, fresh pleasures to my bed.  
+
+CHORUS
+O that some Fate would soon come, free from suffering and quick,  
+bringing endless sleep,                                                                          
+our last eternal sleep,  
+now our gracious lord is dead.  
+For a woman’s sake
+he suffered much, and now
+by a woman’s hand he died.  
+
+Alas for you, Helen, frantic woman.  
+On your own, beneath Troy’s walls,  
+you slaughtered many lives, and more than many.  
+Now you wear your final garland—  
+one long remembered for the blood
+which will never wash away.                                                                
+Back then in this house
+lived a spirit of strife,  
+a power that broke our king.  
+
+CLYTAEMNESTRA
+Don’t torment yourself like this, invoking
+death and fate, or redirect your rage
+on Helen, as if she killed those men, all those Danaan lives, all by herself,  
+and brought us pain past remedy.  
+
+CHORUS
+O spirit that falls upon this house,  
+on Menelaus, on Agamemnon,  
+descendants of Tantalus,  
+you overpower me
+through these two sisters,                                                                    
+each with power like a man.  
+You consume my heart with grief.  
+Perched on his corpse the hateful raven caws her song,  
+her harsh triumphal tune.  
+
+CLYTAEMNESTRA
+Now you’re talking sense, when you call on
+the demon of this house, who’s eaten up
+three generations, the one who nurtures
+bloodlust in our guts. And so new blood
+spurts out before the old wound heals.                                              
+
+CHORUS
+You appeal to that huge fiend
+haunting this house,  
+whose anger weighs it down, to that tale of evil fate
+insatiably consuming us.  
+Alas, alas, the will of Zeus,  
+the cause of everything,  
+who brings all things about.  
+What can come to mortal men
+except at Zeus’ will?  
+And in what’s happened here
+what’s not caused by the gods?  
+
+Alas, my king, my lord— How shall I weep for you?                                                                    
+How speak of you with love?  
+To lie entangled in the spider’s web,  
+gasping life away—a sacrilege—  
+stretched out on this bed of shame,  
+struck down in treachery,  
+the two-edged sword
+wielded by your wife.  
+
+CLYTAEMNESTRA
+Are you saying this work is mine? That’s not so.  
+Don’t think of me as Agamemnon’s wife. The form of this corpse’s wife was taken on                                      
+by the ancient savage spirit of revenge.  
+For that brutal meal prepared by Atreus,  
+it sacrificed one full-grown man,  
+payment for two butchered children.  
+
+CHORUS
+Who would ever say
+you bear no guilt
+for Agamemnon’s murder?  
+How could they? How?  
+Yet that avenging spirit acting on his father’s crime
+could well have egged you on.  
+Black Ruin moves ahead with force                                                    
+through streams of family blood
+granting vengeance for the young
+served up as chunks of meat.  
+
+Alas, my king, my lord—  
+How shall I weep for you? 
+How speak of you with love?  
+To lie entangled in the spider’s web, gasping life away—a sacrilege—  
+stretched out on this bed of shame,  
+struck down in treachery,  
+the two-edged sword
+wielded by your wife.                                                                            
+
+CLYTAEMNESTRA
+I don’t think the man died wretchedly, 
+like some poor slave. Surely his own deceit
+brought ruin on this house? His suffering
+matches exactly what he did himself.  
+Remember my own Iphigeneia, his daughter, that sweet flower whom we mourn.  
+So let him not boast out loud in Hades.  
+He was the first to draw his sword,  
+and by the sword he’s been repaid.  
+
+CHORUS
+There’s no clear way, and now                                                             
+this family’s falling. I’m afraid.  
+It’s not just bloody drops. No,  
+storms of blood rain batter down,  
+destroying the house, while fate
+on yet another whetstone, hones the edge of Justice,  
+for the next act, one more crime.  
+
+O Earth, my Earth—  
+how I wish you’d swallowed me
+before I ever saw my king
+lying low on such bed,                                                                           
+a silver-plated bath.  
+Who will now bury him?  
+Who will lament for him?  
+Will you dare to do this, a woman mourning for the spirit
+of the husband she’s just killed,  
+complete the injustices you’ve done
+with wretched favours to the dead
+to expiate your monstrous crimes?  
+As people stand around the grave
+to praise this god-like man, in tears,  
+whose sad heart will be sincere?                                                         
+
+CLYTAEMNESTRA
+That business is none of your concern.  
+At our hands he collapsed in death. We’ll bury him. But this house will not weep.  
+No. Iphigeneia will meet him down there,  
+as is fitting—the daughter greets her father
+happily by that swift stream of sorrow.  
+Then she’ll embrace the man with love.  
+
+CHORUS   
+One disgrace exchanged for yet another,                                           
+the struggle to decide is hard.  
+The man who sins is sinned against,  
+the killer pays the price.  
+Yet while Zeus sits upon his throne this decree from god remains—  
+the man who acts will suffer.  
+Who can then cast from this house
+its self-perpetuating curse?  
+This race is wedded to destruction.  
+
+CLYTAEMNESTRA
+Now you’re close to getting at the truth.  
+For my part, I’m prepared to swear an oath
+to the demon of the House of Atreus—  
+I’ll rest content with what’s been done,                                              
+hard though that is, if he’ll leave this house alone, transferring family murder somewhere else,  
+to some other clan. I don’t need much,  
+a small part of our wealth, if I can free
+these halls entirely of this madness,  
+the urge we have to kill each other.  
+
+[Enter Aegisthus with armed attendants. The situation now grows increasingly tense, with the soldiers menacing the members of the Chorus, who begin to coalesce as a political unit, rediscovering their strength. This sense of a major irreconcilable political division and the threat of civil war grows increasingly acute until the end of the play]  
+
+AEGISTHUS 
+What a glorious day of retribution!  
+Now I can say that once again the gods
+looking down on men avenge their crimes.  
+How it fills my heart with joy to see this man
+stretched out here in a robe the Furies wove,  
+full payment for deceitful treachery
+his father’s hand devised. For Atreus,  
+king of Argos, was this man’s father.  
+To set the record straight, my father,  
+Thyestes, brother to Atreus, 
+challenged his authority. So Atreus
+expelled him from his home and city.  
+But Thyestes in his misery returned, 
+a suppliant at his own hearth, praying
+Fate would save him, he would not be killed, his own blood would not stain his native ground.  
+Atreus, the godless father of this man,                                               
+welcomed him effusively, but not with love.  
+He set up what seemed a celebration—  
+a feast day with lots of meat, but served 
+my father flesh of his own children.  
+He sliced their toes and fingers off. Over these
+he diced the other parts, then passed this dish
+to Thyestes, where he sat beside him.  
+My father then, in total ignorance,took the food he didn’t recognize,  
+and ate the meal which, as you’ve witnessed,  
+destroyed the race. When Thyestes learns
+the abominable thing he’s done, he screams,  
+staggers back, vomits up the butchered flesh.  
+Then, kicking down the banquet table 
+to underscore his cry for justice,  
+he calls down on the House of Atreus
+a curse no one can bear, “Let them all die,                                         
+ the race of Pleisthenes—all die like this.” [^note-1106]  
+That’s why you see this man lying here.  
+This murder was my plan for justice.  
+For Atreus threw my broken father out,  
+and me as well, his third son, still a child,  
+an infant wrapped in swaddling clothes.  
+But I grew up. And Justice brought me back.  
+I seized the man who’d banished me.  
+I planned each detail of this murderous scheme.  
+Now I see him in the nets of Justice,                                                   
+I can face even my own death with joy.                                  
+CHORUS LEADER
+To me you’re contemptible, Aegisthus,  
+getting pleasure from all this agony.  
+You say you killed the king deliberately,  
+and planned the cowardly slaughter on your own.  
+I tell you—remember this—when justice comes,  
+your head will not escape the people’s cursing
+or death by stoning at their hands.  
+
+AEGISTHUS
+So you say—but you man the lower oars.  
+Your masters on the higher tiers control the ship.  
+You may be old, but you’ll learn how painful it is at your age to be taught your place.                                            
+Hunger pangs and chains, two worthy teachers,  
+make excellent cures for teaching wisdom,  
+even with old men. Surely you have eyes.  
+Can’t you see this? You shouldn’t kick at thorns.  
+You’ll only hurt yourselves.  
+
+CHORUS MEMBER ONE
+ You womanly creature!  
+You stayed at home, waiting out the war,  
+until the men came back. You soiled a real man’s bed,  
+then planned to kill our king.  
+
+AEGISTHUS
+ This talk of yours
+will soon give you sufficient cause to weep. The tongue of Orpheus was not like yours—  
+the pleasure of his voice drew all things to him.                              
+Your puny squawking merely irritates.  
+But once I chain you up, my force has ways
+to make you more compliant.  
+
+CHORUS MEMBER TWO
+ As if you rule in Argos!  
+You, the one who plotted Agamemnon’s death,  
+but weren’t brave enough to kill the man yourself!  
+
+AEGISTHUS
+Clearly it was the woman’s role to trick him. 
+I was not a man whom he would trust. After all, I’m an old enemy of his.  
+But with his wealth I’ll try to rule the people.  
+Those who resist I’ll strap under the yoke.                                        
+It won’t be light—not like a well-fed trace horse.  
+No. Miserable starvation in the dark—  
+then we’ll see how docile they can be.  
+
+CHORUS MEMBER THREE
+You coward!  
+Why not kill the man yourself? Why rely
+upon that woman for the murder,  
+a disgrace to her own country and its gods?  
+O can Orestes still see the light of day? If his good fortune holds, will he come home,  
+win out, and kill the two of them up there?  
+
+AEGISTHUS 
+If that’s the way you want to act and speak,  
+you’ll get your lesson fast. Men, stand ready.  
+My trusty guard, your work’s in front of you.                                    
+
+[The soldiers place their weapons at the ready and move into menace the Chorus. The Chorus stands its ground, raising their staves as weapons]  
+
+CHORUS LEADER
+Don’t give way. Each of you, get your weapons ready.  
+
+AEGISTHUS [half drawing his sword]  
+My hand is on my sword, as well.  
+I’m not afraid to die.  
+
+CHORUS LEADER
+You say you’ll welcome death. That’s good to hear.  
+We’re happy to oblige. 
+
+[Clytaemnestra, alarmed at the way in which the conflict has grown, moves quickly between the guards led by Aegisthus and the Chorus]  
+
+CLYTAEMNESTRA
+ Stop this, my dearest. Let’s not act to bring on further trouble.  
+Our wretched harvest is bountiful enough—  
+we’ve reaped sufficient pain. No more bloodshed.  
+You honourable old men, go home. Yield to fate,  
+before you hurt yourselves. What we’ve done here
+we had to do. Let our troubles end right now.  
+That we’ll allow, even though our fate                                               
+has struck a heavy blow. That’s my advice,  
+what a woman ought to say, if any here
+will act on it.  
+
+AEGISTHUS
+ What about these men who let their tongues prattle on against me,  
+hurling insults in my face, testing fate?  
+They throw aside all moderate restraint
+to abuse their master.  
+
+CHORUS LEADER
+ Men of Argos
+will never cringe before an evil man.  
+
+AEGISTHUS
+I’ll get my own back soon enough.  
+
+CHORUS LEADER
+Not if fate brings Orestes home again.  
+
+AEGISTHUS
+I understand how exiles feed on hope.  
+
+CHORUS LEADER
+Go on. Fatten yourself up. While you still can,  
+pollute all Justice.  
+
+AEGISTHUS          
+ You must know you’ll pay       
+for all this insolence to me.  
+
+CHORUS
+ Keep on bragging—  
+just like a cock beside his hen.  
+
+CLYTAEMNESTRA [pulling Aegisthus towards the palace doors]  
+Leave them their feeble yelping. You and I
+control the house. We’ll put things in order.  
+
+[Clytaemnestra and Aegisthus back slowly into the palace and close the doors, leaving the guards and Chorus still facing each other. Slowly the Chorus disintegrates and its members walk off one by one. The guards form up in front of the palace, an armed defence before the doors]  
+
+ 
+
+[^note-1101]: Priam was king of Troy, father of Paris (the man who abducted Helen). Agamemnon and Menelaus were the commanders of the expedition against Troy (with Agamemnon in the senior position). 
+
+[^note-1102]: Alexander was an alternative name for Paris, son of Priam. 
+
+[^note-1103]: Uranus was the original god, who was overthrown by his son Cronos. Then Cronos, in turn, was overthrown by his son Zeus. 
+
+[^note-1104]: Calchas tells Agamemnon he must sacrifice his daughter Iphigeneia to appease Artemis and stop the hostile winds. 
+
+[^note-1105]: The lines following describe Menelaus’ reaction to Helen’s disappearance. 
+
+[^note-1106]: In some legends Atreus had a son Pleisthenes who was raised by his brother Thyestes. Thyestes sent Pleisthenes to kill Atreus, but the latter killed him, not knowing he was his son. This was the cause of the notorious banquet. In other stories Pleisthenes (perhaps another person with the same name) is the husband of Aerope and father of Menelaus and Agamemnon. When Pleisthenes died, Atreus married Aerope and adopted the children. Aerope had a sexual affair with Thyestes, another cause for the quarrel between the two brothers, and was drowned for her adultery. 
+

@@ -1,0 +1,1873 @@
+# Seven Against Thebes {#aeschylus_aeschylus_book-3}  
+  
+  
+C> *This edition is based on the [publicly available](http://records.viu.ca/~johnstoi/aeschylus/sevenagainstthebesweb.htm) translation by Ian Johnston*  
+  
+  
+**BACKGROUND NOTE**  
+
+Aeschylus (c.525 BC to c.456 BC) was one of the three great Greek tragic dramatists whose works have survived. Of his many plays, seven still remain. Aeschylus may have fought against the Persians at Marathon (490 BC), and he did so again at Salamis (480 BC). According to tradition, he died from being hit with a tortoise dropped by an eagle. After his death, the Athenians, as a mark of respect, permitted his works to be restaged in their annual competitions.  
+
+*Seven Against Thebes was first produced in 467 BC in Athens, as the third part of a trilogy based on the attack of an Argive army on Thebes. The first two plays (called Laius and Oedipus) and the satyr play which concluded the performance (Sphinx) have been lost. The production won first prize in the competition for that year.  
+
+When Oedipus, king of Thebes, discovered he had killed his father, Laius, and married his mother, Jocasta, he put out his eyes and (in some accounts) left the city. He also quarrelled bitterly with his two sons, Eteocles and Polyneices, and cursed them, saying that they would one day come to war over their inheritance. Eteocles and Polyneices, agreed to alternate as kings of Thebes, and Eteocles assumed the position first. [^note-301] When Eteocles refused to let Polyneices have his turn, Polyneices raised an army from other regions of Greece, gathered troops at Argos, and marched to attack Thebes, laying siege to the city. The invading army was led by Adrastus, king of Argos. Aeschylus’ play begins while the siege is taking place.  
+  
+...  
+  
+**DRAMATIS PERSONAE**  
+
+**ETEOCLES**: king of Thebes, son of Oedipus.  
+**MESSENGER**: a military scout.  
+**CHORUS**: young women of Thebes.  
+**ANTIGONE**: sister of Eteocles and Ismene.  
+**ISMENE**: sister of Eteocles and Antigone.  
+**HERALD**: a servant of the city council.  
+**ATTENDANTS**: Servants and slaves of Eteocles.  
+**CITIZENS OF THEBES**  
+**SOLDIERS**: including the six champions chosen to guard the gates. [^note-302]  
+
+*[The action takes place in Thebes, in a public space immediately in front of the royal palace, which stands at the back of the stage. There is a crowd of CITIZENS gathered in front of the palace. Enter ETEOCLES with ATTENDANTS]*  
+
+  
+
+ETEOCLES [addressing the crowd]  
+You citizens of Cadmus, any man  
+who seeks to guard the fortunes of a state  
+and guide the city’s tiller from the stern  
+must never do so with his eyes asleep, 
+and words he utters must be to the point. 
+For if we should succeed, the credit goes  
+to gods above, but if—and I do hope  
+this never comes to pass—we have bad luck, 
+the name Eteocles would then become  
+a single shout repeated many times by citizens in every part of Thebes,  
+as they cried out in discontent and grief.  
+May our Protector Zeus, for his name’s sake,  
+shield our Cadmean town from all such ills! [^note-303]  
+But now you men—and I mean those who still                                                    
+have not reached full maturity and those  
+whom time has taken past their finest years  
+but yet whose ample bodies are still strong,  
+as well as those now in their prime of life,  
+as is quite reasonable—all you men must help to save the city and the altars  
+of your country’s gods, so that for children  
+and their most cherished nurse, our mother earth,  
+the honours due to them are not destroyed.        
+For she was the one who took the trouble  
+to give you all your childish nourishment  
+when you were infants, still crawling around  
+on her munificent soil. She raised you  
+and trusted you to live in houses here  
+and carry shields, so you would stand by her  
+when she required your help. Up to this point,  
+Zeus has favoured us. We have been besieged,  
+but, thanks to the will of the gods, the city  
+has, for the most part, coped with war quite well.  
+But now the prophet tending flocks of birds, 
+who with his ears and his intelligence  
+and his unerring skill interprets omens 
+his birds provide without the use of fire,  
+this man, this master of such prophecies,  
+has told us that in their night assembly Achaeans are now planning an assault,  
+their greatest yet, to overwhelm our city. [^note-304]  
+So all of you must move and with all speed                                                              
+to battlements and gates within the walls.  
+Go there with all your armour, fully man  
+the parapets, take up your positions  
+on tower platforms, and then, once in place,  
+wait there bravely for the gates to open.  
+You need not fear this crowd of foreigners.  
+Zeus will take care that things work well for us. I have sent out spies to scout their army,  
+men whom I trust to carry out the task.  
+When I hear from them, I will not be caught  
+by any tricks our enemies might try.  
+
+[The CITIZENS leave to take up their positions. Enter the MESSENGER, one of the scouts Eteocles has sent out]  
+
+MESSENGER  
+Eteocles, great king of the Cadmeans,  
+I have come back here bearing a report,                                                                      
+describing what I know about that force  
+outside our walls. I scouted them myself  
+and clearly witnessed how they moved around.  
+Seven of their leaders, mighty warriors, slaughtered a bull on a shield dyed black with blood,  
+then plunged their hands into the creature’s gore,  
+and swore by Ares, Enyo, and Terror,  
+who delights in blood, that they would either seize  
+this city of Thebes, devastate the town, 
+and empty it, or sacrifice their lives  
+and have their own blood mingle with the soil. [^note-305]  
+
+And on Adrastus’ chariot they placed                                                                              
+some personal tokens, so their parents  
+could remember them in their own homes. They shed some tears, but no word of sorrow  
+passed their lips, for their spirits of steel,  
+aflame with courage, panted like lions  
+with warfare in their eyes. No fear of theirs  
+will keep you waiting for the proof of this.  
+I left them casting lots, allowing chance  
+to organize how each of them would lead  
+his own contingent to a chosen gate.  
+So you should pick the bravest warriors  
+from all the soldiers here inside the city and set them in position at the gates,  
+right at the entrances—and quickly, too.  
+For the Argive forces heavily armed  
+are already drawing near, stirring up  
+clouds of dust, and glittering drops of foam                                                             
+from panting horses sparkle on the plain.  
+So like a careful helmsman on a ship,  
+you must secure the city, before the storm  
+from Ares strikes us like a hurricane.  
+For their army, a massive tidal wave, now roars across dry land, and you must seize  
+as quickly as you can an opportunity  
+to save us. As for me, whatever happens,  
+my loyal eyes will still be vigilant.  
+You will get clear reports, so you will know  
+what is going on out there, beyond the gates,  
+and will remain secure.  
+
+[Exit Messenger]  
+
+ETEOCLES  
+ O Zeus and Earth,  
+and all you native gods who live in Thebes—  
+and you, the Curse, that powerful Fury                                                                         
+who will avenge my father, do not let my city be captured by the enemy,  
+pulled to pieces, and totally destroyed,  
+a place that speaks the language of the Greeks.  
+Do not wipe out our homes and families.  
+May those enemies of ours never hold  
+beneath slaves’ yokes this land of freedom,  
+and this Cadmean state. Assist us now!  
+My words, I think, speak to our common good,  
+for a successful state rewards its gods. [^note-306]  
+
+[Exit ETEOCLES and the CITIZENS. Enter the CHORUS]  
+
+CHORUS  
+Filled with terror I scream out in grief! Their forces flood our walls!  
+
+ They’ve left their camp!  
+A massive horde of mounted warriors  
+is quickly threatening to engulf us all!                                                                            
+
+The dust-filled air I see around me  
+confirms the facts for me—  
+that voiceless messenger’s report  
+is simple, clear, and true.  
+
+ Horses’ hooves  
+are trampling on my native soil.  
+My ears can hear the noise as it flies here and there,  
+the roar of an unbridled river  
+crashing down on mountain rocks!  
+
+O all you gods and goddesses, save us!  
+Raise your shouts high above our city walls  
+to turn aside this charging deadly tide!  
+
+An army of white shields with weapons raised, 
+has launched a full assault against our walls—                                                       
+their force is pushing our defenders back! [^note-307]  
+Who will protect us? Which god or goddess will come to our assistance now?  
+
+Or should I fall in supplication here  
+before these statues of my country’s gods? [^note-308]  
+
+O all you blessed ones above, 
+seated on your thrones,  
+the moment now has come for us  
+when we must clutch your images.  
+
+Why waste our time in useless wailing? 
+Do you not hear that noise—  
+that din of clashing shields?  
+Has that not reached your ears?  
+
+If this is not the time, when shall we use  
+the sacred robes and garlands in our prayers? [^note-309]  
+
+I see the noise—it is no clash 
+of just a single spear.  
+
+What will you do, O Ares? 
+Will you betray the land 
+where you have lived since ancient times?  
+
+O god with the helmet all of gold,  
+look down, look down upon our city, which once you loved so well. [^note-310]  
+
+Come, all you gods who guard our state,  
+defenders of our land! Gaze down on us,                                                                   
+a group of young girls pleading  
+they will never be enslaved, 
+while waves of nodding helmet plumes 
+driven by blasts from war god Ares  
+smash on our city walls.  
+
+ O Father Zeus, 
+who brings all things to their fulfillment,  
+protect us all from enemy hands. For now the citadel of Cadmus                                                                                              
+has Argives all around it, and our fear  
+of warlike weapons makes us tremble,  
+for iron bits inside their horses’ jaws  
+are screaming death.  
+
+ And seven warriors,  
+preeminent spearmen in that army,  
+stand fully armed at their allotted posts  
+before the seven gates.  
+
+ And you, O Pallas,                                               
+you Zeus-born power who delights in war,  
+become the saviour of our city! [^note-311]  
+
+ And you, Poseidon, lord of horses, king of the sea, 
+with that fish-spearing weapon of yours  
+release us from this fear, 
+and bring us some relief.  
+
+You, too, Ares—alas! alas for us!—  
+preserve the place which carries Cadmus’ name  
+and openly display your kinship to him.  
+
+And you, Cypris, first mother of our race,                                                                  
+protect us, for every one of us is born 
+from your own blood. [^note-312]  
+
+We come to you in prayer,  
+calling to gods to hear our cries!  
+
+ And you  
+Apollo, lord of the wolf, become a wolf,  
+and with your howls drive back our enemies! 
+And you, too, Artemis, beloved child of Leto,  
+prepare to shoot your bow! [^note-313]  
+
+ Alas! Alas!  
+I hear the rattling din of chariots                                                                                         
+moving round our city! O lady Hera!  
+The wheels are creaking as they bear  
+the axle’s heavy load!  
+
+ Alas! Alas! Beloved Artemis, the frantic air  
+is trembling as the battle spears fly past!  
+
+What is happening to our city?  
+What lies in store? Toward what final end  
+is god directing us?  
+
+ Alas! Alas!  
+The slingers’ stones from far away  
+have struck our outer walls!  
+
+O dear Apollo! The bronze shields clash                                                                      
+before our very gates! O child of Zeus,  
+who has the sacred power to sway the outcome of a fight!  
+
+ And you,  
+divine queen Onca, for the city’s sake  
+defend the seven gates of your own home! [^note-314]  
+
+O all you gods whose duty is to help,  
+you guardian gods and goddesses,  
+defenders of our country’s fortresses,  
+do not betray our city under siege  
+to armies from a foreign land!                                                                                               
+
+ Listen, O listen,  
+as we young women stretch our hands  
+and offer up these righteous prayers!                                                                  
+O dearest spirits above,  
+surround our city, rescue us,  
+and demonstrate your love.  
+
+Consider all those offerings  
+the people make to you,  
+and, as you do, defend us here!  
+
+And for my sake remember, too,  
+our city’s sacred sacrificial rites 
+performed by pious worshippers.                                                                                        
+
+[Enter Eteocles with soldiers]  
+
+ETEOCLES  
+You there! You insufferable creatures! I ask you, is this is the most useful way  
+to save our city and encourage our men  
+when they are being attacked right here?  
+You fling yourselves at statues of the gods  
+who guard the city and then scream and howl—  
+acts which decent people find offensive.  
+Whether in misfortune or in better days,  
+I hope I never share my loving home  
+with any female! When a woman is strong,  
+her boldness makes one shun her company, but when she is afraid, she is even worse,                                                                   
+at home and in the town. And now your shrieks  
+and running around, flying here and there,  
+have spread a spirit of craven cowardice  
+among the citizens—the finest way  
+to help our enemies outside these walls,  
+while those inside the town are overwhelmed  
+by their own people. This is what happens  
+when you live with women. So now, if anyone,  
+male or female or something in between, fails to acknowledge my authority,  
+we’ll have a vote to sentence him to death,  
+and there is no way at all he will escape.  
+The people’s hands will stone him. What goes on  
+outside the home is the concern of men.                                                                    
+Let woman play no part in such affairs.  
+She should remain inside and not cause trouble.  
+Are you women listening to me or not?  
+Or am I speaking to the deaf and dumb?  
+
+CHORUS  
+Dear son of Oedipus, I was afraid. I heard the noise of rattling chariots,  
+grating axle-hubs on spinning wheels,  
+the screaming coming from the horses’ mouths  
+with harness bits of fire-hot iron.  
+
+ETEOCLES  
+That made you flee? When a ship is labouring 
+in heavy seas, has any sailor ever found                                                                       
+a way to save himself by running off  
+from stern to prow?  
+
+CHORUS 
+ But I rushed to the gods—  
+our ancient images—and put my trust in them,  
+as deadly hailstones hammered on our gates. That’s when my fear urged me to offer prayers,  
+asking the blessed ones to hold their shield  
+high above the city.  
+
+ETEOCLES  
+ You should pray 
+the wall holds out against those enemy spears.  
+If so, that will, of course, be the work of gods.  
+But then, they say that when a town is seized  
+its gods abandon it.  
+
+CHORUS 
+ This group of gods—  
+never in my life may they desert me!                                                                              
+And may I never live to see our citadel  
+overwhelmed and its defenders attacked with enemy fires!  
+
+ETEOCLES  
+ When you call on gods,  
+do not act foolishly. For, as they say,  
+Obedience is the mother of Success,  
+and Success the wife of Preservation.  
+
+CHORUS  
+Yes, that is true. But the power of gods  
+is even higher still. When times are bad,  
+it often lifts a helpless woman up  
+out of her wretched misery and pain,  
+with storm clouds hovering above her eyes.  
+
+ETEOCLES  
+When we are struggling with our enemies,  
+it is up to the men to carry out  
+our sacrifice and offerings to the gods.  
+A woman’s duty is to hold her tongue  
+and stay inside the home.  
+
+CHORUS  
+ Thanks to the gods  
+our citadel has not been overrun—  
+our walls are keeping out those hordes of men  
+attacking us. In such a circumstance  
+what jealous anger makes you so displeased?  
+
+ETEOCLES  
+I bear you no ill will for worshipping  
+whatever higher spirit you may wish. And as long as you do not discourage  
+your fellow citizens, you can relax  
+and stop being so afraid.  
+
+CHORUS  
+I heard a strange, confusing noise!  
+And so, shaking in my fear,                                                                                                      
+I rushed here to the citadel,  
+our holiest place of worship.  
+
+ETEOCLES  
+If you find out that men are being killed  
+or suffering from wounds, do not react  
+with screams of such distress, for food like this feeds Ares, god of war, with human blood.  
+
+CHORUS  
+Wait! I hear horses snorting!  
+
+ETEOCLES  
+ What you hear  
+is clear enough, but you should not respond  
+to what you hear with this excess.  
+
+CHORUS  
+ A rumble  
+is coming from the ground, as if those beasts  
+are moving all around us!  
+
+ETEOCLES  
+ I have plans  
+to deal with them. Is that not sufficient?  
+
+CHORUS  
+I am afraid. The hammering at the gates  
+is getting worse!  
+
+ETEOCLES  
+ Why can’t you keep quiet!                                                                       
+Do not talk like this within the city.                                                                     
+CHORUS  
+O you divine company of gods, 
+do not allow our fortress to be seized!  
+
+ETEOCLES  
+You stupid women! Keep your mouths shut tight,  
+and just put up with it!  
+
+CHORUS  
+ O you gods,  
+our fellow citizens, do not make me a slave!  
+
+ETEOCLES  
+But you are making slaves of all of us,  
+me and the city.  
+
+CHORUS  
+ O almighty Zeus,  
+let your blows fall upon your enemies!  
+
+ETEOCLES  
+O Zeus, what a breed you have created  
+by giving us these women!  
+
+CHORUS  
+ As sad a breed as men whose city has been overwhelmed.  
+
+ETEOCLES  
+How can you speak such ominous words,  
+while clinging to a sacred statue?  
+
+CHORUS  
+My courage is gone. Fear has seized my tongue.  
+
+ETEOCLES  
+What I ask of you is easy to provide,                                                                               
+a simple thing to do.  
+
+CHORUS  
+ Tell us what that is—  
+as quickly as you can. I will soon know  
+if I can do it.  
+
+ETEOCLES  
+ Do not speak at all,  
+you wretched woman. Do not make your friends  
+so frightened.  
+
+CHORUS  
+ I will not say a thing. I must share the fate of all the others.  
+
+ETEOCLES  
+Compared to how you spoke out earlier,  
+I find these words of yours acceptable.  
+But in addition to this, stay away  
+from statues of the gods, and make your prayers  
+that the gods fight on our side more forceful.  
+When you have heard my vow, then you must sing  
+for victory, that joyful sacred cry,  
+the holy shout we Greeks by custom raise  
+to cheer our friends and take away the fear  
+they have of fighting war. And now I speak  
+to the gods who live in our own city,  
+those dwelling in the plain, and those who watch  
+our market place, and to our native streams,  
+the springs of Dirce, the river Ismenus—  
+to all these I swear that if we do succeed  
+and save the city, we will dye blood red  
+the altars of the gods with butchered sheep  
+and offer sacrificial bulls to them.  
+We will give them trophies, and I will hang the spear-pierced battle garments of our foes  
+as spoils of war within gods’ sacred homes  
+and place the fighting armour by their shrines.                                                    
+That is the way you should pray to the gods,  
+without the screaming you enjoy so much  
+or all that uncontrolled and futile wailing.  
+Such things will not help you evade your fate.  
+Now I will go to set six men in place—  
+and I will be the seventh—to make a stand  
+as mighty warriors at our city gates, the seven passages through our walls,  
+before some messenger comes rushing here  
+or urgent news arrives and dire need  
+inflames us all.  
+
+[Eteocles exits with his SOLDIERS]  
+
+CHORUS  
+ I understand his words.  
+But fear brings no relief into my heart,  
+enveloped as it is by anxious cares,                                                                                   
+which fan the flames of terror there  
+about the army now around our walls.  
+A serpent threatening her bed  
+will fill a trembling dove with restless dread for offspring in the nest.  
+
+ Crowds of men  
+arranged in groups are moving up  
+against our walls! What will become of me?  
+
+And others there are hurling jagged rocks  
+and pelting citizens from every side!                                                                               
+O Zeus-born gods, use every means  
+to save our city and our fighting men, 
+those children sprung from Cadmus!  
+
+What country will you change for ours,  
+what finer stretch of ground, if once you hand our enemies  
+this fertile soil and Dirce’s springs,  
+most nourishing of all those streams  
+which flow from the Encircler of the Earth,                                                               
+Poseidon, and from Tethys’ sons? [^note-315]  
+
+And so, you gods who guard our city,  
+let fall upon those men outside our walls  
+a lethal fate. Let them grow deranged  
+and cast aside their weapons!  
+Win glorious honours for yourselves from all our citizens! On our behalf,  
+act now to save the city!  
+
+Stay here,  
+in answer to the prayers we cry,  
+and shield your splendid thrones.                                                                                       
+
+To throw an ancient city down  
+to Hades brings a pitiful regret—  
+a ravaged victim of the enemy’s spear  
+is badly pulverized to dust and ash  
+by the will of the gods and an Argive man,  
+its women led out as captive slaves, the young and the old—alas, such grief!—  
+hauled off like horses pulled by the hair, 
+while enemy soldiers rip at their clothes.  
+These women, now lost, abandon the town  
+with howls of pain and mingled screams,  
+while the desolate city calls out in grief  
+“How I fear for your wretched fate!”
+
+It is a brutal day when modest girls  
+are plucked unripe before those nuptial rites  
+tradition demands and have to cross the hateful thresholds of their owners’ homes. [^note-316]  
+
+What can I say? I claim that those who die  
+enjoy a better fate than captured girls.  
+For once a city has been overwhelmed,  
+how many dreadful things it has to suffer!  
+One soldier drags away or kills another                                                                       
+or else he kindles fires, and all the town  
+is stained with smoke, while savage Ares,  
+whose conquest of a people drives his rage,  
+pollutes all piety with his foul breath.                                                                 
+The rumbling moves across the city.  
+A towering iron ring now makes its way  
+against the citadel. Our men collapse  
+beneath the spears of men. Young mothers,  
+red with blood, cry for the infant child  
+they have just suckled at the breast,                                                                                 
+while their own friends are chased and raped.  
+
+Those men with loot now gather for a feast,  
+and those with nothing meet with other men  
+who have no spoils of war, for when they eat they want their comrades there, men whose hunger  
+is equal to or greater than their own.  
+No need to measure out their portions now! [^note-317]  
+
+The ground is littered with all kinds of fruit,  
+a painful, bitter sight for servants’ eyes.  
+The chaos grows, and many of earth’s gifts                                                               
+are carried off and squandered uselessly  
+in waves of looting.  
+
+ Young female slaves  
+now face misfortunes never known before  
+in a joyful spearman’s dreadful bed, for when the enemy has seized the town  
+they must expect this nightly ritual—  
+their sole release from tears and sorrow. [^note-318]  
+
+[Enter a MESSENGER and ETEOCLES with escort, from different sides of the stage. ETEOCLES has with him the six warrior leaders he has chosen to guard the city gates]  
+
+CHORUS MEMBER My friends, I think this scout bring a report,  
+some news about the army. His legs and feet                                                         
+are really moving quickly as he comes.  
+
+CHORUS MEMBER Our king himself is also drawing near,  
+the son of Oedipus, in time to hear  
+the messenger’s account. That rapid pace  
+makes how he moves appear uneven.                                                                
+MESSENGER  
+I have confirmed the details and can speak  
+of what our enemies out there are doing,  
+how every champion, according to his lot,  
+has been assigned his place. For some time now,  
+Tydeus has been stationed at the Proetus gate, 
+making a huge noise. [^note-319] For Amphiaraus,  
+the prophet, will not let him cross the ford  
+of the Ismenus river—the omens  
+from the sacrifice are inauspicious.  
+But Tydeus, in a rage and thirsting  
+for a fight, keeps making hissing noises,  
+like a snake at noon, and accusing him,  
+saying that Oecleus’ son, the prophet,  
+a clever man, desires to shirk his fate  
+and has no spirit for the coming fight. 
+He shouts these taunts and shakes his helmet plumes,  
+three overarching crests, while from his shield  
+bells made of bronze and hanging underneath  
+create a fearful sound. And on that shield  
+he bears an arrogant sign—a fiery sky patterned with lesser stars and a full moon, 
+the most revered of stars, the eye of night,  
+shining from the bright centre of the shield.                                                            
+Roaming there with this conceited armour,  
+in his eagerness to fight, he bellows  
+at the river banks, just like a war horse  
+fiercely champing at the bit and snorting,  
+as it awaits the trumpet’s call. What man  
+will you select to stand against him?  
+Who can we trust to guard Proetus’ gate once the barrier is gone?  
+
+ETEOCLES  
+ Those trappings  
+a man carries will never frighten me.  
+Mere emblems have no power to wound,  
+for helmet crests and bells lack any bite  
+without a spear. And this night you talk of,                                                              
+which happens to be painted on the shield,  
+a heavenly sky glittering with stars—  
+such foolishness might prompt a certain man  
+to make predictions. If Tydeus dies  
+and night falls on his eyes, then this proud sign will for its bearer prove quite true and just,  
+for it will indicate that he is dead.  
+And so this arrogance of his becomes  
+a prophecy against himself. As for me,  
+I will set the trusty son of Astacus  
+to combat Tydeus and hold the gate.  
+
+[MELANIPPUS steps forward]  
+
+Descended from a noble line, he honours  
+the throne of self-restraint and hates proud speech,                                        
+a man reluctant to act shamefully,  
+with no desire to fight like any coward. His family roots are with those warriors  
+born from the dragon’s teeth whom Ares spared,  
+so Melanippus comes of home-grown stock,  
+a true son of this soil. [^note-320] By rolling dice,  
+Ares will choose the victor in their fight,  
+but Justice flows in Melanippus’ blood—  
+in fact, she is the one who sends him out  
+to shield his mother from a hostile spear.  
+
+[Exit Melanippus]  
+
+CHORUS  
+May the gods make this champion of ours  
+successful, for, as he sets off to fight for his own land, he does so justly.  
+But still, fear makes me shudder when I see  
+the blood-stained corpses of those men who die                                                 
+in battles on behalf of their own race.  
+
+MESSENGER  
+May the gods indeed grant him success.  
+The lot was drawn for the Electran gate,  
+and it picked out a giant of a man—  
+Capaneus, a greater warrior  
+than the one I talked about before.  
+His boasting goes beyond all human pride, with terrifying threats against our walls,  
+which Fate, I pray, will not let him fulfil. 
+He says he will destroy our citadel,  
+with or without permission of the gods,  
+boasting that even if Zeus’ daughter  
+descended to the plain and blocked his way,  
+she could not hold him back, and he declares  
+her thunderbolts and lightning are no more                                                            
+than noontime heat. The symbol on his shield  
+depicts a naked man who carries fire, two flaming torches ready in his hands, 
+and an inscription in gold lettering  
+announcing ‘I will burn down the city.’
+You must send someone to confront this man.  
+Who will stand up against such arrogance,  
+without feeling afraid, and hold his ground?  
+
+ETEOCLES  
+This man’s bragging works to our advantage,  
+the way the first man’s did. For people’s tongues  
+betray the truth of their unholy thoughts.  
+As Capaneus makes his threats, he stands  
+prepared to act, dishonouring the gods.  
+His mouth is always shouting empty gibes,  
+and, though a mortal man, he hurls up  
+loud and swollen boasts to Zeus in heaven.  
+I trust a just and fiery thunderbolt  
+will fall on him, and when it does, the heat  
+will not feel like a painted noonday sun.  
+Against this man we will set Polyphontes.  
+
+[POLYPHONTES steps forward]  
+
+Although he likes to talk, he is  
+a mighty fighter with a fiery spirit. With goodwill from our guardian Artemis                                                                 
+and other gods, we can rely on him.  
+
+[Exit Polyphontes]  
+
+Now talk to me about another leader  
+picked by lottery to assault our gates.  
+
+CHORUS  
+May those who raise such arrogant cries  
+against our city perish! May the power  
+of lightning push him back, before he leaps  
+inside my room and with his boastful spear  
+drives me with force out of my virgin bed!  
+
+MESSENGER  
+Now I will describe another warrior selected to attack our city walls.  
+When their bronze helmet was turned upside down,  
+the third man’s lot jumped out—Eteoclus,  
+chosen to hurl his group of warriors                                                                                 
+against the Neistan gate. His team of horses  
+eager to attack the wall, strain at the bit,  
+as he wheels them round. The heavy breath  
+from snorting nostrils fills their headgear  
+and makes them sound just like barbarians.  
+You cannot miss the emblem on his shield, a ladder with a man in armour on it  
+scaling ramparts of an enemy town  
+he wishes to destroy. And this man, too,  
+has written letters that announce his boast—  
+‘Not even war god Ares can dislodge me  
+and hurl me from the wall.’ So you must send                                                       
+a trusted fighter out to this man, too,  
+and guard our people from the yoke of slaves.  
+
+ETEOCLES [leading MEGAREUS forward]  
+I will dispatch this man without delay—  
+and choosing him is fortunate for us. There! He is being sent, a man who carries  
+what he boasts about in his own hands—  
+Megareus, son of Creon, a seed  
+of that earth-born race. No roaring sounds  
+from frantic horses will make him panic  
+or shift him from the gate. No. He is a man  
+who will either die and give his country back  
+what she paid to raise him, or he will seize  
+two warriors and the city on the shield  
+and with those spoils adorn his father’s home.                                          
+[Exit Megareus]  
+
+Now, tell me all about another braggart,  
+and give me every detail of his boasting.                                                                     
+
+CHORUS  
+O you who guard my home, I pray this man  
+will be successful and bring his enemies  
+to grief, and as, with their deluded minds,  
+they make excessive threats against our city,  
+so may avenging Zeus look down on them  
+and grow enraged.  
+
+MESSENGER  
+ Another man—a fourth—  
+is moving up into position now,  
+at the gate beside Athena Onca, shouting as he goes—Hippomedon,  
+a fighter holding an enormous weapon—  
+his shield—which is embossed with a design  
+circling around the whole circumference.  
+It made me shudder—that I can’t deny.                                                                       
+Whoever made the emblem for that shield  
+was no cheap artisan. The figure there  
+is Typhon. His mouth is breathing fire  
+and heavy smoke thick with flaring embers,  
+swift sisters of those flames. [^note-321] Along the rim of the round concave belly of the shield  
+are twisting serpents holding it in place. 
+The man himself has raised his battle cry,  
+and, possessed by Ares, rages for a fight,  
+as if he were a follower of Bacchus,  
+with a horrific scowl. We must prepare  
+to make a valiant stand against this man—  
+by now his fearful boasts have reached the gate.                                                 
+
+ETEOCLES  
+Onca Pallas, who lives beside the city,  
+near the gate, hates an arrogant boaster, and she will be the first to hold him off,  
+like a venomous snake from her young brood.  
+But we will also pick Hyperbios,  
+the loyal son of Oenops, to fight him  
+man to man, for Hyperbios is keen  
+to test his fortune and to learn his fate.  
+
+[HYPERBIOS steps forward]  
+
+In looks, in courage, and in feats of arms  
+he is beyond reproach. And now Hermes,  
+god of chance, has brought both men together,  
+as is appropriate, for these two men will meet in battle as two enemies,  
+just like the warlike gods on their two shields. [^note-322]  
+For Hippomedon’s armour proudly shows  
+a fire-belching Typhon, whereas Hyperbios  
+has Father Zeus erect on both his feet,  
+a flaming lightning bolt gripped in his fist. [^note-323] 
+And no one has yet seen a conquered Zeus.  
+It is true one cannot always count on 
+the goodwill of the gods, but nonetheless  
+we are with the conquerors in that fight, and they are with the conquered, if Zeus  
+is more ferocious in a war than Typhon. 
+So the insignia these warriors bear  
+may well decide the outcome of the clash  
+when they both meet, and our Hyperbios  
+may find in Zeus depicted on his shield                                                                        
+a fortunate defence.  
+
+[Exit Hyperbios]  
+
+CHORUS  
+ I well believe  
+the man opposing Zeus will lose his head  
+before our gates, since on his shield he bears  
+the unloved image of an earth-born spirit, a form detested by all mortal men  
+and by the long-lived gods.  
+
+MESSENGER  
+ May he prevail!  
+And now I will describe the warrior  
+selected as the fifth one to attack  
+from his location at the Northern Gate,  
+across from Amphion’s grave, a son of Zeus. [^note-324]  
+He swears by his own spear, in which he trusts—  
+believing it more sacred than a god                                                                                  
+and even more important than his eyes—  
+that he will ravage our Cadmean town, in spite of Zeus. These are his very words,  
+this child of a mother born up in the hills—  
+a handsome man and still a youthful lad,  
+with the initial growth of thick, soft hair  
+just showing on his cheeks. And now he moves  
+with a savage will and terrifying eyes.  
+Nothing about him seems like a young girl,  
+although his name suggests he looks that way. [^note-325]  
+As he moves to his place before the gate,  
+he boasts aloud, and on the circular shield  
+of hammered bronze he holds in front of him  
+an emblem of our city’s shame—the Sphinx,  
+who eats men raw, a symbol held in place  
+with bolts, a skillful piece of work. [^note-326] Her body,  
+stamped in bronze, gives off a brilliant glitter.  
+Down below she grips a single victim,  
+someone from Thebes, so that the spears we throw  
+will be directed chiefly at this man.  
+He does not look as if he marched this far  
+to trade blows in a minor scrap or two and make his lengthy trip a shameful waste.  
+[Parthenopaeus from Arcadia  
+is not that sort of man. He was received  
+in Argos as a resident, and now  
+he wishes to repay that city state  
+for all their fine support by threatening  
+our Theban walls. May Zeus deny him that!] [^note-327]  
+
+ETEOCLES  
+O if only the gods would give those men                                                                    
+the very things they keep imagining  
+in those sacrilegious boasts they utter. Then they would surely die in misery,  
+completely overwhelmed. [^note-328] We have a man  
+to match this one, as well, the Arcadian  
+whom you have just described. Our champion  
+is not a man who brags, but his hand sees  
+what must be done.  
+
+[ETEOCLES leads ACTOR forward]  
+
+ His name is Actor,  
+a brother of the one I named before.  
+He will not let a man who simply talks  
+and does not act come swarming through the gate  
+to multiply our troubles or allow any man to pass whose hostile shield depicts  
+an image of that hateful, vicious beast,  
+who will complain while still outside the town                                                      
+to the one who carries her towards the gate,  
+when she receives a heavy battering  
+below our city walls. If gods are willing,  
+may what I say prove true!  
+
+[Exit ACTOR]  
+
+CHORUS  
+ These words of yours  
+have pierced me to the heart, and when I hear  
+the noisy boasts of loud and sinful men,  
+my hair stands up on end. I pray the gods destroy them all and swallow them in earth!  
+
+MESSENGER  
+The sixth man I will name is Amphiaraus,  
+a forceful warrior—and very wise,  
+an extremely strong courageous prophet,  
+now in position at the Homoloid gate.                                                                          
+He keeps on shouting many cruel insults  
+at mighty Tydeus, calling him names  
+like ‘murderer,’ ‘disturber of the peace,’  
+‘greatest source of trouble for the Argives,’  
+‘summoner of vengeance from the Furies,’  
+‘willing agent of a general slaughter,’  
+and ‘counsellor of evil to Adrastus.’ [^note-329]  
+He also looked up at the skies and cried  
+to your own brother, great Polyneices,  
+reproaching him, and in his final words  
+he twice divided up your brother’s name  
+and emphasized each part. [^note-330] When he called out,  
+he used the following words:
+
+“This fight of yours—  
+will that be something pleasing to the gods,                                                             
+a worthy enterprise to hear about and tell in future years—that you destroyed  
+your father’s city and your native gods  
+by bringing in an army from outside  
+to attack the place? What sort of justice  
+leads you to choke off that nourishing spring  
+where you were born? And if, because of you,  
+your native land is captured by the spear, 
+how will the country ever be your friend?  
+As for me, I will fatten up the earth,  
+a prophet buried in a hostile soil. So let us go to war! I do not expect  
+to meet a shameful fate.” [^note-331]  
+
+ As he said this,  
+the prophet calmly held his plain bronze shield,                                                 
+a simple circle which displayed no sign,  
+for he does not wish merely to appear  
+the finest warrior—he wants to prove it.  
+From the deep furrows in that mind of his  
+he reaps the fruit where his firm counsels grow.  
+I would suggest you send out wise, brave men  
+to stand against him, for any warrior who worships gods is someone we should fear.  
+
+ETEOCLES  
+Alas for those ominous twists of fate  
+which in those groups where men associate  
+combine the righteous and profane together!  
+In all our actions, nothing can be worse  
+than evil company. The fruits of that                                                                              
+are not worth reaping, for fields of folly  
+yield a deadly crop. A reverent man  
+who sails off in a ship manned by a crew  
+of reckless sailors eager to do wrong will sometimes perish with that group of men  
+the gods detest, or else a virtuous man  
+living with fellow citizens who hate  
+all visitors and disrespect the gods  
+is caught up with them in a common trap,  
+which he does not deserve, and overwhelmed,  
+struck by god’s whip which lashes all alike.  
+That how things will turn out for the prophet,  
+Oecleus’ son, a temperate man—  
+just, noble, and respectful of the gods,  
+a powerful seer, but now an ally  
+of evil men whose arrogant boasting  
+defies good sense. Those men are on a march,  
+the pathway leading back is very long,  
+and so, if it is Zeus’ wish, this one  
+will be dragged down with all the others. 
+I do not think he will attack the gate,  
+not from cowardice or lack of spirit,  
+but because he knows he must meet his fate  
+here in this fight, if Apollo’s prophecies bear fruit, and usually he stays silent  
+or else says something truly pertinent.  
+But still, I will also appoint a man,                                                                                     
+great Lasthenes, to keep this foreigner  
+far from our gate.  
+
+[LASTHENES steps forward]  
+
+ He has the wisdom  
+of an older man and a young man’s strength.  
+His eyes are quick. His hand does not delay  
+in thrusting with his spear at naked flesh  
+his enemy’s shield has left uncovered.  
+But man’s success is given by the gods.                                                             
+[Exit Lasthenes]  
+
+CHORUS  
+O you gods, hear our righteous prayers  
+and fulfil them all, so that our city  
+may prove successful. Turn aside from us  
+the evils which afflict those in a war  
+and let them fall on that invading force.  
+May Zeus hurl down his thunderbolt                                                                               
+outside the walls and kill them all!  
+
+MESSENGER  
+Now I will announce the seventh warrior  
+beside the seventh and the final gate—  
+your own blood brother. I will describe the way he calls down curses on the city  
+and the fate he prays for. For he desires  
+to scale our battlements and then proclaim  
+that he is king of Thebes and raise a cry  
+of triumph when he has seized the city.  
+He prays to meet and kill you in the fight  
+and then to perish by your side, or else,  
+if you survive, to pay you back with exile,  
+in the same way you once dishonoured him  
+and forced him from his home. With words like these, great Polyneices calls his native gods  
+and summons his paternal deities                                                                                      
+to act as close custodians of his prayers.  
+He holds a brand new circular shield  
+displaying two shapes, skilfully attached—  
+a man in armour made of hammered gold  
+behind a woman calmly leading him.  
+She claims to be a figure of Justice,  
+to judge from what the letters say: ‘This man 
+I will lead back, and he will have his land and will roam free in his ancestral home.’
+These are the signs created for their shields.  
+It is now up to you to send out there                                                                               
+the one you think is best. You will not find  
+I have been wrong in what I have announced.  
+From this point you must yourself decide  
+the proper course to map out for our state.  
+
+ETEOCLES  
+O all this madness brought on by the gods,  
+this great abomination, my family,  
+the race of Oedipus, so full of tears. Now, alas, those curses of my father  
+are fully realized. But it’s not good  
+to weep or wail about our lot, in case  
+that helps produce an even worse lament.  
+As for their champion called Polyneices,  
+a most appropriate name, we will soon know  
+where that insignia of his will lead,  
+whether those babbling letters stamped in gold                                                   
+on his own shield and his erratic mind  
+will lead him home. If Zeus’ virgin daughter, Justice, were with him in his thoughts and deeds,  
+that might soon come to pass. But as it is,  
+when he came from the dark maternal womb,  
+when he was raised and reached maturity,  
+and when his cheek had its first growth of hair,  
+that goddess never recognized or glanced at him.  
+And now he seeks to hurt his fatherland,  
+I do not think she stands beside him. In fact,  
+Justice would truly contradict her name                                                                       
+if she became the ally of a man who does such shameful things. This I believe,  
+so I will be the one to stand against him.  
+Yes, I will go in person. What other man  
+can say he has a better claim than me?  
+One ruling general against another,  
+a brother against a brother, one foe  
+goes out to stand against another foe.  
+We must move quickly! [Bring my armour here  
+to guard against their spears and stones.] [^note-332]  
+
+CHORUS  
+Son of Oedipus, dearest of all men, do not get angry and be like that man  
+whose name lacks all respect. Cadmeans  
+are going to fight the Argives hand to hand,  
+and that will be enough. The blood they shed                                                        
+we can atone. But when the men who fight  
+share common blood, as you two brothers do,  
+and those who die are killed by their own kin,  
+time never can remove the dreadful stain.  
+
+ETEOCLES  
+If a man can suffer evil without shame,  
+that is all right—the only benefit the dead receive is honour. However,  
+you cannot speak of glory in those acts  
+which injure him and make him a disgrace. [^note-333]  
+
+CHORUS  
+But why are you so keen to go, my son?  
+Do not let mad delusions from the gods  
+cram your soul with passion for this fight  
+and carry you away. Cast out the evil urge,  
+this mad desire for war, while it is young.  
+
+ETEOCLES  
+The gods are driving these events so hard!  
+Let all the race of Laius ride the winds  
+down waves of Cocytus. That is their lot,  
+since Phoebus hates them so. [^note-334]  
+
+CHORUS  
+ But this desire  
+which gnaws at you and drives you on to kill,  
+to slaughter other men unlawfully—  
+that urge yields bitter fruit.  
+
+ETEOCLES  
+ Yes, that is true.  
+My loving father made a dreadful curse  
+and on my dry, unweeping eyes his words,  
+those fatal words, still sit and say to me:
+‘Win something for yourself before you die.’ [^note-335]  
+
+CHORUS  
+But do not let yourself be driven to it. If you preserve your life by acting well,  
+no one will call you coward. And surely  
+that dark avenging Fury with her aegis                                                                          
+will quit your house as soon as gods receive  
+a sacrificial gift from your own hands? [^note-336]  
+
+ETEOCLES  
+The gods abandoned us some time ago.  
+But they respect one gift we offer them—  
+the grace we manifest in dying. Why then  
+should I avert my own destructive fate?  
+
+CHORUS  
+Right now your fate is standing close to you, but that demon spirit, still boiling hot,  
+perhaps will alter what it now desires 
+and come on gentler winds.  
+
+ETEOCLES  
+ Yes, those curses  
+Oedipus pronounced have made it seethe.  
+Those phantom visions I saw in my sleep                                                                   
+dividing up my father’s property  
+were all too real! [^note-337]  
+
+CHORUS  
+ You should attend to us,  
+although you hate to hear what women say.  
+
+ETEOCLES  
+Propose some action that is possible—  
+and keep it brief.  
+
+CHORUS  
+ Do not go in person, not on that journey to the seventh gate.  
+
+ETEOCLES  
+My resolve to go there has been sharpened.  
+You will not blunt its edge by what you say.  
+
+CHORUS  
+But victories are honoured by the gods,  
+even those men win without the glory.  
+
+ETEOCLES  
+A fighting man cannot accept those words.  
+
+CHORUS  
+What you are seeking is to harvest fruit  
+by slaughtering your own blood brother.  
+
+ETEOCLES  
+But no one has the power to run away  
+from evils which the gods themselves present.                                          
+[Exit Eteocles]  
+
+CHORUS  
+The goddess who destroys entire homes                                                                      
+makes me shake with fear, for this divinity,  
+unlike other gods, always speaks the truth  
+in prophecies of evils yet to come.  
+
+That Fury summoned by his father’s prayer  
+will now fulfil those curses earlier  
+which Oedipus in his mad fit pronounced.  
+This child-destroying quarrel drives her on.  
+
+A stranger now divides their legacy.    
+A foreign, savage-minded, iron sword forged by the Chalybes in Scythia  
+is carving out grim parts of their estate,                                                                       
+assigning land to them where they may dwell,    
+as much as they will need when they are dead  
+and have no share at all in these wide plains. [^note-338]  
+
+But when they both are gone, two brothers slain  
+by one another, and dusty earth has drunk  
+the dark streams of their crimson blood, who then  
+can offer absolution, cleanse their guilt?  
+
+O this house, whose latest evil deeds  
+now mingle with those crimes from long ago!  
+
+That ancient wrong, so swift in its revenge  
+and lasting now three generations long—  
+I mean when Laius, against Apollo’s will  
+thrice uttered at the centre of the earth  
+when in his Pythian oracle he said  
+the king would save his city if he died  
+without producing children, nonetheless . . .  
+
+. . . overpowered by folly in his love                                                                                 
+created his own fate, his son Oedipus, who killed his father and then lived on 
+to plant his seeds of blood in sacred soil  
+where he was born, in his own mother’s womb. 
+For madness held that couple in its grip.  
+
+A sea of evil drives its surge ahead.  
+When one wave falls, another rises up,  
+its triple-crested water crashing down                                                                            
+around the city’s stern. And the defence  
+which stands between us and the sea is thin,  
+no wider than a wall. I am afraid the city and its kings will be destroyed.  
+
+When the moment comes for ancient curses  
+to be fulfilled, they bring a heavy freight,  
+for deadly threats do not just disappear.  
+The wealth of enterprising merchant men,                                                               
+once grown too gross, must be hurled overboard  
+and cast out from the ship into the sea.  
+
+What man has ever been admired so much  
+by gods, by citizens who share our feasts,  
+or by our people’s densely packed assemblies as Oedipus was when he was honoured  
+that day he rid the city of the Sphinx,  
+the deadly beast who snatched our men away?  
+
+But when his better judgment realized  
+the wretchedness of his ill-fated marriage,                                                                
+the overwhelming pain drove his heart mad,  
+and he then carried out a double evil.  
+With the very hand that killed his father  
+he stabbed out both his eyes, dearer to him  
+than his own children . . .  
+
+. . . and he cried out against the sons he fathered, assailing them  
+with wild and vengeful words. Alas, those curses  
+from his bitter tongue, which swore that one day  
+both of them, with swords in hand, would slice up  
+his possessions! [^note-339] And now my fear is this—                                                             
+that Fury rushes here to see the curse fulfilled.  
+
+[The MESSENGER enters]  
+
+MESSENGER  
+You there! Young girls, nurtured by your mothers,  
+take heart! Our city state has just been freed  
+from slavery’s yoke! And all those boasting words  
+from mighty warriors have now collapsed. Our ship is sailing on with sunny skies.  
+Though it was hit by many stormy waves,  
+our town took on no water. City walls  
+are standing firm, and we have reinforced  
+the gates with leading front-line warriors,  
+who kept us safe by fighting hand to hand.  
+We have, in general, had good success  
+at six of our city gates, but lord Apollo,  
+god of the seventh day, chose for himself                                                                  
+the seventh gate, and so he has fulfilled upon the family of Oedipus  
+the foolishness of Laius long ago. [^note-340]  
+
+CHORUS  
+What strange new things are going on  
+which now affect the city?  
+
+MESSENGER  
+ Our town is safe.  
+But those two kings with common blood . . .  
+
+CHORUS  
+ Those kings?  
+What are you saying? These words of yours  
+drive me insane with fear!  
+
+MESSENGER  
+ Calm down and listen.  
+The sons of Oedipus . . .  
+
+CHORUS  
+ Alas, the sorrow!  
+I sense disaster coming!  
+
+MESSENGER  
+ Beyond all doubt.  
+They are both dead, stretched out in the dust.  
+
+CHORUS  
+ Out there? Both lying out there? Such dreadful news!  
+What else? Tell me!  
+
+MESSENGER  
+ Both sons were killed.                                                       
+They slaughtered one another.  
+
+CHORUS  
+ And so  
+in a single instant each kindred hand  
+struck down a brother.  
+
+MESSENGER  
+ Yes. That demon spirit  
+gave both of them an all-too-equal fate. [^note-341]  
+And truly, all on its own it eats away  
+that doomed and fatal clan. In what goes on  
+we have good cause to weep and to rejoice—  
+our city has done well, but both our leaders, the two generals, have divided up 
+their property and everything they own  
+with swords of hammered Scythian iron.  
+Now all they will possess is land enough  
+to give each man a grave—ill-fated sons,  
+who, in accordance with their father’s curse,  
+were carried off. Our city has been saved,                                                                 
+but as for our two kindred kings cut down  
+by one another, earth has drained their blood.  
+
+[Exit Messenger]  
+
+CHORUS  
+O almighty Zeus and you gods who help protect our city and you  
+who truly shield Cadmean walls,  
+shall I cry out with joyful triumph  
+because my city is unharmed,  
+or shall I mourn the leaders in this war,                                                                       
+those poor, ill-fated, childless men,  
+so rightly named as ‘full of strife,’
+whose evil purposes destroyed them.  
+
+O the carrying out of that dark curse 
+which ends the family of Oedipus! An aching chill falls on my heart,  
+and, like a maenad, I now frame my song  
+to fit the grave, for I have heard  
+of those two men so pitifully slain  
+and of their bodies dripping blood.  
+Alas for that ominous melody,  
+that concert played with spears!  
+
+The special prayer of Oedipus,                                                                                               
+the father’s curse against his sons,  
+has taken effect. It did not fail. And Laius’ disobedient passion 
+retains its power in this. I fear  
+what happens to the city now.  
+
+Those words once spoken by the gods  
+do not lose their sharp edge.  
+
+[The funeral procession for ETEOCLES and POLYNEICES begins slowly to emerge, carrying the bodies towards the city. ANTIGONE and ISMENE are among the mourners.]  
+
+CHORUS  
+O you who bring us so much sorrow  
+and have done things beyond belief!  
+A heavy time of woe has come to us,  
+not from mere words but from your deeds!  
+
+It is so obvious, so plain to see, the truth of what that messenger proclaimed.  
+I sense a twin-felt sorrow—two warriors slain  
+by a brother’s hand! A double share of pain                                                             
+has been fulfilled. What is there left to say?  
+What else but this—O sorrow piled on sorrow  
+for hearth and home?  
+
+ But now, my friends, follow  
+the wind of sighs, and let those hands which sweep  
+across your heads so rapidly row on  
+and bear away the bodies of the dead  
+in the sacred ship with slack, black sails, which always glides across the Acheron  
+to unseen, sunless lands which all men share,  
+a place Apollo’s foot will never tread. [^note-342]  
+
+But look! Ismene and Antigone  
+are drawing near, coming to carry out  
+a bitter rite, their brothers’ funeral song.  
+I do not think there can be any doubt  
+their deep and passionately loving hearts 
+will chant a fitting dirge to mark their grief.  
+
+Before their cry, it would be right for us to sing that hymn of praise all men detest  
+to those avenging goddesses, the Furies,  
+and shout out Hades’ hateful victory song.                                                                
+
+Alas for you two sisters, too, of all women  
+who bind their robes beneath their breasts  
+the most unhappy in your brothers’ fate,  
+my tearful sighs come straight from my own heart—  
+my shrill lament tells how I truly feel. [^note-343]  
+
+[The CHORUS now joins the members of the funeral procession standing over the bodies of ETEOCLES and POLYNEICES]  
+
+O you hard-hearted, senseless men,  
+who showed no trust in your own friends and would not rest when troubles came,  
+with your unhappy spears you fought  
+and now have won your father’s home. [^note-344]  
+
+In all the harm done to their house  
+to their own misery they found                                                                                             
+a truly wretched death.  
+
+ Alas, alas!  
+You two, who sought to overthrow  
+the walls of your own home and looked  
+with bitter eyes to being the only king,                 
+have now been reconciled with swords.                                                            
+And thus, indeed, the sacred Fury  
+of Oedipus, your father, ends her work.  
+
+[The Chorus Leader removes the cloth covering the bodies]  
+
+Struck on your left sides! Yes, wounded there,  
+through ribs that shared a common womb.                                                              
+Alas, for these divinely fated men!  
+Alas for curses seeking death for death!  
+
+Yes, deadly blows to house and body  
+have struck them down, thanks to that wrath,  
+an unspeakable rage and a father’s curse.  
+
+Here, with this death, their strife is over. And our whole city grieves, the towers groan,                                                        
+this land, which loves its people,  
+moans in sorrow. Now their entire estate  
+remains for their posterity, those things  
+that launched the war which doomed them  
+and found fulfilment in their death.  
+
+These men whose anger was so quickly roused  
+have split their property between them  
+and each one has an equal share—but still  
+the one who brought their quarrel to a close has earned the condemnation of their friends,  
+who find no joy in savage Ares.                                                                                            
+
+So here they lie, struck down by iron.  
+And now that iron has laid them low,  
+one might well ask what lies in store,  
+two shares in their ancestral grave.  
+
+Our painful, sharp, heart-wrenching groans,  
+the grief we truly feel from our own pain  
+in this dejected mood, bereft of joy,  
+attend on both of them, as real tears pour from my heart and as it wastes away                                                                 
+with weeping for this pair of royal sons.  
+
+To these unhappy men one might well say  
+they did great harm to citizens of Thebes  
+and to those ranks of foreigners who fell  
+to widespread slaughter in that war.  
+
+Of every women who has given birth,  
+all those who earn the name of mother,  
+the one who bore these men was truly doomed. [^note-345]  
+She chose as husband her own child and then gave birth to sons, who finished up                                                          
+by turning hands produced from the same seed  
+to murdering each other.  
+
+ Yes, both from just one seed,  
+but split apart, no longer friends, locked  
+in that mad fight, then utterly destroyed,  
+the final act of their fraternal strife.  
+
+Their enmity is done, and their two lives 
+is mingling with the gory earth. So now  
+they truly share one common blood.  
+
+A bitter stranger from beyond the sea  
+resolved their fight with sharpened iron  
+snatched quickly from the fire—and bitter, too,  
+the one dividing their inheritance,  
+destructive Ares, who brought about  
+their father’s curse and made it true.  
+
+In their unhappy state they do possess  
+their own allotted shares of heaven-sent grief,  
+and beneath both corpses earth will now extend  
+the boundless wealth those brothers craved.  
+
+ O you have wreathed 
+your family home in harsh distress,  
+and now to end it, with all your friends  
+driven off in flight in all directions,  
+those spirits of revenge are screaming out 
+their shrill triumphal song, and in the gates  
+a trophy stands to goddess Ruin,  
+where those two brothers fought  
+and where the demon killed them both,  
+before what she was seeking out was done.  
+
+[ANTIGONE and ISMENE move forward to stand by the bodies of their two brothers. ANTIGONE addresses Polyneices, and ISMENE Eteocles]  
+
+ANTIGONE  
+You struck and were struck down.  
+
+ISMENE  
+ And you were killed while killing.  
+
+ANTIGONE  
+You slew him with a spear.  
+
+ISMENE  
+ And from that spear you died.                                     
+ANTIGONE  
+Such a pitiful act!                                                                                                                                  
+
+ISMENE  
+ Such wretched agony!  
+
+ANTIGONE  
+Let our groans sound.  
+
+ISMENE  
+ Let our tears flow.  
+
+ANTIGONE               
+Now you lie dead.  
+
+ISMENE  
+ You did the killing.  
+
+Antigone  
+Alas!  
+
+ISMENE  
+ Alas!  
+
+ANTIGONE  
+ My mind is mad with grief.  
+
+ISMENE  
+My heart groans here inside.  
+
+ANTIGONE  
+ Aaaiii! You pitiful man!  
+
+ISMENE  
+You, too, his wretched brother.                                                                                             
+
+ANTIGONE  
+ You lie there dead,  
+killed by your own kin.  
+
+ISMENE  
+ You slaughtered him,  
+your own dear relative.  
+
+ANTIGONE  
+ A double grief  
+to talk about!  
+
+ISMENE  
+ A double sight to see!  
+
+ANTIGONE  
+Such sorrow all around them.                                                                                     
+ISMENE  
+One brother lies beside his brother.  
+
+CHORUS  
+A heavy Fate that carries so much pain—  
+the awe-inspiring shade of Oedipus!  
+O you dark Fury, your power is so great.  
+
+ANTIGONE  
+Alas!                                                                                                                                                                 
+
+ISMENE  
+ Alas!  
+
+ANTIGONE  
+ Such a horrific sight . . .  
+
+ISMENE  
+. . . revealed to me by his return back home.  
+
+ANTIGONE  
+But he did not come home, once he had killed.  
+
+ISMENE  
+He saved himself and lost his life.  
+
+ANTIGONE  
+ Ah yes,              
+he was destroyed.  
+
+ISMENE  
+ And yet he also killed.  
+
+ANTIGONE  
+O this doomed race!  
+
+ISMENE  
+ Such wretched suffering!                                                  
+ANTIGONE  
+A hapless grief which carries our own name!  
+
+ISMENE  
+A triple tide of sorrow!  
+
+CHORUS  
+ A heavy Fate 
+that brings us so much agonizing pain—  
+the awe-inspiring shade of Oedipus!  
+O you dark Fury, your power is so great.  
+
+ANTIGONE  
+You know her now by what you did.  
+
+ISMENE  
+And you in that same instant met her, too.  
+
+ANTIGONE  
+When you came back to your own city.  
+
+ISMENE  
+To face your brother with a spear.  
+
+ANTIGONE  
+A deadly thing to talk about.  
+
+ISMENE  
+ A deadly sight to see.                                                    
+ANTIGONE  
+Alas, such pain!                                                                                                                                                                                                                                                                                            
+
+ISMENE  
+ Alas, so many troubles!  
+
+ANTIGONE  
+For our own home and land.  
+
+ISMENE  
+ And most of all, for me.  
+
+ANTIGONE  
+And more, as well, for me.  
+
+ISMENE  
+O how I mourn your suffering, my king!  
+
+ANTIGONE  
+Alas for both of you, most pitiful of men!  
+
+ISMENE  
+Both gripped by ruinous illusions!  
+
+ANTIGONE  
+Where shall we put them in the earth?  
+
+ISMENE  
+Wherever they get most respect.  
+
+ANTIGONE  
+ More cause for grief!  
+Alas! For they must lie beside their father.                                                                 
+
+[Enter HERALD]  
+
+HERALD  
+I must announce what has just been proposed and what the people’s council has resolved  
+for citizens of our Cadmean city. [^note-346]  
+They have decreed Eteocles may have  
+a grave dug in the land which cherishes him,  
+for he despised her enemies and chose  
+to die here in the city, thus honouring  
+ancestral shrines with his own piety.  
+He perished free of blame, in the very place  
+where there is honour in a young man’s death.  
+Those are the words I was sent here to say about Eteocles. As for his brother,  
+the council has decreed that the corpse  
+of Polyneices shall be thrown away  
+without a grave, outside the city,                                                                                         
+as food for dogs. He wanted to destroy  
+the land of Cadmus and would have done so,  
+if a god had not stood up and stopped him  
+with his brother’s spear. Though he is dead,  
+he still remains polluted from his crime  
+against his father’s gods, whom he dishonoured, by launching foreign troops against our walls  
+and trying to seize the city. And thus,  
+they have declared he will receive no honours—  
+his grave will lie beneath the flying birds.  
+That burial will give him his reward.  
+No one is to attend to him or raise  
+a funeral mound or, on his behalf,  
+sing any shrill and reverent lament.  
+His friends are not to honour him at all  
+by bearing him away in a procession.  
+Our Theban council has set out these laws  
+to deal with funeral rites for our two kings.  
+
+ANTIGONE 
+Well, this is what I have to say to those  
+who rule in Thebes: if no one else is willing  
+to help me find a grave for Polyneices,  
+then I will take the risk all by myself  
+and bury my own brother. I feel no shame  
+in going against our city councillors  
+so lawlessly. For with that corpse I share  
+an overwhelming bond, the common womb from which we two were born, both children  
+of unhappy and ill-fated parents.  
+And thus my soul is willing now to share  
+the troubles of a man who has no will  
+and live in blood communion with the dead.                                                                                                                                                                                                               
+No hollow-bellied wolves will rip his corpse.  
+Let no one set that up as a decree!  
+Though I am a mere woman, I will find  
+some way to dig a grave and bury him  
+with what I carry folded in my robes. I will cover him myself. So spare me  
+all those laws which say I may not do it.  
+And do not fear, for I will find a way.  
+
+HERALD  
+I am saying you must not flaunt the city.  
+
+ANTIGONE  
+And I am saying you should not bother me  
+with futile proclamations.  
+
+HERALD  
+ The people,  
+who have just escaped from a disaster,                                                                          
+may well be harsh on you.  
+
+ANTIGONE  
+ Let them be harsh!  
+This man here will not remain unburied.  
+
+HERALD  
+But the city hates this man. Will you now give him the honour of a funeral?  
+
+ANTIGONE  
+So far he has not received much honour  
+from the gods.  
+
+HERALD  
+ That is not true—  
+the gods afforded him all due respect  
+until he put this land of ours in danger.  
+
+ANTIGONE  
+He was paying back the harm he suffered.  
+
+HERALD  
+But what he did hurt all the citizens,  
+not just one man. [^note-347]  
+
+ANTIGONE  
+ The final god 
+to bring an end to any argument 
+is Eris, who resolves disputes with war. No more of your long-winded reasoning,  
+for I will bury Polyneices.  
+
+HERALD  
+ As you wish. 
+But I have told you it has been forbidden.  
+
+[Exit HERALD]  
+
+CHORUS  
+Alas! Alas for you demonic Furies,                                                                                                                                                                                                                                           
+who boast about a family destroyed  
+and have just utterly wiped out the race  
+of Oedipus. What happens to me now?  
+What do I do? Where is the road ahead?  
+How can I endure not weeping for you  
+or not escorting you to your own grave? I sense the hatred of our citizens.  
+I am afraid. And so I turn away.  
+Now you, Eteocles, will have a crowd  
+to mourn your death, but no one will lament  
+poor Polyneices. A single sister  
+will offer him a funeral song alone.                                                                                  
+Who finds that burial acceptable?  
+
+[The CHORUS escorts the bodies off stage, half going with Polyneices, and half with Eteocles]  
+
+HALF CHORUS Let this city hand out punishment or not  
+to citizens who weep for Polyneices.  
+We here will still attend his funeral march and help to bury him, since all our race  
+shares in the grief we feel and city laws  
+have sanctioned different acts at different times.  
+
+HALF CHORUS And we will now escort Eteocles,  
+as Justice and our city say is right.  
+For with the sacred gods and mighty Zeus                                                                                                                                                                                                                        
+he was the one, of all our citizens, 
+who saved this city of Cadmeans  
+from being overwhelmed and foundering  
+beneath a wave of foreign warriors.  
+  
+[The CHORUS and the funeral processions slowly leave the stage]  
+  
+  
+[^note-301]: There are a number of different accounts of how the two brothers determined who should govern Thebes and who was the first to rule. Aeschylus’ play seems to rely upon the notion that Eteocles is the legitimate king, but the issue was traditionally not at all clear.   
+
+[^note-302]: The six Theban champions, whose names occur later in the text are Melanippus, Polyphontes, Megareus, Hyperbios, Actor, and Lasthenes.   
+
+[^note-303]: Cadmus was the legendary founder of Thebes, whose citizens were therefore often called Cadmeans.   
+
+[^note-304]: The prophet in question is Teiresias, the famous blind seer, who listened for omens in the cries of birds he looked after. This method differed from the usual practice of sacrificing an animal (i.e., using fire) and inspecting the entrails for omens. The word Achaean or Argive refers to the foreign troops attacking Thebes.   
+
+[^note-305]: Ares was the god of war, and Enyo a goddess of war. Terror was sometimes described as a companion of Ares on the battlefield. Adrastus, king of Argos, helped Polyneices gather the troops for the attack on Thebes.   
+
+[^note-306]: The Furies were the goddesses of blood revenge, particularly within the family. Eteocles is praying that Thebes will not become a victim of divine revenge for what happened to his father, Oedipus, once king of Thebes, who had called down a curse on his two sons (for details of the curse see line 1070 below).   
+
+[^note-307]: The white shields are the mark of the invading Argive army.   
+
+[^note-308]: These lines indicate that beside the doors of the palace there are a number of statues of the most important deities in Thebes. The Chorus moves towards them and starts decorating the figures.   
+
+[^note-309]: The robes and garlands were used to decorate the altars and statues of the gods.   
+
+[^note-310]: Ares was the father of Harmonia, the wife of the founder of Thebes, Cadmus, and hence associated with the city.   
+
+[^note-311]: Pallas is a common name for the goddess Athena.   
+
+[^note-312]: Cypris is an alternative name for Aphrodite. Cadmus’ wife, Harmonia, was a daughter of Ares and Aphrodite.   
+
+[^note-313]: Apollo was traditionally associated with wolves, perhaps by a process of assimilating older religious practices. Artemis, daughter of Zeus and Leto, twin sister of Apollo, was associated with hunting.   
+
+[^note-314]: Onca was a Theban goddess, closely linked to Athena.   
+
+[^note-315]: Poseidon, god of the sea, was also the god of rivers and streams. Tethys was the wife of her brother Oceanus, and they were both primal gods of the oceans. Their children were river gods.   
+
+[^note-316]: The image here comes from the customary marriage rituals where the bride crosses through the doorway of her new husband’s house.   
+
+[^note-317]: This curious (and difficult passage) seems to the saying that the victorious soldiers, both those with loot and whose without, will have a great feast of celebration, and there will be no need to worry about supplies of food because they have all the provisions of the captured city to feed on.   
+
+[^note-318]: These lines have occasioned some debate, and the precise meaning is disputed. The translation above tries to capture the horrible irony of the scene—the nightly rape is the only “release” the young women get from their lives as captive slaves.   
+
+[^note-319]: It is not clear who is being referred to by the name Proetus. One conjecture is that it may come from a certain Proetus whose grandson helped construct the walls of Thebes. Tydeus was a heroic warrior king of Calydon, and father of the well-known Homeric warrior Diomedes.   
+
+[^note-320]: When Cadmus chose a site where he would found Thebes, he had to kill a dragon there. Then, on divine instructions, he sowed the dragon’s teeth into the ground. Armed warriors sprung up and began fighting and killing each other. The conflict was abruptly stopped with a few of the men left. These warriors became the original Thebans.   
+
+[^note-321]: Typhon was a fabulous giant monster with a hundred heads.   
+
+[^note-322]: Hermes was the god of lotteries, and the warrior combats here were determined, in part, by drawing lots.   
+
+[^note-323]: Typhon (or Typhoeus) was one of Zeus’ most important adversaries in the war between Zeus and the Giants, a conflict in which Zeus was victorious. 
+
+[^note-324]: Amphion was a legendary figure who helped to build the walls of Thebes.   
+
+[^note-325]: The warrior’s name, as we learn later, is Parthenopaeus (which means “with a face like a girl”). His mother was Atalanta, who lived in the mountains of Arcadia.   
+
+[^note-326]: The Sphinx was a monster which had terrorized Thebes by killing anyone who could not answer a riddle. When Oedipus appeared, he solved the riddle and saved the city.   
+
+[^note-327]: The authenticity of the lines within square brackets has been debated.   
+
+[^note-328]: These men boast that they can conquer the city without the aid of the gods. If the gods agree to leave them all alone and not help them, Eteocles insists, they will all perish.   
+
+[^note-329]: Adrastus was king of Argos and part of the expedition against Thebes. Amphiaraus, his brother-in-law, advised against the expedition and did not wish to go, but his wife Eriphyle (sister of Adrastus) persuaded him to change his mind. Tydeus, from Sicyon, had gone to Argos to atone for a murder with a temporary exile. Amphiaraus, this speech suggests, blames Tydeus for inciting Adrastus to launch the expedition.   
+
+[^note-330]: Polyneices comes from two words: polu meaning much and neikos meaning strife. I have added the final phrase (emphasized each part) to clarify the meaning.   
+
+[^note-331]: According to traditional stories, Amphiaraus had prophesied his own death at Thebes.   
+
+[^note-332]: The authenticity of the lines in square brackets has been debated.   
+
+[^note-333]: Here Eteocles seems to be saying that honour demands he face his brother, even if that leads to his death. Without honour, the dead have nothing.  
+
+[^note-334]: Laius was the father of Oedipus, Cocytus a river of the underworld. Eteocles is reminding himself and others of how the tragic stories of his family originate in the hostility of Phoebus Apollo. See lines 1032 ff. below for more details of the origin of Apollo’s quarrel with the family of Laius.   
+
+[^note-335]: The curse seems to be urging Eteocles to kill his brother before he dies himself, because that will bring him a temporary benefit, presumably the personal satisfaction and glory of winning the battle. The debate here between the Chorus and Eteocles (which has been much discussed) is focusing on the tension between the Chorus’ desire for Eteocles to act with some prudence, so as to avoid continuing the family curse by killing his brother (an act which will prolong the history of disasters for Thebes), and Eteocles’ passionate desire to surrender to his own feelings.   
+
+[^note-336]: The term aegis most commonly refers to a garment (a collar or cape or shield) which serves as a protection. In traditional Greek stories, the aegis can also serve as a weapon to terrify one’s enemies and paralyze them with fear.   
+
+[^note-337]: These lines may refer to a passage in an earlier play in the trilogy (now lost).   
+
+[^note-338]: The Chalybes, a people living in Scythia near the Black Sea, were famous for their metal work.   
+
+[^note-339]: The quarrel between Oedipus and his sons arose because Oedipus believed they were disrespecting him by not obeying his instructions and by serving him inappropriate food at dinner.   
+
+[^note-340]: Apollo was given this title (god of the seventh day) because traditionally he was born on the seventh day of the month. Some Greek cities offered him sacrifices on that day each month.   
+
+[^note-341]: The demon spirit (daimon) is a frequently invoked but elusive concept, without a precise English equivalent. It refers both to the fate of the family of Laius (something determined from beyond—i.e., by Apollo) and also to the very nature of the people in the family, who seem in some way cursed by their own self-destructive passion (which arises from their distinctive characters).   
+
+[^note-342]: This difficult passage is comparing the way in which the mourners beat their heads rhythmically in grief to the hands which row the ship of the dead across the Acheron river into the underworld. Apollo, as the god of light, never visits Hades.   
+
+[^note-343]: This curious line about how their grief is genuine may refer to the fact that, as we see at the very end of the play, many Thebans had different feelings about Eteocles and Polyneices. The former died defending the city and was thus a hero, worthy of full funeral rites; whereas, the latter died attacking the city and therefore was a traitor. A dispute over the appropriate burial rites for both brothers continued the curse on the family of Oedipus and led to Antigone’s death.   
+
+[^note-344]: In this lament over the dead bodies, the characteristics of one brother are applied to them both, as if they were a single person. The “home” the two brothers have won is the grave. In the scene which follows, the lines are shared by the full Chorus, parts of the Chorus, and by Ismene and Antigone, and there has been much debate about how the lines should be properly assigned (since that is not at all clear from the Greek text). I have separated lines which seem to belong to the Chorus (or part of it) from those which seem to belong to Antigone and Ismene.   
+
+[^note-345]: Their mother was Jocasta, wife and mother of Oedipus. When she found out the truth of her marriage, she killed herself.   
+
+[^note-346]: It is not entirely clear where the political authority in Thebes rests, now that both kings are dead. In other versions of the story, Creon (brother-in-law of Oedipus, and hence the uncle of Eteocles and Polyneices) assumes control once the two brothers are gone.   
+
+[^note-347]: The herald’s point here is that the citizens as a group did not harm Polyneices, since he was driven away by Eteocles. 
+  
+

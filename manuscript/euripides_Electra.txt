@@ -1,0 +1,2511 @@
+# Electra {#euripides_book-electra}  
+  
+C> *This edition is based on the [publicly available](http://records.viu.ca/~Johnstoi/euripides/electra.htm) translation by Ian Johnston*  
+  
+
+*For some background information on the House of Atreus, see [this section](#intro-house-of-atreus)*  
+  
+...  
+
+  
+**DRAMATIS PERSONAE**  
+
+**PEASANT**: a poor farmer in the countryside  
+**ELECTRA**: daughter of Agamemnon and Clytaemnestra, married to the Peasant  
+**ORESTES**: son of Agamemnon and Clytaemnestra, brother of Electra  
+**PYLADES**: a friend of Orestes  
+**CHORUS**: Argive country women  
+**OLD MAN**: an old servant of Agamemnon’s who rescued Orestes  
+**MESSENGER**: one of Orestes’ servants  
+**CLYTAEMNESTRA**: mother of Orestes and Electra.  
+**DIOSCOURI** (Castor and Polydeuces): divine twin brothers of Helen and Clytaemnestra  
+**SERVANTS**: attendants for Orestes, Pylades, and Clytaemnestra  
+  
+*[The scene is set in the countryside of Argos, in front of the Peasant’s hut. It is just before dawn.]*  
+  
+  
+
+PEASANT  
+ O this old land, these streams of Inachus,  
+ the place from where king Agamemnon once  
+ set out with a thousand ships on his campaign  
+ and sailed off over to the land of Troy.  
+ He killed Priam, who ruled in Ilionk  
+ and took the famous town of Dardanus. [^note-201]  
+ Then he returned home, back here to Argos,  
+ and set up in high temples piles of loot  
+ from those barbarians. Yes, over there  
+ things went well for him. But then he was killed in his own home, thanks to the treachery  
+ of his wife, Clytaemnestra, at the hand                                                  
+ of Thyestes’ son Aegisthus. So he died,  
+ leaving behind Tantalus’ ancient sceptre. [^note-202]  
+ Aegisthus rules this country now. He wed  
+ Tyndareus’ daughter, the dead king’s wife.  
+ As for those he left at home behind him  
+ when he sailed to Troy, his son Orestes  
+ and his daughter, too, Electra—well, now,  
+ Aegisthus was about to kill Orestes, but an old servant of his father’s took him  
+ and handed him to Strophius to bring up  
+ in the land of Phocis. But Electra  
+ stayed on in her father’s house. When she reached  
+ her young maturity, the suitors came,                                                    
+ the foremost ones throughout the land of Greece,  
+ seeking marriage. Aegisthus was afraid  
+ she’d bear a child to some important man,  
+ who’d then seek revenge for Agamemnon.  
+ So he wouldn’t give her to a bridegroom, but kept her in his home. Even this choice  
+ filled him with fear, in case she’d give birth  
+ to a noble child in secret. So he planned  
+ to kill her. But though her heart is savage,  
+ her mother saved her from Aegisthus’ hands.  
+ She’d an excuse for murdering her husband,  
+ but she feared that if she killed her children                                          
+ she’d be totally disgraced. [^note-203] And that’s why  
+ Aegisthus came up with the following scheme—  
+ he offered gold to anyone who’d kill Agamemnon’s son, who’d left the country  
+ as an exile, and he gave Electra  
+ to me to be my wife. My ancestors  
+ were from Mycenae, so in this matter  
+ at least I don’t bear any of the blame.  
+ My family was a good one but not rich,  
+ and that destroys one’s noble ancestry.  
+ He gave her to a man who had no power.  
+ In that way his fear could be diminished.  
+ If some important fellow married her,  
+ he might have woken up the sleeping blood  
+ of Agamemnon, and then at some point  
+ justice would have come here for Aegisthus.  
+ But I’ve never had sex with her in bed—  
+ and Cypris knows I’m right in this—and so  
+ Electra’s still a virgin. [^note-204]  
+ I’d be ashamed  
+ to take the daughter of a wealthy man  
+ and violate the girl, when I’m not born  
+ her equal. As for unfortunate Orestes,  
+ who’s now, according to what people say, a relative of mine, I’m sorry for him,  
+ if he should ever come back to Argos  
+ and see his sister’s wretched marriage.  
+ Any man who says I’m just an idiot                                                        
+ to bring a young girl here into my home  
+ and then not touch her should know he’s a fool,  
+ measuring wisdom with a useless standard.  
+
+[Electra enters from the hut. She is carrying a water jug]  
+
+ELECTRA  
+ O pitch black night, nurse of golden stars,  
+ Through you I walk towards the river streams,  
+ holding up this jar I carry on my head. This is not a task I am compelled to do,  
+ but I will manifest to all the gods  
+ Aegisthus’ insolence, and I will send  
+ into this great sky my sorrowing cries  
+ out to my father. For my own mother,                                             
+ that murderous daughter of Tyndareus,  
+ in her desire to please her husband,  
+ has cast me from my home. With Aegisthus  
+ she’s given birth to other children and thinks  
+ Orestes and myself of no account inside her house.  
+
+PEASANT  
+ You unfortunate girl,  
+ why do you work like this to give me help,  
+ carrying out these chores? In earlier days,  
+ you were nobly raised. Why don’t you stop,  
+ especially when I mention this to you?  
+
+ELECTRA  
+ You’re kind to me, and I consider you  
+ the equal of the gods in that. For now,  
+ when I’m in trouble, you don’t demean me.  
+ When human beings discover someone there  
+ to soothe their miseries, as I have you,  
+ then fate is doing something great for them.  
+ So I should help you carry out the work  
+ and give you some relief, to the extent  
+ my strength permits, without you asking me,  
+ so you can bear the load more easily.  
+ There’s work enough for you to do outside.  
+ I should take care of things within the house.  
+ It’s nice when someone working out of doors  
+ comes back in and finds things neat and tidy.  
+
+PEASANT  
+ Well, if you think you should do it, then go. The springs are no great distance from the house.  
+ Once daylight comes, I’ll drive the oxen out,  
+ go to the farmlands, and then sow the fields.  
+ No matter how much his mouth talks of gods,                                
+ a lazy man can never gather up  
+ the stuff he needs to live without hard work.  
+
+[Electra leaves for the spring, and the Peasant goes back to the house. Enter Orestes and Pylades, with two servants] 
+
+ORESTES  
+ Pylades, among men I think of you  
+ as a loving host, foremost in my trust.  
+ For you’re the only one of all my friends  
+ who has dealt honourably with Orestes, as I’ve been coping with these dreadful things  
+ I’ve had to put up with from Aegisthus,  
+ who killed my father . . . he and my mother,  
+ that destructive woman. I’ve come here,  
+ from god’s mysterious shrine to Argive lands,  
+ to avenge the killing of my father,  
+ by murdering the ones who butchered him.  
+ Last night I visited my father’s tomb.                                               
+ where I wept and started sacrificing  
+ by cutting off a lock of hair. And then, on the altar I made an offering of blood  
+ from a sheep I slaughtered. But the tyrants  
+ who control this land don’t know I’m here.  
+ I’ve not set foot within the city walls.  
+ No. I’ve come out to these border regions  
+ for two reasons which act on me as one—  
+ so I may run off to another land  
+ if someone sees me and knows who I am  
+ and to find my sister, who’s living here,  
+ so they say, joined in marriage to a man, no virgin any more. I could meet her,                                              
+ make her my accomplice in the murder,  
+ and in this way get clear information  
+ about what’s happening inside the walls.  
+ But now that Dawn is raising her bright eyes,  
+ let’s move aside to some place off the path.  
+ We’ll see a ploughman or a servant woman,  
+ then ask them if my sister lives near here.  
+ In fact, I can see a household servant—  
+ her shaven head holds up a water jug. [^note-205]  
+ Let sit and ask this female slave some questions,                             
+ Pylades—see if we can get some word  
+ about the business which has brought us here.  
+
+[Orestes and Pylades move back. Electra enters, on her way back from the spring. She does not see them at first.  
+She starts to go through her ritual of mourning]  
+
+ELECTRA  
+ You must step quickly now—  
+ it’s time to move—  
+ keep going, lamenting as you go.  
+ Alas for me! Yes, for me!  
+ I am Agamemnon’s child.  
+ I was born from Clytaemnestra,  
+ Tyndareus’ detested daughter. Miserable Electra—that’s the name  
+ the citizens have given me.  
+ Alas, alas! My wretched work                                                           
+ and this detested way of life!  
+ O father, you now lie in Hades,  
+ Agamemnon, thanks to that murder  
+ committed by Aegisthus and your wife.  
+
+ Come now, raise the same lament,  
+ seize the joy of prolonged weeping.  
+
+ You must step quickly now— it’s time to move—  
+ keep going, lamenting as you go.  
+ Alas for me! Yes, for me!  
+ O my poor brother, in what town,                                                    
+ in what household are you roaming,  
+ abandoning your abject sister  
+ to such painful circumstance  
+ in her ancestral home? Come to me,  
+ in my unhappy wretchedness.  
+ Be my deliverer from pain— ah Zeus, Zeus—  
+ be an avenger for my father,  
+ the hateful shedding of his blood,  
+ once the wanderer sets foot in Argos.  
+
+ Take this water pitcher from my head                                              
+ and set it down, so I may wail  
+ my night laments, cries for my father,  
+ wild shrieks, a song of death,  
+ your death, my father. For you  
+ beneath the earth, I cry out chants of sorrow—day after day  
+ I keep up this constant grieving,  
+ ripping my dear skin with my fingernails,  
+ while my hand beats my shaven head—  
+ all this because you’re dead.  
+
+ Ah yes, mutilate your face,                                                               
+ and, just as a swan sings out  
+ beside the streaming river,  
+ crying to its beloved father  
+ who died ensnared within the web of a deceitful net, so I cry out  
+ for you, unhappy father,  
+ your body bathing in that final bath,  
+ your most pitiable couch of death. [^note-206]  
+
+ Ah me . . . ah me!  
+ that bitter axe that hacked you,                                                       
+ father, the bitter scheme  
+ of your return from Troy!  
+ Your wife failed to welcome you  
+ with victor’s wreath and ribbons. No. Instead she gave you up  
+ to that disgraceful mutilation  
+ by Aegisthus’ two-edged sword  
+ and got herself a treacherous mate.  
+
+[Enter the Chorus of Argive women]  
+
+CHORUS  
+ O Electra, daughter of Agamemnon,  
+ I’ve come here to your rural dwelling place.  
+ A man’s arrived, a milk-drinking man—  
+ he’s come here from Mycenae,                                                         
+ a man who walks the mountains.  
+ He says the Argives have proclaimed a sacrifice two days from now,  
+ and every young bride has to go  
+ to Hera’s shrine in the procession.  
+
+ELECTRA  
+ My sad heart is beating fast, my friends,  
+ but not for festive ornaments  
+ or necklaces made out of gold.  
+ I won’t stand with the Argive girls  
+ in choruses or beat my foot  
+ as I whirl in the dance.                                                                      
+ I pass my days in tears— in my unhappiness my care  
+ day after day is with my tears.  
+ See if this filthy hair and tattered clothes  
+ suit Agamemnon’s royal child  
+ or Troy, which bears the memory  
+ of how my father seized the place.  
+
+CHORUS  
+ The goddess is great. So come,                                                         
+ borrow thick woven clothes from me  
+ and put them on, with gold as well,  
+ graceful ornaments—to favour me. Do you think that with your tears  
+ you can control your enemies  
+ if you have no respect for gods?  
+ My child, you’ll find yourself a gentler life  
+ by honouring the gods with prayers,  
+ and not with sorrowful laments.  
+
+ELECTRA  
+ No god is listening to the cries  
+ of this ill-fated girl or to the murder  
+ of my father all that time ago.                                                          
+ Alas for that slaughtered man and for the wanderer still alive  
+ dwelling somewhere in a foreign land,  
+ a wretched vagabond at a slave’s hearth,  
+ son of such a famous father.  
+ And I am living in a peasant’s house,  
+ wasting my soul up on the mountain tops  
+ in exile from my father’s house.                                                        
+ My mother, married to another man,  
+ lives in a bed all stained with blood.  
+
+CHORUS LEADER  
+ Your mother’s sister, Helen, brought the Greeks so many troubles and your house, as well. [^note-207]  
+
+[Orestes and Pylades begin to move forward. Electra catches sight of them]  
+
+ELECTRA  
+ Alas, women, I’ll end my lamentation.  
+ Some strangers hiding there beside the house,  
+ at the altar, are rising up from ambush.  
+ Let’s run off—escape these trouble makers.  
+ You run along the path. I’ll go in the house.  
+
+ORESTES  
+ Stay here, poor girl. Don’t fear my hand.                                         
+
+ELECTRA  
+ O Phoebus Apollo, I beseech you—  
+ don’t let me die!  
+
+ORESTES  
+ And let me cut down  
+ others I hate much more than you.                                     
+
+ELECTRA  
+ Leave now! Don’t put your hands on those you should not touch.  
+
+ORESTES  
+ There’s no one I have more right to touch.  
+
+ELECTRA  
+ Then why wait beside my house in ambush,  
+ with your sword drawn?  
+
+ORESTES  
+ Stay here and listen.  
+ Soon you’ll be agreeing with me.  
+
+ELECTRA  
+ I’ll stand here.  
+ I’m yours, anyway, since you’re the stronger.  
+
+ORESTES  
+ I’ve come to bring you news about your brother.  
+
+ELECTRA  
+ Dearest of friends—is he alive or dead?  
+
+ORESTES  
+ Alive. I’d like you to have good news first.                                       
+
+ELECTRA  
+ My you find happiness as your reward for those most welcome words.  
+
+ORESTES  
+ That’s a blessing  
+ I’d like to give to both of us together.  
+
+ELECTRA  
+ My unhappy brother—in what country  
+ does he live in wretched exile? 
+
+ORESTES  
+ He drifts around,  
+ not settling for a single city’s customs.  
+
+ELECTRA  
+ He’s not lacking daily necessities?  
+
+ORESTES  
+ No, those he has. But a man in exile  
+ is truly powerless.  
+
+ELECTRA  
+ What’s the message  
+ you’ve come here to bring from him?  
+
+ORESTES  
+ I’m here  
+ to see if you’re alive and, if you are, what your life is like.  
+
+ELECTRA  
+ Surely you can see,  
+ first of all, how my body’s shrivelled?  
+
+ORESTES  
+ So worn with pain it makes me pity you.                                          
+
+ELECTRA  
+ And my hair cut off, shorn with a razor?  
+
+ORESTES  
+ Perhaps your dead father and your brother  
+ are tearing at you.  
+
+ELECTRA  
+ Alas! Who is there  
+ whom I love more than those two men?  
+
+ORESTES  
+ Ah yes, and what do you think you are  
+ to your own brother?  
+
+ELECTRA  
+ He’s not here,  
+ and so no present friend to me.  
+
+ORESTES  
+ Why live here, so distant from the city?  
+
+ELECTRA  
+ I’m married—  
+ it’s a deadly state.  
+
+ORESTES  
+ I pity your brother.  
+ Did you marry someone from Mycenae?  
+
+ELECTRA  
+ No one my father ever hoped to give me.  
+
+ORESTES  
+ Tell me. I’ll listen and inform your brother.                                     
+
+ELECTRA  
+ I live in his house, far from the city.  
+
+ORESTES  
+ This is a house fit for a ditch digger  
+ or for a herdsman.  
+
+ELECTRA  
+ He’s poor but decent,  
+ and he respects me.  
+
+ORESTES  
+ Your husband’s respect—  
+ what does that mean?  
+
+ELECTRA  
+ Never once has he dared to fondle me in bed.  
+
+ORESTES  
+ Does he hold back  
+ from some religious scruple, or does he think  
+ you’re unworthy of him?  
+
+ELECTRA  
+ No. He believes  
+ it’s not right to insult my ancestors.  
+
+ORESTES  
+ But how could he not be overjoyed  
+ at making such a marriage?  
+
+ELECTRA  
+ Well, stranger,  
+ he thinks the person who gave me away  
+ had no right to do it.  
+
+ORESTES  
+ I understand.                                  
+ He fears that someday he’ll be punished  
+ by Orestes.  
+
+ELECTRA  
+ He is afraid of that, but he’s a virtuous man, as well.          
+
+ORESTES  
+ Ah yes,  
+ you’ve been talking of a noble man  
+ who must be treated well.  
+
+ELECTRA  
+ Yes, if the man  
+ who’s far away from here right now comes back.  
+
+ORESTES  
+ And your mother, the one who bore you,  
+ how did she take this?  
+
+ELECTRA  
+ Women give their love  
+ to their husbands, stranger, not their children.  
+
+ORESTES  
+ Why did Aegisthus shame you in this way?  
+
+ELECTRA  
+ By giving me to such a man, he planned  
+ the children I produced would not be strong.                         
+ORESTES  
+ Clearly so that you would not bear children  
+ who could take revenge?  
+
+ELECTRA  
+ Yes, that’s his plan.  
+ I hope he’ll have to make that up to me!  
+
+ORESTES  
+ You’re a virgin—does your mother’s husband know?                       
+
+ELECTRA  
+ No. We hide that from him with our silence.  
+
+ORESTES  
+ These women listening to what we’re saying  
+ are friends of yours?  
+
+ELECTRA  
+ Yes. They’ll keep well concealed  
+ my words and yours.  
+
+ORESTES  
+ If he came to Argos  
+ what could Orestes do in all of this?  
+
+ELECTRA  
+ You have to ask? What a shameful question! Isn’t now a crucial time?  
+
+ORESTES  
+ When he comes,  
+ how should he kill his father’s murderers?  
+
+ELECTRA  
+ By daring what my father’s enemies  
+ dared to do to him.  
+
+ORESTES  
+ And would you dare  
+ to help him kill your mother?  
+
+ELECTRA  
+ Yes, I would—  
+ with the very axe that killed our father!  
+
+ORESTES  
+ Shall I tell him this? Are you quite certain?                                     
+
+ELECTRA  
+ Once I’ve shed my mother’s blood, let me die!  
+
+ORESTES  
+ Ah, if only Orestes were close by  
+ and could hear this!  
+
+ELECTRA  
+ Stranger, if I saw him, I would not know him.  
+
+ORESTES  
+ That’s not surprising.  
+ You were youngsters when you separated.  
+
+ELECTRA  
+ Only one of my friends would recognize him.  
+
+ORESTES  
+ The man who they say saved him from murder  
+ by stealing him away?  
+
+ELECTRA  
+ Yes. An old man—  
+ my father’s servant long ago.  
+
+ORESTES  
+ Your father—  
+ when he died, did he get a burial tomb?  
+
+ELECTRA  
+ Once he’d been thrown out of the house,  
+ he found what he could find.  
+
+ORESTES  
+ Alas! Those words of yours . . .                          
+ Awareness even of a stranger’s pains gnaws away at mortal men. Tell me this—  
+ once I know, I can carry to your brother  
+ the joyless story which he has to hear.  
+ Pity does not exist with ignorance,  
+ only with those who know. Too much knowledge  
+ is not without its dangers for wise men.  
+
+CHORUS LEADER  
+ My heart’s desires are the same as his.  
+ Out here, far from the city, I don’t know  
+ the troubles there. Now I want to hear them.  
+
+ELECTRA  
+ I will speak out, if that’s acceptable—  
+ and it is appropriate to talk with friends  
+ about the burden of my situation  
+ and my father’s. And I beg you, stranger,  
+ since you’ve the one who prompted me to speak,  
+ tell Orestes of our troubles, mine and his.  
+ First of all, there’s the sort of clothes I wear,  
+ kept here in a stall, weighed down with filth.  
+ Then there’s the style of house I’m living in,  
+ now I’ve been thrown out of my royal home.  
+ I have to work hard at the loom myself to make my clothes or else I’d have to go  
+ with my body naked—just do without,  
+ bringing water from the springs all by myself,  
+ with no share in the ritual festivals,                                                  
+ no place in the dance. Since I’m a virgin,  
+ I keep married women at a distance  
+ and felt shamed by Castor, who courted me,  
+ his relative, before he joined the gods. [^note-208]  
+ Meanwhile my mother sits there on her throne,  
+ with loot from Phrygia and Asian slaves, my father’s plunder, standing by her chair,  
+ their Trojan dresses pinned with golden brooches.  
+ My father’s blood still stains the palace walls—  
+ it’s rotted black—while the man who killed him  
+ climbs in my father’s chariot and drives out,                                     
+ proud to brandish in his blood-stained hands  
+ the very sceptre which my father used  
+ to rule the Greeks. Agamemnon’s grave  
+ has not been honoured. It’s had no libations,  
+ no myrtle branch, its altar unadorned. But this splendid husband of my mother,  
+ so they say, when he’s soaking wet with drink,  
+ jumps on the grave and starts pelting pebbles  
+ at the stone memorial to my father,  
+ and dares to cry out these words against us:
+“Where’s your son Orestes? Is he present                                        
+ to fight well for you and defend this tomb?”  
+ And so absent Orestes is insulted.  
+ But I beg you, stranger, take back this news.  
+ Many are summoning him—I speak for them— my hands and tongue, my grief-stricken heart,  
+ my shaven head, and Agamemnon, too.  
+ It would be disgraceful if his father  
+ could destroy the Phrygians and yet he,  
+ one against one, could not destroy a man,  
+ when he’s young and from a nobler father.  
+
+[Enter the Peasant, returning from the fields]  
+
+CHORUS LEADER  
+ Look! I see a man—I mean your husband—  
+ he’s left his work. He’s coming to the house.                                   
+
+PEASANT  
+ Hold on. Who are these strangers I see there,  
+ at the door? And why have they come here, to a farmer’s gate? What do they want from me?  
+ It’s shameful for a woman to be standing  
+ with young men.  
+
+ELECTRA  
+ My dear friend, don’t suspect me.  
+ You’ll hear what’s going on. These strangers  
+ have come here from Orestes—they’re messengers  
+ with news for me. But forgive him, strangers,  
+ for those words he said.  
+
+PEASANT  
+ What are they saying?  
+ Is the man still gazing at the daylight?  
+
+ELECTRA  
+ That’s what they say, and I believe their news.                                
+
+PEASANT  
+ Does he still recall your father’s troubles and your own?  
+
+ELECTRA  
+ We can hope about those things,  
+ but a man in exile has no power.  
+
+PEASANT  
+ What message from Orestes did they bring  
+ when they came here?  
+
+ELECTRA  
+ He sent them out as spies  
+ to look into my troubles.  
+
+PEASANT  
+ They’re seeing some,  
+ and I suppose you’re telling them the rest.  
+
+ELECTRA  
+ They know—there’s no shortage of them.  
+
+PEASANT  
+ Surely we should have opened up our doors  
+ long before this point. Go inside the house.  
+ In exchange for your good news, you’ll find the hospitality my house affords.  
+ You servants, take the stuff inside the house.                                  
+ Do not refuse me—you are friends of ours  
+ and you’ve come from someone who’s a friend.  
+ Even if I’m poor, I will not behave  
+ like someone with an ill-bred character.  
+
+ORESTES  
+ By the gods, is this the man pretending  
+ you and he are married, who does not wish  
+ to bring dishonour to Orestes?  
+
+ELECTRA  
+ He is—  
+ he’s the one who in my miserable state they call my husband.  
+
+ORESTES  
+ Well, nothing is precise  
+ when it comes to how a man is valued—  
+ men’s natures are confusing. Before this,  
+ I’ve seen a man worth nothing, yet he had                                      
+ a noble father, and evil parents  
+ with outstanding children. I’ve seen famine  
+ in a rich man’s thinking and great spirit  
+ in a poor man’s body. So how can we  
+ sort out these things and judge correctly?  
+ By riches? That would be a wretched test. By those who have nothing? But poverty  
+ is a disease. Through need it teaches men  
+ to act in evil ways. So should I turn  
+ to warfare? But when facing hostile spears,  
+ who can testify which men are virtuous?  
+ Best to dismiss such things, leave them to chance.  
+ This man is not great among the Argives,  
+ nor puffed up by his family’s reputation.  
+ He’s one of the crowd, yet has proved himself  
+ an excellent man. So stop your foolishness, those of you who keep wandering around  
+ full of misguided ways of measuring worth.  
+ Why not judge how valuable men are  
+ by their behaviour and their company?  
+ Men like this one govern homes and cities well,  
+ while those with muscles and with vacant minds  
+ are mere decorations in the market place.  
+ In fights with spears the strong arm holds its ground  
+ no better than the weak one does—such things  
+ depend on a man’s nature and his courage.  
+ But because the man who is both absent  
+ and yet present here is worthy of it—  
+ I mean Agamemnon’s son, for whose sake  
+ we’ve come here—let’s accept the lodging  
+ in this home. You slaves, go inside the house.  
+ May a poor but willing man be my host  
+ rather than a man with wealth. I applaud  
+ how this man has received me in his home,  
+ although I could have hoped your brother,  
+ enjoying prosperity, might lead me in to a successful house. Perhaps he’ll come.  
+ The oracles of Loxias are strong.  
+ But I dismiss mere human prophecy. [^note-209]  
+  
+[Pylades, Orestes, and their servants go into the house]  
+
+CHORUS LEADER  
+ Now, Electra, our hearts are warm with joy—  
+ more than they were before. Your fortunes  
+ may perhaps advance, although that’s difficult,  
+ and end up standing in a better place.  
+
+ELECTRA  
+ Reckless man, you know how poor your house is—  
+ why did you offer your hospitality  
+ to people so much greater than yourself?                                
+PEASANT  
+ What’s wrong? If they’re as well bred as they seem,  
+ won’t they be just as happy with small men  
+ as with the great?  
+
+ELECTRA  
+ Well, you’re one of the small—  
+ and since you’ve now committed this mistake,  
+ go to that dear old servant of my father’s.  
+ He’s been expelled from town and tends his flocks  
+ by the Tanaus river, which cuts a line                                              
+ between lands of Argos and of Sparta.  
+ Tell him this—now these people have arrived,  
+ he must come and provide our guests some food. He’ll be happy to do that and offer 
+ prayers up to the gods, after he finds out  
+ the child he rescued once is still alive.  
+ From my mother and my ancestral home  
+ we’d get nothing—we’d bring them bitter news  
+ if that cruel-hearted woman were to learn  
+ Orestes is still living.  
+
+PEASANT  
+ All right then,  
+ I’ll take that message to the old man,                                              
+ if that’s what you think. But you should go  
+ inside the house as soon as possible to get things ready there. If she want to,  
+ surely a woman can find many things  
+ to make into a meal. Within the house  
+ there’s still enough to fill them up with food  
+ for one day at least. It’s at times like this  
+ when my thoughts can’t sort out how to manage,  
+ I think of the great power money has  
+ for giving things to strangers and paying  
+ to save a body whenever it falls sick.  
+ The food we need each day doesn’t come to much, and, rich or poor, all men eat their fill                                              
+ with the same amount of food.  
+
+[The Peasant and Electra move into the house, leaving the Chorus alone on stage]  
+
+CHORUS  
+ You famous ships which once sailed off to Troy  
+ to the beat of countless oars,  
+ leading the Nereids in their dance,  
+ while the flute-loving dolphin leapt  
+ and rolled around your dark-nosed prows,  
+ conveying Achilles, Thetis’s son,  
+ whose feet had such a nimble spring,  
+ and Agamemnon, too, off to Troy,  
+ to the river banks of the Simois. [^note-210]  
+
+ Leaving Euboea’s headland points,  
+ Nereids carried from Hephaestus’ forge 
+ his labours on the golden shield and armour,  
+ up to Pelion, along the wooded slopes  
+ of sacred Ossa, where the nymphs keep watch,  
+ and searched those maidens out,  
+ in places the old horseman trained 
+ sea-dwelling Thetis’ son                                                                    
+ to be a shining light for Hellas, swift runner for the sons of Atreus. [^note-211]  
+
+ I heard from a man who’d come from Troy  
+ and reached the harbour in Nauplia  
+ that on the circle of your splendid shield,  
+ O son of Thetis, were these images,  
+ a terror to the Phyrgians—  
+ on the rim around the edge  
+ was Perseus in his flying sandals                                                      
+ holding up above the sea  
+ the Gorgon’s head and severed throat, accompanied by Zeus’ messenger  
+ Hermes, Maia’s country child. [^note-212]  
+
+ In the centre of the shield 
+ the circle of the sun shone out  
+ with his team of winged horses.  
+ In the heavens stars were dancing,  
+ the Pleides and Hyades,  
+ a dreadful sight for Hector’s eyes.  
+ On his helmet made of hammered gold                                           
+ in their talons sphinxes clutched their prey seduced by song.  
+ And on the breastplate breathing fire  
+ a lioness with claws raced at top speed  
+ eying a young horse of Pirene. [^note-213]  
+
+ And on his murderous sword 
+ four horses galloped—above their backs  
+ clouds of black dust billowed.  
+ Evil-minded daughter of Tyndareus,                                                
+ your bed mate killed the king  
+ of spear-bearing warriors like these. And for that death the heavenly gods  
+ will one day pay you back with death.  
+ Yes, one day I will see your blood,  
+ a lethal flow beneath your throat,  
+ sliced through with sword of iron.  
+
+[Enter the Old Man. Electra comes out of the house during his speech]  
+
+OLD MAN  
+ So where is she? Where is my young lady,  
+ my mistress—the child of Agamemnon,  
+ whom I once raised? How steep this path is  
+ up to her place for a withered old man                                            
+ going uphill on foot! Still, they are my friends, so I must drag my doubled-over spine  
+ and tottering legs up here. O my daughter—  
+ now I can see you there before the house—  
+ I’ve come bringing here from my own livestock  
+ this newborn lamb taken from its mother, 
+ garlands, cheeses I got from the barrel,  
+ and this ancient treasure from Dionysus—  
+ it smells so rich! There’s not much of it, 
+ but still it’s sweet to add a tankard of it  
+ to a weaker drink. Go now. Let someone take these things for guests inside the house.                                 
+ I want to use a rag, a piece of clothing,  
+ to wipe my eyes. I’ve drenched them with weeping.  
+
+ELECTRA  
+ Why are your eyes so soaking wet, old man?  
+ I’m not reminding you about our troubles  
+ after all this time? Or are you moaning  
+ about Orestes in his wretched exile  
+ and about my father, whom you once held  
+ in your arms and raised, though your friends and you  
+ derived no benefits from it?  
+
+OLD MAN  
+ That’s right— it didn’t help us. But still, there’s one thing  
+ I could not endure. So I went to his tomb,  
+ a detour on the road. I was alone,                                                    
+ so I fell down and wept, then opened up  
+ the bag of wine I’m bringing for the guests,  
+ poured a libation, and spread out there  
+ some myrtle sprigs around the monument.  
+ But then I saw an offering on the altar,  
+ a black-fleeced sheep—there was blood as well,  
+ shed not long before, and some sliced off curls, locks of yellow hair. My child, I wondered  
+ what man would ever dare approach that tomb.  
+ It surely wasn’t any man from Argos.  
+ Perhaps you brother has come back somehow,  
+ in secret, and as he came, paid tribute  
+ to his father’s tomb. You should go inspect                                     
+ the lock of hair, set it against your own—  
+ see if the colour of the severed hair  
+ matches yours. Those sharing common blood  
+ from the same father will by nature have many features which are very similar.  
+
+ELECTRA  
+ What you’ve just said, old man, is not worth much.  
+ You’ve no sense at all, if you think my brother,  
+ a brave man, would sneak into this country  
+ in secret, because he fears Aegisthus.  
+ And how can two locks of hair look alike,  
+ when one comes from a well-bred man and grew  
+ in wrestling schools, whereas the other one  
+ was shaped by woman’s combing? That’s useless.  
+ Old man, with many people you could find  
+ hair which looked alike, although by birth  
+ they’re not the same.  
+
+OLD MAN  
+ Then stand in the footprint,  
+ my child, and see if the impression there  
+ is the same size as your foot.  
+
+ELECTRA  
+ How could a foot  
+ make any imprint on such stony ground?  
+ And even if it could, a brother’s print  
+ would not match his sister’s foot in size.  
+ The man’s is bigger.  
+
+OLD MAN  
+ If your brother’s come,  
+ isn’t there a piece of weaving from your loom  
+ by which you might know his identity? What about the weaving he was wrapped in  
+ when I rescued him from death?                                                      
+
+ELECTRA  
+ Don’t you know  
+ at the time Orestes left this country  
+ I was still young? And if I’d made his clothes  
+ when he was just a child, how could he have  
+ the same ones now, unless the robes he wore  
+ increased in size as his body grew? No.  
+ Either some stranger, pitying the grave,  
+ cut his hair, or someone slipped past the guard. [^note-214]  
+  
+OLD MAN  
+ Where are your guests? I’d like to see them and ask about your brother.  
+
+[Orestes and Pylades come out of the house]  
+
+ELECTRA  
+ Here they are—  
+ coming outside in a hurry.  
+
+OLD MAN  
+ They’re well born,                                    
+ but that may be misleading. Many men  
+ of noble parentage are a bad lot.  
+ But still I’ll say welcome to these strangers.  
+
+ORESTES 
+ Welcome to you, old man. So, Electra,  
+ this ancient remnant of a man—to whom  
+ among your friends does he belong?  
+
+ELECTRA  
+ Stranger,  
+ this man is the one who raised my father.  
+
+ORESTES  
+ What are you saying? Is this the man who stole away your brother?  
+
+ELECTRA  
+ He’s the one  
+ who rescued him, if he’s still alive.  
+
+ORESTES  
+ Wait!  
+ Why’s he inspecting me, as if checking  
+ some clear mark stamped on a piece of silver?  
+ Is he comparing me with someone?  
+
+ELECTRA  
+ It could be he’s happy looking at you                                               
+ as someone who’s a comrade of Orestes.  
+
+ORESTES  
+ Well, yes, Orestes is a friend of mine,  
+ but why’s he going in circles round me?  
+
+ELECTRA  
+ Stranger, as I watch him, I’m surprised as well.                       
+OLD MAN  
+ O my daughter Electra, my lady—  
+ pray to the gods.  
+
+ELECTRA  
+ What should I pray for,  
+ something here or something far away?  
+
+OLD MAN  
+ To get yourself a treasure which you love,  
+ something the god is making manifest.  
+
+ELECTRA  
+ Watch this then. I’m summoning the gods.  
+ Is that what you mean, old man?  
+
+OLD MAN  
+ Now, my child,  
+ look at this man, the one you love the most.  
+
+ELECTRA  
+ I’ve been observing for a long time now  
+ to see if your mind is working as it should.                             
+OLD MAN  
+ I’m not thinking straight if I see your brother?  
+
+ELECTRA  
+ What are you talking about, old man,                                              
+ making such an unexpected claim?  
+
+OLD MAN  
+ I’m looking at Orestes, Agamemnon’s son.  
+
+ELECTRA  
+ What mark do you see which will convince me?  
+
+OLD MAN  
+ A scar along his eyebrow. He fell one day  
+ and drew blood. He was in his father’s house  
+ chasing down a fawn with you.  
+
+ELECTRA  
+ What are you saying?  
+ I do see the mark of that fall. . . . 
+
+OLD MAN  
+ Then why delay  
+ embracing the one you love the most?                                    
+ELECTRA  
+ No. I’ll no longer hesitate—my heart  
+ has been won over by that sign of yours.  
+
+[Electra moves over to Orestes and they embrace]  
+
+ELECTRA  
+ You’ve appeared at last. I’m holding you . . . 
+ beyond my hopes.  
+
+ORESTES  
+ After all this time,  
+ I’m embracing you.  
+
+ELECTRA  
+ I never expected this.                                           
+
+ORESTES  
+ This was something I, too, could not hope for.  
+
+ELECTRA  
+ Are you really him?  
+
+ORESTES  
+ Yes. Your sole ally.  
+ If in my net I can catch the prey I’m after . . . 
+ But I’m confident. For if wrongful acts  
+ overpower justice, then no longer should we put any faith in gods.  
+
+CHORUS  
+ You’ve come, ah, you’ve come,  
+ this day we’ve waited for so long.  
+ You’ve shone out and lit a beacon  
+ for the city, the man who long ago  
+ went out in exile from his father’s house  
+ to roam around in misery.  
+ Now a god, my friend, some god                                                      
+ brings victory. Lift up your hands,  
+ lift up your words, send prayers up to the gods for your success,  
+ good fortune for your brother  
+ as he goes in the city.  
+
+ORESTES  
+ Well, I’ve had the loving joys of welcome.  
+ In time I’ll give them back to you again.  
+ You, old man, you’ve come at a good time.  
+ Tell me this—what should I do to repay  
+ my father’s murderer and my mother,  
+ his partner in this sacrilegious marriage?  
+ Do I have any friends who’ll help in Argos?  
+ Or are they all gone, just like my fortune?  
+ Who can I make my ally? Do we meet  
+ during the day or at night? What pathway  
+ do I turn towards to fight my enemies?  
+
+OLD MAN  
+ My child, in your bad times you’ve got no friends.  
+ It’s a great benefit to find someone  
+ who’ll share with you the good times and the bad.  
+ But since, as far as your friends can see,  
+ you and the foundations of your house have been wiped out completely and you’ve left  
+ no hope for them, then pay attention to me.  
+ Know this—the only things which you possess                                
+ to win back your father’s home and city  
+ are your own hands and your good fortune.  
+
+ORESTES  
+ What then should I do to succeed in this?  
+
+OLD MAN  
+ Kill Thyestes’ son and your own mother. [^note-215]  
+
+ORESTES  
+ That’s the crown of victory I’m after.  
+ But how do I get my hands on it?  
+
+OLD MAN  
+ Well, even if you want to try it, don’t go inside the walls.  
+
+ORESTES  
+ Is he well supplied  
+ with garrison troops and bodyguards?  
+
+OLD MAN  
+ Yes, he is.  
+ He’s afraid of you and does not sleep well.  
+
+ORESTES  
+ Well, old man, you must give me some advice  
+ about what happens next.  
+
+OLD MAN  
+ Then listen to me. 
+ A thought has just occurred to me.  
+
+ORESTES  
+ I hope you come up with something good                                       
+ which I can understand.  
+
+OLD MAN  
+ While coming here,  
+ I saw Aegisthus.  
+
+ORESTES  
+ I’ll accept those words.  
+ Where was he? [^note-216]  
+
+OLD MAN  
+In the fields close to his stables.  
+
+ORESTES  
+ What was he doing? I can see some hope  
+ emerging from our desperate circumstances.  
+
+OLD MAN  
+ He was setting up a banquet for the Nymphs—  
+ that’s what it seemed to me.  
+
+ORESTES  
+ But was it for  
+ a child that’s now being raised or some new birth? [^note-217]  
+
+OLD MAN  
+ I only know one thing—there was an ox.  
+ He was preparing it for sacrifice.  
+
+ORESTES  
+ How many men did he have there with him?  
+ Or was he by himself with his attendants?  
+
+OLD MAN  
+ No Argives, only a group of servants.                                       
+ORESTES  
+ Old man, there isn’t anybody there                                                  
+ who’ll know me if he sees me, is there?  
+
+OLD MAN  
+ They’re slaves who have never set eyes on you.  
+
+ORESTES  
+ If we prevail, will they be on our side?  
+
+OLD MAN  
+ Yes. That’s what slaves are like. You’re lucky.  
+
+ORESTES  
+ How do I get close to him?  
+
+OLD MAN  
+ You should walk  
+ where he can see you as he sacrifices.  
+
+ORESTES  
+ So apparently his fields are by the road?  
+
+OLD MAN  
+ Yes. When he catches sight of you from there,  
+ he’ll summon you to join the feast.  
+
+ORESTES  
+ With god’s will, I’ll make a bitter fellow banqueter. 
+
+OLD MAN  
+ From there on you must sort things out yourself,  
+ whatever happens.  
+
+ORESTES  
+ A shrewd observation.  
+ What about my mother? Where is she?                                           
+
+OLD MAN  
+ In Argos. She’ll join her husband at the feast.  
+
+ORESTES  
+ Why did my mother not leave with her husband?  
+
+OLD MAN  
+ She stayed behind because she was afraid  
+ the citizens would criticize her.  
+
+ORESTES  
+ I see.  
+ She knows the city is suspicious of her.  
+
+OLD MAN  
+ That’s right. People hate a profane woman.  
+
+ORESTES  
+ How do I kill them both at the same time?  
+
+ELECTRA  
+ I’ll set up mother’s murder on my own.  
+
+ORESTES  
+ Good fortune will bring us success in this.  
+
+ELECTRA  
+ Let the old man give both of us some help.  
+
+ORESTES 
+ All right. But how will you devise a way                                           
+ to kill our mother?  
+
+ELECTRA  
+ Old man, you must go  
+ and report this news to Clytaemnestra—  
+ say I have given birth, and to a son.  
+
+OLD MAN  
+ Born some time ago or quite recently?  
+
+ELECTRA  
+ Before my quarantine, ten days ago. [^note-218]  
+
+OLD MAN  
+ How does this advance your mother’s murder?  
+
+ELECTRA  
+ When she learns I’ve been through birthing pains,  
+ she’ll come here.  
+
+OLD MAN  
+ Why would she do that? My child,  
+ do you think she cares for you?  
+
+ELECTRA  
+ Yes. And she’ll weep  
+ because my child is born so common.  
+
+OLD MAN  
+ Perhaps.  
+ But come back to the point of what you’re saying.  
+
+ELECTRA  
+ If she comes, then clearly she’ll be killed.                                        
+
+OLD MAN  
+ Well, she’ll come to your house, right to the door.  
+
+ELECTRA  
+ So it won’t take much for her to turn aside  
+ and go to Hades, will it?  
+
+OLD MAN  
+ Once I see that, then let me die!  
+
+ELECTRA  
+ But first of all, old man, 
+ you must lead my brother . . . .  
+
+OLD MAN  
+ To where Aegisthus 
+ is now offering gods his sacrifice.  
+
+ELECTRA  
+. . . then go to my mother. Tell her my news.  
+
+OLD MAN  
+ I’ll do it so the very words will seem 
+ as if they came from your own mouth.  
+
+ELECTRA [to Orestes]  
+ Now it’s up to you. You’ve drawn first lot  
+ in this murder sweepstakes.  
+
+ORESTES  
+ Then I’ll be off, 
+ if someone will lead me to the road. 
+
+OLD MAN  
+ I’m quite willing to take you there myself.  
+
+ORESTES  
+ O Father Zeus, scatter my enemies . . . .  
+
+ELECTRA  
+ Pity us—we’ve suffered pitifully.  
+
+OLD MAN  
+ Yes, have pity on them, your descendants.  
+
+ELECTRA  
+ And Hera, who rules Mycenae’s altars . . . 
+
+ORESTES  
+ Give us victory, if what we seek is just.  
+
+OLD MAN  
+ Yes, give them justice to avenge their father.  
+
+ORESTES  
+ You, too, father, living beneath the earth  
+ through an unholy slaughter.  
+
+ELECTRA  
+ And lady Earth,  
+ whom I strike with my hands.  
+
+OLD MAN  
+ Defend these two.  
+ Defend these children whom you love the most.                    
+ORESTES  
+ Come now, with all the dead as allies.  
+
+ELECTRA  
+ Those who in that war and by your side  
+ destroyed the Phrygians.  
+
+OLD MAN  
+ And all those  
+ who hate the sacrilegious and profane.  
+
+ELECTRA  
+ Are you listening, those of you who suffered  
+ such terrors at the hand of my own mother?  
+
+OLD MAN  
+ Your father hears it all, I know. Time to go.  
+
+ELECTRA [to Orestes]  
+ He knows everything. You must be a man. [^note-219]  
+ And I’ll tell you this—Aegisthus has to die.  
+ If in the struggle with him you fall dead, then I die as well. Do not think of me  
+ as still alive. I’ll take my two-edged sword  
+ and slice into my heart. I’ll go inside  
+ and get things ready. If you send good news  
+ the whole house will ring with cries of triumph.  
+ But if you die, things will be different.  
+ These are my words to you.  
+
+[Orestes, Pylades, the Old Man, and the attendants leave. Electra turns to face the Chorus]  
+
+ELECTRA  
+ And you women,  
+ give a good shout to signal this encounter.  
+ I’ll be ready waiting, gripping a sword.  
+ If I’m defeated, I’ll never submit, surrendering to my enemies the right 
+ to violate my body. 
+
+[Electra goes back into the house]  
+
+CHORUS  
+ Among our ancient stories,  
+ there remains a tale how Pan,  
+ keeper of the country side,                                                               
+ breathing sweet-toned music  
+ on his harmonious flute,  
+ once led a golden lamb  
+ with the fairest fleece of all  
+ from its tender mother in the hills of Argos.  
+ Standing on the platform stone  
+ a herald with a loud voice cried,  
+“Assemble now, you Mycenaeans,  
+ move into assembly, and see there  
+ the terrifying and marvelous things  
+ belonging to your blessed kings.”  
+ So choruses gave out their tributes  
+ to the House of Atreus.  
+
+ Altars of hammered gold were dressed, while in the city fires blazed  
+ with Argive sacrifice—a flute,  
+ the Muses’ servant, piped graceful notes,  
+ and seductive melodies arose  
+ in honour of the golden lamb,  
+ which now belonged to Thyestes.  
+ He’d secretly talked into bed                                                            
+ the well-loved wife of Atreus.  
+ then carries home the marvellous prize,  
+ and, going to the assembly, says he now possesses in his house  
+ the horned sheep with its fleece of gold. [^note-220]  
+
+ But then, at that very moment,  
+ Zeus changed the paths  
+ of all the shining stars,  
+ the radiant glory of the sun,  
+ and dawn’s bright shining face.                                                        
+ Across the western reaches of the sky  
+ he drove hot flames from heaven.  
+ Rain clouds moved up to the north, so Ammon’s lands were dry—  
+ all withered up, deprived by Zeus  
+ of his most lovely showers of rain. [^note-221]  
+
+ People speak about these tales,  
+ but in such things my faith is small—  
+ that the sun’s hot throne of gold                                                      
+ turned round, to punish human beings,  
+ in a cause involving mortal men.  
+ But tales which terrify mankind  
+ are profitable and serve the gods.  
+ When you destroyed your husband  
+ your mind was unconcerned with them,  
+ you sister of such glorious brothers. [^note-222]  
+
+CHORUS LEADER  
+ Wait! Hold on! Did you hear a shout, my friends?  
+ Or has some vain notion overtaken me,  
+ like Zeus’ rumbling underneath the ground?  
+ Look, breezes are coming up—that’s a sign.  
+ My lady, come out of the house! Electra!                                         
+
+[Electra comes out of the house]  
+
+ELECTRA  
+ What is it, my friends? How are we faring  
+ in the struggle? 
+
+CHORUS LEADER  
+ There’s only one thing I know— I heard the scream of murder. 
+
+ELECTRA  
+ I heard it, too.  
+ It came from far away, but I could hear it.  
+
+CHORUS LEADER  
+ Yes, a long way off, but it was clear.  
+
+ELECTRA  
+ Was it someone from Argos moaning,  
+ or some of my friends?  
+
+CHORUS LEADER  
+ I’ve no idea.  
+ People are shouting. Things are all confused.  
+
+ELECTRA  
+ What you say means my death. Why do I delay?  
+
+CHORUS LEADER  
+ Hold on until you clearly know your fate.  
+
+ELECTRA  
+ No. We’re beaten. Where are the messengers?  
+
+CHORUS LEADER  
+ They’ll be here. It’s no trivial matter  
+ to assassinate a king.  
+
+[Enter a Messenger on the run]  
+
+MESSENGER  
+ O you victorious daughters of Mycenae, 
+ I can report to all Orestes’ friends  
+ that he has triumphed, and now Aegisthus,  
+ Agamemnon’s murderer, has fallen.  
+ But we must offer prayers up to the gods.  
+
+ELECTRA  
+ Who are you? How can I trust what you’ve just said?  
+
+MESSENGER  
+ Don’t you know me on sight—your brother’s servant.  
+
+ELECTRA  
+ You best of friends! I was too full of fear  
+ to recognize your face. But now I know you. What are you saying? Has that hateful man,  
+ my father’s murderer, been killed?  
+
+MESSENGER  
+ He’s dead.                                  
+ I’ve given you the same report twice now.  
+ Obviously you like the sound of it.  
+
+ELECTRA  
+ O you gods, and all-seeing Justice,  
+ you’ve come at last. How did Orestes kill  
+ Thyestes’ son? What was the murder like?  
+ I want to know.  
+
+MESSENGER  
+ After we’d left this house,  
+ we walked along the two-tracked wagon path  
+ to where Mycenae’s famous king might be. He happened to be walking in his garden,  
+ a well-watered place, cutting soft myrtle shoots  
+ to place in his own hair. When he saw us,  
+ he called out,  
+“Greetings, strangers. Who are you?                          
+ Where are you from? What country is your home?”
+ Orestes said, “We are from Thessaly,  
+ on our way to the Alpheus river,  
+ to offer sacrifice to Olympian Zeus.”  
+ After hearing that, Aegisthus answered,  
+“You must be my guests, share this feast with us. It so happens I’m now offering an ox,  
+ sacrificing to the Nymphs. If you get up  
+ out of bed at dawn, you’ll be no worse off.  
+ So come, let’s go inside the house.”  
+Saying this,  
+ he grabbed our arms and led us off the road,  
+ insisting that we must not turn him down.  
+ Once we were inside the house, he said,                                          
+“Let someone bring in water right away,  
+ so these guests can stand around the altar  
+ by the basin where they purify their hands.”  
+But Orestes said, “We’ve just cleansed ourselves  
+ in pure water from a flowing river.  
+ If strangers must join with the citizens  
+ in making sacrifice, then, Aegisthus,  
+ we are ready and will not refuse, my lord.”  
+ Those were the words they spoke in public.  
+ The slaves guarding my master with their spears  
+ set them aside, and they all lent a hand  
+ to do the work, some bringing in the bowl                                        
+ to catch the blood, others fetching baskets, still others kindling fire and setting basins  
+ around the hearth. The whole house echoed.  
+ Then your mother’s consort took barley grain,  
+ sprinkled it across the altar, and said,  
+“Nymphs of the rocks, may I and my wife,  
+ Tyndareus’ daughter, in our home  
+ offer frequent sacrifice, enjoying success,  
+ as we do now, and may my enemies  
+ do badly”—he meant you and Orestes.  
+ My master prayed for quite the opposite, not saying the words aloud, so he might win  
+ his ancestral home. Then from a basket                                           
+ Aegisthus took a sacrificial knife,  
+ sliced off some of the calf’s hair, and set it  
+ with his right hand on the sacred fire.  
+ His servants raised the calf onto their shoulders,  
+ he cut its throat and spoke out to your brother,  
+“People claim this about men from Thessaly—  
+ they’re exceptional at butchering bulls  
+ as well as taming horses. So, stranger, take this knife and demonstrate to us  
+ if that report about Thessalians is true.”  
+ Orestes gripped the well-made Dorian knife,               
+ tossed from his shoulders his fine-looking cloak,                              
+ and chose Pylades to help him in the work.  
+ Pushing slaves aside, he took the calf’s hoof,  
+ and, stretching out his arms, cut open  
+ the beast’s white flesh and then stripped off the hide  
+ faster than any runner could complete  
+ two circuits on a track for racing horses. He opened up the flanks, and Aegisthus  
+ picked up the sacred entrails in his hands  
+ to have a look at them. But on the liver  
+ the lobe was missing. There were signs of damage  
+ which the man inspecting them could see 
+ close to the gall bladder and the portal vein. 
+ Aegisthus was upset. My master asked,                                           
+“Why are you upset?” “Stranger,” he replied,  
+“what I’m afraid of is foreign treachery.  
+ Most of all I hate Agamemnon’s son, an enemy of my house.”  
+My master said,  
+“Do you really fear an exile’s trickery,  
+ you, lord of the city? Let someone bring me,  
+ a Phthian axe to replace this Doric knife  
+ and let me split apart the breast bone,  
+ so we can feast upon the inner organs.”  
+ He took the axe and struck. Then Aegisthus  
+ picked up and separated out the innards  
+ and peered at them. As he was bending down,  
+ your brother, standing on tip toe, hit him  
+ on the spine and cut through his vertebrae.  
+ His whole body went into convulsions,  
+ shaking up and down, and he kept screaming,  
+ he was dying in his own blood, a brutal death.  
+ The servants saw and rushed to get their spears  
+ for a fight of many men against just two.  
+ But Pylades and Orestes stood there,  
+ brandishing their weapons with great courage.  
+ Then my master said,  
+“I have not come here  
+ as an enemy, not to the city or my servants, but to avenge myself  
+ on the man who murdered my own father.  
+ I am unfortunate Orestes. You men,                                                
+ old servants of my father, don’t kill me.”  
+ After the servants heard Orestes’ words,  
+ they pulled back their spears. Then an old man  
+ who’d been a long time in the household  
+ recognized him. At once they placed a wreath  
+ on your brother’s head, shouting and rejoicing,  
+ and he’s coming here carrying a head to show it to you—not the Gorgon’s head,  
+ but from the person you so hate, Aegisthus.  
+ So the bitter debt of murderous bloodshed  
+ is paid by the man who’s just been slaughtered.  
+
+[The Messenger leaves]  
+
+CHORUS  
+ O my friend, set your feet to dancing,  
+ leaping nimbly up to heaven with joy.                                              
+ Your brother has emerged victorious  
+ and now he’s won himself a crown,  
+ in a competition surpassing those  
+ which happen by Alpheus’ streams. [^note-223]  
+ Come, as I perform my dance  
+ sing out a song of glorious victory.  
+
+ELECTRA  
+ O light! O blazing chariot of the sun!  
+ O earth and night whom I gazed at before!  
+ I’ve freedom now to open up my eyes—  
+ Aegisthus, the man who killed my father,  
+ is fallen. Come, my friends, let’s bring out                                       
+ whatever I keep stored up in the house  
+ as decorations for my brother’s hair.  
+ I’ll make a crown for his triumphant head.                              
+CHORUS  
+ Bring on your decorations for his head.  
+ and we’ll keep up the dance the Muses love.  
+ Now those dear kings we had before  
+ will rule this land of ours with justice.  
+ They’ve cast down those who broke our laws.  
+ So let’s sing out in joyful harmony. 
+
+[Orestes and Pylades enter with their attendants, who are carrying the body of Aegisthus]  
+
+ELECTRA  
+ O Orestes, you glorious conqueror,                                                  
+ born from a father who was victorious  
+ in the war at Troy. Take these ribbons  
+ for your locks of hair. You’ve come back home, and your run around the stadium racetrack  
+ has not been in vain. You’ve killed Aegisthus,  
+ the man who killed our father, yours and mine,  
+ our enemy. And you, who stood by him,  
+ Pylades, reared by a pious father,  
+ receive from my own hand this wreath. Your share  
+ in this competition matched Orestes.  
+ I hope I see you always prospering.  
+
+ORESTES  
+ First of all, Electra, you must believe                                                
+ the gods were leaders in what’s happened here. Then praise me as a servant of the gods  
+ and circumstance. I have returned back home  
+ and killed Aegisthus, not in word but deed.  
+ To underscore the truth of what I’ve said,  
+ I’ve carried out the dead man’s corpse for you.  
+ If it’s what you want, lay him out as prey  
+ for wild beasts or impale him on a stake,  
+ a prize for birds, those children of the sky.  
+ In earlier days he was called your master,  
+ and now he is your slave.  
+
+ELECTRA  
+ I feel ashamed,  
+ but nonetheless I wish to speak.  
+
+ORESTES  
+ What is it?  
+ Speak up. There’s nothing you need to fear.  
+
+ELECTRA  
+ To insult the dead—in case someone  
+ might heap reproaches on me.  
+
+ORESTES  
+ But no one  
+ would blame you in the slightest.  
+
+ELECTRA  
+ But the city  
+ is hard to please and loves to criticize.  
+
+ORESTES  
+ Speak, sister, if you want to say something.  
+ We are his enemies—there are no rules  
+ in our relationship with him.  
+
+ELECTRA [to the corpse of Aegisthus]  
+ Well, then,  
+ how shall I first begin to speak about the evil you have done? Where do I end?  
+ What words shall I use for the central part?  
+ It’s true that in the dawn I never stopped  
+ rehearsing what I wished to say to you,  
+ right to your face, if I were ever free  
+ from my old fears. Well, now I am free.                                           
+ So I will pay you back, abusing you  
+ the way I wanted to when you were living.  
+ You ruined me, taking away from me  
+ and from this man here our dear father, although we hadn’t done you any wrong.  
+ You made a shameful marriage with my mother,  
+ then killed her husband, who was the general  
+ who led the Greeks. You never went to Troy.  
+ And you were so idiotic you believed  
+ that with my mother you would get a wife  
+ who was not evil, though she was betraying                                    
+ my father’s bed. But you must know this—  
+ when any man corrupts another’s wife,  
+ having sex with her in secret, and then is compelled to take her as his wife,  
+ such a man is foolish if he believes  
+ that, though she was not virtuous before,  
+ she will be now with him. You were living  
+ an agonizing life, although it seemed  
+ as if the way you lived was not so bad.  
+ You knew well you’d made a profane marriage.  
+ My mother realized she had in you  
+ a sacrilegious man. You are both evil,  
+ and so you both acquired each other’s traits. She shares your wickedness, and you share hers.  
+ You heard these words from all the Argives—                                 
+“That woman’s husband,” not “that man’s wife.”  
+ And this is truly shameful—when the wife  
+ controls the home rather than the husband.  
+ I hate those offspring whom the city calls  
+ children of their mother instead of saying  
+ sons of their father. Still, when any man  
+ makes a distinguished marriage well above  
+ his station, no one talks of him, but only of his wife. But most of all,  
+ you were so ignorant you were deceived  
+ in claiming to be someone because your strength  
+ was in your wealth. But that’s not worth a thing—                          
+ its presence is short lived. What stays secure  
+ is nature, not possessions. It stands there,  
+ beside you, and takes away your troubles.  
+ But when riches live with fools unjustly,  
+ they bloom a little while, then flee the house.  
+ As for your women, I will say nothing— it’s not good a virgin speak about such things.  
+ But I’ll provide a hint, a simple riddle.  
+ You were abusive, with your royal home,  
+ your seductive looks. May I never have  
+ a husband with the face of a young girl,  
+ but one who has the look of a real man.  
+ His children hold onto a life of war.                                                 
+ The pretty ones are only ornaments  
+ to decorate the dancing choruses. 
+ So get out of here, and stay ignorant how you were found in time and punished.  
+ And let no man committing wicked acts  
+ believe that, if he runs the first lap well,  
+ he is defeating justice, not before 
+ he get to the finish, when he completes  
+ the last turn in his life.  
+
+CHORUS LEADER  
+ What this man’s done  
+ is dreadful, and he’s paid a dreadful price  
+ to you and to Orestes. For Justice  
+ has a power that’s enormous.  
+
+ELECTRA  
+ Well, you servants must take up the body  
+ and hide it inside, somewhere in the dark,  
+ so when my mother comes over here  
+ she won’t see his corpse before she’s killed.  
+
+[Pylades and the attendants take Aegisthus’ body into the house]  
+
+ORESTES [looking off stage]  
+ Wait a moment. Here’s another thing  
+ we need to deal with.  
+
+ELECTRA  
+ What? Are those men I see  
+ reinforcements coming from Mycenae?  
+
+ORESTES  
+ No. That’s the mother who gave birth to me.  
+
+ELECTRA  
+ She’s moving neatly right into our net.  
+ How splendid she looks in that carriage,  
+ such fine clothes.  
+
+ORESTES  
+ What are we going to do?  
+ Kill our mother?  
+
+ELECTRA  
+ You’re not overcome with pity now you’ve seen our mother in the flesh?  
+
+ORESTES  
+ Ah, how can I kill her? She gave birth to me.  
+ She raised me.  
+
+ELECTRA  
+ Just as she killed our father,                                         
+ yours and mine.  
+
+ORESTES  
+ O Phoebus Apollo, 
+ that prophecy of yours was so foolish. [^note-224]  
+
+ELECTRA  
+ Where Apollo is a fool, what men are wise?  
+
+ORESTES  
+ You instructed me to kill my mother,  
+ but killing her is wrong.  
+
+ELECTRA  
+ On the other hand,  
+ if you’re avenging your own father  
+ how can you be harmed?  
+
+ORESTES  
+ I’ll be prosecuted for slaughtering my mother. Before now  
+ I’ve been free of all impiety.  
+
+ELECTRA  
+ But if you don’t defend your father,  
+ you’re a guilty man.  
+
+ORESTES  
+ But my mother?  
+ If I kill her, how will I be punished?  
+
+ELECTRA  
+ What will happen to you if you give up  
+ avenging your own father?  
+
+ORESTES  
+ Could it have been  
+ a demon in the likeness of a god  
+ who spoke?  
+
+ELECTRA  
+ Sitting on the sacred tripod?                                    
+ I don’t think so.  
+
+ORESTES  
+ I cannot believe this prophecy was good.  
+
+ELECTRA  
+ You must be a man.  
+ Don’t give way to cowardice. Set for her  
+ the same trap you used to kill her husband,  
+ when you destroyed Aegisthus.  
+
+ORESTES  
+ I’ll go in.  
+ I’m about to launch a terrible act  
+ and do dreadful things. Well, so be it,  
+ if the gods approve of this. But to me  
+ this contest is a bitter one, not sweet.  
+
+[Orestes goes into the house. Clytaemnestra arrives in a chariot with attendants]  
+
+CHORUS  
+ Greetings lady, child of Tyndareus,  
+ queen of this country of the Argives, sister of those noble twins,                                                               
+ Zeus’ sons, who live in heaven  
+ among the fiery constellations  
+ and have the honourable task  
+ of saving mortals in the roaring waves. [^note-225]  
+ Welcome! I worship you 
+ no less than I revere the gods  
+ for your great wealth and happiness.  
+ My queen, it’s now appropriate 
+ that we attend to your good fortunes.                                     
+CLYTAEMNESTRA  
+ Get down from the carriage, women of Troy,  
+ and take my hand, so I, too, may step down  
+ out of this wagon. The houses of the gods                                       
+ may be adorned with Phrygian trophies,  
+ but I obtained these female slaves from Troy,  
+ the finest in the land, as ornaments 
+ within my household, small compensation  
+ for the child I lost. [^note-226]  
+
+ELECTRA  
+Mother, is it all right  
+ for me to take that blessed hand of yours,  
+ given I live in this decrepit house, just like a slave, now I’ve been cast out  
+ of my ancestral home?  
+
+CLYTAEMNESTRA  
+ The slaves are here.  
+ Don’t exert yourself on my behalf.  
+
+ELECTRA  
+ Why not? After all, I’m a captive, too,  
+ you sent away from home. Like these women,  
+ I was taken when my house was seized                                           
+ and left without a father.  
+
+CLYTAEMNESTRA  
+ Well, your father  
+ brought that about with plots against the ones  
+ he should have loved the most, his own family.  
+ I’ll describe it to you, though when a woman gets an evil name, her tongue grows bitter,  
+ and that, it seems to me, is no bad thing.  
+ But you should learn the facts of what’s gone on  
+ and then despise it, if it’s worth your hate.  
+ If not, why hate at all? Tyndareus  
+ gave me to your father, not intending  
+ that I or any children I might bear  
+ should die. But that man, when he left his home,                           
+ convinced my daughter to accompany him,  
+ by promising a marriage with Achilles, and took her to the anchored fleet at Aulis. [^note-227]  
+ There he had Iphigeneia stretched out  
+ and slit her pale white throat above the fire.  
+ If he’d killed one girl for the sake of many,  
+ to protect the city from being taken,  
+ or to help his house or save his family,  
+ I’d have pardoned him. But he killed my child  
+ because of Helen’s lust, because the man  
+ who’d taken her as wife had no idea  
+ how to keep his treacherous mate controlled. For all of that, although I had been wronged,                                  
+ I’d not have grown enraged or killed my husband.  
+ But he came back to me with some mad girl—  
+ possessed by gods—and put her in his bed, 
+ so he could have two brides in the same house. [^note-228]  
+ Women are foolish. I’ll concede the point.  
+ But given that, when a husband goes astray,  
+ rejecting his domestic bed, his wife  
+ may well wish to follow his example  
+ and find another man to love. And then the blame makes us notorious—the men  
+ who caused it all are never criticized.                                               
+ If someone had carried Menelaus  
+ away from home in secret, should I then  
+ have killed Orestes to save Menelaus,  
+ my sister’s husband? How would your father      
+ have put up with that? So is it not right  
+ for him to die? He slaughtered my own child.  
+ I would’ve kept on suffering at his hands.  
+ I killed him. The road lay open to me, and so I turned towards his enemies.  
+ After all, which one of your father’s friends  
+ would have joined me to commit the murder?  
+ Speak up, if you wish, and answer frankly.  
+ In what way was your father’s death unjust?                                   
+
+CHORUS LEADER  
+ There’s justice in your words, but that justice  
+ is disgraceful. If she has any sense,  
+ a woman should give way in everything  
+ to her own husband. Those who disagree  
+ I don’t take into account in things I say.                                 
+ELECTRA  
+ Bear in mind, mother, the last thing you said,  
+ offering me a chance to be frank with you.  
+
+CLYTAEMNESTRA  
+ Yes, my child. And I won’t take that back.  
+ I’ll repeat it now.  
+
+ELECTRA  
+ You’ll hear me out, mother,  
+ and won’t punish me?  
+
+CLYTAEMNESTRA  
+ No, I won’t,  
+ not if I’m giving pleasure to your heart.  
+
+ELECTRA  
+ Then I’ll speak, starting with an opening comment.                        
+ O mother, I do wish you had more sense.  
+ Your beauty brings you praise that’s well deserved—  
+ the same is true for Helen—but you two were born twin sisters, both very silly,  
+ quite unworthy of your brother Castor.  
+ She was willing to be carried off and ruined,  
+ and you destroyed the finest man in Greece,  
+ using the excuse you killed your husband  
+ for your child, since people do not know you  
+ the way I do. But before it was decided      
+ that your daughter would be sacrificed,                                           
+ no sooner had your husband left his home,  
+ than you were fixing your fine locks of hair seated at your mirror, and any wife  
+ who primps her beauty when her husband’s gone,  
+ you can scratch her off the list as worthless.  
+ There’s no call for her to show her pretty face  
+ outside the home, unless she’s seeking mischief.  
+ Of all the women in Greece, I believe  
+ you were the only one who was happy  
+ whenever Trojan fortunes were successful  
+ and whose eyes would frown when they got worse,  
+ because it was your hope that Agamemnon would not get back from Troy. But nonetheless,  
+ you could have stayed a truly virtuous woman.                               
+ The husband you had was in no way worse  
+ than that Aegisthus, and he’d been chosen  
+ by the Greeks themselves to lead the army.  
+ When your sister Helen did what she did,  
+ you had an opportunity to gain  
+ great glory for yourself, since bad conduct  
+ sets a standard for our noble actions  
+ and makes them something everyone can see. But if, as you are claiming, our father  
+ killed your daughter, how have you been wronged  
+ by me and by my brother? Why is it,  
+ once you’d killed your husband, you didn’t give  
+ our father’s home to us, but filled your bed  
+ with someone else’s goods and for a price                                       
+ bought yourself a marriage? And why is it  
+ this husband has not been made an exile  
+ for banishing your son? Why is he not dead  
+ instead of me? The way I’m living now has killed me twice as often as my sister.  
+ If justice says that murder pays for murder,  
+ your son Orestes and myself must kill you  
+ to avenge our father. If your act was just,  
+ then this one must be, too. Any man  
+ watching out for wealth and noble birth  
+ who gets married to a vicious woman  
+ is a fool. A virtuous, humble marriage  
+ is better for the home than something grand.  
+
+CHORUS LEADER  
+ Marrying women is a matter of chance.  
+ Some, I notice, work out well, others badly. [^note-229]  
+
+CLYTAEMNESTRA  
+ My child, it was always in your nature  
+ to love your father. That’s how thing turn out.  
+ Some are their fathers’ children, while others  
+ love their mothers rather than their fathers.  
+ I’ll forgive you. I don’t get much delight,  
+ my child, from what I’ve done. But why are you  
+ so filthy, your body dressed in such poor clothes?  
+ You’ve just been confined and given birth. [^note-230]  
+ Alas, my schemes have made me miserable! I urged my anger on against my husband                                        
+ more than I should have.  
+
+ELECTRA  
+ Well, it’s too late now  
+ to moan about it. There’s no remedy.  
+ My father’s dead. But why don’t you bring back  
+ that exile from this land, your wandering son?  
+
+CLYTAEMNESTRA  
+ I’m too afraid. I’m looking after me,  
+ not him. And he’s angry, so people say,  
+ about the murder of his father.  
+
+ELECTRA  
+ Why let your husband be so cruel to me?  
+
+CLYTAEMNESTRA  
+ That’s how he is. You’ve a stubborn nature.                            
+ELECTRA  
+ Because I’m suffering. But I’ll stop being angry.  
+
+CLYTAEMNESTRA  
+ Then he’ll no longer behave harshly to you.  
+
+ELECTRA  
+ He’s got ideas of grandeur, living there                                            
+ inside my home. 
+
+CLYTAEMNESTRA  
+ You see? Once again  
+ you’re kindling a new quarrel. 
+
+ELECTRA  
+ I’ll be silent,  
+ my fear of him being what it is.  
+
+CLYTAEMNESTRA  
+ Stop this talk.  
+ Why have you sent for me, my child?  
+
+ELECTRA  
+ You’ve heard, I think, that I have given birth.  
+ Please offer up a sacrifice for me—  
+ I don’t know how to do that—on the tenth day, as is our custom with an infant child.  
+ I’ve had no children before this, and so  
+ I lack experience.  
+
+CLYTAEMNESTRA  
+ That task belongs  
+ to the person who delivered the child.  
+
+ELECTRA  
+ I was by myself in labour, so I bore  
+ the child all on my own.  
+
+CLYTAEMNESTRA  
+ Is this house here  
+ so remote there are no friendly neighbours?                                     
+
+ELECTRA  
+ No one wants poor people as their friends.  
+
+CLYTAEMNESTRA  
+ Well, I’ll go and make the gods a sacrifice  
+ for the full term of the child. When I’m done carrying out this favour for you, I’ll leave,  
+ off to the field where my husband’s offering  
+ sacrifices to the Nymphs. You servants,  
+ take this team away. Put them in the pens.  
+ When you think I’ve finished sacrificing  
+ to the gods, stand ready. I must satisfy  
+ my husband’s wishes, too.  
+
+ELECTRA  
+ Enter this poor home.  
+ For my sake take care the soot-stained walls                                   
+ don’t stain your clothes. You’ll give the gods  
+ the sacrifice you ought to make.  
+
+[Clytaemnestra goes into the house]  
+
+ And now the basket’s ready and the knife is keen,  
+ the one which killed the bull you’ll lie beside  
+ when you’re struck down. In Hades’ home  
+ you’ll be wedded to the man you slept with  
+ while you were alive. I’ll be offering you  
+ this favour, and you’ll be giving me  
+ retribution for my father.  
+
+[Electra goes into the house]  
+
+CHORUS  
+ Evils are repaid. Winds of fortune  
+ for this house are veering round.  
+ Back then my leader, my very own, fell murdered in his bath.  
+ Roof and stone walls of the house                                                    
+ resounded, echoing his cries—  
+“You vicious woman, why kill me  
+ now I’ve come to my dear land  
+ after ten harvest seasons?” [^note-231]  
+
+ The flow of justice has reversed itself  
+ and brings to judgment for adultery  
+ the killer of her unhappy husband  
+ when he finally returned back home, to the towering Cyclopean walls.  
+ With her own hand she murdered him,  
+ the sharpened edge of a keen axe  
+ gripped in her fists. Poor sad husband!  
+ What evils overtook this wretched woman?                                      
+ She did it like a mountain lion  
+ prowling through a wooded meadow.  
+
+CLYTAEMNESTRA [from inside the house]  
+ By the gods, children, don’t kill your mother.  
+
+CHORUS  
+ Do you hear that cry from inside the house?  
+
+CLYTAEMNESTRA [screaming from inside]  
+ Ah . . . my god . . . ah . . . not me . . .                                      
+CHORUS  
+ I moan, too, as her children beat her down.  
+ The god indeed dispenses justice,  
+ whenever it may come.  
+ You’ve suffered horribly, sad lady,                                                    
+ but you carried out unholy acts  
+ against your husband.  
+
+[Orestes, Pylades, and Electra and Attendants emerge slowly from the house with the bodies of 
+Aegisthus and Clytaemnestra]  
+
+CHORUS LEADER  
+ But here they come, moving from the house,  
+ stained with fresh-spilt blood from their own mother,  
+ a trophy, proof of their harsh sacrifice.  
+ There is no house, not now or in the past, more pitiable than the race of Tantalus.  
+
+ORESTES  
+ O Earth and Zeus, who sees all mortal men,  
+ look on these abominable and bloody acts,  
+ these two corpses lying on the ground                                             
+ struck down by my hand, repayment  
+ for everything I’ve suffered.  
+
+ELECTRA  
+ Too much cause to weep, my brother,  
+ and I have made this happen.  
+ In my wretchedness my fiery rage  
+ burned on against my mother who gave birth to me, her daughter.  
+
+CHORUS  
+ Alas for fortune, for your fortune,  
+ a mother who has given birth  
+ to pain beyond enduring,  
+ bearing wretched misery and more  
+ from your own children, and yet it’s just—  
+ you’ve paid for murdering their father.                                            
+
+ORESTES  
+ Alas, Phoebus, that justice you sang of  
+ had an obscure tone, but the pain you caused  
+ was clear enough—you’ve given me an exile’s fate, far from these Greek lands.  
+ To what other city can I go?  
+ What host, what man with reverence  
+ will look at me, who killed my mother?  
+
+ELECTRA  
+ Alas, alas for me! Where do I go?  
+ To what wedding or what choral dance?  
+ What husband will take me to a bridal bed?                                    
+
+CHORUS  
+ Your spirit is shifting back once more  
+ changing with the breeze. Your thoughts 
+ are pious now, although profane before. You’ve done dreadful things, my friend,  
+ to your own reluctant brother.  
+
+ORESTES  
+ Did you see that desperate woman,  
+ how she threw her robe aside  
+ and bared her breasts for slaughter?  
+ Alas for me! The limbs which gave me birth  
+ collapsing down onto the ground.  
+ And her hair, I . . . 
+
+CHORUS  
+ I understand.                                               
+ You had to go through torments,  
+ hearing your mother’s screaming, the one who bore you. 
+
+ORESTES  
+ She stretched her hand toward my chin  
+ and cried, “My son, I beg you.”  
+ She clung onto my cheeks—  
+ the sword dropped from my hands.  
+
+CHORUS  
+ Poor lady! How could you dare  
+ to watch your murdered mother  
+ breathe her last before your eyes.                                                     
+
+ORESTES  
+ I threw my cloak over my eyes,  
+ then sacrificed her with the sword. I shoved it in my mother’s neck.  
+
+ELECTRA  
+ I was encouraging you—  
+ my hand was on the sword, as well.  
+
+CHORUS  
+ You have inflicted suffering  
+ of the most dreadful kind.  
+
+ORESTES  
+ Take this robe, hide our mother’s limbs.  
+ Close up her wounds. You gave birth  
+ to your own murderers.  
+
+ELECTRA [covering Clytaemnestra’s corpse]  
+ There, with this cloak I’m covering up                                             
+ one who was loved and yet not loved.                                     
+CHORUS  
+ A end of the great troubles for this house.  
+
+[Castor and Polydeuces, the Dioscouri, appear above the building on the stage]  
+
+CHORUS LEADER  
+ But there above the roof beams of the house  
+ something’s coming. Spirits or gods from heaven?  
+ That path does not belong to mortal men.  
+ Why are they coming into human view?  
+
+DIOSCOURI: [from the top of the house] [^note-232]  
+ Son of Agamemnon, you must listen.  
+ The twin sons of Zeus are calling you,  
+ Castor and his brother Polydeuces,                                                  
+ your mother’s brothers. We’ve just reached Argos,  
+ after calming down a roaring storm at sea, a dreadful threat to ships, after we had seen  
+ the murder of our sister and your mother.  
+ She’s had justice, but you’ve not acted justly.  
+ As for Phoebus, Phoebus, I’ll say nothing.  
+ He is my master. Although he’s wise,  
+ the prophecy he made to you was not.  
+ You must accept these things and later on  
+ act on what Fate and Zeus have set for you.  
+ Give Electra to Pylades as his wife,  
+ to take back home. And you must leave Argos.  
+ It’s not right for you, who killed your mother,  
+ to set foot in the city. The Keres,  
+ those fearful dog-faced goddesses of death,  
+ will hound you everywhere, a wanderer  
+ in a mad fit. [^note-233] You must go to Athens  
+ and embrace Athena’s sacred image.  
+ She’ll guard you from their dreadful writhing snakes  
+ and stop them touching you, by holding out  
+ her shield with the Gorgon’s face above your head.  
+ And there’s the hill of Ares, where the gods first sat down to cast their votes on bloodshed,  
+ when savage Ares slaughtered Halirrothius,                                    
+ son of the god who rules the sea, enraged  
+ at the unholy raping of his daughter. [^note-234]  
+ That place is where decisions made by vote  
+ are most secure and sacred to the gods.  
+ Here you must go on trial for murder.  
+ The process will result in equal votes  
+ so you’ll be saved from death, for Apollo  
+ will take responsibility himself. His oracle advised your mother’s murder.  
+ This law will be established from then on—  
+ those accused will always be acquitted  
+ with equal votes. Struck by the pain of this,                                      
+ those fearful goddesses will then sink down 
+ into a chasm right beside the hill,  
+ a reverent and holy shrine for men.  
+ You must settle an Arcadian city  
+ by Alpheus’ streams, near the sacred shrine  
+ of Lycaean Apollo, and that city will get its name from you. I’ll tell you more.  
+ As for Aegisthus’ corpse, the citizens  
+ in Argos here will place it in a grave.  
+ But in your mother’s case, Menelaus,  
+ who’s just arrived at Nauplia, so long  
+ after he seized the territory of Troy,  
+ will bury her, with Helen’s help. She’s come  
+ from Proteus’ home, leaving Egypt.  
+ She never went to Troy. It was Zeus’ wish  
+ to stir up war and bloodshed among men. So he sent Helen’s image off to Troy. [^note-235]  
+ Since Pylades now has got a virgin wife,  
+ let him go home and leave Achaean land,  
+ with the man they call your brother-in-law  
+ to the land of Phocis. He must give him  
+ a great weight of riches. But as for you,  
+ you must leave along the narrow Isthmus  
+ and go to the blessed hill of Cecrops. [^note-236]  
+ Once you’re completed your appointed fate                                    
+ for doing the murder, you’ll find happiness and be released from troubles.  
+
+CHORUS  
+ O sons of Zeus, are we permitted  
+ to come near and speak to you.  
+
+DIOSCOURI  
+ That is allowed—you’re not defiled  
+ by this murder here.  
+
+ELECTRA  
+ And me, sons of Tyndareus,  
+ may I join in what’s said?  
+
+DIOSCOURI  
+ You may. It’s to Apollo  
+ I ascribe this bloody act.  
+
+CHORUS  
+ How is that you two gods, brothers of this murdered woman,  
+ did not keep death’s goddesses                                                        
+ far from her home?  
+
+DIOSCOURI  
+ Destiny and Fate brought what must be—  
+ and Apollo’s unwise utterance.  
+
+ELECTRA  
+ What Apollo and what prophecies  
+ ordained that I must be 
+ my mother’s murderer?  
+
+DIOSCOURI  
+ You worked together  
+ and shared a single fate. One ancestral curse  
+ has crushed you both.  
+
+ORESTES  
+ After such a lengthy time  
+ I’ve seen you, my sister,  
+ and immediately must lose                                                               
+ your love, abandoning you,  
+ as you abandon me.  
+
+DIOSCOURI  
+ She has a home and husband,  
+ and will not suffer piteously,  
+ except she leaves the Argives’ city.                                           
+ELECTRA  
+ What else brings one more grief  
+ than moving out beyond the limits  
+ of one’s native land?  
+
+ORESTES  
+ But I’ll go from my father’s house,  
+ then undergo a trial by strangers  
+ for murdering my mother.  
+
+DIOSCOURI  
+ Be brave. You’ll reach  
+ Athena’s sacred city.                                                                         
+ Just keep enduring all.  
+
+ELECTRA  
+ Hold me, my dearest brother, your breast against my breast.  
+ The curses of a slaughtered mother  
+ divide us from our father’s home.  
+
+ORESTES  
+ Throw your arms around me.  
+ Give me a close embrace.  
+ Then mourn for me as if I’d died,  
+ and you were at my burial mound.  
+
+DIOSCOURI  
+ Alas, alas! You’ve said things  
+ dreadful even for the gods to hear.  
+ I and those in heaven have pity  
+ for mortals who endure so much. 
+
+ORESTES  
+ I’ll not see you anymore.  
+
+ELECTRA  
+ I’ll not come into your sight.  
+
+ORESTES  
+ These are the final words  
+ I’ll ever say to you.  
+
+ELECTRA  
+ Farewell, my city! A long farewell  
+ to you my fellow countrywomen!  
+
+ORESTES  
+ Are you going already,  
+ my most faithful sister?  
+
+ELECTRA  
+ Yes, I’m leaving now my soft eyes wet with tears.  
+
+ORESTES  
+ Farewell, Pylades. Be happy.                                                            
+ Go and get married to Electra  
+
+DIOSCOURI  
+ The marriage will be their concern.  
+ You leave for Athens to escape these hounds,  
+ with their dark skins and hands made up of snakes.  
+ They’re on a dreadful hunt to chase you down  
+ and bring you harvests of horrific pain.  
+ We two are off to the Sicilian sea.  
+ We’ll hurry there to rescue ships at sea. As we pass through the flat expanse of air,  
+ we bring no help to those who’ve been defiled.                               
+ We do protect the men who way of their life  
+ reveres what’s just and holy, releasing them  
+ from overbearing hardships. Let no one  
+ wish to act unjustly or to get on board  
+ with men who break their oaths. It’s as a god  
+ that I address these words to mortal men.  
+
+[Castor and Polydeuces disappear. Orestes leaves the stage. Electra and Pylades move off in a different direction. The attendants go with them]  
+
+CHORUS  
+ Farewell. Any mortal who can indeed fare well  
+ without being ground down by misfortune, that man will find his happiness.  
+
+[The Chorus carries the bodies back into the house]  
+  
+  
+
+[^note-201]: *. . . Dardanus*: Ilion is an alternative name for Troy, and Dardanusis the name of a famous ancestor of Priam, king of Troy. Hence, the Trojans were often called Dardanians. 
+
+[^note-202]: *. . . ancient sceptre*: Tantalus was the legendary founder of the royal family of Argos, called the Pelopids after Tantalus’ sonPelops. Tantalus was Agamemnon’s and Menelaus’ great-great-grandfather. 
+
+[^note-203]: *. . . totally disgraced*: Clytaemnestra’s excuse for killing Agamemnon is, of course, the fact that he sacrificed their daughter Iphigeneia in order to enable the fleet to sail to Troy. 
+
+[^note-204]: *. . . still a virgin*: Cypris is a common name for Aphrodite, the goddess of sexual love. The name comes from the goddess’ frequent association with Cyprus. 
+
+[^note-205]: *. . . a water jug*: the shaven head may be a token of mourning or a sign of Electra’s low status now or both. 
+
+[^note-206]: *. . . couch of death*: Agamemnon was killed in his bath, trapped under his cloak, as if under a hunting net. 
+
+[^note-207]: *. . . your house, as well*: Helen and Clytaemnestra were twin sisters born to Leda, but with different fathers—Tyndareus, king of Sparta and Leda’s husband, was Clytaemnestra’s father, but Zeus, who in the form of a swan raped Leda, was Helen’s. 
+
+[^note-208]: *. . . Castor*: Castor and Polydeuces (also called Pollux), theDioscuri, were twin brothers of Helen and Clytaemnestra, all born at the same time to Leda, queen of Sparta (hence Castor is an uncle of Electra). Polydeuces and Helen were children of Zeus, while Castor and Clytaemnestra were children of Tyndareus. When Castor was killed (before the Trojan war), Polydeuces turned down immortality, but Zeus allowed them to alternate, living among the gods and men, changing each day. 
+
+[^note-209]: *. . . oracles of Loxias*: Loxias is another name for Apollo, the god whose shrine Orestes consults before coming to Argos (as he mentions at line 115 above). But we do not know the text of the oracle (although we later learn it encouraged him to commit the revenge murders), and Electra is, one assumes, ignorant of Orestes’ visit to the shrine. 
+
+[^note-210]: *. . . Nereids*: These are sea goddesses, daughters of Nereus. Achilles’ mother, Thetis, was one of them. 
+
+[^note-211]: *. . . sons of Atreus*: These lines refer to the centaur Chiron (or Cheiron), half man and half horse, who in the region described, educated Achilles and other heroes. Pelion and Ossa are two famous mountains. Hephaestus is the god who made Achilles’ divine armour (at the request of Achilles’ mother, the goddess Thetis) after his own armour worn by Patroclus had been captured by Hector, the leader of the Trojan forces. 
+
+[^note-212]: *. . . Maia’s country child*: Perseus was the hero who killed Medusa, the most ferocious of the Gorgons (her face turned men to stone). Hermes, divine son of Zeus, assisted Perseus in the exploit. He is called a “country child” because he is associated with farming and hunting. 
+
+[^note-213]: *. . . racing lioness*: This is a reference to the monster Chimaera, a fire-breathing lioness with a goat’s body and head growing out of its back. The Chimaera was killed by the hero Bellerophon. The reference to Hector is a reminder that he had to face Achilles’ shield in his final and fatal encounter with Achilles (described in Book 22 of the Iliad). 
+
+[^note-214]: *. . . slipped past the guard*: This line is corrupt and makes little sense in the Greek. The words “someone slipped past the guard” have been put in to make sense of Electra’s words, turning the line into a suggestion that some citizen may have eluded Aegisthus’ sentries and paid a tribute to Agamemnon. As Cropp points out, omitting the line makes it read as if the Old Man is interrupting Electra, a dramatically implausible action. 
+
+[^note-215]: *. . . Thyestes’ son*: Aegisthus is the son of Thyestes (brother of Agamemnon’s father, Atreus). Atreus and Thyestes quarreled, and Atreus killed Thyestes’ sons and served to him at dinner. Aegisthus survived the slaughter or (in other accounts) was born after the notorious banquet. Euripides’ play makes no direct mention of this important part of the traditional story. 
+
+[^note-216]: *. . . I’ll accept those words*: Cropp suggests that Orestes’ rather odd phraseology in this speech and the previous one stems from the fact that he is using the language of ritual, as if he were consulting an oracle, first hoping that he gets a good pronouncement which he can understand and then accepting the “utterance.” 
+
+[^note-217]: *. . . some new birth*: the Nymphs, minor country goddesses, were associated with physical health, including childbirth and childhood. 
+
+[^note-218]: *. . . ten days ago*: the “quarantine,” Cropp notes, was a period immediately after childbirth in which the mother was kept in seclusion to avoid contamination. 
+
+[^note-219]: *. . . be a man*: There is some confusion and argument about the allocation and position of this line, which in the Greek comes after this speech of Electra’s and is divided between Orestes and Electra. I have followed Cropp’s suggestion and given the entire line to Electra at the beginning of her speech to Orestes. 
+
+[^note-220]: *. . . fleece of gold*: Thyestes and Atreus were brothers who quarreled. Thyestes seduced Atreus’ wife, Aerope, and, in revenge, Atreus killed Thyestes’ sons and served them up to him for dinner. Aegisthus is Thyestes’ surviving son. The golden lamb in question seems to be the symbol of the right to rule in Mycenae. 
+
+[^note-221]: *. . . Ammon’s land*: This is a reference to North Africa, where Ammon’s shrine was located. 
+
+[^note-222]: *. . . glorious brothers*: Clytaemnestra’s brothers are Castor and Polydeuces, or Pollux, the Dioscuri, twin brothers of Helen and Clytaemnestra, all born at the same time to Leda, queen of Sparta (hence Castor is an uncle of Electra). Polydeuces and Helen were children of Zeus, while Castor and Clytaemnestra were children ofTyndareus. When Castor was killed (before the Trojan war),Polydeuces turned down immortality, but Zeus allowed them to alternate, living among the gods and men, changing each day. 
+
+[^note-223]: *. . . Alpheus*: Cropp suggests that this is a reference to the Olympic games. 
+
+[^note-224]: Phoebus is a common name for Apollo, the god whose oracle Orestes consulted before coming to Argos. The god advised him to carry out the revenge murders. 
+
+[^note-225]: *. . . noble twins*: This is another reference to Castor andPolydeuces (or Pollux) twin brothers of Clytaemnestra. Strictly speaking only one of them was a child of Zeus (as was Helen,Clytaemnestra’s sister). Clytaemnestra and Castor were children ofTyndareus. The twins occupied a position among the stars (we call them the Gemini), and hence were an aid to navigation. 
+
+[^note-226]: *. . . the child I lost*: This is a reference to Clytaemnestra’s daughter Iphigeneia, whom Agamemnon sacrificed at the start of the Trojan expedition in order to persuade the gods to change the winds so that the fleet could sail. Clytaemnestra gives details of the story in her next long speech. 
+
+[^note-227]: *. . . Aulis*: This was the agreed meeting point for the great naval expedition to Troy. Bad winds delayed the fleet for so long that the entire enterprise was jeopardized. The gods demanded a sacrifice from Agamemnon. 
+
+[^note-228]: *. . . in the same house*: The young girl was Cassandra, daughter of Priam, king of Troy, given as a war prize to Agamemnon. She was a prophetess under a divine curse: she always spoke the truth, but no one ever believed her. She is an important character in Aeschylus’ treatment of this story in his play Agamemnon. 
+
+[^note-229]: *. . . others badly*: These lines of pithy moralizing at the end of Electra’s speech and in this speech by the Chorus Leader sound very out of place here. Some editors have removed them as a later addition to the text. 
+
+[^note-230]: *. . . given birth*: Some editors find these two and half lines a very odd change of subject for Clytaemnestra, who is now dwelling on her own sorrow. Cropp moves them to the opening of Clytaemnestra’s speech at 1380 below, where they do seem more appropriate. 
+
+[^note-231]: *. . . harvest times*: At this point in the manuscript two lines appear to be missing. 
+
+[^note-232]: *DIOSCOURI*: It is not clear which of the twin brothers speaks to the human characters or whether they alternate or speak together. 
+
+[^note-233]: *. . . mad fit.* The Keres are the children of Night, death spirits who prey on living human beings. Although they are different from the Furies (who chase down those who have committed murder in the family), here their function seems quite similar. 
+
+[^note-234]: *. . . of his daughter*: Ares, son of Zeus and god of war, killed Poseidon’s son, Halirrothius, over the attempted rape of Ares’ daughter, Alcippe. Ares was put on trial on Olympus and acquitted by the gods. 
+
+[^note-235]: *. . . off to Troy*: In Homer’s account (in the Odyssey) Menelaus and Helen take a long time to get home from Troy, being blown off course and spending a few years in Egypt. Proteus is the Old Man of the Sea, who helps Menelaus in Egypt. The story of Helen’s being detained in Egypt on her way to Troy and never going to the city at all is not in Homer’s epic, but was known before Euripides makes use of it here and in his play Helen. 
+
+[^note-236]: *. . . blessed hill of Cecrops*: The Isthmus is the Isthmus of Corinth, a narrow strip of land joining the Peloponnese (where Argos is situated) with the main part of Greece. Cecrops is the mythical first king and founder of Athens. The Cecropian Hill is a reference to the Acropolis in Athens. 
+  
+  
+

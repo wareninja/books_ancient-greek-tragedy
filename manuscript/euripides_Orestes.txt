@@ -1,0 +1,3351 @@
+# Orestes {#euripides_book-orestes}  
+  
+C> *This edition is based on the [publicly available](http://records.viu.ca/~johnstoi/euripides/orestes.htm) translation by Ian Johnston*  
+  
+  
+*For some background information on the House of Atreus, see [this section](#intro-house-of-atreus)*  
+  
+...  
+   
+**DRAMATIS PERSONAE**  
+  
+**ELECTRA**: daughter of Agamemnon and Clytaemnestra, sister of Orestes.  
+**HELEN**: wife of Menelaus, sister of Clytaemnestra.  
+**HERMIONE**: daughter of Menelaus and Helen.  
+**CHORUS**: young women of Argos.  
+**ORESTES**: son of Agamemnon and Clytaemnestra, brother of Electra.  
+**MENELAUS**: king of Sparta, brother of Agamemnon, uncle of Orestes and Electra.  
+**TYNDAREUS**: father of Helen and Clytaemnestra, an old man.  
+**PYLADES**: prince of Phocis, a friend of Orestes.  
+**MESSENGER**: an old man.  
+**PHRYGIAN**: one of Helen’s Trojan slaves, a eunuch.  
+**APOLLO**: divine son of Zeus and Leto, god of prophecy.  
+  
+[Scene: The action of the play takes place in Argos just outside the royal palace a few days after Orestes has avenged the murder of his father by killing his mother, Clytaemnestra, and her lover, Aegisthus. At the opening, Orestes is lying ill on a bed near the doors. Electra is sitting close to him]  
+  
+
+ELECTRA  
+ There’s nothing terrible one can describe,  
+ no suffering or event brought on by god,  
+ whose weight humans may not have to bear.  
+ The blessed Tantalus—and I don’t mock him  
+ for his misfortunes—who was, so they say,  
+ born from Zeus, flutters in the air, terrified  
+ of a rock hanging right above his head.  
+ People claim he’s paying the penalty,  
+ because, although he was a mortal man  
+ who was considered equal to the gods in the feasts they shared together, he had  
+ a shameful illness—he could not control                                         
+ his tongue. [^note-401] Well, Tantalus fathered Pelops,  
+ and then from that man Atreus was born,  
+ the one for whom the goddess combing yarn  
+ spun out strife, making him the enemy  
+ of his own brother, Thyestes. [^note-402] But why  
+ should I describe these horrors once again?  
+ Then Atreus killed Thyestes’ children  
+ and fed them to him. Then, there’s Atreus— I won’t mention what happened in between.  
+ With Aerope, who came from Crete, as mother,  
+ Atreus fathered glorious Agamemnon,  
+ if, indeed, he was a glorious man,  
+ and Menelaus, too. Menelaus  
+ then wed Helen, a woman gods despise,                                         
+ while lord Agamemnon, in a wedding  
+ notorious in Greece, took Clytaemnestra  
+ as his wife. To him from that one woman  
+ were born three daughters—Chrysothemis, Iphigeneia, and me, Electra,  
+ and a son, as well, Orestes, all of us  
+ from an abominable mother who snared 
+ her husband in a robe he could not escape  
+ and slaughtered him. It’s not appropriate  
+ for a young girl to talk of why she did it,  
+ and so I leave the matter indistinct  
+ for people to consider. Why should one  
+ accuse Phoebus of injustice, even though  
+ he did persuade Orestes to strike down the mother who had given birth to him,  
+ an act which did not earn him a good name                                    
+ in all men’s eyes? [^note-403] Still, he obeyed the god  
+ and killed her. I helped with the murder, too,  
+ doing as much as any woman could,  
+ and Pylades assisted us as well.  
+ After that poor Orestes grew so ill.  
+ Infected with a savage wasting sickness,  
+ he’s collapsed in bed and lies there, driven  
+ into fits of madness by his mother’s blood. I am ashamed to name those goddesses,   
+ the Eumenides, who keep driving him  
+ through terrible ordeals. [^note-404] It’s the sixth day  
+ since our mother perished in that slaughter  
+ and her body was purified in fire—                                                  
+ in that time he’s not swallowed any food  
+ or washed his skin. He stays wrapped in a cloak.  
+ And when his body does find some relief  
+ and his mind clears from the disease, he weeps.  
+ At other times he leaps up out of bed and bolts like a colt released from harness.  
+ Argos has proclaimed no one should shelter us,  
+ receive us by their hearths, or speak to us,  
+ since we killed our mother. This very day  
+ will be decisive—the Argive city  
+ will cast its vote whether the two of us  
+ must be stoned to death or have our throats cut                            
+ with a sharpened sword. We do have one hope  
+ we won’t die—the fact that Menelaus  
+ has reached this land from Troy—his flotilla now fills up the harbour at Nauplia, 
+ where he rides at anchor by the headlands,  
+ after wandering for so long at random.  
+ But as for Helen, who caused such grieving,  
+ he sent her on ahead to our own house,                                          
+ waiting until night, in case anyone  
+ whose children died at Troy might see her,  
+ if she went strolling there during the day,  
+ and injured her by starting to throw stones.  
+ She’s inside now, weeping for her sister and the troubles which have struck her family.  
+ Though she suffers, she has some consolation—  
+ Hermione, the daughter she left at home  
+ when she sailed off to Troy, who Menelaus  
+ brought from Sparta and gave to my mother  
+ to bring up, brings her great joy and helps her  
+ forget her troubles. I keep on watching  
+ all the roads for the moment I can see  
+ Menelaus coming. Unless he saves us,  
+ we don’t have much strength to ride this out.   A house plagued with bad luck has no defence.                              
+
+[Helen enters from the place]  
+
+HELEN  
+ Child of Clytaemnestra and Agamemnon,  
+ poor Electra, you’ve remained unmarried  
+ such a long time now. How are things with you  
+ and your unlucky brother Orestes,  
+ who killed his mother? That was a mistake.  
+ But I ascribe it to Apollo, and so  
+ I don’t risk pollution talking to you.  
+ And yet I do lament my sister’s death,  
+ Clytaemnestra, whom I never saw after I sailed off to Troy, driven there 
+ by that fated madness from the gods.  
+ Now I’ve lost her, I weep for our misfortune.                                   
+
+ELECTRA  
+ Helen, why should I now describe for you  
+ what your eyes can see—Agamemnon’s home  
+ facing disaster? I sit here sleepless  
+ beside this wretched corpse—his faint breathing  
+ makes the man a corpse. Not that I blame him  
+ for his suffering. You’re the one who’s lucky.  
+ Your husband’s fortunate as well. You’ve come when what’s going on with us is miserable.  
+
+HELEN  
+ How long has he lying like this in bed?  
+
+ELECTRA  
+ Ever since he shed his mother’s blood.  
+
+HELEN  
+ Poor wretch!                                      
+ And his mother, too, given how she died.  
+
+ELECTRA  
+ That’s how it is. He’s broken by his troubles.  
+
+HELEN  
+ Girl, would you do something for me please,  
+ in the name of the gods?  
+
+ELECTRA  
+ I’m busy here,  
+ sitting with my brother.  
+
+HELEN  
+ Would you be willing  
+ to come with me to my sister’s tomb?  
+
+ELECTRA  
+ To my own mother? Is that what you want? But why?  
+
+HELEN  
+ So I can take an offering from me,  
+ hair and libations. [^note-405]  
+
+ELECTRA  
+Is it somehow wrong  
+ for you to visit a family burial mound?  
+
+HELEN  
+ I’m ashamed to show myself in public  
+ among the Argives.  
+
+ELECTRA  
+ After all this time  
+ you’re thinking wisely. Back when you left home  
+ that was disgraceful.  
+
+HELEN  
+ What you say is right.                                     
+ But you’re not talking to me as a friend.  
+
+ELECTRA  
+ What makes you feel shame among the people  
+ in Mycenae? [^note-406]  
+
+HELEN  
+ I fear the fathers of those men who died at Troy.  
+
+ELECTRA  
+ That’s a real fear. In Argos  
+ it’s on people’s lips.  
+
+HELEN  
+ So relieve my fears.  
+ Do me that favour.  
+
+ELECTRA  
+ I couldn’t do it—  
+ look at my mother’s grave.  
+
+HELEN  
+ But for servants  
+ to take these offerings would be disgraceful.  
+
+ELECTRA  
+ Why not send Hermione, your daughter?  
+
+HELEN  
+ It’s not good for an unmarried girl  
+ to walk around in public.  
+
+ELECTRA  
+ She’d be repaying  
+ the dead woman for looking after her.  
+
+HELEN  
+ What you say is right, girl. You’ve convinced me.       
+ I’ll send my daughter. Your advice is good.  
+
+[Helen calls in through the palace doors]  
+
+ Hermione! Come on out, my child,  
+ out here in front.  
+
+[Hermione enters from the palace]  
+
+ Take the libation  
+ in your hands and this hair of mine, and go  
+ to Clytaemnestra’s burial site. Pour out  
+ the stirred-up honey, milk, and frothing wine.  
+ Then stand on top the mound and say these words,  
+      “Helen, your sister, offers these libations,  
+ fearing to come to your tomb in person,  
+ afraid of the Argive mob.” And ask her to look with kindness on you and me                                              
+ and my husband, and on this wretched pair  
+ some god has ruined. Promise funeral gifts,  
+ all the things I should give to my sister.  
+ You must leave now, my child, and go quickly.  
+ When you’ve offered libations at the tomb,  
+ return back here as quickly as you can.  
+
+[Hermione takes the offerings and leaves, going away from the palace. Helen exits  
+into the palace]  
+
+ELECTRA  
+ O nature, how vicious you are in men,  
+ a saviour, too, for those who do possess  
+ what works to their advantage. Did you see how she’s trimmed her hair only at the ends  
+ to preserve her beauty? She’s the woman  
+ she has always been. May the gods hate you  
+ for ruining me and him and all of Greece!                                        
+ I’m so unhappy!  
+
+[The Chorus enters]  
+
+ Here they are again,  
+ my friends who sing with me in my laments.  
+ They’ll soon end my brother’s peaceful sleep  
+ and melt my eyes with tears once I see him  
+ in his mad fit. You women, dearest friends,  
+ move with a quiet step and make no noise, no unexpected sound. Your kindness here  
+ is dear to me, but if you wake him up,  
+ what happens will be difficult for me.  
+
+CHORUS  
+ Keep quiet! Silence! let your steps be light.                                     
+ Make no sound at all.  
+
+ELECTRA  
+ Keep away from him— 
+ further from his bed, I’m begging you!  
+
+CHORUS  
+ There, I’ve done as you request.  
+
+ELECTRA  
+ Ah yes, but speak to me, dear friend,  
+ like the breathing of a tiny reed  
+ on a shepherd’s pipe.  
+
+CHORUS 
+ There, you see. I’m keeping my voice pitched soft and low.  
+
+ELECTRA  
+ Yes, that’s fine. Come over. Come on.  
+ Move gently. Keep moving quietly.  
+ Tell me the reason why you had to come.                                        
+ He hasn’t fallen asleep like this for ages.  
+
+CHORUS  
+ How is he? Give us a report, dear friend.  
+ What shall I say has happened to him?  
+ What’s ailing him?  
+
+ELECTRA  
+ He’s still breathing—  
+ feeble groans.  
+
+CHORUS  
+ What are you saying? The poor man!  
+
+ELECTRA  
+ You’ll kill him if you distract his eyes while he’s enjoying sweet gifts of sleep.  
+
+CHORUS  
+ Pitiful man, suffering for those hateful acts                                     
+ inspired by a god.  
+
+ELECTRA  
+ Yes, it’s pitiful.  
+ An unjust god uttered unjust things  
+ in what he decreed, when Loxias  
+ from Themis’ tripod passed his sentence,  
+ the unnatural murder of my mother. [^note-407]  
+
+CHORUS  
+ Do you see? His body’s moving in his robes.  
+
+ELECTRA  
+ You wretch, you’ve forced him to wake up  
+ with your chatter.  
+
+CHORUS  
+ No, I think he’s sleeping.                              
+ELECTRA  
+ Won’t you just go away? Leave the house.                                       
+ Retrace your steps, and stop the shuffling.  
+
+CHORUS  
+ He’s asleep.  
+
+ELECTRA  
+ You’re right. O sacred lady Night,  
+ who gives sleep to toiling mortal men,  
+ come from Erebus, come, wing your way here  
+ to Agamemnon’s home. [^note-408] In misery  
+ and suffering we’ve gone astray. We’re lost.                                    
+ You’re making noise again. O my dear friend,  
+ won’t you keep quiet, stay silent, and take care  
+ to keep your voice some distance from his bed? Let him enjoy the peaceful gift of sleep.  
+
+CHORUS  
+ Tell us what’s in store to end his troubles.  
+
+ELECTRA  
+ Death. What else? He’s lost desire for food.  
+
+CHORUS  
+ Then this is obviously his fate.                                                         
+
+ELECTRA  
+ Phoebus made us his sacrificial offering  
+ with his pitiful unnatural proposal  
+ to kill our mother, who killed our father.  
+
+CHORUS  
+ But it was just.  
+
+ELECTRA  
+ Yes, but not good.  
+ You killed, mother who bore me,                                              
+ and were killed. You wiped out a father and children of your blood.  
+ We’re done for, good as dead, destroyed.                                        
+ You’re with the dead, and my own life  
+ is gone—the greater part of it now spent  
+ with groans, laments, and tears each night,  
+ unmarried, childless—so pitiful—  
+ I drag out my life on and on forever.  
+
+CHORUS LEADER  
+ Electra, you’re right beside your brother.  
+ Check if hasn’t died without your knowing.                              
+ I’m worried—he’s looking too relaxed.      
+
+ORESTES [waking up]  
+ O lovely charms of sleep which bring such help  
+ against disease, how sweetly you came over me  
+ when I was in such need. Sacred Oblivion,  
+ who removes all troubles, how wise you are,  
+ for those who suffer from misfortune,  
+ a goddess worth invoking in their prayers.  
+ But where did I come from to get here? 
+ How did I reach this place? I can’t recall.  
+ I’ve lost all my earlier recollections.                                                 
+
+ELECTRA  
+ Dearest one, how happy it made me feel when you fell into that sleep. Do you want me  
+ to hold you and to prop your body up?  
+
+ORESTES  
+ Yes, hold me. Give me some support. And wipe  
+ the dried up foam from my sore mouth and eyes.                           
+
+ELECTRA  
+ There. It’s sweet to be able to help out.  
+ I won’t refuse to nurse my brother’s limbs  
+ with a sister’s hand.  
+
+ORESTES  
+ Support my side with yours,  
+ and push the matted hair out of my face.  
+ My eyes aren’t seeing very well.  
+
+ELECTRA  
+ O this filthy hair, your poor suffering head— so much time has passed since it’s been washed,  
+ you look just like a savage.  
+
+ORESTES  
+ Put me back,  
+ on the bed again. Once the madness leaves,  
+ I’m exhausted . . . no strength in my limbs.  
+
+ELECTRA  
+ There you are.  
+ The sick man loves his bed, a painful place,                                     
+ but still it’s necessary.  
+
+ORESTES  
+ Set me up again.  
+ Turn my body round. The sick are helpless—  
+ that’s why they’re hard to please.  
+
+ELECTRA  
+ Would you like  
+ to have me put your feet down on the ground?  
+ You haven’t tried to walk for some time now. A change is always pleasant.  
+
+ORESTES  
+ Yes, do that.  
+ It’s better if I look as if I’m well, 
+ even though that’s far from being true.  
+
+ELECTRA  
+ Now, my dear brother, listen to me,  
+ while the Erinyes let your mind stay clear.  
+
+ORESTES  
+ You’ve got some news. If it’s good, you’ll help me—  
+ if harmful, I’ve had enough misfortune.                                           
+
+ELECTRA  
+ Menelaus has come, your father’s brother.  
+ His ships are anchored at Nauplia.  
+
+ORESTES  
+ What are you saying? Has he just arrived to be a light to save us from these troubles,  
+ yours and mine, a man of our own family,  
+ with a sense of gratitude to father?  
+
+ELECTRA  
+ He’s come—you can trust what I’m telling you—  
+ and he’s brought Helen from the walls of Troy.  
+
+ORESTES  
+ He’d be someone to envy even more  
+ if he’d managed to survive all by himself.  
+ By bringing back his wife, he’s coming here  
+ with all kinds of trouble.  
+
+ELECTRA  
+ Yes, Tyndareus 
+ fathered a race of notorious daughters, dishonoured throughout Greece.                                                     
+
+ORESTES  
+ Make sure you’re different,  
+ not like those evil women. You can be.  
+ But don’t just say it. You have to feel it.                    
+
+ELECTRA  
+ Alas, brother, your eyes are growing wild.  
+ In an instant you’ve again gone mad,  
+ and just now you were thinking clearly.  
+
+ORESTES [in a fit]  
+ Mother, I’m begging you, don’t threaten me,  
+ not those young snake girls with their bloodshot eyes.  
+ They’re here! They’re closing in to jump on me!  
+
+ELECTRA  
+ Poor suffering wretch, stay still there on your couch. You think you see them clearly, but it’s nothing— there’s nothing there for you to see.  
+
+ORESTES  
+ O Phoebus,                               
+ they’re killing me, those dreadful goddesses,  
+ the fierce-eyed, bitch-faced priestesses of hell.  
+
+ELECTRA [holding Orestes]  
+ I’ll not let go. I’ll keep my arms around  
+ and stop you writhing in this painful fit.  
+
+ORESTES  
+ Let go! You’re one of those Furies of mine,  
+ grabbing me around the waist to throw me  
+ down into Tartarus!  
+
+ELECTRA  
+ I feel so wretched.  
+ What help can I get when divine power is ranged against us?  
+
+ORESTES  
+ Give me my horn-tipped bow,  
+ Apollo’s gift—he said I should use it  
+ to defend myself against these goddesses  
+ if they frightened me with bouts of madness.                                  
+ One of those divine women will get hurt  
+ by a human hand if she doesn’t move  
+ out of my sight. Aren’t you paying attention?  
+ Don’t you see the feathered arrows speeding  
+ from my far-shooting bow? Ah . . . ah . . .  
+ Why are you waiting then? Use your wings and soar into the upper air, and blame  
+ Apollo’s oracles. But wait a moment!  
+ Why am I raving and gasping for air?  
+ Where . . . where have I jumped? Out of bed?  
+ After the storm I see calm water once again.  
+ Sister, why wrap your head in your dress and cry?                          
+ I’m ashamed to make you share my suffering,  
+ to bring distress to an unmarried girl  
+ with this sickness of mine. Dont pine away 
+ because of my misfortunes. Yes, it’s true you agreed to do it, but I’m the one  
+ who shed our mother’s blood. I blame Apollo,  
+ who set me up to carry out the act,  
+ which was profane. His words encouraged me,  
+ but not his actions. And I think my father,  
+ if I’d looked him in the eye and asked him  
+ if I should kill my mother, would’ve made  
+ many appeals to me, reaching for my chin,                                      
+ not to shove my sword into the neck 
+ of the woman who’d given birth to me, since he would not return into the light  
+ and I’d be wretched, suffering ills like these.  
+ So now, sister, take that veil off your head.  
+ And stop your crying, even though our plight  
+ is desperate. When you see me in a fit,  
+ you must reduce the harsh destructive parts  
+ inside my mind and soothe me. When you groan,  
+ I must be beside you and comfort you  
+ with my advice. When people are close friends                               
+ it’s a noble thing to offer help like that. But now, you poor girl, go inside the house.  
+ Lie down and let your sleepless eyelids rest.  
+ Have some food to eat and wash your body.  
+ For if you leave me or catch some illness  
+ by sitting here with me, then I’m done for.  
+ You’re the only help I’ve got. As you see,  
+ all the others have abandoned me.  
+
+ELECTRA  
+ I won’t leave. I choose to live here with you,  
+ even to die. The choice remains the same.  
+ If you die, what will I, a woman, do? How will I be saved all on my own,  
+ without a brother, father, or my friends?  
+ Still, I must do it, if you think it’sright.                                           
+ But set your body back down on the bed,  
+ and don’t fret too much about the terror,  
+ the agony that drives you from your bed.  
+ Lie still here on the couch. For even if  
+ you’re not really sick but think you’re ill,  
+ that still makes people tired and confused.  
+
+[Electra goes into the house]  
+  
+CHORUS  
+ Aaaiiii . . . .you winged goddesses roaming in that manic frenzy,  
+ your god-appointed privilege,  
+ not some Bacchic ritual                              
+ but one with tears, cries of grief—                                                    
+ you dark skinned kindly ones,  
+ racing through the wide expanse of air  
+ demanding justice for blood,  
+ a penalty for murder,  
+ how I beseech you, beg you,  
+ let the son of Agamemnon lose   all memory of furious madness.  
+ Alas! What harsh work you strove for,  
+ you poor man, when you received,  
+ from Phoebus’ tripod, the oracle                                                       
+ which he delivered in his shrine,  
+ that cavern where, so people say,  
+ one finds the navel of the earth. [^note-409]  
+
+ O Zeus, what pitiful event,  
+ what bloody struggle is now here,  
+ goading you in your misfortune— an avenging spirit bringing tears  
+ to add to all your tears, sending  
+ your mother’s blood into your home  
+ and driving you to raving madness?  
+ I grieve for you—how I grieve for you.  
+ Among mortal men great prosperity                                                
+ never lasts. No. Some higher spirit  
+ shatters it like the sail on a fast ship  
+ and hurls it into waves of dreadful sorrow,  
+ as deadly as storm waves out at sea. What other house should I still honour  
+ as issuing from marriage with the gods  
+ apart from those who come from Tantalus? [^note-410]  
+
+[Menelaus enters, with an escort]  
+
+CHORUS  
+ But look, the king is now approaching—  
+ lord Menelaus. His magnificence                                                     
+ makes it plain to see that by his blood  
+ he comes from the sons of Tantalus.  
+ Hail to you, who with a thousand ships  
+ set off in force for Asian land, and find  
+ good fortune now among your company. With god’s help you’ve managed to achieve  
+ all those things you prayed for.  
+
+MENELAUS  
+ O my home—  
+ I look on you with joy, now I’ve come back  
+ from Troy, but I’m also full of sorrow  
+ at the sight, for never have I seen  
+ another home surrounded in this way  
+ with such harsh disaster. For I learned                                            
+ of Agamemnon’s fate, the death he suffered  
+ at his wife’s hand, as I steered my ship 
+ towards Malea. [^note-411] The sailors’ prophet,  
+ truthful Glaucus, Nereus’ seer, 
+ told me from the waves. He placed himself  
+ in open view and then said this to me:
+“Menelaus, your brother’s lying dead—  
+ collapsed inside his bath, the final one  
+ his wife will give him.”  
+His words made us,  
+ me and my sailors, weep many tears.  
+ When I touched land at Nauplia, with my wife                                
+ already coming here, I was expecting  
+ to give a loving greeting to Orestes, Agamemnon’s son, and to his mother.  
+ I assumed that they were doing well.  
+ But then I heard from some fisherman  
+ about the profane murder of the child  
+ of Tyndareus. Tell me now, you girls,  
+ where he may be, Agamemnon’s son,  
+ who dared this horrible atrocity.  
+ For back then, when I left home for Troy,  
+ he was a babe in Clytaemnestra’s arms.  
+ So I wouldn’t know him if I saw him.  
+  
+[Orestes moves over unsteadily from his bed and crouches down in front of Menelaus]  
+  
+ORESTES  
+ Menelaus, I am Orestes—the man                                                    
+ you asked about. I’m willing to reveal  
+ all the suffering I’ve been through. But first,  
+ I clasp your knees in supplication,  
+ and offer prayers from the mouth of a man  
+ who holds no suppliant branch. [^note-412] Rescue me.  
+ It’s the crucial moment of my suffering,  
+ and you’ve arrived in person.  
+
+MENELAUS  
+ O gods,  
+ what’s this I see? Which of the dead  
+ am I now looking at?  
+
+ORESTES  
+ What you say is true. With the agony I’m in, I’m not alive,  
+ though I see daylight.  
+
+MENELAUS  
+ You’re like a savage,  
+ you poor man, with that tangled hair.  
+
+ORESTES  
+ It’s not my looks  
+ which cause me grief. It’s what I’ve done.  
+
+MENELAUS  
+ Your ravaged eyes—  
+ that look of yours is dreadful.  
+
+ORESTES  
+ My body’s gone.                                           
+ But my name has not abandoned me.  
+
+MENELAUS  
+ You’re an unsightly mess—not what I expected.  
+
+ORESTES  
+ Here I am, my wretched mother’s killer.  
+
+MENELAUS  
+ So I’ve heard. Don’t talk about it—such evils  
+ should be mentioned only sparingly.                                      
+ORESTES  
+ I’ll not say much. But the divine spirit  
+ fills me with afflictions.  
+
+MENELAUS  
+ What’s wrong with you?  
+ What’s the sickness that’s destroying you?  
+
+ORESTES  
+ It’s here—in my mind—because I’m aware  
+ I’ve done something horrific. [^note-413]  
+
+MENELAUS  
+ What do you mean?  
+ Wisdom comes from clarity. It’s not obscure.  
+
+ORESTES  
+ It’s the pain that’s truly destroying me.  
+
+MENELAUS  
+ She’s a fearful goddess, but there are cures.  
+
+ORESTES  
+ Mad fits—retribution for my mother’s blood.                                 
+
+MENELAUS  
+ When did this frenzy start? What day was it?                        
+ORESTES  
+ On the day I was raising up the mound  
+ on my miserable mother’s grave.  
+
+MENELAUS  
+ Were you in the house or sitting down  
+ keeping watch beside her fire?  
+
+ORESTES  
+ It was at night,  
+ while I was waiting to collect the bones.  
+
+MENELAUS  
+ Was someone there as your support?  
+
+ORESTES  
+ Yes.  
+ Pylades was there—he acted with me  
+ in shedding blood, my mother’s murder.  
+
+MENELAUS  
+ You’re sick from phantom apparitions.  
+ What are they like?  
+
+ORESTES  
+ I thought I saw three girls— they looked like Night.  
+
+MENELAUS  
+ I know the ones you mean.  
+ But I have no wish to speak their names.  
+
+ORESTES  
+ No. They incite awe. You acted properly                                         
+ in not mentioning them.  
+
+MENELAUS  
+ Are they the ones  
+ driving you insane family murder?  
+
+ORESTES  
+ How miserably I suffer their attacks  
+
+MENELAUS  
+ But harsh suffering is not unusual  
+ for those who carry out such dreadful acts.  
+
+ORESTES  
+ But we do have a way out of our troubles.  
+
+MENELAUS  
+ Don’t talk of death—that’s not wise.  
+
+ORESTES  
+ It was Phoebus who ordered me to carry out the act,  
+ my mother’s murder.  
+
+MENELAUS  
+ Showing his ignorance  
+ of what’s good and right.  
+
+ORESTES  
+ We are mere slaves  
+ to the gods, whatever the gods are.  
+
+MENELAUS  
+ In this suffering of yours does Loxias  
+ offer some relief?  
+
+ORESTES  
+ He’s planning to.                                               
+ That’s the nature of the gods.  
+
+MENELAUS  
+ And your mother—  
+ how long is it since she stopped breathing?  
+
+ORESTES  
+ This is the sixth day. Her burial fires  
+ are still warm.  
+
+MENELAUS  
+ How quickly the goddesses came for you because of your mother’s blood.  
+
+ORESTES  
+ God is not wise, but by nature he is true  
+ to those who are his friends. [^note-414]  
+
+MENELAUS  
+ And your father—  
+ does he help you out for avenging him?  
+
+ORESTES  
+ Not yet. And if he’s still intending to,  
+ I call that the same as doing nothing.  
+
+MENELAUS  
+ After what you’ve done how do you stand  
+ with the city?  
+
+ORESTES  
+ I am so despised  
+ that people will not talk to me.  
+
+MENELAUS  
+ Have you cleansed  
+ your hands of blood in the appropriate way?                          
+ORESTES  
+ No. Wherever I go, doors are shut to me.                                        
+
+MENELAUS  
+ Which citizens are forcing you to leave?  
+
+ORESTES  
+ Oeax, who holds my father responsible  
+ for that hateful war at Troy.  
+
+MENELAUS  
+ I see.  
+ He seeks revenge for Palamedes’ murder. [^note-415]  
+
+ORESTES  
+ I had no part of that—I’m being killed,  
+ but that death is two removes from me.  
+
+MENELAUS  
+ Who else?  
+ Some of Aegisthus’ friends, I imagine?  
+
+ORESTES  
+ They slander me. Now the city listens.  
+
+MENELAUS  
+ Agamemnon’s sceptre—does the city let you keep it?  
+
+ORESTES  
+ How could they do that?  
+ They won’t let me stay alive.  
+
+MENELAUS  
+ What will they do?  
+ Can you give me a definite idea?  
+
+ORESTES  
+ Today there’ll be a vote against us.                                                   
+
+MENELAUS  
+ For you to leave the city? Or a vote  
+ to kill or spare you?  
+
+ORESTES  
+ For death by stoning  
+ by all the citizens.  
+
+MENELAUS  
+ Why not escape—  
+ flee across the border?  
+
+ORESTES  
+ We’re surrounded  
+ by soldiers, fully armed.  
+
+MENELAUS  
+ Private enemies    
+ or by a force of Argives?  
+
+ORESTES  
+ The whole city— to make sure I die. There’s no more to say.     
+
+MENELAUS  
+ Poor wretch. You’re facing total disaster.  
+
+ORESTES  
+ My hope to get out of this emergency  
+ rests on you. You’ve come loaded with success.  
+ So share your prosperity with your friends                                      
+ in desperate straits. Don’t accept the benefits  
+ and keep them for yourself alone. Take on,  
+ in your turn, a portion of these troubles,  
+ paying back my father’s kindnesses for those  
+ to whom you have an obligation. Those friends who, when misfortune comes, aren’t there to help  
+ are friends in name but not in deed.  
+
+[Enter Tyndareus with attendants]  
+
+CHORUS LEADER  
+ Look—  
+ the Spartan Tyndareus is coming here,  
+ shuffling on his old legs, wearing black robes,  
+ with short hair, in mourning for his daughter.  
+
+ORESTES  
+ I’m done for, Menelaus. Look at this—  
+ Tyndareus is coming up to us.                                                          
+ I feel particularly ashamed to come  
+ into his sight because of what I’ve done.  
+ For he raised me when I was still a child. He filled my life with love and carried me,  
+ the child of Agamemnon, in his arms.  
+ And Leda did the same. They honoured me  
+ no less than they did those twins from Zeus. [^note-416]  
+ O my miserable heart and spirit!  
+ I have not paid them back a good return.  
+ What darkness can I find to hide my face?  
+ What sort of cloud can I set in front of me  
+ to escape the eyes of that old man? 
+
+[Tyndareus and his attendants move up to the palace]  
+
+TYNDAREUS  
+ Where can I catch a glimpse of Menelaus,     
+ my daughter’s husband? Where? I was pouring  
+ libations on the grave of Clytaemnestra  
+ when I heard he’d arrived at Nauplia  
+ with his wife, home safe after all these years.  
+ Take me to him. I want to stand beside him,  
+ on his right hand, and greet him as a friend  
+ whom I’m seeing again after all these years.  
+
+MENELAUS  
+ Welcome, old man whose head shared the same bed  
+ as Zeus himself.  
+
+TYNDAREUS 
+ Welcome to you, too,  
+ Menelaus, my kinsman. Ah, it’s bad we don’t know what it is the future brings.  
+ Here’s that dragon snake who killed his mother,  
+ right outside the house, with his eyes flashing                                
+ that sick glitter—an abomination to me.  
+ Menelaus, you’re not talking to him,  
+ not to that impious wretch?  
+
+MENELAUS  
+ Why would I not?  
+ He’s the son of a father whom I loved.  
+
+TYNDAREUS  
+ His natural son? And he turned out like this?  
+
+MENELAUS  
+ Yes, he’s his son by birth. If he’s in trouble,  
+ I must respect him.  
+
+TYNDAREUS  
+ You’re a barbarian— you’ve been so long among the savages.  
+
+MENELAUS  
+ In Greece we always honour relatives.  
+
+TYNDAREUS  
+ And we don’t wish to be above the law.  
+
+MENELAUS  
+ But among those with some intelligence  
+ anything that’s forced is something slavish.  
+
+TYNDAREUS  
+ You hold to that. I’ll not subscribe to it.  
+
+MENELAUS  
+ Your anger and old age are not being wise.  
+
+TYNDAREUS  
+ What’s a dispute about such foolishness  
+ have to do with him? If what’s good or bad  
+ is plain to all, who has been more stupid than this fellow? He didn’t figure out  
+ what justice required. Nor did he turn to  
+ the common practices among the Greeks.  
+ When Agamemnon took his final breath,  
+ after my daughter struck him on his head—  
+ a shameful act, which I never will defend—  
+ he should have gone after just punishment                                     
+ for bloodshed and followed what’s appropriate  
+ in our religion, throwing his mother  
+ out of the house. He would’ve won himself, instead of this disaster, some credit   
+ for moderation. And he’d have followed  
+ the law and been a righteous man. But now,  
+ he’s come to the same fate as his mother.  
+ He was right to think that she was wicked,  
+ but he’s made himself more evil killing her.  
+ I’ll ask you this question, Menelaus.  
+ If a man’s wedded wife should murder him  
+ and the son, in his turn, killed his mother,                                     
+ and after that the son pay for the murder with his death, where will these disasters end?  
+ Our ancestors dealt with these issues well.  
+ They did not let a man with bloody hands  
+ come in their sight or cross their path. Instead,  
+ they purified him, not by killing him  
+ as a punishment, no, they banished him.  
+ Otherwise, the man who has pollution  
+ on his hands last is always going to face  
+ his own murder. I hate an evil woman,                                      
+ especially my daughter who slaughtered      
+ her own husband. And I’ll never approve  
+ of Helen, your wife, or even speak to her.  
+ I don’t think much of your voyage to Troy  
+ for the sake of that worthless woman.  
+ But with all my power I’ll defend the law  
+ to put an end to this bestial killing,  
+ which always destroys the land and city.  
+
+[Tyndareus moves up to Orestes]  
+
+ You miserable creature, what was in your mind  
+ when your mother exposed her breasts to you    
+ and begged? I did not see that dreadful sight, but still my ancient eyes dissolve in tears.  
+ And there’s one thing which supports my case—                           
+ the gods do hate you, and you’re being punished  
+ for your mother with roaming fits of fear  
+ and madness. Why do I need to attend to  
+ other witnesses, when I can see it  
+ for myself? So you should keep this in mind,  
+ Menelaus—don’t act against the gods  
+ by wanting to assist this man. Let him 
+ be stoned to death by the citizens, or else don’t set foot on Spartan land.  
+ My daughter’s dead. And that deed was just.  
+ But she should not have died at that man’s hand.  
+ I was born a fortunate man in all things                                           
+ except my daughters. There I’ve been unlucky.  
+
+CHORUS LEADER  
+ The man who’s fortunate in his children,  
+ who does not get ones which bring on him  
+ notorious trouble—that’s a man to envy.  
+
+ORESTES  
+ I’m afraid to talk to you, old man,  
+ at a time when I’m bound to pain your heart. Let your age, which hinders me from speaking,  
+ be set aside, and I’ll proceed. But now,  
+ your gray hair makes me too hesitant.  
+ I know my mother’s murder has made me  
+ unholy, and yet, in another sense,  
+ a pious man who avenged his father.                                               
+ What should I have done? Set these two things  
+ against each other. My father planted me,  
+ your daughter bore me—she was the plough land 
+ who received the seed from someone else. Without a father there would never be  
+ a child. I reasoned that I ought to take  
+ the side of the one who gave me being,  
+ rather than the woman who undertook  
+ to raise me. Now your daughter—I’m ashamed  
+ to call her mother—went to a man’s bed  
+ in a private and an unwise marriage.  
+ When I say bad things against her, I speak  
+ against myself, but nonetheless I will.                                             
+ At home Aegisthus was her secret husband. I killed the man, and then I sacrificed  
+ my mother. I did an unholy act,  
+ but I did get vengeance for my father.  
+ As for the reasons you now threaten me  
+ with death by stoning, you should listen to  
+ how I am benefiting all of Greece.  
+ If women grow so bold they start to kill  
+ their husbands and then seek to find safety  
+ with their children, fishing for sympathy    
+ with their breasts, they’d start killing husbands for any reason and would pay no price.                                           
+ You claim I committed a dreadful crime,  
+ but I’ve put an end to practices like that.  
+ I hated my mother and killed her justly.  
+ She betrayed her husband, who was away  
+ with the army, commander of all Greeks,  
+ and didn’t keep his bed free of dishonour.  
+ When she understood the mistake she’d made  
+ she didn’t face up to the penalty.  
+ No. In order to escape being punished, she murdered my father. By the gods!  
+ It’s not a good thing to recall the gods  
+ in a defence against a charge of murder,  
+ but if by saying nothing I endorsed                                                  
+ my mother’s act, what would the murdered man  
+ have done to me? Would he now hate me  
+ and terrify me with his band of Furies?  
+ Or does my mother have those goddesses  
+ as her allies, but he does not, although  
+ he’s the one who’s been more greatly wronged. You’ve destroyed me, old man—yes, you have—  
+ you’re the father of a wicked daughter.  
+ Thanks to her outrageous act, I have lost  
+ a father and become my mother’s killer.  
+ You notice Telemachus did not kill  
+ Odysseus’ wife, for she did not marry  
+ husband after husband, and in their home                                      
+ their bedroom remained quite unpolluted.  
+ Do you see Apollo, who makes his home     
+ at earth’s navel stone and gives mortal men the clearest spoken words, whom we obey  
+ in all he says—I was obeying him  
+ when I killed my mother. Call him impious,  
+ and kill him. It was his mistake, not mine.  
+ What should I have done? Or is the god  
+ not good enough to cleanse me of my crime  
+ when I turn to him? Where else can one flee,  
+ if he who commanded me to do it  
+ cannot rescue me from death? So don’t say 
+ this action was not done appropriately,      
+ but rather that it didn’t work out well  
+ for those who did it. Among mortal men,  
+ when marriages are properly set up,  
+ their life is blessed. But those whose marriages  
+ fall out badly have no luck, indoors and out.  
+
+CHORUS LEADER  
+ Women by nature always interfere  
+ in the affairs of men, with bad results.  
+
+TYNDAREUS  
+ Since you speak so boldly and hide nothing,  
+ but give me answers which will pain my heart,  
+ you’ll spur me on to bring about your death. I’ll count that as an extra benefit                                                     
+ in the work for which I came here, to dress  
+ my daughter’s grave. I’ll go to the Argives,  
+ to their assembly, set them against you  
+ and your sister, against their will or not—  
+ you’ll pay the penalty, death by stoning.  
+ She deserves to die even more than you.  
+ She incited you against your mother,  
+ always carrying stories for your ears 
+ to make you hate her more, reporting dreams of Agamemnon and her sexual life  
+ with Aegisthus—may gods below the earth  
+ despise it—it was bitter up here, too,                                              
+ until she set the house ablaze with flames  
+ not kindled by Hephaestus. I tell you this,  
+ Menelaus, and I will do it, too.  
+ So if you give my hatred any weight  
+ and my relationship to you through marriage,  
+ don’t act in opposition to the gods—  
+ do not protect this man from death. Leave him for the citizens to kill by stoning,  
+ or don’t set foot on Spartan land. Listen,  
+ and understand this well. You must not choose  
+ ungodly men as friends, pushing aside  
+ the ones who act more righteously. You men,  
+ lead me away. Take me from this house.  
+
+[Tyndareus and his attendants leave]  
+
+ORESTES  
+ Well, be off with you, so that what I say                                          
+ may reach this man without interruption,  
+ quite free from your old age. Menelaus,  
+ why are you walking around, lost in thought, going back and forth, as if quite divided  
+ in what you’re thinking?  
+
+MENELAUS  
+ Leave me alone.  
+ I’m debating with myself. I’m not sure  
+ which course of action I should follow.  
+
+ORESTES  
+ Don’t decide on what seems to be the case.  
+ First listen to the things I have to say  
+ and then make up your mind.  
+
+MENELAUS  
+ You’re right. Speak up.  
+ There are times when silence may be better, 
+ but there are also times when speaking    
+ is preferable to silence.  
+
+ORESTES  
+ Then I’ll speak. A long speech is better than a short one                                          
+ and it’s much clearer for the listener, too.  
+ You don’t have to give me anything of yours,  
+ Menelaus, just pay back what you took, 
+ what you got from my father—not property,  
+ that’s not what I mean. If you save my life,  
+ that’s the dearest thing I own. I’ve done wrong.  
+ To counter this bad act, I have to get  
+ an unjust deed from you, for my father,  
+ Agamemnon, did wrong when he gathered those Greeks to go to Troy, and not because  
+ he made mistakes himself, no, but to heal                                       
+ the error and injustice of your wife. [^note-417]  
+ And for this one act you should pay me back.  
+ For he willingly sacrificed his life,  
+ as family members should for those they love,  
+ toiling hard in battle right beside you,  
+ so you could have your wife back. Pay me back  
+ in the same way for what you received there,  
+ working hard for just one day, not ten years. Stand up, and save me. As for what Aulis took  
+ with my sister slaughtered as a sacrifice,  
+ I’ll let you have that. You don’t have to kill  
+ Hermione. For in my present plight,                  
+ you must have the upper hand. That I grant.  
+ But offer my poor father my own life  
+ and my sister’s. For a long time now                                               
+ she’s been unmarried, and if I die,  
+ I’ll leave my father’s house without an heir.  
+ You’ll say it can’t be done. But that’s the point. Kinsmen must help their friends when things are bad.  
+ When fortune gives success, what need of friends?  
+ When god is keen to help, then his assistance  
+ is quite sufficient. All of Greece believes  
+ you love your wife—and I’m not saying this                                    
+ to win your favour with mere flattery—  
+ but I am appealing to you in her name.  
+ O this wretched situation I am in!  
+ How did I get into something like this?  
+ What then? Well, I have to go through with it. I’m making this appeal for my whole house.  
+ O uncle, you’re brother to my father.  
+ Imagine if, from his grave, the dead man  
+ is listening to this and if his spirit  
+ is hovering above you and saying  
+ what I say with these laments and tears  
+ in this misfortune. I’ve given my speech  
+ and pleaded to be saved, chasing after  
+ what all men seek, not just myself alone.  
+
+CHORUS LEADER  
+ Although I’m just a woman, I too beg you      
+ to help these people when they’re in such need.  
+ You have the power to do that.  
+
+MENELAUS  
+ Orestes,  
+ I do respect you, and I want to share  
+ these troubles with you. Besides, it’s right  
+ to help one’s family members in bad times,  
+ if god gives one the power, by killing  
+ their enemies and even dying oneself.  
+ I need to get that power from the gods.  
+ I’m here without a group of fighting spearmen,  
+ after roaming through thousands of troubles with the small help of my surviving friends.                                    
+ In any fight we could not overcome  
+ Pelasgian Argos. If we could prevail  
+ with reassuring words, then that’s where  
+ I’d place my hopes. For how can any man  
+ achieve great things with small resources?  
+ It’s foolishness to even wish for that.  
+ For when people fall into a frenzy  
+ it’s like a blazing fire, hard to put out.  
+ If one, in responding to the tension, gently eases off one’s grip, backs away,  
+ and times things right, it may blow itself out.  
+ If the winds die down, you could easily get                                      
+ whatever you want from them. For people  
+ do have pity, as well as their great passion,  
+ a quality of utmost value to the man  
+ who looks for it. And so on your behalf  
+ I’ll go and try to convince Tyndareus  
+ and the city to act on their passions                                           
+ wisely. For a ship can take on water if the sheet is pulled too tight, but if 
+ one eases off the rope, then that ship  
+ will once more right itself. The god does hate  
+ excessive zeal, as do the citizens.  
+ I must save you—I don’t deny the fact—  
+ but by using cleverness, not by force                                               
+ against a stronger group. I’d not save you  
+ with power alone, as you perhaps may think.  
+ It’s not easy to take a stand and win 
+ with a single spear against the troubles which afflict you. It never was my style  
+ to try to soften up the Argive state,  
+ but now it must be done—the wise man  
+ is a slave to circumstance.  
+
+[Menelaus and his attendants leave]  
+
+ORESTES  
+ You’re useless,  
+ except to head up an expedition  
+ for a woman’s sake, the worst of men  
+ in helping out your friends. Are you turning  
+ your back on me and running off,                                                    
+ so Agamemnon’s cause has disappeared?  
+ O father, once things have turned out badly you have no friends. Alas, I’ve been betrayed,  
+ and there’s no longer any hope for me  
+ of turning somewhere and escaping death  
+ at Argive hands. For that Menelaus  
+ was my refuge, my way of being saved.  
+
+[Pylades enters]  
+
+ But I see Pylades, my greatest friend,  
+ rushing here from Phocis. A welcome sight!  
+ A man who can be trusted in hard times  
+ is finer to behold than tranquil waters  
+ for men at sea. 
+
+PYLADES  
+ I’ve come through the city, and I had to move quickly once I heard                                           
+ and clearly witnessed for myself the crowds  
+ of citizens gathering there against you  
+ and your sister so they can kills you both  
+ without delay. What’s going on? How are you?  
+ What are you doing? Of people my own age,  
+ friends and relatives, you are my favourite.  
+ You’re all those things to me.  
+
+ORESTES  
+ I am done for—  
+ those few words make clear to you my troubles.                        
+
+PYLADES  
+ Then you must do away with me as well. Friends share things in common.  
+
+ORESTES  
+ Menelaus  
+ is the worst of men to me and to my sister.  
+
+PYLADES  
+ It’s natural enough that any man  
+ with a bad wife should grow bad himself.  
+
+ORESTES  
+ His coming here was as much help to me  
+ as if he hadn’t come.  
+
+PYLADES  
+ So it’s true then  
+ that he’s arrived and landed here?  
+
+ORESTES  
+ He took a while, but in no time at all                                               
+ showed he was an enemy to his friends.  
+
+PYLADES  
+ That wife of his—the nastiest of women— did he bring her on his ship?  
+
+ORESTES  
+ No, not him.  
+ She’s the one who brought him here.  
+
+PYLADES  
+ Where is she, that one woman who destroyed  
+ all those Achaeans?  
+
+ORESTES  
+ She’s in my home—  
+ if it’s all right to call it mine.  
+
+PYLADES 
+ What did you say  
+ to your father’s brother?  
+
+ORESTES  
+ Not to just look on  
+ while the townsfolk killed me and my sister.  
+
+PYLADES  
+ By the gods, how did he respond to you?  
+ That I’d like to know.  
+
+ORESTES  
+ He was cautious—  
+ the way false friends act with their families.                           
+PYLADES  
+ What sort of excuses did he offer?  
+ Once I know that, I’ll understand it all.  
+
+ORESTES  
+ That man arrived—the one who has produced                                
+ those splendid daughters.  
+
+PYLADES  
+ Ah, you mean Tyndareus.  
+ I suppose he was all worked up at you  
+ for his daughter’s sake?  
+
+ORESTES  
+ Yes, you have that right.  
+ And Menelaus preferred family ties  
+ with him instead of with my father.  
+
+PYLADES  
+ So when he was here he lacked the courage  
+ to share your troubles.  
+
+ORESTES                      
+ No. He wasn’t born a warrior. He’s brave among the women.  
+
+PYLADES  
+ So you’re in the gravest danger and must die?  
+
+ORESTES  
+ The citizens must cast their votes on us  
+ about the murder.  
+
+PYLADES  
+ What must the vote decide?  
+ Tell me. I’m growing fearful.  
+
+ORESTES  
+ For life or death—  
+ it’s not something that takes much time to say  
+ though it involves something that lasts forever.  
+
+PYLADES  
+ Leave the palace now, flee with your sister.  
+
+ORESTES  
+ Do you not see how we are both being watched,                            
+ with armed guards on every side?  
+
+PYLADES  
+ I noticed streets in town blocked off by men with weapons.  
+
+ORESTES  
+ We’re physically hemmed in, like a city 
+ by its enemies.  
+
+PYLADES  
+ You must ask me now 
+ how I am doing, for I, too am quite destroyed.  
+
+ORESTES  
+ By whom? This would add further disasters  
+ to the ones I face.  
+
+PYLADES  
+ Strophius, my father, 
+ has banished me—he was so furious  
+ he sent me from the house.  
+
+ORESTES  
+ What’s the charge 
+ he’s leveling against you, something private 
+ or is it one the townsfolk share?  
+
+PYLADES  
+ He claims it’s an unholy sacrilege to help you  
+ in murdering your own mother.  
+
+ORESTES  
+ That’s bad news.  
+ It seems what’s hurting me is harming you, as well.      
+
+PYLADES  
+ It’s something I have to bear. I’ll not act 
+ like Menelaus.  
+
+ORESTES  
+ But are you not afraid                                      
+ Argos will want to kill you, just like me?  
+
+PYLADES  
+ I’m not theirs to punish. I’m from Phocis.  
+
+ORESTES  
+ The mob is nasty, when it has leaders  
+ bent on doing wrong.  
+
+PYLADES  
+ But when it’s controlled  
+ by decent men, the decisions they make are always good.  
+
+ORESTES  
+ All right. We must think this through,  
+ working together.  
+
+PYLADES  
+ What must we do?  
+
+ORESTES  
+ What if I went and told the citizens . . .  
+
+PYLADES [interrupting]  
+. . . that what you did was just?  
+
+ORESTES  
+ I sought revenge  
+ for my father’s sake?  
+
+PYLADES  
+ They might be happy  
+ to grab hold of you.  
+
+ORESTES  
+ Am I to cower down  
+ and die without a word?  
+
+PYLADES                       
+ That’s cowardly.  
+
+ORESTES  
+ Then what should I do?  
+
+PYLADES  
+ If you stayed here,  
+ would you have a way of being rescued?  
+
+ORESTES  
+ No. I don’t have anything.  
+
+PYLADES  
+ And if you left, is there some hope you might be saved?  
+
+ORESTES  
+ Perhaps—                                     
+ there might be.  
+
+PYLADES  
+ That’s better than staying here, then.  
+
+ORESTES  
+ All right, I’ll go.  
+
+PYLADES  
+ At least that way, if you die,  
+ you’ll die more nobly. 
+
+ORESTES  
+ You’re right—this way  
+ I won’t be a coward.  
+
+PYLADES  
+ More than staying here.  
+
+ORESTES  
+ And my action was right.  
+
+PYLADES  
+ Just make a prayer  
+ that’s how it looks to them.  
+
+ORESTES  
+ And someone there  
+ might pity me . . . 
+
+PYLADES [interrupting]  
+ Yes, your noble birth  
+ is a great asset.  
+
+ORESTES  
+. . . being so upset  
+ at my father’s death.  
+
+PYLADES  
+ All that’s easy to see.                                     
+ORESTES  
+ I have to go. It’s not a manly thing  
+ to die a shameful death.  
+
+PYLADES  
+ I agree with you.  
+
+ORESTES  
+ Should we tell my sister?  
+
+PYLADES  
+ By the gods, no.  
+
+ORESTES  
+ There’d certainly be tears.  
+
+PYLADES  
+ That’d be a serious omen.  
+
+ORESTES  
+ It’s clear it’s better to say nothing.  
+
+PYLADES  
+ And you’ll save time.  
+
+ORESTES  
+ There’s just one problem for me.                                     
+
+PYLADES  
+ What now? Are you talking of something new?  
+
+ORESTES  
+ I’m worried the goddesses will stop me  
+ with this madness.  
+
+PYLADES  
+ But I’ll take care of you.  
+
+ORESTES  
+ It’s unpleasant looking after someone sick.                            
+PYLADES  
+ Not to me. Not when I’m looking after you.  
+
+ORESTES  
+ Be careful you don’t start my madness.  
+
+PYLADES  
+ Don’t worry over that.  
+
+ORESTES         
+ You won’t hold back?  
+
+PYLADES  
+ It’s a great evil to hold back with friends.  
+
+ORESTES  
+ Then, you pilot of my steps, let’s go now.  
+
+PYLADES  
+ That’s a service I’m glad to undertake.  
+
+ORESTES          
+ And lead me to my father’s tomb.  
+
+PYLADES  
+ Why there?  
+
+ORESTES  
+ So I may appeal to him to save me.  
+
+PYLADES  
+ That’s the righteous thing to do.                       
+
+ORESTES  
+ May I not glimpse 
+ the memorial to my mother!  
+
+PYLADES  
+ No, not that. She was your enemy. But you must hurry—  
+ the vote the Argives cast may catch you first.  
+ Lean your side that’s weakened by disease                                      
+ against my side, so I can carry you 
+ through town. I won’t be worrying about  
+ the crowds or feeling any sense of shame.  
+ For how can I show I’m a friend of yours  
+ if I don’t help when you’re in serious trouble?  
+
+ORESTES  
+ That’s the point. Make sure you get good comrades    
+ and not just relatives. A man may be from somewhere else, but if he bonds with you  
+ in how you act, then he’s a better friend,  
+ than a thousand members of one’s family.  
+
+[Pylades and Orestes leave]  
+
+CHORUS  
+ That great prosperity and lofty name  
+ so proudly celebrated throughout Greece  
+ and there beside the waters of the Simois  
+ has declined once more from the success                                         
+ of Atreus’ sons so many years ago—  
+ from an old misfortune in their house,  
+ when strife came to the sons of Tantalus about a golden ram, the saddest feasts  
+ and slaughter of children nobly born,  
+ that’s why murder moves on to murder  
+ through blood and does not leave alone  
+ the double line of Atreus. [^note-418]  
+
+ What’s good is not good, to slice up                                                  
+ a parent’s flesh with metal forged in fire  
+ and to display in the sun’s light a sword  
+ stained black with murdered blood. To commit   
+ a virtuous crime is sheer profanity, the mad delusion of wrong-thinking men.  
+ The wretched daughter of Tyndareus,  
+ terrified of death, screamed at him, “My child,  
+ don’t you dare carry out such sacrilege  
+ and slaughter your own mother—in honouring  
+ your father, don’t tie yourself to such disgrace,  
+ such shame which lasts for an eternity.”                                          
+
+ What affliction or distress, what agony  
+ in all the earth surpasses this, to have 
+ on one’s own hands a mother’s murdered blood? For undertaking such a act, the man  
+ has been driven into fits of madness,  
+ prey hunted by the Kindly Ones, his eyes  
+ rolling in her whirling blood, the son  
+ of Agamemnon. The miserable wretch,                                           
+ when he saw his mother’s breast appear  
+ above her dress, a robe of woven gold,  
+ he made his own mother a sacrifice    
+ to avenge the sufferings of his father.  
+
+[Enter Electra from the house]  
+
+ELECTRA  
+ You women, has poor Orestes left the house,   overcome by that madness from the gods?  
+
+CHORUS LEADER  
+ No. He’s gone to the people in Argos,  
+ to give himself up for the vote they’ve set,  
+ in which you two must live or die.  
+
+ELECTRA  
+ Alas! Why did he do that? Who convinced him?  
+
+[A Messenger appears, coming toward the house]  
+
+CHORUS LEADER  
+ Pylades did. But this messenger, it seems,                                      
+ will soon tell us news about your brother,  
+ what happened to him there.  
+
+MESSENGER  
+ You poor girl,  
+ unhappy daughter of Agamemnon,  
+ our army’s leader, lady Electra, hear the disastrous news I bring you.  
+
+ELECTRA  
+ Alas! We’re finished! Your words are clear enough—  
+ you’ve come, it seems, with disastrous news.  
+
+MESSENGER  
+ Pelasgians have, in their vote, decreed  
+ that you, unhappy lady, are to die,  
+ you and your brother on this very day. [^note-419]  
+
+ELECTRA  
+ Alas! What I been expecting has arrived—  
+ I’ve been afraid of it a long time now,                                              
+ dissolved in sorrow for what might come true.  
+ How was the trial? What did the Argives say to convict us and ratify our deaths?  
+ Tell me, old man, whether my life will end  
+ by stoning or a sword—for I do share  
+ in those misfortunes of my brother?  
+
+MESSENGER  
+ I happened to be coming from the country  
+ and was coming through the gates—I wanted  
+ to find out about you and Orestes.  
+ I always liked your father, and your house  
+ gave me food. I was poor but honourable                                       
+ in helping out my friends. I saw a crowd going up and sitting on the higher ground  
+ where, they say, Danaus first gathered up  
+ his people and they sat down together  
+ to judge the charge against him by Aegyptus. [^note-420]  
+ Seeing the crowd, I asked a citizen,  
+ What’s new in Argos? Has some news report  
+ about an enemy caused a great stir  
+ in this city of Danaus’ descendants?  
+ He said, “Don’t you see Orestes coming,  
+ rushing to a trial where his life’s at stake.” Then I saw something I did not expect—  
+ how I wish I’d never seen it!—Pylades                                              
+ and your brother moving there together,  
+ one with his head down and doubled over  
+ by his infirmity and the other,  
+ like a brother, sharing his friend’s troubles,  
+ caring for his sickness as if he were  
+ schooling a young boy. Once the Argives  
+ had gathered in a crowd, a herald stood 
+ and cried, “Who desires to make a speech whether Orestes should be killed or not  
+ for his mother’s murder?” Talthybius stood,  
+ the man who helped your father demolish  
+ those Phrygians. [^note-421] He spoke ambiguously—  
+ well, he’s always been a subordinate  
+ of those in power—praising your father                                           
+ but saying nothing good about your brother,  
+ weaving good and misleading words together,  
+ claiming it would be setting up bad laws  
+ concerning parents, and all the time he kept looking at Aegisthus’ friends  
+ with those bright eyes of his. The herald tribe  
+ is like that—they’re always jumping over  
+ to the side of the successful. Any man  
+ who has ruling power in the city 
+ is a friend of theirs. After he’d finished,  
+ lord Diomedes spoke. He was against                                              
+ killing you or your brother but proposed  
+ they act with reverence and as punishment    
+ use exile. Some of the people there roared out that what he’d said was good, but then others  
+ didn’t favour the idea. But after that,  
+ a man stood up who can’t keep his mouth shut,  
+ whose strength comes from his boldness—an Argive,  
+ but not from Argos—and forced himself on us  
+ relying on bluster, ignorant free speech,  
+ persuasive enough to get them involved  
+ in some bad scheme or other. When a man  
+ with bad intentions but a pleasing style  
+ persuades a mob, that’s a great disaster for the city, but those who always give                                            
+ useful, sound advice, even if their words  
+ are not immediately appropriate,  
+ are beneficial later to the state.  
+ That’s how one should view a party leader—  
+ what happens with a man who gives a speech  
+ is much the same as with a man in office.  
+ Well, this man said that you and Orestes  
+ should be stoned to death. But Tyndareus  
+ was the one who laid down the arguments the speaker used to urge you both be killed.  
+ Another man stood up opposing him.  
+ He wasn’t much to look at physically,  
+ but the man had courage. He rarely came  
+ into the city and the market place.  
+ He was a farmer—they’re the only ones                                           
+ who keep our country going—but clever  
+ and keen to wrestle with the argument,  
+ someone with integrity, who lived a life                                    
+ beyond reproach. He said they should crown Orestes, Agamemnon’s son, who wished  
+ to avenge his father, who’d been murdered  
+ by an abominable, godless woman—  
+ she’d stop men taking up their weapons  
+ and fighting foreign wars, if those people  
+ who stayed behind corrupted things at home  
+ by abusing the men’s wives. What he said  
+ appeared convincing, at least to decent folk.                                   
+ There were no other speakers. Your brother 
+ then came up and said, “You who are the heirs of Inachus, who were Pelasgians  
+ so long ago, then sons of Danaus,  
+ I was fighting on your behalf, no less  
+ than for my father, when I killed my mother.  
+ For if the fact that women murder men  
+ is permitted, you’ll be dead in no time,  
+ or else we’ll have to be the women’s slaves—  
+ and you’ll be doing the very opposite  
+ of what you should be doing. As it is,  
+ the woman who betrayed my father’s bed is dead, but if you execute me now,                                                 
+ the law would be relaxed, and men will die  
+ as fast as possible—there’ll be no lack  
+ of such audacity.” His speech was good,  
+ but he could not convince the crowd. Instead,  
+ the verdict of the entire group was for  
+ the nasty rogue who spoke out in favour  
+ of executing you and your brother.  
+ Poor Orestes just managed to persuade them   
+ not to stone him to death, by promising to end his life, to die by his own hand, 
+ along with you, as well, this very day.  
+ Pylades, in tears, is bringing him here  
+ from the assembly. His friends are coming,                                     
+ weeping and lamenting. This spectacle,  
+ so painful for you, is heading this way,  
+ a distressing sight. Get your swords ready  
+ or a noose around your neck—you must leave  
+ the light. Your noble birth has been no help.  
+ Nor has Phoebus in Delphi, seated there on his tripod. Instead he has destroyed you.  
+
+[The Messenger leaves]  
+
+CHORUS LEADER  
+ O you unfortunate girl, you’re speechless,  
+ with your clouded face bent toward the ground, 
+ as if you’ll rush to cry and make laments.  
+
+ELECTRA  
+ O Pelasgia, now I start to weep,                                                       
+ pushing white nails through my cheeks,  
+ blood lacerations, and striking my head,  
+ actions appropriate to Persephone,  
+ lovely child goddess of the world below.  
+ Let the Cyclopian land now wail aloud the sorrows of this house, setting iron  
+ against its head to shave it close. [^note-422]  
+ Pity, yes, pity now comes forward  
+ for those who are about to die,  
+ once war leaders of the Greeks.                                                        
+
+ It’s gone—the entire race of Pelops,  
+ passed away and gone, all the glory  
+ that once made it a blessed house.  
+ Envy from the gods seized them— 
+ and that hateful vote for blood among the citizens. Alas, alas,  
+ you tribes of men bowed down with work,  
+ who live a brief life full of tears,  
+ see how Fate moves to thwart your hopes.  
+ As time run on at length, different men  
+ take turns with different troubles,                                                   
+ and all of human life remains uncertain.  
+
+ If only I could reach that boulder  
+ hanging in the winds on chains of gold  
+ mid way between the earth and heaven, that fragment carried from Olympus,  
+ so I could shout out my laments  
+ to old father Tantalus, who sired  
+ and made my house’s ancestors.  
+ the ones who witnessed such disasters—  
+ the race of flying horses, when Pelops  
+ in a four-horse chariot raced to the sea                                            
+ and murdered Myrtilus by hurling him  
+ into the ocean swell, driving his chariot  
+ near Geraestus, where the surging sea foams white along the shore. [^note-423]  
+ From that there came upon my house  
+ a dreadful curse, when Maia’s son  
+ arranged a birth within the flocks,  
+ the lamb with a fleece of gold,  
+ ominous portent of the ruin  
+ of horse-breeding Atreus.                                                                 
+ Because of that, Strife then reversed  
+ Sun’s winged chariot to a western path  
+ across the sky by placing under yoke the snow-white horses of the Dawn  
+ and Zeus changed onto another path  
+ the moving seven-tracked Pleiades. [^note-424]  
+ Death followed death at that banquet  
+ to which Thyestes gave his name  
+ and the bed of Aerope from Crete,  
+ a traitor in her deceitful marriage. [^note-425]  
+ The final chapter comes with me  
+ and with my father in these troubles,  
+ all these afflictions laid on our house.                                     
+[Pylades and Orestes enter]  
+
+CHORUS LEADER  
+ Look, here comes your brother, condemned to die  
+ by general vote, and with him Pylades,  
+ the truest of all men, like a brother,  
+ guiding his sick limbs, treading carefully  
+ like a pace horse giving its support.  
+
+ELECTRA  
+ Alas! My brother, I’m seeing you here  
+ before your tomb, confronting face to face  
+ the gates of those below, and I weep.  
+ Alas, once more! This last sight of you                                            
+ before my eyes will make me lose my mind.                           
+ORESTES  
+ Why can’t you just be quiet and finish off  
+ these womanish laments for what’s been done?  
+ It’s pitiful, but still you must endure  
+ the circumstances we now face.  
+
+ELECTRA  
+ But how  
+ can I stay silent? We poor sufferers  
+ will no longer see the sun god’s light.  
+
+ORESTES  
+ Don’t be so tedious. It’s quite enough  
+ that I’ll be suffering a wretched death  
+ at Argive hands. So just set aside  
+ your present sorrow.  
+
+ELECTRA  
+ Alas for your sad youth, Orestes, and for your early death.  
+ You should live on, but now you’ll be no more.                              
+
+ORESTES  
+ By the gods, you’ll strip me of my manhood—  
+ by bringing our calamities to mind  
+ you’ll have me crying.  
+
+ELECTRA  
+ We’re going to die.  
+ It’s impossible not to grieve for that.  
+ It’s pitiful. To all men life is sweet. 
+
+ORESTES  
+ This is our appointed day. So we must  
+ sharpen a sword or fix a hanging noose.  
+
+ELECTRA  
+ Then you kill me, my brother, so no Argive   executes me and starts hurling insults  
+ at Agamemnon’s children.  
+
+ORESTES  
+ I won’t kill you.  
+ It’s enough to have my mother’s blood on me.  
+ No. You must die by your own hand somehow—                           
+ in whatever way you wish.  
+
+ELECTRA  
+ All right, then.  
+ I won’t lag behind you with my sword.  
+ But I want to hug you around your neck  
+
+ORESTES  
+ Enjoy that empty pleasure, if embraces  
+ bring any joy to those about to die.  
+
+ELECTRA [embracing Orestes]  
+ O my dearest one! O that longed-for name,   so very sweet to your own sister—  
+ whose spirit is one with yours.  
+
+ORESTES  
+ You’ll melt my heart.  
+ I want to respond to you with loving arms.  
+ And why should a wretch like me still feel shame?  
+
+[Orestes embraces Electra]  
+
+ Ah, my sister’s heart, how I love holding you!  
+ For us in our misery these pleasures                                                
+ replace our children and a marriage bed.  
+
+ELECTRA  
+ If only the same sword could kill us both,  
+ if that’s permitted, and one burial chamber   
+ made of cedar wood receive us both.  
+ORESTES  
+ That would be very sweet. But you do see  
+ we’re short of friends who’d let us share a tomb.  
+
+ELECTRA  
+ Did that coward Menelaus, the one  
+ who betrayed my father, not speak out  
+ on your behalf, making some attempt  
+ to stop you being killed?  
+
+ORESTES  
+ Not at all—  
+ he didn’t even show his face. His hopes  
+ were on the sceptre, so he was careful  
+ not to save the members of his family.  
+ But come now, as we move to our deaths     
+ let’s act bravely, in a way that’s worthy  
+ of Agamemnon. So I, for my part,  
+ will show the city I am nobly born,  
+ when I push the sword into my liver.  
+ You, in turn, must match my courage.  
+ Pylades, you must supervise our deaths—  
+ when we’re dead, dress our bodies properly.  
+ Carry them to our father’s burial mound  
+ and bury us together. So farewell.  
+ I’m on my way to do it, as you see.                                          
+[Orestes starts to move into the house]  
+
+PYLADES  
+ Hold on! There’s first something I blame you for—  
+ if you believed I’d want to go on living                                            
+ after you were dead.  
+
+ORESTES  
+ Why is it right  
+ that you should die with me?  
+
+PYLADES  
+ You’re asking that?  
+ How can I live without you as my friend?  
+
+ORESTES  
+ You didn’t kill your mother, as I did,  
+ to my misfortune.  
+
+PYLADES  
+ I acted with you.  
+ For that I should have to suffer something.                   
+
+ORESTES  
+ Surrender your body to your father.  
+ Don’t die with me. You still have a city. I do not. You have your father’s house  
+ and the safety of great wealth. You failed  
+ to marry my poor sister, as I promised  
+ out of a sense of our companionship.  
+ But you must take another marriage bed                                         
+ and have children. The family bonds we had  
+ no longer hold with you and me. Be happy,  
+ beloved face of my great friend. For us            
+ that is impossible, but you can be—  
+ we dead lack any sources of delight.                                       
+PYLADES  
+ How far you are from understanding  
+ what my intentions are. May fruitful earth  
+ refuse to take my blood and the bright sky  
+ my spirit, if ever I betray you,  
+ if I let myself go free and leave you.  
+ I did the murder, too. I don’t deny it.  
+ And I planned all those things for which you now                           
+ are paying the penalty. And so I must  
+ go to my death along with you and her.  
+ Since I consented to the marriage, I consider her my wife. What would I say  
+ if I ever came to the land of Delphi,  
+ and reached the high citadel of Phocis,  
+ if I’d been your friend before your troubles  
+ but was no longer any friend of yours  
+ now you’re in this distress? I can’t do that.  
+ I’m involved in this, as well. Since we’ll die  
+ let’s see if we can find a way together  
+ to make Menelaus miserable as well.  
+
+ORESTES  
+ My dearest friend, if only I could see    
+ something like that before I die.  
+
+PYLADES  
+ Then listen.  
+ You must postpone this sword blow.  
+
+ORESTES  
+ I will,  
+ if I can get even with my enemy.  
+
+PYLADES [indicating the Chorus]  
+ Be quiet. I don’t have much confidence  
+ in these women.  
+
+ORESTES    
+ Don’t worry about them.  
+ These women here are friends of ours.  
+
+PYLADES  
+ Let’s murder Helen—for Menelaus  
+ that would be a bitter pain.  
+
+ORESTES  
+ But how?  
+ I’m prepared to do it, if there’s a chance   
+ we’d pull it off.  
+
+PYLADES  
+ By hacking her to death. She’s hiding in your house.  
+
+ORESTES  
+ That’s true enough.  
+ In fact, she’s stamping her seal on everything.  
+
+PYLADES  
+ Not any more. She’s engaged to Hades.  
+
+ORESTES  
+ How do we do it? She has attendants—                                          
+ those barbarians.  
+
+PYLADES  
+ What do they matter?  
+ I’m not afraid of any Phrygians.  
+
+ORESTES  
+ The kind of men who take care of mirrors  
+ and look after perfumes! 
+
+PYLADES  
+ Did she come here  
+ bringing the luxuries of Troy with her?  
+
+ORESTES  
+ Oh yes. For her Greece is too small a space to live in.  
+
+PYLADES  
+ The race of slaves is nothing  
+ compared to those who’re free.  
+
+ORESTES  
+ If I do this,  
+ I’m not afraid of dying twice.                   
+
+PYLADES  
+ Nor am I,  
+ if I’m getting my revenge for you.  
+
+ORESTES  
+ Explain the plan—keep on describing  
+ what you were talking about.  
+
+PYLADES  
+ We’ll go in,  
+ inside the house, as if we’re on our way  
+ to kill ourselves.  
+
+ORESTES  
+ I understand that part.                                          
+ But I don’t get the rest.  
+
+PYLADES  
+ We’ll parade our grief  
+ for what we’re suffering in front of her.                                   
+ORESTES  
+ So she’ll begin to weep, though on the inside 
+ she’ll be overjoyed.  
+
+PYLADES  
+ Then the state she’s in  
+ will match our own.  
+
+ORESTES  
+ After that, what do we do  
+ according to our plan?  
+
+PYLADES  
+ We’ll have swords  
+ hidden in our clothes.  
+
+ORESTES  
+ And her attendants—  
+ do we kill them first?  
+
+PYLADES  
+ We’ll lock them up  
+ in different places in the house  
+
+ORESTES  
+ And anyone  
+ who won’t keep quiet we’ll have to kill.  
+
+PYLADES 
+ Once that’s done, the job itself will tell us  
+ where we direct our efforts.  
+
+ORESTES  
+ Helen’s murder.    
+ I know what that means.  
+
+PYLADES  
+ That’s right.  
+ Now listen to how well I’ve planned this out.  
+ If we drew our swords against a woman  
+ with greater moderation, the killing  
+ would be notorious, but as it is,  
+ she’ll pay the penalty to all of Greece—  
+ she killed their fathers, destroyed their children,  
+ and robbed married women of their husbands—  
+ there’ll be shouts of joy, people lighting fires  
+ to the gods and calling many blessings down on you and me for carrying out the murder  
+ of such an evil woman. With her death  
+ you won’t be called “killer of your mother”—                                  
+ you’ll move past that and find a better name.  
+ They’ll call you killer of Helen, the one  
+ who slaughtered thousands. It can’t be right,  
+ it never would be right for Menelaus  
+ to keep being successful while your father,  
+ your sister, and yourself go to their deaths,  
+ and your mother . . . but I’ll avoid that subject as something indelicate to mention,  
+ or for him to have your house—after all,  
+ it was thanks to Agamemnon’s spear  
+ he got his wife back. May I stop living  
+ if we don’t pull out our swords against her!  
+ If we don’t succeed in killing Helen,  
+ before we die we’ll set the house on fire.                                         
+ We won’t fail to win at least one glory—  
+ a noble death or a fine salvation.  
+
+CHORUS LEADER  
+ Tyndareus’ daughter disgraced her sex and justly earned the hatred of all women.  
+
+ORESTES  
+ Ah me, a true friend—there’s nothing better,  
+ not wealth or sovereignty. One cannot count  
+ what one would exchange for a noble friend.  
+ You’re the one who devised those nasty things  
+ against Aegisthus, then stayed at my side  
+ when danger threatened. And now once again                               
+ you’re offering me a way of punishing  
+ my enemies and are not running off.  
+ But I’ll stop praising you—excessive praise can prove a burden. Now, in any case,  
+ since my spirit is going to breathe its last,  
+ I want to do something to my enemies  
+ before I die, so I can demolish,  
+ in their turn, those who were traitors to me  
+ and make those who made me suffer grieve.  
+ Yes, I was born son of Agamemnon,  
+ who was considered worthy to rule Greece.  
+ He was no tyrant yet had god-like strength.  
+ I will not disgrace him, going to my death     
+ as if I were a slave. No. My life force  
+ I shall release quite freely. And I’ll take  
+ revenge on Menelaus. If we could get  
+ just one thing, we could get lucky—some way  
+ to save ourselves despite all expectations  
+ might fall our way from somewhere, so we’d kill  
+ and not get killed ourselves. I pray for that.  
+ It’s sweet to talk about what I desire  
+ in words with wings which cheer my spirit  
+ and don’t cost anything.  
+
+ELECTRA  
+ Brother, I think I’ve got the very thing you’re praying for,  
+ a way of rescuing the three of us, 
+ you, him, and me.  
+
+ORESTES  
+ You mean divine good will?  
+ That can’t be it, because I know your mind                                     
+ is too intelligent for that.  
+
+ELECTRA  
+ Just listen—  
+ and you, Pylades, pay attention, too.  
+
+ORESTES  
+ All right, talk. The idea that there’s good news  
+ makes me feel good.  
+
+ELECTRA  
+ You know Helen’s daughter?  
+ Of course, you do.  
+
+ORESTES  
+ Yes, I know Hermione.  
+ My mother raised her.  
+
+ELECTRA  
+ Well, she’s gone off to Clytaemnestra’s grave.  
+
+ORESTES  
+ What’s she doing there?  
+ What hope are you suggesting?  
+
+ELECTRA  
+ She’s gone to pour  
+ libations on our mother’s burial mound.  
+
+ORESTES  
+ How does what you’ve said help us to safety?  
+
+ELECTRA  
+ Seize her on her way back. Make her a hostage.  
+
+ORESTES  
+ We three here are friends—so what remedy                                    
+ are you suggesting for us?  
+
+ELECTRA  
+ Once Helen’s dead,  
+ if Menelaus tries to do something  
+ to you or him or me—for this friendship  
+ unites us all as one—tell him you’ll kill Hermione. You must pull out your sword  
+ and hold it here, across the young girl’s throat.  
+ Once Menelaus sees Helen collapsed  
+ in her own blood, if he tries to save you,  
+ because he doesn’t want the girl to die,  
+ then let her father have Hermione back,  
+ but if his passions get the best of him  
+ and he seeks your death, cut the young girl’s neck.  
+ I think he’ll put on quite a show at first,                                          
+ but soon enough his temper will calm down. He’s not a bold courageous man by nature.  
+ That’s the defence I have to rescue us.  
+ That’s it. I’m finished.  
+
+ORESTES  
+ You’ve got a man’s heart,  
+ though your body shows that you’re a woman.  
+ How much more you deserve to stay alive  
+ than die. Pylades, it would be bad luck  
+ if you were to lose a woman like this,  
+ but if you live, you’ll be a happy man  
+ to share her marriage bed.  
+
+PYLADES  
+ I hope that happens.  
+ May she come to the city of Phocis full honoured with fine wedding songs!                                           
+
+ORESTES  
+ How long before Hermione gets home?  
+ All the things you said were really good,  
+ provided we succeed in seizing her,  
+ that whelp of a sacrilegious father.  
+
+ELECTRA  
+ I expect she’s already near the house,  
+ judging from the length of time she’s taken.  
+
+ORESTES  
+ Good. Now, Electra, you remain right here.  
+ Wait in front of the house for her return.  
+ And keep an eye out, in case anyone— my uncle or one of his associates—  
+ comes too near the house before the murder.                                  
+ If so, make a signal to those inside,  
+ by knocking on the door or sending word.  
+ Pylades, we’ll go in and arm ourselves,  
+ get swords in hand to finish this last fight—  
+ you’ll help me in carrying out the work.  
+ O father living at home in murky night,  
+ your son Orestes is summoning you  
+ to come and stand by those who need your help. In this distress I’m suffering injustice  
+ for your sake. I’ve acted righteously,  
+ but I’ve been betrayed by your own brother  
+ Now I wish to take his wife and kill her—  
+ be our accomplice in this act.                                                           
+
+ELECTRA  
+ O father,  
+ do come, if from there beneath the earth  
+ you hear the calls of your own children  
+ who are dying for your sake.  
+
+PYLADES  
+ O Agamemnon,  
+ my father’s kinsman, hear my prayers as well—    
+ save your children.  
+
+ORESTES  
+ I murdered by mother . . .  
+ELECTRA  
+ I handed him the sword . . . 
+
+PYLADES  
+ I urged him on  
+ and overcame his hesitation.  
+
+ORESTES  
+ I was defending you, father.  
+
+ELECTRA  
+ And I  
+ did not betray you.  
+
+PYLADES  
+ Surely you’ll listen  
+ to these reproaches and save your children.      
+
+ORESTES  
+ I’m pouring a libation to you in my tears.  
+
+ELECTRA  
+ And I with my laments.  
+
+PYLADES  
+ Stop this now.                                     
+ Let’s get to work. If it’s true that prayers  
+ do pierce the ground, then he is listening.  
+ O ancestral Zeus and holy Justice, grant success to him, to her, to me,  
+ to three friends facing a single struggle,  
+ a single punishment—we all will live,  
+ or pay the price and die.  
+
+[Orestes and Pylades enter the house. Electra turns to face the Chorus]  
+
+ELECTRA  
+ O you women of Mycenae, my friends,  
+ among the first ranks of those who live  
+ in the Argives’ Pelasgian home.  
+
+CHORUS LEADER  
+ What is it you want to say, my lady? 
+ You still retain this title in the city                                                   
+ where the sons of Danaus live.                                                
+ELECTRA  
+ Place yourselves where you can watch the house—  
+ some of you there on the chariot roadway,  
+ some of you here along the other path.  
+
+CHORUS LEADER  
+ Why are you calling me to do these tasks?  
+ Tell me, dear girl.  
+
+ELECTRA  
+ I’m afraid someone  
+ may come across the murderous bloodshed  
+ in the house and witness new disasters  
+ to add to old calamities.  
+
+FIRST SEMI-CHORUS  
+ Let’s hurry on our way.  
+ Let’s go. I’ll stand guard on this pathway,  
+ the one towards the east.  
+
+SECOND SEMI-CHORUS  
+ And I’ll guard this road,     
+ the one towards the west.  
+
+ELECTRA  
+ Keep your eyes moving   
+ back and forth, checking on both sides.  
+
+CHORUS  
+ Back and forth, then once more back again—  
+ I’m following what you said.  
+
+ELECTRA  
+ Keep your eyes alert.  
+ Let them see everything through that hair of yours.  
+
+FIRST SEMI-CHORUS  
+ Who’s that man approaching down the road?  
+ What country fellow’s wandering round your home?                      
+
+ELECTRA  
+ We’re lost, my friends! He’ll tell our enemies 
+ about those predators with swords in there—  
+ and do so right away.  
+
+SECOND SEMI-CHORUS  
+ Calm your fears, my dear. It’s not what you think—the path is empty.  
+
+ELECTRA  
+ What’s going on? Is your side still clear for me?  
+ Give me a report if it’s all right, 
+ if there’s no one there by the front courtyard.  
+
+FIRST SEMI-CHORUS  
+ It’s fine here. Just keep watching on your side.  
+ None of Danaus’ sons is moving toward us.  
+
+SECOND SEMI-CHORUS  
+ Same thing over here. And there’s no noise.                                   
+
+ELECTRA  
+ All right. I’ll try listening at the doorway.  
+ It’s so quiet. You there inside the house,  
+ why the delay in bloodying your victim? They can’t hear. Alas, this looks bad for me!  
+ Has her loveliness made their swords grow blunt?  
+ Soon some armed man will be rushing here,  
+ coming from the Argives to rescue her                                            
+ and attack the house. Keep better guard.  
+ This is not a contest in sitting still.  
+ You women circle around over there,  
+ you others over there.  
+
+CHORUS  
+ I shift around—  
+ I’m looking everywhere along the road.  
+
+[Helen screams from inside the house]  
+
+HELEN [within]  
+ O Pelasgian Argos! I’m being butchered!                                
+CHORUS [speaking as separate individuals]  
+—Did you hear that? The men have set their hands  
+ to killing.  
+
+—That’s Helen screaming. That’s my guess.  
+
+ELECTRA  
+ O Zeus, O eternal power of Zeus—  
+ just come and help my friends.                                                        
+
+HELEN [within]  
+ Menelaus, I’m dying—you’re close by  
+ but you won’t help me!  
+
+ELECTRA  
+ Slaughter her, finish her off!  
+ Destroy her! Let your two swords  
+ slash her with their double blades,  
+ the one who left her father, left her husband, and butchered  
+ so many Greeks, killed by spears  
+ beside the river bank, where tears  
+ and then more tears were shed,  
+ with iron weapons all around  
+ the whirling waters of Scamander. [^note-426]  
+
+CHORUS LEADER  
+ Be quiet! Don’t say a thing! I hear the sound  
+ of someone coming along the pathway,  
+ near the house.  
+
+ELECTRA  
+ You women, dearest friends,  
+ Hermione’s coming, while the murder’s still going on. We must stop shouting. She’ll walk  
+ headlong into the meshes of our net.  
+ Our catch will be a fine one, if she’s caught.  
+ Go back to your positions once again.  
+ Keep your looks serene. Don’t let your colour  
+ reveal what’s happened. I’ll keep my eyes  
+ looking sad, as if I had no knowledge                                              
+ of what’s been done.  
+
+[Hermione enters, coming towards the house]  
+
+ELECTRA  
+ Ah my girl, have you come 
+ from placing wreaths on Clytaemnestra’s grave  
+ and pouring out libations to the dead?                                   
+HERMIONE  
+ Once I obtained her favour, I returned.  
+ But a certain fear has come over me—  
+ when I was still some distance from the house  
+ I heard some screaming coming from inside.  
+
+ELECTRA  
+ Is that so strange? What’s happening to us  
+ deserves such cries of sorrow.  
+
+HERMIONE  
+ Don’t say bad things.  
+ What news have you to speak of?  
+
+ELECTRA  
+ The state  
+ decrees Orestes and myself must die.  
+
+HERMIONE  
+ No, no! You’re my blood relatives!  
+
+ELECTRA  
+ It’s done.                                
+ We’re strapped under necessity’s harsh yoke.                        
+HERMIONE  
+ Was that why someone screamed inside the house?  
+
+ELECTRA  
+ A suppliant cried out as he fell down  
+ at Helen’s knees.  
+
+HERMIONE  
+ Who was it? Tell me—  
+ if you don’t, I won’t know any details.  
+
+ELECTRA  
+ It was poor Orestes. He was begging  
+ not to die—and for me, as well.  
+
+HERMIONE  
+ The house  
+ has a good reason then to cry aloud.  
+
+ELECTRA  
+ What other better reason could there be  
+ for someone to scream about? But come now,  
+ join your relatives in their entreaties, prostrating yourself before your mother,  
+ now she enjoys such great prosperity,  
+ so Menelaus will not see us die.  
+ You who were nursed in my own mother’s arms,                            
+ have pity on us and assist us now  
+ in our distress. Enter the struggle here.  
+ I’ll lead you in myself, for you alone  
+ are our last hope of rescue.  
+
+HERMIONE  
+ Watch me—  
+ my feet are hurrying towards the house.  
+ As far as it lies within my power, may you be safe.  
+
+[Hermione enters the palace]  
+
+ELECTRA  
+ You friends inside the house—             
+ why not take your swords and seize your prey?  
+
+HERMIONE [from within the house]  
+ O no! Who are these men I see?  
+
+ORESTES [from within]  
+ Silence!  
+ You’ve come to save us, not yourself. 
+
+ELECTRA [at the doorway, looking in]  
+ Grab her!  
+ Hold her down! Put your sword across her throat—                      
+ and keep quiet, so Menelaus will know  
+ he’s met some men, not Phrygian cowards,  
+ and has been dealt with as bad men deserve.  
+
+[Electra enters the house]  
+
+CHORUS  
+ O friends, begin the rhythmic beat,  
+ the noise and shouts, before the house, so that this murder, once complete,  
+ may not inspire a dreadful fear  
+ among the Argives and they run here  
+ to help the royal house, not before  
+ I see for certain Helen’s dead  
+ and lying in blood there in the house  
+ or hear the news from her attendant.  
+ I know a part of what’s gone on,  
+ but there are things I do not know.                                                  
+ Justice from the gods has rightly come with retribution now to Helen—  
+ because she filled all Greece with tears  
+ thanks to that accursed destroyer,  
+ Paris from Ida, who led Greeks to Troy.  
+
+CHORUS LEADER  
+ The bolts on the palace doors are creaking.  
+ Be quiet. One of the Phrygians  
+ is coming out. We’ll find out from him  
+ how things are going inside.  
+
+[A Phrygian enters, quite terrified. He chants or sings his first speeches] [^note-427]  
+
+PHRYGIAN  
+ I’ve fled death from an Argive sword  
+ by scrambling in my Asian slippers    
+ over bedroom cedar ceiling beams  
+ and the Doric carvings on the frieze  
+ Ruined! Gone! O earth, earth,  
+ in my barbarian flight! Alas for me!  
+ You strange ladies, how can I flee—  
+ by flying up through the shining sky  
+ or out to sea, which bull-headed Ocean,  
+ as he rolls in circles round the earth,  
+ holds in his arms’ embrace?  
+
+CHORUS LEADER  
+ What’s going on,  
+ you slave of Helen, creature from Ida?     
+
+PHRYGIAN  
+ Ilion, O Ilion! O woe is me  
+ city of Phrygia, Ida’ sacred hill  
+ with its rich earth, how I lament  
+ with my barbarian cries your ruin,  
+ funereal melodies and dirges,  
+ because the vision of loveliness  
+ born from a swan-feathered bird,  
+ Leda’s lion cub, that hellish Helen,  
+ that evil Helen, avenging fury  
+ for Apollo’s polished citadel. Alas! Alas, for these laments,                                                           
+ these dirges for Dardania,  
+ for the horsemanship of Ganymede  
+ Zeus’ sexual partner in his bed. [^note-428]  
+
+CHORUS LEADER  
+ Tell us what’s happening inside the house,  
+ clearly and in detail. Your words so far  
+ are difficult for me to understand.  
+
+PHRYGIAN  
+ O Linus, Linus—as barbarians say  
+ in their Asian tongue, once death begins,  
+ whenever royal blood spills on the earth from iron swords of Hades. They came there,                                 
+ inside the house—I’m giving you each detail—  
+ twin lions of Greece, one who was called  
+ the commander’s son, the other one  
+ the son of Stophius, with a wicked mind,  
+ just like Odysseus, a silent traitor,  
+ but faithful to his friends, bold in a fight,  
+ clever in war, a deadly serpent. Damn him  
+ for his quiet deviousness, the scoundrel!  
+ They came in, up to where she was sitting, the woman archer Paris married, faces                                             
+ wet with tears, and humbly crouched down there,  
+ one on either side, keeping her hemmed in.  
+ They threw their suppliant arms around her knees—  
+ both laid hands on Helen. Then on the run  
+ her Phrygian servants came rushing up,  
+ each calling to the others in their fear  
+ that it might be a trick. To some of them                                        
+ it looked all right, but it seemed to others  
+ that the snake who murdered his own mother was entangling the child of Tyndareus  
+ in a devious plot to snare her.  
+
+CHORUS LEADER  
+ Where were you?  
+ Had you run off in terror long before that?  
+
+PHRYGIAN  
+ It so chanced that I, as a Phrygian,  
+ was following Phrygian fashions  
+ and with a circular feathered fan  
+ was wafting breezes, breezes by the curls  
+ of Helen, on Helen’s cheeks—a habit  
+ we barbarians have. She was twisting yarn                                      
+ wrapping her fingers round the spindle. The thread was falling down onto the floor.  
+ With those Phrygian spoils she wished to make  
+ some purple clothes, a gift for Clytaemnestra,  
+ to adorn her tomb. Orestes then spoke up  
+ and called out to the Spartan girl, “Child of Zeus,  
+ leave your chair and stand up over here,                                          
+ by the ancient hearth of Pelops, our ancestor,  
+ so you can hear the words I have to say.”
+ He led her, yes led her, and she followed—  
+ she had no idea what he was planning. His partner, that evil man from Phocis,  
+ moved off, going about some other business.  
+      “You Phrygian cowards, leave—go somewhere else!”
+ Then he locked them up in different places  
+ all through the house—some in the stables,  
+ some in the porticoes—some here, some there,                              
+ leaving them in various locations  
+ some distance from their mistress.  
+
+CHORUS LEADER  
+ Then what happened?  
+
+PHRYGIAN  
+ Mother of Ida! O sacred mother, 
+ holy one! O the murderous suffering, the lawless evil I saw there, I witnessed  
+ in the royal palace. Their hands pulled swords  
+ out from the darkness of their purple robes,  
+ rolling their eyes back and forth, here and there,  
+ to check that no one else was there. They stood,  
+ like mountain boars, facing the woman there,                                 
+ and said, “You’ll die. You’ll die. Your evil mate  
+ is the one who’s killing you—he betrayed  
+ his brother’s family to die in Argos.”
+ She screamed, she howled, “Alas for me!” and beat her white forearm against her breast  
+ and struck her fist against her wretched head.  
+ Then she ran off—on golden-sandaled feet  
+ she rushed off, she fled. But then Orestes,  
+ jumping ahead in his Mycenaean boots,                                          
+ shoved his fingers in her hair, bent her neck  
+ on his left shoulder, and was quite prepared  
+ to drive his black sword right into her throat.  
+
+CHORUS LEADER  
+ Where were you Phrygian household servants  
+ to defend her?  
+
+PHRYGIAN  
+ We yelled—then with crowbars battered the doors and door posts in the rooms  
+ where we’d been held and ran from every spot  
+ to her assistance. One man carried stones,  
+ one had spears, and one held a drawn sword.  
+ But Pylades came at us without fear,  
+ just like Trojan Hector or like Ajax,                                                 
+ with his triple plumes, whom I saw once—  
+ I saw him at Priam’s gate. So we met  
+ at sword point. And then the Phrygians showed  
+ in their full glory how for warlike spirit they were born inferior in fighting strength  
+ compared to Greeks. One man ran away,  
+ one man was killed, another wounded,  
+ another pleaded to protect his life.  
+ We ran off, into the shadows, while men  
+ were falling dead. Some would soon collapse,  
+ and some were killed already. At that point,  
+ poor Hermione came in the palace,                                                 
+ just as her mother, the unlucky one  
+ who’d given birth to her, had fallen down, sprawling on the ground about to die.  
+ The two men, like followers of Bacchus  
+ chasing a mountain cub without a thyrsus,  
+ ran up and grabbed her. [^note-429] Then they turned again  
+ to slaughter Zeus’ daughter. But Helen  
+ had vanished from the room—right through the house—  
+ O Zeus, and earth, and light, and darkness—  
+ either by magic spells or wizard’s skill  
+ or god’s deceit! What happened after that  
+ I’ve no idea. Just like a fugitive, my legs crept from the house. So Menelaus,                                   
+ after going through such painful, painful toil,  
+ got his wife Helen out of Troy in vain.  
+
+[Orestes enters from the house]  
+
+CHORUS LEADER  
+ Look how one strange sight succeeds another!  
+ I see Orestes, sword in hand, coming here,  
+ before the palace—his pace is jumpy.  
+
+ORESTES  
+ Where’s that man who ran out of the house,  
+ to escape my sword?  
+
+PHRYGIAN [throwing himself on the ground]  
+ I bow to you, my lord,  
+ making obeisance, as is the habit  
+ of we barbarians. 
+
+ORESTES  
+ We’re not in Troy. We’re in the land of Argos.  
+
+PHRYGIAN  
+ But everywhere  
+ life is more welcome to wise men than death.  
+
+ORESTES  
+ Those shouts you made—you weren’t calling out                           
+ for Menelaus to bring up help, were you?  
+
+PHRYGIAN  
+ No, no. I was helping you, the worthier man.  
+
+ORESTES  
+ So it was just for Tyndareus’ daughter  
+ to be put to death?  
+
+PHRYGIAN  
+ It was most just,  
+ even if she had three throats to slit.  
+
+ORESTES  
+ Your cowardice makes your tongue delightful—  
+ that’s not what you think inside.  
+
+PHRYGIAN  
+ That’s not true. Was she not the one who wiped out Greece  
+ and Phrygians, too?  
+
+ORESTES  
+ Swear you’re not just saying this  
+ to humour me—or else I’ll kill you.  
+
+PHRYGIAN  
+ I swear it on my life—an oath I’ll keep.  
+
+ORESTES [holding up his sword]  
+ Were all the Phrygians at Troy afraid  
+ of iron, the way you are?  
+
+PHRYGIAN  
+ That sword of yours,  
+ put it away. When it’s so close to me  
+ it has a dreadful glint of murder.  
+
+ORESTES  
+ Are you afraid you’ll turn to stone, as if                                           
+ you’d seen a Gorgon? [^note-430]  
+
+PHRYGIAN  
+ No, not to a stone, but to a corpse. I don’t know anything  
+ about the Gorgon’s head.  
+
+ORESTES  
+ You’re just a slave.  
+ Do you fear Hades, which will release you  
+ from your troubles?  
+
+PHRYGIAN  
+ Every man, slave or not,  
+ is glad to look upon the light of day.  
+
+ORESTES  
+ Well said. Your shrewd mind is your salvation.  
+ Go inside the house.  
+
+PHRYGIAN  
+ You won’t kill me?  
+
+ORESTES  
+ You’re free to go.  
+
+PHRYGIAN  
+ That’s beautiful, what you just said.  
+
+ORESTES  
+ But I’m about to reconsider.  
+
+PHRYGIAN  
+ Now your words are not so nice.  
+
+ORESTES  
+ You fool! Do you think I could stand to stain your neck,  
+ make it bloody? You weren’t born a woman  
+ and don’t belong with men. I left the house  
+ to stop you making such a noise. Argos                                          
+ is quick to move once it hears the call.  
+ But still I’m not afraid of matching swords  
+ with Menelaus. Let him come—the man  
+ who’s so proud of that golden hair of his  
+ reaching to his shoulders. If he gathers  
+ Argives up and leads them to the palace, seeking to avenge the death of Helen,  
+ and will not rescue me and my sister  
+ and Pylades, who worked with me in this,  
+ he’ll see two dead, his daughter and his wife.  
+
+[Orestes enters the palace. The Phrygian leaves]  
+
+CHORUS [different parts speak different sections]  
+ Alas, alas, how things fall out!  
+ Another struggle—once more the house  
+ is plunged into another fearful round  
+ afflicting the family of Atreus!  
+
+ What do we do? Tell the news in town?  
+ Or stay quiet? That’s the safer course, my friends.    
+
+ Look there, in front of the palace. 
+ Look! That smoke rushing up to heaven  
+ is telling its own public story.  
+
+ They’re lighting torches—they’re going to fire  
+ the house of Tantalus! They won’t stop killing!  
+
+ God determines how things end for mortal men,  
+ whatever end he wishes.  
+
+ Those demons of revenge have mighty power.  
+ The house has fallen—fallen through blood,  
+ thanks to Myrtilus tumbling from his chariot. [^note-431]  
+
+CHORUS LEADER  
+ But look! I see Menelaus coming—  
+ he’s near the house and moving quickly.  
+ He must have heard what’s happening here.                                   
+ You descendants of Atreus in there,  
+ hurry now to close and bolt the doors.  
+ A man who’s had success is dangerous  
+ for those whose situation is not good—  
+ that means men like you, Orestes.  
+
+[Menelaus enters with an armed escort]  
+
+MENELAUS  
+ I came because I heard of dreadful acts,  
+ violent deeds committed by two lions. I don’t call them men. I was told my wife  
+ did not die but has gone and disappeared,  
+ an idle rumour which some fool deluded  
+ by his fear reported to me. It’s a trick  
+ made up by that man who killed his mother.                                   
+ Ridiculous! Someone open up the house.  
+ I’m telling my escort to break in the doors,  
+ so I may rescue my own child at least  
+ from the hands of those bloodstained murderers,  
+ and take back my poor unfortunate wife. Those who killed my consort must die with her—  
+ my own hands will kill them.  
+
+[As the escort moves towards the doors of the palace, Orestes appears on the  
+roof with Pylades. Orestes is holding Hermione with a sword at her throat, and 
+Pylades is holding burning torches]  
+
+ORESTES [from the roof]  
+ You down there!  
+ Keep your hands off those door bolts. I mean you,  
+ Menelaus, you who exalt yourself  
+ with impudence. I’ll break this parapet—  
+ the wall was made by masons long ago—                                       
+ and smash your head in with a coping stone.  
+ The bolts are fastened down with metal rods.  
+ They’ll check your eagerness to bring help fast  
+ and stop you gaining access to the house.                                
+MENELAUS  
+ Hold on. What’s happening? I see torches blazing,  
+ men cornered up there on the palace roof, 
+ a sword ready to cut my daughter’s throat.  
+
+ORESTES  
+ You want to question me or hear me talk?  
+
+MENELAUS  
+ Neither. But it seems I’ll have to hear you out.  
+
+ORESTES  
+ I’m going to kill you daughter—if you want to know.  
+
+MENELAUS  
+ After killing Helen, you’re going to pile  
+ one murder on another?  
+
+ORESTES  
+ I wish I’d done it,  
+ instead of having the gods trick me.                                                
+
+MENELAUS  
+ You deny you killed her just to mock me?                                
+ORESTES  
+ Yes. It hurts to say I didn’t do it.  
+ If only I had . . . 
+
+MENELAUS  
+ If only you’d done what?  
+ You’re trying to frighten me.  
+
+ORESTES  
+                                          . . . thrown the woman  
+ who pollutes all Greece down into hell.  
+
+MENELAUS  
+ Give me my wife’s corpse, so I can bury her.  
+
+ORESTES  
+ Ask the gods for her. But your daughter here  
+ I will kill.  
+
+MENELAUS  
+ The man who killed his mother  
+ compounds that murder with another.  
+
+ORESTES  
+ The man who stands up for his father—  
+ the man you betrayed and left to die.                                       
+MENELAUS  
+ Isn’t your mother’s blood now on your hands  
+ enough for you?  
+
+ORESTES  
+ No. I’d never get tired                                            
+ if I had to keep killing evil woman  
+ for an eternity.  
+
+MENELAUS  
+ And you, Pylades,  
+ are you his partner in this murder? 
+
+ORESTES  
+ His silence speaks for him. It’s quite enough  
+ if I say he is.  
+
+MENELAUS  
+ Well, you’ll regret it,  
+ unless you sprout wings and fly away.  
+
+ORESTES  
+ We’re not going to run. We’ll burn the palace.  
+
+MENELAUS  
+ What? You’re intending to destroy this house, your own ancestral home?  
+
+ORESTES  
+ So you won’t have it.  
+ And in the flames I’ll sacrifice this girl.               
+
+MENELAUS  
+ Kill her, then. After the slaughter, you’ll pay.  
+ I’ll punish you.  
+
+ORESTES  
+ All right, I will.  
+
+[Orestes moves as if he is going to kill Hermione]  
+
+MENELAUS  
+ No, no!  
+ Don’t do it!  
+
+ORESTES  
+ Silence! You must endure this,  
+ justice for the evils you have done.           
+
+MENELAUS  
+ It is just that you should live?  
+
+ORESTES  
+ Yes, it is—                                           
+ and rule a country.  
+
+MENELAUS  
+ A country? Where?  
+
+ORESTES  
+ Right here. In Pelasgian Argos.  
+
+MENELAUS  
+ O yes,  
+ you’d be so good at handling those vessels we use for ritual washing. [^note-432]  
+
+ORESTES  
+ Why not?  
+
+MENELAUS  
+ And killing animals for sacrifice  
+ before a battle.  
+
+ORESTES  
+ Would you be suitable?  
+
+MENELAUS  
+ Yes, my hands are pure.  
+
+ORESTES  
+ But your heart is not.  
+
+MENELAUS  
+ What man would speak to you?  
+
+ORESTES  
+ Any man  
+ who loved his father.  
+
+MENELAUS  
+ What about the one  
+ who respects his mother?  
+
+ORESTES  
+ A man like that  
+ is born lucky.  
+
+MENELAUS  
+ You’re not like that.  
+
+ORESTES  
+ No, I’m not.  
+ Bad women are not something I enjoy.  
+
+MENELAUS  
+ Take your sword away from my daughter.                               
+ORESTES  
+ You’re a born liar.  
+
+MENELAUS  
+ You’ll kill my daughter?  
+
+ORESTES  
+ Yes. Now you’re not spreading lies     
+
+MENELAUS  
+ That’s dreadful.  
+ What should I do?  
+
+ORESTES  
+ You should go to the Argives                             
+ and win them over . . .  
+
+MENELAUS  
+ What should I tell them?  
+
+ORESTES 
+ Tell them not to kill us. Beg the city.  
+
+MENELAUS  
+ Or else you’ll kill my child?  
+
+ORESTES  
+ That how it stands.  
+
+MENELAUS  
+ O poor Helen . . .  
+
+ORESTES [interrupting]  
+ What about my troubles?  
+
+MENELAUS  
+. . . I brought you back from Phrygia to be killed.  
+
+ORESTES  
+ If only she had been!  
+
+MENELAUS  
+ After I went through  
+ all that effort.  
+
+ORESTES  
+ Except on my behalf.                                       
+MENELAUS  
+ I’ve had to endure such awful suffering!  
+
+ORESTES  
+ Because you were no help at all back then.  
+
+MENELAUS  
+ You’ve caught me out.  
+
+ORESTES  
+ No. You caught yourself  
+ by being such a coward.  
+
+[Orestes calls down to Electra who comes out in front of the palace doors 
+in response to his call]  
+
+ORESTES  
+ Electra, 
+ set fire to the house from underneath.  
+ And you, Pylades, my most trusty friend,  
+ burn down the parapets of these walls here.                                    
+
+MENELAUS  
+ O land of the Danaans and you who live  
+ in horse-rich Argos, take up your weapons  
+ and bring help on the run. To save his life this man here is using force against you,  
+ against the entire city, though he carries  
+ the pollution of his mother’s murdered blood.  
+
+[Menelaus’ escort starts moving en masse toward the palace doors. Meanwhile 
+fire breaks out on the roof and inside the palace. Then Apollo and Helen suddenly 
+appear descending from on high]  
+
+APOLLO  
+ Menelaus, you must blunt the sharp edge  
+ of your temper. I am Phoebus, Leto’s son,  
+ calling you from close at hand—and that man  
+ holding a sword and standing by that girl,  
+ Orestes, so you know the news I bring.  
+ As for Helen whom you were so eager                                              
+ to destroy in your rage at Menelaus, you failed to kill her, and she’s here with me  
+ in the surrounding air. I rescued her  
+ and she wasn’t murdered. Yes, I saved her.  
+ I snatched her away from that sword of yours,  
+ at my father Zeus’ bidding, for Helen,  
+ a child of Zeus, is to live forever.  
+ She’ll sit with Castor and Polydeuces,  
+ held up in the upper air, a saviour  
+ for sailing men. So choose another wife,  
+ Menelaus, and take her home. The gods used this one’s outstanding loveliness  
+ to bring Greeks and Phrygians together                                           
+ and cause a slaughter, so they might stop  
+ the overwhelming crowds of mortal men  
+ destroying the earth. So much for Helen.  
+ And as for you, Orestes, you must cross  
+ the borders of this country and then live  
+ on Parrhasian soil for one entire year. [^note-433]  
+ Because you’ll be an exile there, that land  
+ will be called the country of Orestes by people in Azania and Arcadia.  
+ From there you’ll go to the Athenians’ city  
+ and must stand trial for murdering your mother                              
+ against the three Eumenides. The gods  
+ who on the Hill of Ares judge your case  
+ will act righteously—they’ll divide their votes,  
+ and from that it’s certain you will triumph.  
+ And then, Orestes, it is foreordained  
+ that you will wed Hermione, the girl  
+ whose throat you’re threatening with that sword. The man who thinks he’s going to marry her,  
+ Neoptolemus, will never wed her.  
+ He’s fated to die by a sword in Delphi,  
+ when he demands satisfaction from me  
+ for the killing of his father, Achilles. [^note-434]  
+ Give your sister in marriage to Pylades,  
+ as you once promised. His future life  
+ will be a happy one. As for Argos,                                                     
+ Menelaus, you must leave Orestes  
+ to rule the state. Go and govern Sparta. Keep that as a dowry from your wife.  
+ The countless troubles she has always brought  
+ up to this point will end. I’ll set things right  
+ between Orestes and the city, for I  
+ was the one who made him kill his mother.  
+
+ORESTES  
+ O prophetic Loxias—in your oracles  
+ you prophesy the truth, there’s nothing false.  
+ And yet fear gripped me that I might have heard  
+ some demon when I listened to your voice.  
+ But all has ended well. I will obey    
+ what you have said. See here—I now release  
+ Hermione from death, and I agree  
+ to take her as my wife, just as soon as  
+ her father gives her to me.  
+
+MENELAUS  
+ All hail, Helen,  
+ daughter of Zeus. I wish you happiness  
+ in the gods’ sacred home. Orestes,  
+ following what Phoebus said, I here pledge  
+ my daughter to you. You’re a noble man. 
+ May you prosper in a noble marriage,  
+ and may I as well, who give her to you.                                   
+APOLLO  
+ Then each of you set out to the place  
+ I have arranged, and end your quarreling. 
+
+MENELAUS  
+ I must obey.  
+
+ORESTES  
+ So must I. I’ll make peace                                           
+ with you, Menelaus, in this matter, 
+ and, Loxias, with what your oracle has said.  
+
+APOLLO  
+ Go on your way now, and honour Peace,  
+ the fairest of the gods. I’ll bring Helen  
+ to the halls of Zeus, once I’ve moved across  
+ the star-bright sky. There she will be seated  
+ by Hera and Hebe, wife of Hercules, and men will forever pay her honour  
+ as a goddess, making their libations.  
+ With those two Zeus-born sons of Tyndareus,  
+ she’ll be a guardian for sailors out at sea.                                         
+
+[Apollo and Helen leave. Orestes, Hermione and Pylades move  
+down into the house. Menelaus and his escort depart]  
+
+CHORUS  
+ O great and holy Victory, 
+ may you take possession of my life,  
+ and never cease to crown me with your garlands.  
+  
+  
+
+[^note-401]: *. . . his tongue*: Tantalus, a son of Zeus, offended the gods, who punished him by placing him in Hades where he is constantly tempted by food and drink which he cannot reach (Odysseus tells us of seeing the shade of Tantalus in Book 11 of the Odyssey). His offense varies, depending on the story. In some accounts, he stole food from the gods and revealed their secrets to human beings. In others, he cut up his son Pelops and served him up as food for the gods. 
+
+[^note-402]: *. . . his brother, Thyestes*: The Fates set a man’s destiny at birth by spinning yarn, measuring and cutting it. Traditionally there were three female fates. 
+
+[^note-403]: *. . . all men’s eyes*: Phoebus is the name of the god Apollo, whose oracle Orestes consulted before returning to murder his mother and Aegisthus in revenge for his father’s death. 
+
+[^note-404]: *. . . terrible ordeals*: The Eumenides (literally the “Kindly Ones”) are the Furies, goddesses of blood revenge within the family, who are tormenting Orestes because he killed his mother. Electra does not call them by their official name but uses a common euphemism, presumably because she does not want to risk offending them. 
+
+[^note-405]: *. . . hair and libations*: Placing a lock of one’s hair on a burial mound and pouring libations beside it are traditional marks of respect for the dead. 
+
+[^note-406]: *. . . in Mycenae*: The names Argos and Mycenae are often used interchangeably for the same city, although in some accounts they are two different communities. 
+
+[^note-407]: *. . . of my mother*: Loxias is a common name for Apollo, whose shrine Orestes consulted before killing Clytaemnestra. Themis, the goddess of righteousness, was the original god of the oracle. 
+
+[^note-408]: *. . . from Erebus*: Erebus is the deepest and darkest region of Hades, the underworld. 
+
+[^note-409]: *. . . navel of the earth*: The navel, or central point, of the earth was, according to tradition, located in Apollo’s shrine in Delphi. 
+
+[^note-410]: *. . . from Tantalus*: Tantalus is the founder of the royal family of Agamemnon, Menelaus, Orestes, and Electra. He was a son of Zeus and a divine nymph. 
+
+[^note-411]: *. . . Malea*: Menelaus’ return from Troy (as he tells us in the Odyssey) was long delayed. He was blown off course to Egypt, where he stayed for a while. Malea is the southernmost tip of the Peloponnese. 
+
+[^note-412]: *. . . suppliant branch*: In a formal supplication the petitioner carries an olive branch. Orestes doesn’t have one available. 
+
+[^note-413]: *. . . something horrific*: West makes the useful observation (p. 210) that the Greeks did not yet have a clear sense of a good or bad conscience. This line suggests something like a sense of guilt arising out of one’s awareness of the moral qualities of an act. As West observes, Menelaus in his response seems confused by the idea. 
+
+[^note-414]: *. . . are his friends*: I have adopted West’s suggestion that this line refers to the god (Apollo) rather than to Orestes himself: “I am not wise, but by nature I am true to my friends (see West 212). 
+
+[^note-415]: *. . . for Palamedes*: Oeax is the brother of Palamedes, an Achaean warrior at Troy. When Odysseus pretended to be mad so that he would not have to go on the expedition to Troy, Palamedes tricked him into revealing his sanity. Later, in Troy, Odysseus forced a Phrygian (Trojan) prisoner to write a treasonous letter apparently from Palamedes. Agamemnon found the letter and put Palamedes to death. 
+
+[^note-416]: *. . . twins from Zeus*: Tyndareus and Leda had four children at the same time: Helen, Clytaemnestra, Castor, and Pollux (also called Polydeuces). However, Tyndareus was the biological father of only two of them, Castor and Clytaemnestra. Helen and Pollux were conceived by Zeus (in the form of a swan) and Leda. In some accounts (as here) both Castor and Pollux are children of Zeus. 
+
+[^note-417]: *. . . of your wife*: The immediate cause of the Trojan War was Paris’ abduction of Helen, Menelaus’ wife, from Sparta (Helen went willingly enough). Agamemnon, the senior of the two brothers, took command of the Greek army which assembled at Aulis in response to a promise all the kings had made to Tyndareus, that they would help Helen’s husband, should he ever require their assistance. The goddess Artemis prevented the Greek fleet from sailing until Agamemnon sacrificed his daughter Iphigeneia, an action which Agamemnon carried out. 
+
+[^note-418]: *. . . double line of Atreus*: The “double line” is the families of Agamemnon and Menelaus, sons of Atreus. The “golden ram” mentioned refers to an animal in Atreus’ flocks, on the basis of which he claimed the throne over the objections of his brother Thyestes. The slaughter at the banquet is another reference to the dinner in which Atreus served up to his brother Thyestes the latter’s sons as the main course. 
+
+[^note-419]: *. . . on this very day*: The word Pelasgian is frequently used to describe the Argives. The word hearkens back to the original inhabitants of the area. 
+
+[^note-420]: *. . . by Aegyptus*: The fifty daughters of Danaus married the fifty sons of Aegyptus and killed their husbands (all but one) on the wedding night. In some accounts Aegyptus prosecuted Danaus for the mass murder. 
+
+[^note-421]: *. . . those Phrygians*: Talthybius is a character in the Iliad, a herald in the Achaean army who serves Agamemnon. Phrygians is a term commonly used to designate the Trojans or barbarian Asiatics. 
+
+[^note-422]: *. . . shave it close*: The Cyclopian land is a reference to the city of Mycenae whose walls were so big that legend had it they had been built by the Cyclopes. Shaving the head is often an important element in a mourning ritual. 
+
+[^note-423]: *. . . along the shore*: These lines refer to the origin of the troubles in the House of Atreus. Pelops wanted Hippodamnia as his bride. Her father, Oenomaus, demanded a chariot race to determine the outcome: if Pelops won he could wed the daughter, and if Pelops was not successful he would die. Pelops bribed Myrtilus to sabotage the king’s chariot and, as a result, won the race. Then he killed his co-conspirator, Myrtilus, by throwing him into the sea. Myrtilus cursed Pelops’ family as he was drowning. Myrtilus was a son of the god Hermes, son of Zeus and the nymph Maia (as is mentioned a couple of lines further on), and the god made sure the curse took effect by introducing a golden lamb into the flocks belonging to the sons of Pelops, thus inciting the brothers Atreus and Thyestes to quarrel. 
+
+[^note-424]: *. . . the Pleiades*: The suggestion here seems to be that before this change, the sun did not move from east to west. I have adopted West’s useful emendation of the text to read “white horses” rather than “single horse.” The Pleiades is a constellation consisting of seven stars. 
+
+[^note-425]: *. . . deceitful marriage*: Aerope was the wife of Atreus and the mother of Agamemnon and Menelaus. In some versions of the story, she had an adulterous affair with Thyestes and was executed. 
+
+[^note-426]: *. . . Scamander*: The Scamander is a river near Troy, right in the middle of the areas where the battles between Greeks and Trojans took place. 
+
+[^note-427]: There is some dispute about how the Phrygian enters—does he come through the doors (as the Chorus Leader’s line about the bolts suggests) or does he come down from the roof (as his opening lines suggest). West, who opts for an entry down from the roof, has a useful note on the point (p. 275-6). 
+
+[^note-428]: *. . . in his bed*: These lines are such a strained evocation of different myths that it’s hard not to see them as either satirical or intentionally comical. The reference to the swan is a reminder of Helen’s conception, when Zeus in the form of a swan had sex with Leda, wife of Tyndareus. Apollo’s polished citadel is a reference to the high tower of Troy. And Ganymede, a prince of Troy, was so beautiful that he was taken up to Olympus as a young boy to be Zeus’ cup bearer and sexual playmate. It’s not clear what the mention of his “horsemanship” indicates, unless it’s a sexual pun. Dardania is a reference to Troy, the land of Dardanus (the founder of the city). 
+
+[^note-429]: *. . . grabbed her*: The followers of Bacchus are the ecstatic worshippers who roam the mountains, often capturing wild animals and tearing them apart. The thyrsus is a plant stem, often with magical properties, which they carry as part of the ritual frenzy. 
+
+[^note-430]: *. . . seen a Gorgon*: The Gorgons were three sisters whose looks could turn people into stone. One of them who was mortal (Medusa) was killed by Perseus. 
+
+[^note-431]: *. . . from his chariot*: As noted before, Myrtilus conspired withPelops to trick king Oenomaus in a chariot race, so that Pelops could win Hippodameia, the king’s daughter. Myrtilus, the king’s charioteer, sabotaged the royal chariot. Pelops then killed Myrtilus by throwing him out of his chariot into the sea. This event launches the disasters which befall the House of Atreus (Atreus is one ofPelops’ sons). 
+
+[^note-432]: *. . . ritual washing*: One of the duties of a king was to lead important religious ceremonies. These could only be conducted by someone free of the pollution from any crime he had committed. 
+
+[^note-433]: *. . . one entire year: Parrhasia is a region in Arcadia, an area in the central Peloponnese. 
+
+[^note-434]: *. . . his father, Achilles*: Achilles was killed at Troy. His son Neoptolemus came to Troy, joined the fighting, and killed Priam, king of Troy. He was later killed by a priest at Delphi, Apollo’s shrine. There are other stories, however, which have Neoptolemus marrying Hermione. 
+  
+  
+

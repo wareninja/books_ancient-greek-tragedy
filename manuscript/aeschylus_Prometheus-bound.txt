@@ -1,0 +1,1905 @@
+# PROMETHEUS BOUND {#aeschylus_book-2}  
+  
+  
+C> *This edition is based on the [publicly available](http://records.viu.ca/~johnstoi/aeschylus/prometheusbound.htm) translation by Ian Johnston*  
+  
+**BACKGROUND NOTE**  
+
+Aeschylus (c.525 BC to c.456 BC) was one of the three great Greek tragic dramatists whose works have survived. Of his many plays, seven still remain. Aeschylus may have fought against the Persians at Marathon (490 BC), and he did so again at Salamis (480 BC). According to tradition, he died from being hit with a tortoise dropped by an eagle. After his death, the Athenians, as a mark of respect, permitted his works to be restaged in their annual competitions.  
+
+*Prometheus Bound* was apparently the first play in a trilogy (the other two plays, now lost except for some fragments, were *Prometheus Unbound* and *Prometheus the Fire-Bringer*). Although a number of modern scholars have questioned whether Aeschylus was truly the author of the play, it has always been included among his works.  
+
+In Greek mythology, Prometheus was a Titan, a descendant of the original gods, Gaia and Ouranos (Earth and Heaven). The Titans were defeated in a battle with Zeus, who fought against his own father, Cronos, imprisoned him deep in the earth, and became the new ruling power in heaven. Although he was a Titan, Prometheus assisted Zeus in this conflict, but later offended him by stealing fire from heaven and giving it to human beings, for whom he had a special affection. Aeschylus’ play begins after Zeus has assumed control of heaven and learned about the theft.  
+  
+...  
+  
+
+**DRAMATIS PERSONAE**  
+
+**POWER**: divine agent of Zeus.  
+**FORCE**: divine agent of Zeus.  
+**HEPHAESTUS**: divine son of Zeus, the artisan god.  
+**PROMETHEUS**: a Titan.  
+**CHORUS**: daughters of Oceanus. [^note-201]  
+**OCEANUS**: a god of the sea.  
+**IO**: daughter of Inachus.  
+**HERMES**: divine son of Zeus.  
+
+  
+
+*[In a remote mountainous region of Scythia. HEPHAESTUS enters with POWER and FORCE dragging PROMETHEUS with them in chains.]*  
+
+  
+
+POWER  
+We have just reached the land of Scythia,  
+at the most distant limits of the world,  
+remote and inaccessible. Hephaestus,  
+now it is your duty to carry out  
+those orders you received from Father Zeus—  
+to nail this troublemaker firmly down                                                              
+against these high, steep cliffs, shackling him                                     
+in adamantine chains that will not break. [^note-202]
+For he in secret stole your pride and joy  
+and handed it to men—the sacred fire which fosters all the arts. For such a crime,  
+he must pay retribution to the gods,  
+so he will learn to bear the rule of Zeus                                                          
+and end that love he has for humankind.  
+
+HEPHAESTUS  
+Power and Force, where you two are concerned,  
+what Zeus commanded us has now been done.  
+There are no further obstacles to face.  
+I am not bold enough to use sheer force  
+against a kindred god and nail him down  
+here on this freezing rock. But nonetheless, I must steel myself to finish off our work,  
+for it is dangerous to disregard  
+the words of Father Zeus.  
+
+[HEPHAESTUS addresses PROMETHEUS]
+
+ High-minded son  
+of our wise counsellor, goddess Themis, 
+against my will and yours, I must bind you                                                    
+with chains of brass which no one can remove  
+on this cliff face, far from all mortal men,  
+where you will never hear a human voice  
+or glimpse a human shape and sun’s hot rays  
+will scorch and age your youthful flesh. [^note-203]  
+For you,  
+the sparkling stars high in the sky at night  
+will hide those rays and offer some relief.  
+Then, in the morning, once again the sun 
+will melt the frost. This never-ending burden  
+of your present agony will wear you down,  
+for the one who is to rescue you someday  
+is not yet even born. This is your reward  
+for acting as a friend to human beings.  
+Though you are a god, you were not deterred                                                 
+by any fear of angering the gods. You gave men honours they did not deserve,                                                 
+possessions they were not entitled to.  
+Because of that, you will remain on guard,  
+here on this joyless rock, standing upright  
+with your legs straight, and you will never sleep.  
+You will often scream in pain and sorrow,  
+for Zeus’ heart is pitilessly harsh,  
+and everyone whose ruling power is new  
+is cruel and ruthless.  
+
+POWER  
+ Come on. Why wait  
+and mope around like this so uselessly? Why do you not despise this deity  
+who is so hateful to the other gods?  
+He gave your special gift to mortal men.  
+
+HEPHAESTUS  
+We are comrades—we share strong common bonds. [^note-204]
+
+POWER 
+That may be true, but can you disobey                                                           
+your father’s words? Do you not fear him more?  
+
+HEPHAESTUS  
+Ah yes! You always lack a sense of pity  
+and are so full of cruel self-confidence.  
+
+POWER  
+There is no point in wailing a lament 
+for this one here. You should stop wasting time on things that bring no benefits to you.  
+
+HEPHAESTUS  
+How much I hate the special work I do!  
+
+POWER  
+Why hate it? It’s clear enough your artistry  
+had nothing at all to do with causing  
+what we are facing here.  
+
+HEPHAESTUS  
+ That may be true,  
+but still I wish my lot as artisan  
+had gone to someone else.  
+
+POWER  
+ Well, every task  
+is burdensome, except to rule the gods.  
+No one is truly free except for Zeus.                                                                
+
+HEPHAESTUS  
+I know. This work is proof enough of that. I cannot deny it.  
+
+POWER  
+ Then hurry up  
+and get these chains around him, just in case  
+Zeus sees you stalling.  
+
+HEPHAESTUS  
+ All right. These shackles here  
+are ready. Take a look.  
+
+[Hephaestus starts chaining Prometheus’ arm to the cliff]
+
+POWER  
+ Bind his hands.  
+Use some heavy hammer blows and rivet him  
+against the rock.  
+
+HEPHAESTUS  
+ There! This part is finished.  
+It looks all right.  
+
+POWER  
+ Strike harder. Make sure  
+he is securely fixed, with nothing slack. 
+He is an expert at devising ways  
+to wriggle out of hopeless situations.                                                    
+HEPHAESTUS  
+Well, this arm, at least, is firmly nailed here.                                                
+No one will get this out.  
+
+POWER  
+ Now drive a spike  
+in here as well—make sure it won’t come loose.  
+No matter how intelligent he is,  
+he has to learn he is nothing but a fool  
+compared to Zeus.  
+
+HEPHAESTUS  
+ No one could justly fault  
+this work I do, except for him.  
+
+POWER  
+ Now smash  
+the blunt tip of this adamantine wedge  
+straight through his chest—use all your force.  
+
+HEPHAESTUS  
+ Alas!  
+O Prometheus, this suffering of yours— how it makes me weep! [^note-205]
+
+POWER  
+ Why are you so slow  
+and sighing over Zeus’ enemy?  
+Be careful, or soon you may be groaning  
+for yourself.  
+
+HEPHAESTUS  
+ This sight is difficult to watch,  
+as you can see.  
+
+POWER  
+ I see this criminal                                                   
+is getting just what he deserves. Come on,  
+wrap these chains around his ribs.  
+
+HEPHAESTUS  
+ Look, I know  
+I have to carry out this work, so stop  
+ordering me about so much.  
+
+POWER  
+ Hold on—  
+I’ll give you orders as often as I please and keep on badgering you. Move down,  
+and use your strength to fix his legs in place.  
+
+HEPHAESTUS  
+Our work is done. That did not take too long.  
+
+POWER  
+Hit the fetters really hard—those ones there,  
+around his feet. The one who’s watching us,  
+inspecting what we do, can turn vicious.  
+
+HEPHAESTUS  
+The words you speak well match the way you look.  
+
+POWER  
+Well, your soft heart can sympathize with him,  
+but do not criticize my stubborn will                                                              
+and my harsh temper.  
+
+HEPHAESTUS  
+ We should be going. His limbs are all securely fixed in place.  
+
+[Exit Hephaestus]
+
+POWER [to Prometheus]
+Now you can flaunt your arrogance up here,  
+by stealing honours given to the gods  
+and offering them to creatures of a day.  
+Are mortal beings strong enough to ease  
+the burden of your pain? The gods were wrong  
+to give that name ‘Prometheus’ to you,  
+‘someone who thinks ahead,’ for now you need  
+a real Prometheus to help you out  
+and find a way to free you from these chains. [^note-206]  
+
+[Exit Power and Force]
+
+PROMETHEUS  
+O you heavenly skies and swift-winged winds,  
+you river springs, you countless smiling waves  
+on ocean seas, and Earth, you mother of all,                                                  
+and you as well, the all-seeing circle  
+of the celestial sun—I summon you  
+to see what I, a god, am suffering  
+at the hands of gods. Look here and witness  
+how I am being worn down with torments  
+which I will undergo for countless years.  
+This is the kind of shameful punishment the new ruler of the gods imposed on me.  
+Alas! Alas! I groan under the pain  
+of present torments and those yet to come.  
+Who will deliver me from such harsh pain?                                                   
+From what part of the sky will he appear?  
+And yet, why talk like this? For I possess  
+a detailed knowledge of what lies in store  
+before it happens—none of my tortures  
+will come as a surprise. I must endure,  
+as best I can, the fate I have been given, for I know well that no one can prevail  
+against the strength of harsh Necessity.  
+And yet it is not possible for me  
+to speak or not to speak about my fate. [^note-207]
+I have been compelled to bear the yoke  
+of punishment because I gave a gift  
+to mortal beings—I searched out and stole  
+the source of fire concealed in fennel stalks,  
+and that taught men the use of all the arts                                                    
+and gave them ways to make amazing things. Now chained and nailed beneath the open sky,  
+I am paying the price for what I did.  
+But wait! What noise and what invisible scent  
+is drifting over me? Is it divine  
+or human or both of these? Has someone  
+travelled to the very edges of the world  
+to watch my suffering. What do they want?  
+
+[Prometheus shouts out to whoever is watching him]
+
+Here I am, an ill-fated god! You see  
+an enemy of Zeus shackled in chains,                                                              
+hated by all those gods who spend their time in Zeus’ court! They think my love for men  
+is too excessive!  
+
+ What is that sound I hear?  
+The whirling noise of birds nearby—the air  
+is rustling with their lightly beating wings!  
+Whatever comes too close alarms me.  
+
+[Enter the Chorus of nymphs, daughters of Oceanus, in a winged chariot, which hovers beside Prometheus] [^note-208]
+
+CHORUS  
+You need not fear us. We are your friends.  
+The rapid beating of these eager wings  
+has borne our company to this sheer cliff.                                                      
+We worked to get our father to agree,  
+and he did so, although that was not easy. The swiftly moving breezes bore us on,  
+for the echoing clang of hammer blows  
+pierced right into the corners of our cave  
+and beat away my bashful modesty.  
+And so, without tying any sandals on,  
+I rushed here in this chariot with wings.  
+
+PROMETHEUS  
+Aaaiii! Alas! O you daughters  
+born from fertile Tethys, children  
+of your father Oceanus, whose current  
+circles the entire world and never rests,       
+look at me! See how I am chained here,  
+nailed on this cliff above a deep ravine,  
+where I maintain my dreary watch. [^note-209]
+
+CHORUS  
+I see that, Prometheus, and a cloud  
+of tears and terror moves across my eyes  
+to observe your body being worn away  
+in these outrageous adamantine chains.  
+New gods now rule on Mount Olympus,  
+and, like a tyrant, Zeus is governing                                                                
+with new-fangled laws, overpowering those gods who were so strong before.  
+
+PROMETHEUS  
+If only he had thrown me underground,  
+down there in Hades, which receives the dead,  
+in Tartarus, through which no one can pass, 
+and cruelly bound me there in fetters  
+no one could break, so that none of the gods  
+or anyone else could gloat at my distress.  
+But now the blowing winds toy with me here,  
+and the pain I feel delights my enemies.  
+
+CHORUS  
+What god is so hard hearted he would find      
+this scene enjoyable? Who would not feel  
+compassion for these sufferings of yours,  
+apart from Zeus, who, in his angry mood,  
+has set his rigid mind inflexibly  
+on conquering the race of Ouranos.  
+And he will never stop until his heart  
+is fully satisfied or someone else  
+overthrows his power by trickery,  
+hard as that may be, and rules instead.  
+
+PROMETHEUS  
+Yes, and even though I am being tortured, bound in these strong chains, the day is coming  
+when that ruler of those sacred beings                                                           
+will truly need me to reveal to him  
+a new intrigue by which he will be stripped 
+of all his honours and his sceptre, too. [^note-210]
+He will not charm that secret out of me  
+with sweet honeyed phrases of persuasion,  
+nor, for all his savage threats, will I ever 
+cringe down in front of him and let him know  
+the answer—no!—not until he frees me from these cruel shackles and is willing  
+to pay me compensation for his crime!  
+
+CHORUS  
+With that audacious confidence of yours,                                                      
+you do not cower before these bitter pains,  
+but you allow your tongue to speak too freely.  
+A piercing fear knifes through my heart,  
+my dread about your fate, how you must  
+steer your ship to find safe haven  
+and see an end to all your troubles.  
+For the son of Cronos has a heart that is inflexible—his character  
+will not be moved by prayer.  
+
+PROMETHEUS  
+ Yes, I know.  
+Zeus is a harsh god and holds the reins                                                          
+of justice in his hands. But nonetheless,  
+I can see the day approaching when his mind  
+will soften, once that secret I described  
+has led to his collapse. Then he will abate  
+his stubborn rage and enter eagerly  
+into a bond of friendship with me.  
+By then I will be eager for that, too.                                                       
+CHORUS  
+Tell us the whole story of what happened.  
+How did Zeus have you seized and on what charge?  
+Why does he so shamefully abuse you  
+in this painful way? Give us the details,  
+unless you would be harmed by telling us.  
+
+PROMETHEUS  
+I find these matters truly unbearable  
+to talk about, but remaining silent  
+pains me, too. The events that led to this                                                      
+are all so miserably unfortunate.  
+When the powers in heaven got angry, they started quarrelling amongst themselves.  
+Some wanted to hurl Cronos from his throne,  
+so Zeus could rule instead, but then others  
+wanted the reverse—to ensure that Zeus  
+would never rule the gods. I tried my best  
+to give them good advice, but I could not  
+convince the Titans, offspring of the Earth  
+and Heaven, who, despising trickery,  
+insisted stubbornly they would prevail                                                          
+without much effort, by using force. Both mother Themis and the goddess Earth  
+(who has a single form but many names)  
+had often uttered prophecies to me  
+about how Fate would make events unfold,  
+how those who would seize power and control  
+would need, not brutal might and violence,  
+but sly deception. I went through all this,  
+but they were not concerned—they thought  
+everything I said a waste of time.  
+So then, when I considered what to do, the wisest course of action seemed to be  
+to join my mother and take Zeus’ side.                                                           
+I did so eagerly, and he was keen  
+to have me with him. Thanks to my advice,  
+the gloomy pit of Tartarus now hides  
+old Cronos and his allies. [^note-211] I helped Zeus,  
+that tyrant of the gods—now he repays me  
+with this foul torment. It is a sickness  
+which somehow comes with every tyranny  
+to place no trust in friends.  
+
+ But you asked why Zeus is torturing me like this.  
+I will explain. As soon as he was seated                                                         
+on his father’s throne, he quickly set about  
+assigning gods their various honours  
+and organizing how he meant to rule.  
+But for those sad wretched human beings,  
+he showed no concern at all. He wanted  
+to wipe out the entire race and grow  
+a new one in its place. None of the gods  
+objected to his plan except for me. I was the only one who had the courage.  
+So I saved those creatures from destruction  
+and a trip to Hades. And that is why  
+I have been shackled here and have to bear  
+such agonizing pain, so pitiful to see.                                                             
+I set compassion for the human race  
+above the way I felt about myself,  
+so now I am unworthy of compassion.  
+This is how he seeks to discipline me,  
+without a shred of mercy—the spectacle disgraces Zeus’ name.  
+
+CHORUS  
+ But anyone  
+who shows no pity for your agonies,  
+Prometheus, has a heart of iron  
+and is made out of rock. As for myself,  
+I had no wish to see them, and now I have,  
+my heart is full of grief.  
+
+PROMETHEUS  
+ Yes, to my friends  
+I make a most distressing sight.  
+
+CHORUS  
+ Was there more?  
+Or were you guilty of just one offence?  
+
+PROMETHEUS  
+I stopped men thinking of their future deaths.                                              
+
+CHORUS  
+What cure for this disease did you discover?                                       
+PROMETHEUS  
+Inside their hearts I put blind hope.  
+
+CHORUS  
+ With that  
+you gave great benefits to humankind.  
+
+PROMETHEUS  
+And in addition to hope, I gave them fire.  
+
+CHORUS  
+You did that for those creatures of a day?  
+Do they have fire now?  
+
+PROMETHEUS  
+ They do. And with it  
+they will soon master many arts.  
+
+CHORUS  
+ So Zeus  
+charged you with this . . .  
+
+PROMETHEUS [interrupting]
+. . . and he torments me 
+and gives me no relief from suffering!  
+
+CHORUS  
+And has no time been set when your ordeal  
+comes to an end?  
+
+PROMETHEUS  
+ No. None at all, except when it seems suitable to Zeus.                                                           
+
+CHORUS  
+How will he ever think it suitable?  
+What hope is there in that? Do you not see  
+where you went wrong? But I do not enjoy  
+discussing those mistakes you made, and you  
+must find it painful. Let us leave that point,  
+so in this anguish you find some release.  
+
+PROMETHEUS  
+It is easy for someone whose foot remains  
+unsnared by suffering to give advice  
+and criticize another in distress. I was well aware of all these matters,  
+and those mistakes I made quite willingly—  
+I freely chose to do the things I did.  
+I will not deny that. By offering help  
+to mortal beings I brought on myself  
+this suffering. But still, I did not think                                                            
+I would receive this kind of punishment,  
+wasting away on these high rocky cliffs,  
+fixed on this remote and desolate crag.  
+But do not mourn the troubles I now face. Step down from your chariot and listen  
+to those misfortunes I must still confront,  
+so you will learn the details of my story  
+from start to finish. Accept my offer.  
+Agree to hear me out, and share with me  
+the pain I feel right now. For misery,  
+shifting around from place to place, settles  
+on different people at different times.  
+
+CHORUS [leaving the chariot]
+Your request does not fall on deaf ears,  
+Prometheus. My lightly stepping foot       
+has moved down from the swift-winged chariot  
+and sacred air, the pathway of the birds,  
+to walk along this rugged rock towards you.  
+I want to hear your tale, a full account  
+of all your suffering.  
+
+[Enter OCEANUS on a flying monster]
+
+OCEANUS  
+ I have now reached 
+the end of my long journey, travelling  
+to visit you, Prometheus, on the wings  
+of this swift beast, and using my own mind  
+instead of any reins to guide it here. 
+You know I feel great sympathy for you      
+and for your suffering. It seems to me  
+our ties of kinship make me feel that way.  
+But even if there were no family bonds,  
+no one wins more respect from me than you.  
+You will soon realize I speak the truth  
+and do not simply prattle empty words.  
+So come, show me how I can be of help,  
+for you will never say you have a friend  
+more loyal to you than Oceanus.  
+
+PROMETHEUS  
+What is this? What am I looking at?       
+Have you, too, travelled here to gaze upon  
+my agonies? How were you brave enough  
+to leave that flowing stream which shares your name  
+and those rock arches of the cave you made,  
+to journey to this land, the womb of iron? [^note-212]
+Or have you come to see how I am doing,  
+to sympathize with me in my distress?  
+Behold this spectacle—a friend of Zeus,  
+who helped him win his way to sovereignty!  
+See how his torments weigh me down!                                                
+
+OCEANUS  
+ I see that, Prometheus, and although you do possess                                                     
+a subtle mind, I would like to offer you  
+some good advice. You have to understand  
+your character and adopt new habits.  
+For even gods have a new ruler now.  
+If you keep hurling out offensive words,  
+with such insulting and abusive language,  
+Zeus may well hear you, even though his throne  
+is far away, high in the heavenly sky,  
+and then this present heap of anguished pain will seem mere childish play. Instead of that,  
+you poor suffering creature, set aside  
+this angry mood of yours and seek relief  
+from all this misery. These words of mine  
+may seem to you perhaps too old and trite,  
+but this is what you get, Prometheus,                                                             
+for having such a proud and boastful tongue.  
+You show no modesty in what you say  
+and will not bow down before misfortune,  
+for you prefer to add more punishments to those you have already. You should hear me  
+as your teacher and stop this kicking out  
+against the whip. You know our present king,  
+who rules all by himself and has no one  
+he must answer to, is harsh. I will go  
+and, if I can, attempt to ease your pain.  
+You must stay quiet—do not keep shouting  
+such intemperate things. Do you not know,                                                  
+with all that shrewd intelligence of yours,  
+your thoughtless tongue can get you punished?                                  
+PROMETHEUS  
+I am happy things turned out so well for you.  
+You had the courage to support my cause,  
+but you escaped all blame. [^note-213] Now let me be,  
+and do not make my suffering your concern.  
+Whatever you may say will be in vain—  
+persuading Zeus is not an easy task.  
+You should take care this journey you have made  
+does not get you in trouble.  
+
+OCEANUS 
+ Your nature  
+makes you far better at giving good advice  
+to neighbours rather than yourself. I judge by looking at the facts, not by listening  
+to what others say. You should not deter                                                       
+a person who is eager to help out.  
+For I am sure—yes, I am confident—  
+there is one gift which Zeus will offer me,  
+and he will free you from this suffering.  
+
+PROMETHEUS  
+You have my thanks—and I will not forget.  
+There is in you no lack of willingness  
+to offer aid. But spare yourself the trouble,  
+which will be useless and no help to me, if, in fact, you want to make the effort.  
+Just keep quiet, and do not interfere.  
+I may be miserable, but my distress  
+does not make me desire to see such pain  
+imposed on everyone—no, not at all.  
+What my brother Atlas has to suffer                                                               
+hurts my heart. In some region to the west  
+he has to stand, bearing on his shoulders 
+the pillar of earth and heaven, a load  
+even his arms find difficult to carry. [^note-214] And I feel pity when I contemplate  
+the creature living in Cilician caves,  
+that fearful monster with a hundred heads,  
+born from the earth, impetuous Typhon,  
+curbed by Zeus’ force. [^note-215] He held out against  
+the might of all the gods. His hideous jaws  
+produced a terrifying hiss, and his eyes  
+flashed a ferocious stare, as if his strength  
+could utterly destroy the rule of Zeus.  
+But Zeus’ thunderbolt, which never sleeps,      
+that swooping, fire-breathing lightning stroke,  
+came down and drove the arrogant boasting  
+right out of him. Struck to his very heart,  
+he was reduced to ash, and all his might  
+was blasted away by rolls of thunder. 
+Now his helpless and immobile body  
+lies close beside a narrow ocean strait,  
+pinned down beneath the roots of Aetna,  
+while on that mountain, at the very top,  
+Hephaestus sits and forges red-hot iron. But one day that mountain peak will blow out  
+rivers of fire, whose savage jaws devour                                                         
+the level fruitful fields of Sicily.  
+Though Typhon may have been burned down to ash  
+by Zeus’ lightning bolt, his seething rage  
+will then erupt and shoot out molten arrows,  
+belching horrifying streams of liquid fire. 
+But you are not without experience  
+and have no need of me to teach you this.  
+So save yourself the way you think is best, and I will bear whatever I must face,  
+until the rage in Zeus’ heart subsides.  
+
+OCEANUS  
+Surely you realize, Prometheus,  
+that in the case of a disordered mood                                                             
+words act as healers.  
+
+PROMETHEUS  
+ Yes, but only if  
+one uses them at the appropriate time  
+to soften up the heart and does not try  
+to calm its swollen rage too forcefully.  
+
+OCEANUS  
+What dangers do you see if someone blends  
+his courage and his eagerness to act? Tell me that.  
+
+PROMETHEUS  
+ Simple stupidity  
+and wasted effort.  
+
+OCEANUS  
+ Well, let me fall ill  
+from this disease, for someone truly wise  
+profits most when he is thought a fool.  
+
+PROMETHEUS  
+But they will think that I made the mistake.  
+
+OCEANUS  
+Those words of yours are clearly telling me  
+to go back home.  
+
+PROMETHEUS  
+ Yes, in case concern for me                                                  
+gets you in serious trouble.  
+
+OCEANUS  
+ You mean with Zeus,  
+now seated on his new all-powerful throne?  
+
+PROMETHEUS  
+Take care, in case one day that heart of his vents its rage on you.  
+
+OCEANUS  
+ What you are suffering,  
+Prometheus, will teach me that.  
+
+PROMETHEUS  
+ Then go.  
+Be on your way. Keep to your present plans.  
+
+OCEANUS  
+These words of yours are telling me to leave,  
+and I am eager to depart. The wings  
+on this four-footed beast will brush the air  
+and make our pathway smooth. He will rejoice  
+to rest his limbs back in his stall at home.  
+
+[Exit OCEANUS]
+
+CHORUS  
+I groan for your accursed fate,  
+Prometheus, and floods of tears      
+are streaming from my weeping eyes  
+and moisture wets my tender cheeks.  
+For Zeus, who rules by his own laws,  
+has set your wretched destiny and shows  
+towards the gods of earlier days  
+an overweening sense of power.  
+
+Now every region cries in one lament.  
+They mourn the lost magnificence,  
+so honoured long ago, the glorious fame  
+you and your brothers once possessed.       
+And all those mortal beings who live  
+in sacred Asia sense your pain, 
+those agonies all men find pitiful . . .  
+
+. . . including those young girls who dwell  
+in Colchis and have no fear of war,  
+and Scythian hordes who occupy  
+the furthest regions of the world  
+along the shores of lake Maeotis . . .  
+
+. . . and in Arabian lands the warlike tribes                                                    
+from those high rocky fortress towns in regions near the Caucasus,  
+a horde of warriors who scream  
+to heft their lethal sharpened spears. [^note-216]
+
+Only once before have I beheld  
+another Titan god in such distress  
+bound up in adamantine chains—  
+great Atlas, whose enormous strength  
+was unsurpassed and who now groans  
+to bear the vault of heaven on his back.                                                         
+
+The sea waves, as they fall, cry out, the ocean depths lament, while down below  
+the deep black pits of Hades growl,  
+and limpid flowing rivers moan,  
+to see the dreadful pain you undergo.  
+
+PROMETHEUS  
+You must not think it is my stubbornness  
+that keeps me quiet, or a sense of pride,  
+for bitter thoughts keep gnawing at my heart  
+to see how foully I am being abused.  
+And yet who else but I assigned clear rights                                                  
+and privileges to these new deities? [^note-217]  
+But I make no complaint about such things,  
+for if I spoke, I would be telling you  
+what you already know. So listen now  
+to all the miseries of mortal men—  
+how they were simple fools in earlier days,  
+until I gave them sense and intellect.  
+I will not speak of them to criticize,  
+but in a spirit of goodwill to show  
+I did them many favours.  
+
+ First of all,  
+they noticed things, but did not really see and listened, too, but did not really hear.  
+They spent their lives confusing everything,                                                  
+like random shapes in dreams. They knew nothing  
+of brick-built houses turned towards the sun  
+or making things with wood. Instead, they dug  
+their dwelling places underneath the earth,  
+like airy ants in cracks of sunless caves.  
+They had no signs on which they could rely  
+to show when winter came or flowery spring  
+or fruitful summer. Everything they did betrayed their total lack of understanding,  
+until I taught them all about the stars 
+and pointed out the way they rise and set,  
+which is not something easy to discern.  
+
+Then I invented arithmetic for them,  
+the most ingenious acquired skill,                                                                   
+and joining letters to write down words,  
+so they could store all things in Memory,  
+the working mother of the Muses’ arts. [^note-218]  
+I was the first to set wild animals beneath the yoke, and I made them submit  
+to collars and to packs, so mortal men  
+would find relief from bearing heavy loads.  
+I took horses trained to obey the reins  
+and harnessed them to chariots, a sign  
+of luxurious wealth and opulence.  
+And I was the one who designed their ships,  
+those mariners’ vessels which sail on wings  
+across the open sea.  
+
+ Yes, those are the things  
+which I produced for mortal men, and yet,      
+as I now suffer here, I cannot find  
+a way to free myself from this distress.  
+
+CHORUS  
+You have had to bear appalling pain.  
+You lost your wits and now are at a loss.  
+Like some bad doctor who has fallen ill,  
+you are now desperate and cannot find  
+the medicine to cure your own disease.  
+
+PROMETHEUS  
+Just listen to what else I have to say,  
+and you will be astonished even more  
+by the ideas and skills I came up with. The greatest one was this: if anyone  
+was sick, they had no remedies at all,  
+no healing potions, food, or liniments.                                                           
+Without such things, they simply withered up.  
+But then I showed them how to mix mild cures,  
+which they now use to fight off all disease.  
+I set up many forms of prophecy  
+and was the first to organize their dreams,  
+to say which ones were fated to come true.  
+I taught them about omens—vocal sounds hard to understand, as well as random signs  
+encountered on the road. The flights of birds  
+with crooked talons I classified for them—  
+both those which by their nature are auspicious  
+and those whose prophecies are ominous—                                                  
+observing each bird’s different way of life,  
+its enemies, its friends, and its companions,  
+as well as the smooth texture of its entrails,  
+what colour the gall bladder ought to have  
+to please the gods, and the best symmetry for speckled lobes on livers. [^note-219] I roasted  
+thigh bones wrapped in fat and massive cuts of meat  
+and showed those mortal beings the right way  
+to read the omens which are hard to trace.  
+I opened up their eyes to fiery symbols  
+which previously they could not understand.  
+Yes, I did all that. And then I helped them                                                     
+with what lay hidden in the earth—copper,  
+iron, silver, gold. Who could ever claim  
+he had discovered these before I did? No one. I am quite confident of that,  
+unless he wished to waste his time in chat.  
+To sum up everything in one brief word,  
+know this—all the artistic skills men have  
+come from Prometheus.  
+
+CHORUS  
+ But you should not 
+be giving help like that to human beings  
+beyond the proper limits, ignoring  
+your own troubles, for I have every hope                                                        
+you will be liberated from these chains  
+and be as powerful as Zeus himself.                                                       
+PROMETHEUS  
+It is not destined that almighty Fate  
+will ever end these matters in that way.  
+I will lose these chains, but only after  
+I have been left twisting here in agony,  
+bowed down by countless pains. Artistic skill  
+has far less strength than sheer Necessity.  
+
+CHORUS  
+Then who is the one who steers Necessity?  
+
+PROMETHEUS  
+The three-formed Fates and unforgetting Furies. [^note-220]
+
+CHORUS  
+Are they more powerful than Zeus?  
+
+PROMETHEUS  
+ Well, Zeus  
+will not at any rate escape his destiny.                                                  
+CHORUS  
+But what has destiny foretold for Zeus,  
+except to rule eternally?  
+
+PROMETHEUS  
+ That point  
+you must not know quite yet. Do not pursue it.                                            
+
+CHORUS  
+It is some holy secret you conceal.  
+
+PROMETHEUS  
+Think of something else. It is not yet time  
+to talk of this. The matter must remain  
+completely hidden, for if I can keep  
+the secret safe, then I shall be released  
+from torment and lose these shameful fetters.  
+
+CHORUS  
+May Zeus, who governs everything, never direct his power at me  
+and fight against my purposes.  
+And may I never ease my efforts                                                                      
+to approach the gods with offerings  
+of oxen slain in sacrifice  
+beside my father’s restless stream,  
+the ceaseless flow of Oceanus.  
+May I not speak a profane word.  
+Instead let this resolve remain  
+and never melt away from me.                                                                
+It is sweet to spend a lengthy life  
+with hope about what lies in store,  
+feeding one’s heart with happy thoughts.  
+But when I look at you, Prometheus,  
+tormented by these countless pains,  
+I shiver in fear—with your self-will                                                                 
+you show no reverence for Zeus  
+and honour mortal beings too much.  
+
+Come, my friend, those gifts you gave—  
+what gifts did you get in return? Tell me how they could offer help?  
+What can such creatures of a day provide?  
+Do you not see how weak they are,  
+the impotent and dream-like state,  
+in which the sightless human race 
+is bound, with chains around their feet?                                                         
+Whatever mortal beings decide to do,  
+they cannot overstep what Zeus has planned.  
+
+I learned these things, Prometheus,  
+by watching your destructive fate. The song which now steals over me  
+is different from that nuptial chant  
+I sang around your couch and bath  
+to celebrate your wedding day,  
+when with your dowry gifts you won  
+Hesione, my sister, as your wife,                                                                     
+and led her to your bridal bed.  
+
+[Enter IO] [^note-221]
+
+IO  
+What land is this? What race of living beings?  
+Who shall I say I see here bound in chains,  
+exposed and suffering on these cold rocks? What crime has led to such a punishment  
+and your destruction? Tell me where I am.  
+Where has my wretched wandering brought me?  
+To what part of the world?  
+
+[Io is suddenly in great pain]
+
+ Aaaaiiii! The pain!!!  
+That gadfly stings me once again, the ghost  
+of earth-born Argus! Get him away from me,  
+O Earth, that herdsman with a thousand eyes—  
+the very sight of him fills me with terror!  
+Those crafty eyes of his keep following me.  
+Though dead, he is not hidden underground,      
+but moves out from the shades beneath the earth  
+and hunts me down and, in my wretched state,  
+drives me to wander without nourishment  
+along the sandy shore beside the sea.  
+A pipe made out of reeds and wax sings out  
+a clear relaxing strain. [^note-222] Alas for me!  
+Where is this path of roaming far and wide  
+now leading me? What did I ever do,  
+O son of Cronos, how did I go wrong,  
+that you should yoke me to such agonies . . .       
+
+[Io reacts to another attack]
+
+Aaaaiii!! . . . and by oppressing me like this,  
+setting a fearful stinging fly to chase  
+a helpless girl, drive me to this madness?  
+Burn me with fire, or bury me in earth,  
+or feed me to the monsters of the sea.  
+Do not refuse these prayers of mine, my lord!  
+I have had my fill of all this wandering,  
+this roaming far and wide—and all this pain!  
+I do not know how to escape the pain!  
+Do you not hear the ox-horned maiden call?                                       
+PROMETHEUS  
+How could I not hear that young girl’s voice,  
+the child of Inachus, in a frantic state  
+from the gadfly’s sting? She fires Zeus’ heart                                                 
+with sexual lust, and now, worn down  
+by Hera’s hate, is forced to roam around  
+on paths that never end.  
+
+IO  
+ Why do you shout  
+my father’s name? Tell this unhappy girl  
+just who you are, you wretched sufferer,  
+and how, in my distress, you call to me,  
+knowing who I am and naming my disease, the heaven-sent sickness which consumes me  
+as it whips my skin with maddening stings . . .  
+
+[Io is attacked again by the gadfly. She moves spasmodically as she wrestles with the pain]
+
+. . . Aaaiii! . . . I have come rushing here, wracked  
+with driving pangs of hunger, overwhelmed                                                  
+by Hera’s plans for her revenge. Of those  
+who are in misery . . . Aaaiiii! . . . which ones  
+go through the sufferings I face? Give me  
+some clear sign how much more agony  
+I have to bear! Is there no remedy?  
+Tell me the medicines for this disease, if you know any. Say something to me!  
+Speak to a wretched wandering young girl!  
+
+PROMETHEUS  
+I will clarify for you all those things  
+you wish to know—not by weaving riddles,                                                  
+but by using simple speech. For with friends  
+our mouths should tell the truth quite openly. 
+You are looking at the one who offered men  
+the gift of fire. I am Prometheus.  
+
+IO  
+O you who have shown to mortal beings  
+so many benefits they all can share, poor suffering Prometheus! What act  
+has led you to be punished in this way?  
+
+PROMETHEUS  
+I have just finished mourning my own pain.  
+
+IO  
+Will you not grant this favour to me, then?  
+
+PROMETHEUS  
+Ask what you wish to know. For you will learn  
+the details of it all from me.  
+
+IO  
+ Tell me 
+who chained you here against this rocky cleft.  
+
+PROMETHEUS  
+The will of Zeus and Hephaestus’ hands.  
+
+IO  
+For what offence are you being punished?                                                     
+
+PROMETHEUS  
+I have said enough. I will not tell you any more than that.  
+
+IO  
+ But I need more.  
+At least inform me when my wandering ends.  
+How long will I be in this wretched state?  
+
+PROMETHEUS  
+For you it would be better not to know  
+than to have me answer.  
+
+IO  
+ I’m begging you—  
+do not conceal from me what I must bear.  
+
+PROMETHEUS  
+It is not that I begrudge that gift to you.  
+
+IO  
+Then why do you appear so hesitant 
+to tell me everything?  
+
+PROMETHEUS  
+ I am not unwilling,  
+but I do not wish to break your spirit.                                                   
+IO  
+Do not be more concerned for how I feel  
+than I wish you to be.  
+
+PROMETHEUS  
+ Since you insist,                                                         
+I am obliged to speak. So listen to me.  
+
+CHORUS  
+No, not yet. Give us a share in this, as well,  
+so we may be content with what you say.  
+We should first learn how she became diseased.  
+So let the girl herself explain to us  
+the things that led to her destructive fate.  
+Then you can teach her what still lies in store.  
+
+PROMETHEUS  
+Well then, Io, it is now up to you to grace them with this favour—above all,  
+because they are your father’s sisters. [^note-223]
+And whenever one is likely to draw tears  
+from those who listen, it is well worthwhile  
+to weep aloud, lamenting one’s own fate.  
+
+IO  
+I do not know how I could now refuse you.                                                    
+From the plain tale I tell you will find out  
+all things you wish to know, although to talk  
+about the brutal storm sent by the gods,  
+the cruel transformation of my shape, and where the trouble came from, as it swept  
+down on a miserable wretch like me—  
+that makes me feel ashamed.  
+
+ During the night  
+visions were always strolling through my rooms  
+calling me with smooth, seductive words:  
+
+“You are a very fortunate young girl,  
+so why remain a virgin all this time,  
+when you could have the finest match of all?  
+For Zeus, smitten by the shaft of passion,  
+now burns for you and wishes to make love.      
+My child, do not reject the bed of Zeus,  
+but go to Lerna’s fertile meadowlands,  
+to your father’s flocks and stalls of oxen,  
+so Zeus’ eyes can ease his fierce desire.”  
+
+Visions like that upset me every night,  
+till I got brave enough to tell my father  
+about what I was seeing in my dreams.  
+He sent many messengers to Delphi  
+and Dodona, to see if he could learn  
+what he might do or say to please the gods.       
+But his men all came back bringing reports  
+of cryptic and confusing oracles,  
+with wording difficult to comprehend.  
+Inachus at last received a clear response,  
+a simple order which he must obey—  
+to drive me from my home and native land,  
+to turn me out and force me into exile,  
+roaming the remotest regions of the earth—  
+and if he was unwilling, Zeus would send  
+a flaming thunderbolt which would destroy his entire race, not leaving one alive.  
+So he obeyed Apollo’s oracles  
+by forcing me away against my will                                                                 
+and denying me entry to his home.  
+He did not want to do it but was forced  
+by the controlling majesty of Zeus.  
+Immediately my mind and shape were changed.  
+My head acquired these horns, as you can see,  
+and a vicious fly began tormenting me  
+with such ferocious stings I ran away, madly bounding off to the flowing stream  
+of sweet Cherchneia and then to Lerna’s springs.  
+But the herdsman Argus, a child of Earth,  
+whose rage is violent, came after me,  
+with all those close-packed eyes of his, searching  
+for my tracks. But an unexpected fate                                                             
+which no one could foresee robbed him of his life. 
+And now, tormented by this stinging gadfly,  
+a scourge from god, I am being driven  
+from place to place.  
+
+ So now you understand the story of what I have had to suffer.  
+If you can talk about my future troubles,  
+then let me know. But do not pity me  
+and speak false words of reassurance,  
+for, in my view, to use deceitful speech  
+is the most shameful sickness of them all.  
+
+CHORUS  
+Alas, alas! Tell me no more! Alas!  
+I never, never thought my ears  
+would hear a story strange as this  
+or suffering so hard to contemplate      
+and terrible to bear, the outrage  
+and the horror of that two-edged goad  
+would pierce me to my soul. Alas!  
+O Fate, Fate, how I shake with fear  
+to see what has been done to Io.  
+
+PROMETHEUS  
+These cries and fears of yours are premature.  
+Wait until you learn what lies in store for her.  
+
+CHORUS  
+Then speak, and tell us everything. The sick  
+find solace when they clearly understand  
+the pain they have to face before it comes.                                           
+PROMETHEUS  
+What you desired to learn about before                                                         
+you now have readily obtained from me,  
+for you were eager first of all to hear  
+Io herself tell you what she suffered.  
+Now listen to what she has yet to face,  
+the ordeals this girl must still experience  
+at Hera’s hands. You, too, child of Inachus,  
+set what I have to say inside your heart,  
+so you will find out how your roaming ends.  
+
+First, turn from here towards the rising sun, then move across those lands as yet unploughed,  
+and you will reach the Scythian nomads,  
+who live in wicker dwellings which they raise                                               
+on strong-wheeled wagons. These men possess  
+far-shooting bows, so stay away from them.  
+Keep moving on along the rocky shoreline  
+beside the roaring sea, and pass their lands.  
+The Chalybes, men who work with iron,  
+live to your left. [^note-224] You must beware of them,  
+for they are wild and are not kind to strangers. Then you will reach the river Hubristes, 
+correctly named for its great turbulence.  
+Do not cross it, for that is dangerous,  
+until you reach the Caucasus itself,  
+the very highest of the mountains there,                                                        
+where the power of that flowing river 
+comes gushing from the slopes. Then cross those peaks,  
+which stretch up to the stars, and take the path  
+going south, until you reach the Amazons,  
+a tribe which hates all men. In days to come, they will found settlements in Themiscyra,  
+beside the Thermodon, where the jagged rocks  
+of Salmydessus face the sea and offer  
+sailors and their ships a savage welcome.  
+They will be pleased to guide you on your way.  
+Next, you will reach the Cimmerian isthmus,  
+beside the narrow entrance to a lake.  
+You must be resolute and leave this place                                                     
+and at Maeotis move across the stream,  
+a trip that will win you eternal fame among all mortal men, for they will name  
+that place the Bosporus in praise of you. [^note-225] 
+Once you leave behind the plains of Europe  
+you will arrive in Asian lands.  
+
+ And now,  
+does it not strike you that this tyrant god  
+is violent in everything he does?  
+Because this maiden was a mortal being  
+and he was eager to have sex with her,  
+he threw her out to wander the whole world.  
+Young girl, the one you found to seek your hand is vicious. As for the story you just heard,  
+you should know this—I am not even past                                                    
+the opening prelude.  
+
+IO  
+ O no, no, no! Alas!  
+
+PROMETHEUS  
+Are you crying and moaning once again?  
+How will you act once you have learned from me  
+the agonies that still remain?  
+
+CHORUS  
+ You mean  
+you have still more to say about her woes?  
+
+PROMETHEUS  
+I do—a wintry sea of dreadful pain.  
+
+IO  
+What point is there for me in living then? 
+Why do I not hurl myself this instant from these rough rocks, fall to the plain below,  
+and put an end to all my misery?  
+I would prefer to die once and for all,                                                             
+than suffer such afflictions every day.  
+
+PROMETHEUS  
+Then you would find it difficult to face  
+the torments I endure, for I am one  
+who cannot die, and death would offer me  
+relief from pain. But now no end is set  
+to tortures I must bear, until the day  
+when Zeus is toppled from his tyrant’s throne.                                    
+IO  
+What’s that? Will Zeus’ power be overthrown?  
+
+PROMETHEUS  
+It seems to me that if that came about  
+you would be pleased.  
+
+IO  
+ Why not? Because of him  
+I suffer horribly.  
+
+PROMETHEUS  
+ Then rest assured—                                           
+these things are true.  
+
+IO  
+ But who will strip away  
+his tyrant’s sceptre?  
+
+PROMETHEUS  
+ He will do that himself  
+with all those brainless purposes of his.  
+
+IO  
+But how? If it will do no harm, tell me.  
+
+PROMETHEUS  
+He will get married—a match he will regret.  
+
+IO  
+To someone mortal or divine? Tell me— if that is something you may talk about.  
+
+PROMETHEUS  
+Why ask me that? I cannot speak of it.  
+
+IO  
+His wife will force him from his throne?  
+
+PROMETHEUS  
+ She will.  
+For she will bear a child whose power  
+is greater than his father’s.  
+
+IO  
+ Is there some way  
+Zeus can avert this fate?  
+
+PROMETHEUS  
+ No, none at all—                                          
+except through me, once I lose these chains.  
+
+IO  
+Who will free you if Zeus does not consent?  
+
+PROMETHEUS  
+One of your grandchildren. So Fate decrees.  
+
+IO  
+What are you saying? Will a child of mine bring your afflictions to an end?  
+
+PROMETHEUS  
+ He will—  
+when thirteen generations have gone by.  
+
+IO  
+I find it difficult to understand  
+what you foresee.  
+
+PROMETHEUS  
+ You should not seek to know  
+the details of the pain you still must bear.  
+
+IO  
+Do not say you will do me a favour  
+and then withdraw it.  
+
+PROMETHEUS  
+ I will offer you  
+two possibilities, and you may choose.  
+
+IO  
+What are they? Tell me what the choices are.  
+Then let me pick which one.  
+
+PROMETHEUS  
+ All right, I will. Choose whether I should clarify for you                                                         
+the ordeals you still must face in days to come,  
+or else reveal the one who will release me.  
+
+CHORUS  
+Do her a favour by disclosing one  
+and me by telling us about the other.  
+Do not refuse to tell us all the story.  
+Describe her future wanderings to her,  
+and speak to me of who will set you free.  
+I long to hear that.  
+
+PROMETHEUS  
+ Well, since you insist,  
+I will not refuse to tell you everything you wish to know. First, Io, I will speak  
+about the grievous wandering you face.  
+Inscribe this on the tablets of your mind,                                                       
+deep in your memory.  
+
+ Once you have crossed  
+the stream that separates two continents,  
+[select the route that] leads towards the east,  
+the flaming pathway of the rising son,  
+[and you will come, at first, to northern lands  
+where cold winds blow, and here you must beware  
+of gusting storms, in case a winter blast surprises you and snatches you away.] [^note-226]
+Then cross the roaring sea until you reach  
+the Gorgons’ plains of Cisthene, the home  
+of Phorcys’ daughters, three ancient women  
+shaped like swans, who possess a single eye  
+and just one tooth to share among themselves.  
+Rays from the sun do not look down on them,  
+nor does the moon at night. Beside them live  
+their sisters, three snake-haired, winged Gorgons,  
+whom human beings despise. No mortal man can gaze at them and still continue breathing. [^note-227]  
+I tell you this to warn you to take care.  
+Now hear about another fearful sight.  
+Keep watching out for gryphons, hounds of Zeus,  
+who have sharp beaks and never bark out loud,  
+and for that one-eyed Arimaspian horde  
+on horseback, who live beside the flow  
+of Pluto’s gold-rich stream. [^note-228] Do not go near them.  
+And later you will reach a distant land  
+of people with dark skins who live beside the fountains of the sun, where you will find  
+the river Aethiop. [^note-229] Follow its banks,                                                              
+until you move down to the cataract  
+where from the Bybline mountains the sweet Nile  
+sends out his sacred flow. He will guide you  
+on your journey to the three-cornered land  
+of Nilotis, where destiny proclaims  
+you, Io, and your children will set up  
+a distant settlement.  
+
+ If any of this  
+remains obscure and hard to understand, question me again, and I will tell you.  
+For I have more leisure time than I desire.  
+
+CHORUS  
+If you have left out any incidents  
+or can say more about what lies ahead                                                           
+in Io’s cruel journeying, go on.  
+But if that story has now reached an end,  
+then favour us, in turn, with what we asked,  
+if you by chance remember our request.  
+
+PROMETHEUS  
+Io has now heard about her travels,  
+a full account up to the very end. But so she learns that what she heard from me  
+was no mere empty tale, I will go through  
+the troubles she endured before she came here,  
+and thus provide a certain guarantee  
+of what I have just said. I will omit  
+most of the details and describe for you  
+the final stages of your journey here.  
+
+Once you came to the Molossian plains  
+and the steep mountain ridge beside Dodona,                                              
+the home of the prophetic oracle of Thesprotian Zeus, that miracle  
+which defies belief, the talking oak trees,  
+clearly and quite unambiguously  
+saluted you as one who would become  
+a celebrated bride of Zeus. [^note-230] Is this  
+a memory that gives you some delight?  
+From there, chased by the gadfly’s sting, you rushed  
+along the path beside the sea and reached  
+the mighty gulf of Rhea and from there  
+were driven back by storms. And you should know an inner region of that sea will now,  
+in days to come, be called Ionian,                                                                    
+a name to make all mortal men recall  
+how Io moved across it. [^note-231]
+
+ These details  
+are tokens of how much I understand—  
+they show how my intelligence can see  
+more things than what has been revealed.  
+
+ The rest  
+I will describe for you and her to share,  
+pursuing the same track I traced before.  
+On the very edges of the mainland, where at its mouth the Nile deposits soil,  
+there is a city—Canopus. There Zeus  
+will finally restore you to your senses  
+by merely stroking and caressing you  
+with his non-threatening hand. After that,  
+you will give birth to dark-skinned Epaphus,  
+named from the way he was conceived by Zeus,                                           
+and he will harvest all the fruit that grows  
+in regions watered by the flowing Nile. [^note-232]
+Five generations after Epaphus, fifty young girls will return to Argos,  
+not of their own free will, but to escape  
+a marriage with their cousins, while the men,  
+with passionate hearts, race after them,  
+like hawks in close pursuit of doves, seeking  
+marriages they should not rightfully pursue. [^note-233]
+But the gods will not allow them to enjoy  
+the young girls’ bodies. They will be buried  
+in Pelasgian earth, for their new brides                                                          
+keeping watch at night, will overpower and kill them all, in a daring murder,  
+and each young bride will take her husband’s life,  
+bathing a two-edged sword in her man’s blood.  
+I hope my enemies find love like that!  
+But passion will bewitch one of those wives  
+to spare her husband’s life, and her resolve  
+will fade. She will prefer to hear herself  
+proclaimed a coward than the alternative,  
+a murderess. And she will then give birth  
+in Argos to a royal line.  
+
+ To describe all these events in detail would require                                                          
+a lengthy story. However, from her seed  
+a bold man will be born, who will become  
+a famous archer, and he is the one  
+who will deliver me from these afflictions.  
+My primeval Titan mother, Themis, 
+revealed this prophecy to me in full,  
+but to describe how and when it happens  
+would take up too much time. And learning that  
+would bring no benefit to you at all.                                                      
+IO  
+Alas, alas for me! These spasms of pain,  
+these agonizing fits which drive me mad  
+are turning me to fire. That gadfly’s string—  
+not forged in any flame—is piercing me.                                                        
+My fearful heart is beating in my chest,  
+my eyes are rolling in a frantic whirl,  
+and raging blasts of sheer insanity  
+are sweeping me away. This tongue of mine  
+is now beyond control—delirious words  
+beat aimlessly against the surging flood of my abhorred destruction.  
+
+[Exit IO]
+
+CHORUS  
+That wise man was truly wise who first  
+devised that saying in his mind and then  
+whose tongue expressed the words aloud—  
+the finest marriages by far are those                                                               
+when both the parties have an equal rank.  
+The poor should never yearn to match themselves  
+with those whose wealth has made them indolent  
+or those who always praise their noble birth.  
+
+O you Fates, may you never, never see me going as Zeus’ partner to his bed,  
+and may I never be the wedded bride  
+of anyone from heaven. I shake with fear                                              
+to look on this unmarried girl, young Io,  
+so devastated by the cruel journey,  
+her punishment from goddess Hera.                                                               
+
+For me, when a married couple stands  
+on equal footing, there is no cause to fear  
+and I am not afraid. So may the love  
+of mightier gods never cast on me that glance which no one can withstand.  
+That is a battle where there is no fight,  
+where what cannot be done is possible.  
+I do not know what would become of me,  
+for I can see no way I could escape  
+the skilled resourcefulness of Zeus.  
+
+PROMETHEUS  
+And yet Zeus, for all his obdurate heart,  
+will be brought down, when he prepares a match  
+which will remove him from his tyrant’s throne                                           
+and hurl him into deep obscurity. And then the curse his father, Cronos, spoke,  
+the one he uttered when he was deposed  
+and lost his ancient throne, will all come true.  
+None of the gods can clearly offer him  
+a certain way to stave off this defeat, 
+except for me. I know what is involved  
+and how to save him. So for the moment  
+let him sit full of confidence, trusting  
+the rumbling he can make high in the sky  
+and waving in his hands that lightning bolt which breathes out fire. None of these will help.  
+They will not stop him falling in disgrace,  
+a setback he cannot withstand. For now  
+he is himself preparing the very one                                                               
+who will oppose him, someone marvellous  
+and irresistible, who will produce  
+a fiercer fire than Zeus’ lightning flash,  
+and a roar to drown out Zeus’ thunder.  
+Poseidon’s trident he will split apart,  
+the spear which whips the sea and shakes the earth. [^note-234]  
+And when Zeus stumbles on this evil fate,  
+he will find out how great the difference is  
+between a sovereign king and abject slave.  
+
+CHORUS  
+You keep maligning Zeus because these things  
+fit in with your desires.  
+
+PROMETHEUS  
+ They may be what I want,  
+ but they will come to pass.  
+
+CHORUS  
+ So must we then  
+expect someone to lord it over Zeus?                                                              
+
+PROMETHEUS  
+Yes. His neck will be weighed down with chains  
+more onerous than mine.  
+
+CHORUS  
+ Why are you not afraid  
+to shout out taunts like this?  
+
+PROMETHEUS  
+ Why should I fear when I am destined not to die?  
+
+CHORUS  
+ But Zeus  
+could load you with afflictions worse than these.  
+
+PROMETHEUS  
+Then let him do it. I am quite prepared  
+for anything he may inflict.  
+
+CHORUS  
+ But it is wise  
+to pay due homage to Necessity.  
+
+PROMETHEUS  
+Well then, pay homage. Bow your heads in awe.  
+Flatter the one who has the power to rule,  
+at least for now. But as for me, I think  
+of Zeus as less than nothing. Let him act  
+however he wants and reign for a brief while. He will not rule the gods for very long.                                                          
+But wait! I see the messenger of Zeus,  
+a servant of our brand new tyrant lord.  
+No doubt he has come here to give us news.  
+
+[Enter Hermes]
+
+HERMES  
+You devious, hot-tempered schemer, who sinned  
+against the gods by giving their honours  
+to creatures of a day, you thief of fire,  
+I am here to speak to you. Father Zeus  
+is ordering you to make known this marriage  
+you keep boasting of and to provide the name of who will bring on Zeus’ fall from power.  
+Do not speak in enigmatic riddles,  
+but set down clearly each and every fact.                                                       
+And do not make me come a second time,  
+Prometheus. What you are doing here,  
+as you well know, will not make Zeus relent.  
+
+PROMETHEUS  
+You speech is crammed with pride and arrogance,  
+quite fitting for a servant of the gods.  
+You all are young—so is your ruling power—  
+and you believe the fortress where you live lies far beyond all grief. But I have seen 
+two tyrant rulers cast out from that place,  
+and I will see a third, the present king,  
+abruptly tossed from there in great disgrace. [^note-235]
+Do you think I am afraid and cower down                                                      
+before you upstart gods? The way I feel  
+is far removed from any sense of fear.  
+So you should hurry back the way you came,  
+for you will not learn anything at all  
+in answer to what you demand of me.                                                   
+HERMES  
+But earlier with this wilfulness of yours 
+you brought these torments on yourself.  
+
+PROMETHEUS  
+ Know this—  
+I would not trade these harsh conditions of mine  
+for the life you lead as Zeus’ slave.  
+
+HERMES  
+ I suppose  
+you find it preferable to serve this rock  
+than be a trusted messenger of Father Zeus.  
+
+PROMETHEUS  
+Insolence like yours deserves such insults.                                                    
+
+HERMES  
+It sounds as if you find your present state  
+a source of pleasure.  
+
+ PROMETHEUS  
+ Of pleasure? How I wish  
+I could see my foes enjoying themselves the way I do. And I count you among them.  
+
+HERMES  
+You think I am to blame for your misfortune?  
+
+PROMETHEUS  
+To put it bluntly—I hate all the gods  
+who received my help and then abused me,  
+perverting justice.  
+
+HERMES  
+ From the words you speak  
+I see your madness is no mild disease.  
+
+PROMETHEUS  
+I may well be insane, if madness means  
+one hates one’s enemies.  
+
+HERMES  
+ If you were well,  
+you would be unendurable.  
+
+PROMETHEUS  
+Alas for me!  
+
+HERMES  
+ Alas? That word is one      
+Zeus does not recognize.  
+
+PROMETHEUS  
+ But time grows old  
+and teaches everything.  
+
+HERMES  
+ That well may be, 
+and yet you have not learned to demonstrate  
+a sense of self-control in how you think.  
+
+PROMETHEUS  
+If I had that, I would not talk to you—  
+to such a subservient slave.  
+
+HERMES  
+ So then  
+it seems, as far as what my father wants,  
+you will say nothing.  
+
+PROMETHEUS  
+ Well, obviously  
+I owe him and should repay the favour.  
+
+HERMES  
+You taunt me now, as if I were a child.                                                  
+PROMETHEUS  
+Well, are you not a child, or even stupider,  
+to think you will learn anything from me?  
+There is no torture, no form of punishment,  
+that Zeus can use to force my mouth to speak                                              
+before these vicious chains are taken off.  
+So let him throw his fiery lightning bolt,  
+and with his white-winged snow and thunderclaps  
+and earthquakes underground shake everything,  
+and hurl the world into complete disorder—  
+for none of that will force me to submit or even name the one who Fate decrees  
+will cast him from his sovereignty.  
+
+HERMES  
+ But now  
+you should consider if this stance of yours  
+will help your cause.  
+
+PROMETHEUS  
+ What I am doing now  
+has been foretold, determined long ago.  
+
+HERMES  
+You self-willed fool, for once you should submit,  
+given the present torments facing you.                                                           
+Let your mind be ruled by what is right.  
+
+PROMETHEUS  
+It is pointless to pester me this way—  
+as if you were advising ocean waves. For you should never entertain the thought  
+that I will be afraid of Zeus’ schemes,  
+turn into a woman, and raise my hands,  
+the way that supplicating females do, 
+and beg an enemy I hate so much  
+to free me from these chains. To act like that  
+is far beneath me.  
+
+HERMES  
+ Well, it seems to me  
+if I keep talking to you at great length  
+my words will all be wasted—my appeals  
+do not improve your mood or calm you down. Like a young colt newly yoked, you bite the bit  
+and use your strength to fight against the reins.                                           
+But the vehement resistance you display  
+rests on a feeble scheme, for on its own  
+mere stubbornness in those with foolish minds  
+is less than useless. If these words of mine  
+do not convince you, think about the storm,  
+the triple wave of torment which will fall  
+and you cannot escape. First, Father Zeus  
+will rip this mountain crag with thunder claps and bolts of flaming lightning, burying  
+your body in the rock, and yet this cleft  
+will hold you in its arms. When you have spent                                            
+a long time underground, you will return  
+into the light, and Zeus’ winged hound,  
+his ravenous eagle, will cruelly rip  
+your mutilated body into shreds   
+and, like an uninvited banqueter,  
+will feast upon your liver all day long,  
+until its chewing turns the organ black. Do not expect your suffering to end  
+until some god appears who will take on  
+your troubles and be willing to descend  
+to sunless Hades and the deep black pit                                                        
+of Tartarus. And so you should think hard.  
+What I have said is no fictitious boast,  
+but plain and simple truth. For Zeus’ mouth  
+does not know how to utter something false.  
+No. Everything he says will be fulfilled.  
+Look around you and reflect. And never think self-will is preferable to prudent thought.  
+
+CHORUS  
+To us it seems that what Hermes has said  
+is not unreasonable. His orders  
+tell you to set aside your stubbornness  
+and seek out wise advice. Do what he says.  
+It is dishonourable for someone wise  
+to persevere in doing something wrong.  
+
+PROMETHEUS  
+Well, I already know about the news                                                              
+this fellow has announced with so much fuss.  
+There is no shame in painful suffering inflicted by one enemy on another.  
+So let him hurl his twin-forked lightning bolts 
+down on my head, convulse the air with thunder  
+and frantic gusts of howling wind, and shake  
+the earth with hurricanes until they shift  
+the very roots of its foundations. Let him  
+make the wildly surging sea waves mingle  
+with the pathways of the heavenly stars,                                                        
+then lift my body up and fling it down  
+to pitch black Tartarus, into the whirl of harsh Necessity. Let him do all that—  
+he cannot make me die.  
+
+HERMES [to the Chorus]
+ Ideas like these,  
+expressed the way he does, are what we hear  
+from those who are quite mad. This prayer of his—  
+how is that not delusion? When does it stop,  
+this senseless raving? Well, in any case,  
+you who sympathize with his afflictions  
+should move off with all speed to somewhere else,                                     
+in case the roaring force of Zeus’ thunder  
+affects your minds and drives you all insane.                                       
+CHORUS  
+You will have give me different advice  
+and try to urge me in some other way  
+in order to convince me. For I believe  
+your stream of words is unendurable.  
+How can you order me to act so badly?  
+I wish to share with him whatever pain  
+Fate has in store, for I have learned to hate  
+those who betray—of all the sicknesses  
+that is most despicable to me.                                                                         
+
+HERMES  
+As you wish—but remember what I said. Do not blame your luck when you are trapped  
+in Ruin’s nets, and never claim that Zeus  
+flung you into torments without warning.  
+No—you can blame yourselves. For now you know  
+by your own folly you will be caught up 
+in Ruin’s web, not by a secret ruse  
+or unexpectedly. And from that net  
+there will be no escape.  
+
+ [Exit Hermes]
+
+PROMETHEUS  
+And now things are already being transformed                                             
+from words to deeds—the earth is shuddering, the roaring thunder from beneath the sea  
+is rumbling past me, while bolts of lightning  
+flash their twisting fire, whirlwinds toss the dust,  
+and blasting winds rush out to launch a war  
+of howling storms, one against another.  
+The sky is now confounded with the sea.  
+This turmoil is quite clearly aimed at me  
+and comes from Zeus to make me feel afraid.  
+O sacred mother Earth and heavenly Sky,  
+who rolls around the light that all things share,  
+you see these unjust wrongs I must endure! [^note-236]  
+  
+  
+
+[^note-201]: All choral speeches and chants are assigned to the character named CHORUS. However, depending on the context, some of these will be spoken by the Chorus Leader, some by the full Chorus, and some by selected members of the Chorus. 
+
+[^note-202]: Since Hephaestus is god of the forge and the craftsman god (especially with metals), it is part of his work to make sure that the chains and rivets holding Prometheus to the rock are securely fixed. Hephaestus was a son of Zeus and one of the new Olympian gods, who supplanted the Titans. 
+
+[^note-203]: Themis, a Titan, was goddess of order, law, traditions, and divine justice. In other accounts, Prometheus is the son of Clymene. 
+
+[^note-204]: The common bond they share is not a particularly close family link. Prometheus was a Titan and Hephaestus was a son of Zeus. The words may perhaps refer to the fact that both Hephaestus and Prometheus were well known for their inventive minds and thus perhaps shared an appreciation for each other’s characters and talents. 
+
+[^note-205]: As a Titan, Prometheus is immortal. Hence, the metal piercing his chest will not kill him. 
+
+[^note-206]: The name Prometheus is a combination of two words which, when put together, mean forethought. 
+
+[^note-207]: This thought would seem to mean that Prometheus cannot help protesting what has happened to him because it is inherently unjust, while at the same time he cannot speak because there is no point in protesting against Necessity—he knows that his words will have no effect on what he is fated to suffer. 
+
+[^note-208]: The Chorus remains in the chariot until asked to alight by Prometheus at line 341 below. 
+
+[^note-209]: Oceanus and Tethys, who are brother and sister, are children of the original gods Gaia and Ouranos. They are both gods of the sea. 
+
+[^note-210]: The ‘plot’ mentioned here and later was the secret knowledge Prometheus had of the prophecy that the nymph Thetis would give birth to a son greater than his father. Zeus was ignorant of this secret and would put his rule in danger by pursuing a sexual liaison with Thetis. 
+
+[^note-211]: Since Cronos and the Titans were immortals, they could not be killed. Tartarus was the deepest pit in the Underworld. 
+
+[^note-212]: The Ocean, a river flowing around the world, has the same name as Oceanus, who lives in a cave in the sea. Scythia was famous for its rich iron deposits. 
+
+[^note-213]: These lines strongly suggest that Oceanus supported Prometheus in his desire to save mankind and that Prometheus was not acting entirely alone. 
+
+[^note-214]: Paley notes that Aeschylus has here combined two visions of Atlas, one which has him looking after the pillars which separate heaven and earth and one which has Atlas himself holding heaven apart from earth. In either case, Atlas was suffering punishment for fighting against Zeus. 
+
+[^note-215]: Aeschylus places Typhon here in Cilicia, a region of Asia Minor and, a few lines further on, under Mount Aetna in Sicily. The anger of this monster buried underground evidently led people to locate him in areas of high volcanic activity and frequent earthquakes. There was a major eruption of Aetna in 479 BC. 
+
+[^note-216]: The word designating Arabian lands has been challenged, since the region in question (near the Caucasus) is nowhere near Arabia, as the Greeks knew very well. 
+
+[^note-217]: Prometheus is presumably referring here to advice he gave Zeus about how to assign each god his or her appropriate privileges (since he never had sufficient power to organize the gods, as he is claiming here, all on his own), although he may also simply be overstating his own case. 
+
+[^note-218]: The nine Muses, the patron deities of the arts and sciences, were the daughters of Mnemosyne, goddess of memory. 
+
+[^note-219]: The prophetic significance of large birds of prey, especially eagles, depended upon where they appeared in the sky, the pattern of their flight, and the condition of their entrails. The appearance of the bird’s liver was important—a missing or deformed lobe was a very inauspicious omen. 
+
+[^note-220]: Traditionally there were three Fates (Clotho, Lachesis, and Atropos) and three Furies (Alecto, Tissiphone, and Megaera), although the number does vary. The Fates determined the length of one’s life in advance, and the Furies were the goddesses of revenge, especially blood revenge within the family. The relationship between the Olympian gods and Fate was often very ambiguous, as it is here, for Prometheus does not answer directly the Chorus’ question about who finally has the most power. 
+
+[^note-221]: Io was a nymph, daughter of the river god Inachus. Zeus had sexual designs on her, but had to transform her into a heifer, in order to conceal the girl from his wife, Hera. Hera was suspicious of the cow and made Zeus give it to her as a gift. She then set the monster Argus, who had hundreds of eyes, could see in all directions, and was always watchful, to act as a herdsman and guard Io. However, Hermes, acting on instructions from Zeus, killed Argus by lulling all the eyes to sleep at once. Hera punished Io by sending a stinging gadfly to torment the transformed girl, as she wandered around the world. At this point in her story Io has been transformed. It is not clear how she would have been presented on stage as a heifer, although line 828 below indicates that she has visible horns (unless her torment is all a hallucination). 
+
+[^note-222]: This rather odd detail may refer to the shepherd’s pipe with which Hermes lulled Argus to sleep, just before he killed him. It is not clear whether Io is hallucinating the sound or whether the ghost of Argus (which may or may not appear) is accompanied by music. 
+
+[^note-223]: Inachus, the father of Io, was a son of Oceanus, the father of the Chorus members. 
+
+[^note-224]: These directions indicate that Io is to wander eastward along the northern shore of the Euxine Sea (the Black Sea). 
+
+[^note-225]: The word Bosporus means the passing of the cow. The two major crossing points between Europe and Asia Minor were the Hellespont, at the western end of the river flowing out of the Black Sea (near Troy), and the Bosporus at the eastern end. Io will have moved back along the northern shore of the Black Sea and across the river, thus leaving Europe and entering Asia Minor. Aeschylus’ geography in these descriptions of Io’s route is not particularly reliable and in places appears confused. 
+
+[^note-226]: The stream separating the continents is the Bosporus. Prometheus resumes the narrative he ended at line 904 above. Some editors believe that part of the Greek is missing here. The passage between square bracket is a translation of Paley’s suggested interpolation, which, he notes, comes from a passage which Galen quotes, stating that it is part of Prometheus Bound. The geography of Io’s wandering is somewhat confused in this passage, but it seems to indicate that she will be going east, and then north and west. 
+
+[^note-227]: Phorcys was a god of the sea and the father of many monsters. The three daughters who shared a single eye were called the Graiae. The Gorgons were so terrible to look at they turned human beings to stone. Two of them were immortal, but the third, Medusa, was slain by Perseus, who used her severed head to kill his enemies. 
+
+[^note-228]: The gryphons were fabulous creatures with the bodies of lions and the heads and wings of eagles. The Arimaspians were a one-eyed race who lived far to the north in Scythia. 
+
+[^note-229]: Paley suggests as one possible route for Io’s journey a trip from Scythia in the north to Spain (known for its gold-bearing rivers), from there across the narrow strait in southern Spain to north Africa, and onto Egypt. His suggestion is, however, tentative, for Aeschylus’ geographical details are still very confusing. 
+
+[^note-230]: The rustling sounds made by the branches of the oak trees at Zeus’ oracle in Dodona were interpreted by priestesses as prophetic utterances. The Thesprotians were the group who first controlled the oracle. The details here place this stage of Io’s roaming in north-western Greece. 
+
+[^note-231]: The Ionian Sea is that part of the Mediterranean between the west coast of mainland Greece and southern Italy. These details suggest that after leaving Dodona and moving out into the Adriatic, Io turned back in her journey westward and was on her way back east when she met Prometheus. 
+
+[^note-232]: Epaphus come from the Greek word meaning touch. Zeus’ miraculous stroking of Io restored her mind and made her pregnant. 
+
+[^note-233]: The girls are the daughters of Danaus (the Danaïds), who were to marry the fifty sons of Aegyptus, the brother of Danaus and king of Egypt. The marriages were incestuous. Hence, the flight to Argos. Danaus, who had left with his daughters, agreed to the marriages only when the fifty sons threatened the citizens of Argos. 
+
+[^note-234]: Poseidon, brother of Zeus, was god of the sea. He was also responsible for earthquakes. [Back to text]
+
+[^note-235]: The two deposed gods are Ouranos, an original god, and his son Cronos, who overthrew his father and was, in turn, overthrown by his son Zeus. 
+
+[^note-236]: It is not clear whether there is some final stage direction. Some editors have suggested that Prometheus now sinks down into the earth, as Hermes has indicated earlier (line 1259 ff. above). It is equally unclear what happens to the Chorus, who have vowed to stay with Prometheus. 
+  
+
