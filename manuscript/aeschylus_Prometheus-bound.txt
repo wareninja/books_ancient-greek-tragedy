@@ -1,4 +1,4 @@
-# PROMETHEUS BOUND {#aeschylus_book-2}  
+# (AESCHYLUS) Prometheus Bound {#aeschylus_book-2}  
   
   
 C> *This edition is based on the [publicly available](http://records.viu.ca/~johnstoi/aeschylus/prometheusbound.htm) translation by Ian Johnston*  
