@@ -1,7 +1,7 @@
 all_overview.txt
-intro-trojan-war.txt
-intro-Agamemnon.txt
-intro-House-of-Atreus.txt
+all_intro-trojan-war.txt
+all_intro-Agamemnon.txt
+all_intro-House-of-Atreus.txt
 aeschylus_Oresteia-Agamemnon.txt
 aeschylus_Oresteia-Choephoroi.txt
 aeschylus_Oresteia-Eumenides.txt
