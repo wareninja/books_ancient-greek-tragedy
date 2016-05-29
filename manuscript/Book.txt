@@ -1,7 +1,7 @@
 all_overview.txt
-aeschylus_intro-trojan-war.txt
-aeschylus_intro-Agamemnon.txt
-aeschylus_intro-House-of-Atreus.txt
+intro-trojan-war.txt
+intro-Agamemnon.txt
+intro-House-of-Atreus.txt
 aeschylus_Oresteia-Agamemnon.txt
 aeschylus_Oresteia-Choephoroi.txt
 aeschylus_Oresteia-Eumenides.txt
@@ -18,7 +18,6 @@ sophocles_book-5_ Philoctetes.txt
 sophocles_book-6_Trachiniae.txt  
 euripides_intro-bachae.txt
 euripides_intro-medea.txt
-euripides_intro-house-of-atreus.txt
 euripides_Medea.txt
 euripides_Iphigenia-in-Aulis.txt
 euripides_Iphigenia-in-Tauris.txt
