@@ -1,4 +1,4 @@
-# Ion {#euripides_book-ion}  
+# (EURIPIDES) Ion {#euripides_book-ion}  
   
 C> *This edition is based on the [publicly available](https://bacchicstage.wordpress.com/euripides/ion/) translation by George Theodoridis*  
   

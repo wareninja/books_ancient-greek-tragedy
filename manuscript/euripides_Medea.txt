@@ -1,4 +1,4 @@
-# Medea {#euripides_book-medea}  
+# (EURIPIDES) Medea {#euripides_book-medea}  
   
 C> *This edition is based on the [publicly available](http://records.viu.ca/~Johnstoi/euripides/medea.htm) translation by Ian Johnston*  
   
